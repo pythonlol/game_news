@@ -1,6 +1,272 @@
 {
-  "updatedAt": "2026-07-27T15:35:21.099Z",
+  "updatedAt": "2026-07-28T03:58:44.993Z",
   "items": [
+    {
+      "title": "玩家当月老？《燕云十六声》官宣联动《新白娘子传奇》",
+      "link": "https://news.17173.com/content/07282026/102743614.shtml",
+      "date": "2026-07-28T10:27:43.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "腾讯少见的良心让利？WeGame零分成政策扶持《影之刃零》",
+      "link": "https://news.17173.com/content/07282026/101327263.shtml",
+      "date": "2026-07-28T10:13:27.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Xbox高管解释服务中断原因，承诺“会做得更好”",
+      "link": "https://news.17173.com/content/07282026/100704790.shtml",
+      "date": "2026-07-28T10:07:04.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《魔兽世界》TBC周年大更：双经典团本回归！S3上线",
+      "link": "https://news.17173.com/content/07282026/100231572.shtml",
+      "date": "2026-07-28T10:02:31.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《红色沙漠》创下今年上市Steam新作中的最高销售额",
+      "link": "https://news.17173.com/content/07282026/070958487.shtml",
+      "date": "2026-07-28T07:09:58.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "育碧为部分游戏的 Xbox 玩家赠送免费 PC 版",
+      "link": "https://news.17173.com/content/07282026/070721019.shtml",
+      "date": "2026-07-28T07:07:21.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox",
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "知名黑客组织警告索尼：放弃实体光盘等于剥夺玩家所有权！",
+      "link": "https://www.3dmgame.com/news/202607/3949319.html",
+      "date": "2026-07-28T03:58:43.527Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "宫本茂谈退休生活：很少独自玩Switch2 但会和孙子一起通关",
+      "link": "https://www.3dmgame.com/news/202607/3949345.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "3DM发行游戏《小闹花园》正式定档！9月22日Steam发售！",
+      "link": "https://www.3dmgame.com/news/202607/3949343.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "任天堂工作内幕曝光！前员工：依旧加班但升职不了",
+      "link": "https://www.3dmgame.com/news/202607/3949342.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "吊打《英雄联盟》！黑马躲猫猫2000万销量称霸2026",
+      "link": "https://www.3dmgame.com/news/202607/3949337.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "《GTA6》都能下！Xbox服务中断逆天bug导致没买游戏随便下",
+      "link": "https://www.3dmgame.com/news/202607/3949336.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《刺客信条：黑旗记忆重置》大卖！玩家集体请愿续作",
+      "link": "https://www.3dmgame.com/news/202607/3949334.html",
+      "date": "2026-07-28T03:58:43.249Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Xbox Executive Explains Outage, Vows to 'Do Better'",
+      "link": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better",
+      "date": "2026-07-28T01:05:05.000Z",
+      "summary": "Xbox's Chief Technology Officer, Scott Van Vliet, has offered transparency and an explanation for the system and service outage that affected game libraries, sign-in, and game launching for many playe",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《突击风暴：零点》将于本周四在Steam开启抢先体验",
+      "link": "https://www.gcores.com/articles/217636",
+      "date": "2026-07-28T01:02:00.000Z",
+      "summary": "由 NEXON 打造的第一人称射击游戏 《突击风暴：零点》将于7月30日在 Steam 开启抢先体验。据悉，《突击风暴：零点》提供了快速且充满动作感的战斗，让大家无需浪费时间，直接享受紧张刺激的游戏体验，充分感受战斗的激情。 通过大范围的武器定制系统，玩家们可以打造出最适合自己游戏风格的完美枪械。无论是后坐力、补弹‌速度还是外观，所有枪械配件都可以根据个人喜好进行自定义。通过武器定制，即便是同一武",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "腾讯控股 (00700)股票股价,实时行情,新闻,财报数据_新浪财经_新浪网",
+      "link": "https://stock.finance.sina.com.cn/hkstock/quotes/00700.html",
+      "date": "2026-07-27T22:55:00.000Z",
+      "summary": "港股年内回购总金额超千亿港元 腾讯、友邦、 (07-27) 当 AI 开始上班，腾讯二十年的积累又值钱了 (07-27) 港中文联手腾讯AI实验室揭秘：为什么你的AI老 (07-27) 近300家公司出手、千亿港元进场，腾讯友邦小 (07-27) QQ宠物回归，腾讯小企鹅“活”了 (07-27)",
+      "source": "必应资讯",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Ubisoft Gives Free PC Copies to Xbox Owners of Select Games",
+      "link": "https://www.ign.com/articles/ubisoft-gives-free-pc-copies-to-xbox-owners-of-select-games",
+      "date": "2026-07-27T22:04:02.000Z",
+      "summary": "Ubisoft is giving Xbox owners free access to some of their games on PC.",
+      "source": "IGN",
+      "companies": [
+        "xbox",
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Best Buy Has Excellent Condition Asus ROG Xbox Ally Handheld Gaming PCs for Less Than $500",
+      "link": "https://www.ign.com/articles/asus-rog-ally-deal-july-2026",
+      "date": "2026-07-27T21:50:00.000Z",
+      "summary": "As this point we'd recommend getting an ROG Xbox Ally over a Steam Deck.",
+      "source": "IGN",
+      "companies": [
+        "xbox",
+        "valve"
+      ]
+    },
+    {
+      "title": "13 Ubisoft games go free on PC if you own them on Xbox",
+      "link": "https://www.pcgamer.com/games/13-ubisoft-games-go-free-on-pc-if-you-own-them-on-xbox/",
+      "date": "2026-07-27T21:39:46.000Z",
+      "summary": "Assassin's Creed Valhalla, Far Cry 6, Skull and Bones, Rainbow Six Siege, and others are now part of Xbox's 'Console to PC' program.",
+      "source": "PC Gamer",
+      "companies": [
+        "xbox",
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "'Wtf is going on': Indie dev discovers their neglected Steam game is powering an Undertale multiplayer mod following its freak 1700% jump in player activity",
+      "link": "https://www.pcgamer.com/games/rpg/wtf-is-going-on-indie-dev-discovers-their-neglected-steam-game-is-powering-an-undertale-multiplayer-mod-after-noticing-its-freak-1700-percent-jump-in-player-activity/",
+      "date": "2026-07-27T21:36:05.000Z",
+      "summary": "Little-known platformer Crashphalt is enjoying an unexpected popularity—but its players are enjoying something else.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "Meccha Chameleon Players Are Getting Malware From User-Made Maps",
+      "link": "https://www.gamespot.com/articles/meccha-chameleon-players-are-getting-malware-from-user-made-maps/",
+      "date": "2026-07-27T20:12:10.000Z",
+      "summary": "Meccha Chameleon --a multiplayer prop-hunt game that's been blowing up on Steam lately--seems to have hit its first real road bump since it launched in early June. As pointed out by a player who goes ",
+      "source": "GameSpot",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "Save 40% Off the New 2026 Hisense U6 4K Fire TV With Hi-QLED Mini-LED Technology",
+      "link": "https://www.ign.com/articles/new-for-2026-hisense-u6-4k-fire-tv-deal",
+      "date": "2026-07-27T19:25:00.000Z",
+      "summary": "One of the best budget TVs of 2026 with premium features for 4K HDR movies and PS5 gaming.",
+      "source": "IGN",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Six Useful Tips to Survive and Thrive Above the Toxic Clouds in Forever Skies",
+      "link": "https://news.xbox.com/en-us/2026/07/27/six-useful-tips-to-survive-and-thrive-above-the-toxic-clouds-in-forever-skies/",
+      "date": "2026-07-27T18:00:00.000Z",
+      "summary": "What if Earth were no longer a place humanity could call home because of its own brazen actions? In Forever Skies, that’s the world you’ll step into. It’s a first-person sci-fi survival crafting game ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Blood Dungeon adds Switch 2 and Switch versions, launches August 25",
+      "link": "https://www.gematsu.com/2026/07/blood-dungeon-adds-switch-2-and-switch-versions-launches-august-25",
+      "date": "2026-07-27T16:20:48.000Z",
+      "summary": "2D platforming survival game Blood Dungeon will launch for PlayStation 5, Xbox Series, Switch 2, &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ]
+    },
+    {
+      "title": "The Pokémon Company is turning to facial recognition scans to help combat scalpers",
+      "link": "https://www.pcgamer.com/games/card-games/the-pokemon-company-is-turning-to-facial-recognition-scans-to-help-combat-scalpers/",
+      "date": "2026-07-27T16:05:50.000Z",
+      "summary": "A high price to pay for your chase card.",
+      "source": "PC Gamer",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Shigeru Miyamoto thinks people don't care about console specs that much anymore, believes Nintendo instead provides \"gameplay that only we can create\"",
+      "link": "https://www.eurogamer.net/shigeru-miyamoto-nintendo-switch-hardware-comments",
+      "date": "2026-07-27T15:54:46.000Z",
+      "summary": "A new interview with Nintendo's Shigeru Miyamoto has revealed he thinks people don't care about graphics and performance that much anymore, compared to consumer priorities in generations gone by. Read",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "《GTA6》PS5版锁区 但Xbox Series版没有此限制",
       "link": "https://www.3dmgame.com/news/202607/3949293.html",
@@ -73,11 +339,31 @@
       ]
     },
     {
+      "title": "How Halo Studios Evolved a Classic – Halo: Campaign Evolved | Official XBOX Podcast",
+      "link": "https://news.xbox.com/en-us/2026/07/27/how-halo-studios-evolved-a-classic-halo-campaign-evolved-official-xbox-podcast/",
+      "date": "2026-07-27T15:29:25.000Z",
+      "summary": "On this episode of the Official XBOX Podcast, we’re sitting down with the Halo team to talk all things Halo: Campaign Evolved. We’re discussing the 25-year legacy of the iconic franchise, how the team",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "Game Pass 本该拯救 Xbox，如今却成了公司的催命符",
       "link": "https://news.17173.com/content/07272026/230854114.shtml",
       "date": "2026-07-27T15:08:54.000Z",
       "summary": "",
       "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption",
+      "link": "https://news.xbox.com/en-us/2026/07/27/ubisoft-xbox-pc/",
+      "date": "2026-07-27T15:00:00.000Z",
+      "summary": "Ubisoft and XBOX are expanding their partnership with two big updates coming today: the addition of premium editions and selected add-on content for a wide range of Ubisoft titles for XBOX on PC, and ",
+      "source": "Xbox Wire",
       "companies": [
         "xbox"
       ]
@@ -191,6 +477,16 @@
       "source": "17173",
       "companies": [
         "sony"
+      ]
+    },
+    {
+      "title": "Fit For a Spartan: Win a 1:18 Replica of a Special Halo-Inspired Ride",
+      "link": "https://news.xbox.com/en-us/2026/07/27/halo-master-chief-inspired-car-replica-sweepstakes-giveaway/",
+      "date": "2026-07-27T13:00:00.000Z",
+      "summary": "The post Fit For a Spartan: Win a 1:18 Replica of a Special Halo-Inspired Ride appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
       ]
     },
     {
@@ -324,6 +620,16 @@
       ]
     },
     {
+      "title": "Rice - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Rice",
+      "date": "2026-07-27T07:46:00.000Z",
+      "summary": "Rice plant (Oryza sativa) with branched panicles containing many grains on each stem Rice grains of different varieties at the International Rice Research Institute (IRRI) Rice is a cereal grain and, ",
+      "source": "必应资讯",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
       "title": "LEVIATÁN与100T在无畏契约美洲赛区第二周保持统治力，多场比赛零封对手",
       "link": "https://news.17173.com/content/07272026/153917980.shtml",
       "date": "2026-07-27T07:39:17.000Z",
@@ -381,6 +687,16 @@
       "source": "必应资讯",
       "companies": [
         "mihoyo"
+      ]
+    },
+    {
+      "title": "腾讯 - 维基百科，自由的百科全书",
+      "link": "https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF",
+      "date": "2026-07-27T04:04:00.000Z",
+      "summary": "腾讯於2004年6月16日在 香港交易所 挂牌上市，于2016年9月5日首次成为 亚洲 市值最高的上市公司 [3]，并于2017年11月21日成为亚洲首家市值突破5000亿美元的公司 [4]。 2017年，腾讯首次跻身《财富》杂志世界500强排行榜，以228.7亿美元的营收位居478位 [5]。",
+      "source": "必应资讯",
+      "companies": [
+        "tencent"
       ]
     },
     {
@@ -567,6 +883,16 @@
       ]
     },
     {
+      "title": "【米】了解7大功效、卡路里、食用禁忌（附營養及食譜）",
+      "link": "https://www.bowtie.com.hk/blog/zh/%e7%87%9f%e9%a4%8a%e8%b2%bc%e5%a3%ab/%e7%b1%b3/",
+      "date": "2026-07-26T08:08:00.000Z",
+      "summary": "作為碳水化合物的主要來源，米不僅提供日常所需的能量，還含有豐富的營養成分，對健康有諸多益處。 本文將深入探討米的營養價值、健康好處、食用禁忌，以及挑選與儲存的小貼士，並分享一道簡單又美味的米食食譜，幫助您更好地將米融入日常飲食中。",
+      "source": "必应资讯",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
       "title": "Steam may be celebrating the railway experience with its Train Fest, but let's remember how rubbish the typical train trip is with some Train Sim World DLC",
       "link": "https://www.pcgamer.com/games/sim/steam-may-be-celebrating-the-railway-experience-with-its-train-fest-but-lets-remember-how-rubbish-the-typical-train-trip-is-with-some-train-sim-world-dlc/",
       "date": "2026-07-26T01:44:03.000Z",
@@ -584,6 +910,16 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
+      ]
+    },
+    {
+      "title": "米 - Wikipedia",
+      "link": "https://ja.wikipedia.org/wiki/%E7%B1%B3",
+      "date": "2026-07-25T19:01:00.000Z",
+      "summary": "2020年代前半時点で インド と並んで世界最大の米生産国であり、この2国で全世界生産の約半数を占める。 一方で、インドは世界最大の米輸出国であるのに対して、中国は、米に関して関しては輸入超過が基調であるため、最大消費国であることが推定される。",
+      "source": "必应资讯",
+      "companies": [
+        "mihoyo"
       ]
     },
     {
@@ -698,6 +1034,26 @@
       ]
     },
     {
+      "title": "Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie",
+      "link": "https://news.xbox.com/en-us/2026/07/24/find-out-how-an-adorable-duck-drove-us-to-get-creative/",
+      "date": "2026-07-25T00:00:00.000Z",
+      "summary": "We’ve all experienced a time when we’re surrounded by people yet feel completely out of place. That’s the exact feeling Dodo Duckie starts from: a duckling raised among chickens, convinced something i",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "米 - Wiktionary, the free dictionary",
+      "link": "https://en.wiktionary.org/wiki/%E7%B1%B3",
+      "date": "2026-07-24T23:20:00.000Z",
+      "summary": "The use of this kanji is attested in the Meiji period and is an example of ateji (当 あ て 字 じ), shortened from Mandarin 米突 (mǐtū), see the Chinese 米 (mǐ) entry for more.",
+      "source": "必应资讯",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
       "title": "God of War Laufey SDCC Panel Live Report | Comic Con 2026",
       "link": "https://www.ign.com/articles/everything-announced-at-the-god-of-war-laufey-sdcc-panel-comic-con-2026",
       "date": "2026-07-24T22:48:54.000Z",
@@ -757,6 +1113,16 @@
       "source": "PC Gamer",
       "companies": [
         "nintendo"
+      ]
+    },
+    {
+      "title": "Tencent 腾讯",
+      "link": "https://www.tencent.com.cn/zh-hk/index.html",
+      "date": "2026-07-24T20:07:00.000Z",
+      "summary": "腾讯于1998年11月成立，是一家互联网公司，通过技术丰富互联网用户的生活，助力企业数字化升级。 我们的使命是“用户为本 科技向善”。 Founded in 1998, Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the",
+      "source": "必应资讯",
+      "companies": [
+        "tencent"
       ]
     },
     {
@@ -1100,6 +1466,16 @@
       ]
     },
     {
+      "title": "Next Week on XBOX: New Games for July 27 to 31",
+      "link": "https://news.xbox.com/en-us/2026/07/24/next-week-on-xbox-new-games-for-july-27-to-31/",
+      "date": "2026-07-24T14:00:00.000Z",
+      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and clic",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "Surprise, Age of Empires 3: Definitive Edition's Baltic Powers expansion has re-emerged from the annals of cancelled DLC history, will come out in September",
       "link": "https://www.rockpapershotgun.com/surprise-age-of-empires-3-definitive-editions-baltic-powers-expansion-has-re-emerged-from-the-annals-of-cancelled-dlc-history-will-come-out-in-september",
       "date": "2026-07-24T13:58:43.000Z",
@@ -1137,6 +1513,16 @@
       "source": "Eurogamer",
       "companies": [
         "sony"
+      ]
+    },
+    {
+      "title": "Castlevania: Belmont’s Curse – How KONAMI and Evil Empire Reimagined Castlevania’s Return",
+      "link": "https://news.xbox.com/en-us/2026/07/24/castlevania-belmonts-curse-xbox/",
+      "date": "2026-07-24T13:00:00.000Z",
+      "summary": "The post Castlevania: Belmont’s Curse – How KONAMI and Evil Empire Reimagined Castlevania’s Return appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
       ]
     },
     {
@@ -1437,6 +1823,16 @@
       ]
     },
     {
+      "title": "Alpha Nomos Turns Instruments into Weapons, Coming to Xbox Series X|S",
+      "link": "https://news.xbox.com/en-us/2026/07/23/alpha-nomos-turns-instruments-into-weapons/",
+      "date": "2026-07-23T21:00:00.000Z",
+      "summary": "I want to introduce you to Cello, and to the strangest weapon she carries: the beat itself. Alpha Nomos is a rhythm-action roguelite, and it’s coming to Xbox Series X|S. If you’ve never heard of it, h",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "Nintendo Switch Sports Resort Hands-On Preview: Wuhu Island Is Back, Baby",
       "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-hands-on-preview-wuhu-island-is-back-baby",
       "date": "2026-07-23T20:46:32.000Z",
@@ -1530,6 +1926,16 @@
       ]
     },
     {
+      "title": "Beginning Ad-supported Game Streaming Test & Learn",
+      "link": "https://news.xbox.com/en-us/2026/07/23/game-streaming-ad-supported-xbox-insiders/",
+      "date": "2026-07-23T15:58:19.000Z",
+      "summary": "Today, we’re starting to test an ad-supported way to stream select games from your library for a limited time, available to XBOX Insiders.  During this test period, XBOX Insiders with an XBOX account ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "Where to find tank lattes in Forza Horizon 6",
       "link": "https://www.pcgamer.com/games/racing/forza-horizon-6-tank-latte-locations/",
       "date": "2026-07-23T15:50:59.000Z",
@@ -1547,6 +1953,16 @@
       "source": "Eurogamer",
       "companies": [
         "valve"
+      ]
+    },
+    {
+      "title": "Free Play Days – For Honor, Bleach Rebirth of Souls, Metal Gear Solid – Master Collection Version, and More",
+      "link": "https://news.xbox.com/en-us/2026/07/23/free-play-days-07-23-2026/",
+      "date": "2026-07-23T15:30:00.000Z",
+      "summary": "The post Free Play Days – For Honor, Bleach Rebirth of Souls, Metal Gear Solid – Master Collection Version, and More appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
       ]
     },
     {
@@ -1594,36 +2010,6 @@
       "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-would-only-play-halo-campaign-evolved-on-handheld-with-upscaling/",
       "date": "2026-07-23T15:00:00.000Z",
       "summary": "It's a bit choppy running natively.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Halo: Campaign Evolved review",
-      "link": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-review/",
-      "date": "2026-07-23T15:00:00.000Z",
-      "summary": "A neat, but fundamentally flawed remake that doesn't always understand the appeal of Halo.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "How to play third-person in Halo: Campaign Evolved",
-      "link": "https://www.pcgamer.com/games/halo/campaign-evolved-third-person-perspective/",
-      "date": "2026-07-23T15:00:00.000Z",
-      "summary": "Grab this new skull to go over the shoulder.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Should you play the bonus missions first in Halo: Campaign Evolved?",
-      "link": "https://www.pcgamer.com/games/halo/campaign-evolved-bonus-missions-campaign/",
-      "date": "2026-07-23T15:00:00.000Z",
-      "summary": "Decide where to begin John 117's story.",
       "source": "PC Gamer",
       "companies": [
         "xbox"
@@ -1716,16 +2102,6 @@
       ]
     },
     {
-      "title": "\"The smallest severance pay possible\" - Bethesda union vows to fight as studio employees reel from \"bare minimum\" payout following mass Xbox layoffs",
-      "link": "https://www.eurogamer.net/bethesda-montreal-smallest-severance-possible",
-      "date": "2026-07-23T12:27:59.000Z",
-      "summary": "Following Xbox mass layoffs earlier this month , employees at Bethesda's Montr&eacute;al studio have reportedly been told they'll receive the \"smallest\" severance pay legally possible. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "Oblivion Remastered's lengthy patch drought could end with its Switch 2 release, which Bethesda say includes \"optimisations\" they hope to bring to PC",
       "link": "https://www.rockpapershotgun.com/oblivion-remastereds-lengthy-patch-drought-could-end-with-its-switch-2-release-which-bethesda-say-includes-optimisations-they-hope-to-bring-to-pc",
       "date": "2026-07-23T11:30:00.000Z",
@@ -1746,16 +2122,6 @@
       ]
     },
     {
-      "title": "Stalker 2 studio founder's claims that Xbox paid more for exclusivity than the game cost to make \"do not reflect the actual facts\", according to GSC Game World",
-      "link": "https://www.rockpapershotgun.com/stalker-2-studio-founders-claims-that-xbox-paid-more-for-exclusivity-than-the-game-cost-to-make-do-not-reflect-the-actual-facts-according-to-gsc-game-world-1",
-      "date": "2026-07-23T10:00:00.000Z",
-      "summary": "Stalker 2 studio GSC Game World have refuted claims from their original founder Sergiy Grygorovych, who left GSC in 2023 , that Xbox paid more than the game cost to make as part of an exclusivity deal",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "Xbox version of Avatar Legends: The Fighting Game delayed by over a month, less than 24 hours before launch",
       "link": "https://www.eurogamer.net/avatar-legends-fighting-game-xbox-delay-switch-version",
       "date": "2026-07-23T08:56:39.000Z",
@@ -1763,26 +2129,6 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo",
-        "xbox"
-      ]
-    },
-    {
-      "title": "Stalker 2 developer refutes claims by studio founder that Xbox paid more than game's development cost to make it exclusive",
-      "link": "https://www.eurogamer.net/stalker-2-xbox-timed-exclusivity-claim-refuted",
-      "date": "2026-07-23T08:19:11.000Z",
-      "summary": "Earlier this week, GSC Game World studio founder Sergiy Grygorovych made a bombshell revelation about the development of Stalker 2: Heart of Chornobyl . Grygorovych said in an interview with YouTuber ",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Union claims Bethesda developers were terminated the day Xbox announced new Fallouts—after being told they would still have jobs until September",
-      "link": "https://www.pcgamer.com/gaming-industry/union-claims-bethesda-developers-were-laid-off-the-day-xbox-announced-new-fallouts-after-being-told-they-would-still-have-jobs-until-september/",
-      "date": "2026-07-22T21:17:55.000Z",
-      "summary": "The OneBGS union says it's filed new legal action over the dismissal.",
-      "source": "PC Gamer",
-      "companies": [
         "xbox"
       ]
     },
@@ -1837,16 +2183,6 @@
       ]
     },
     {
-      "title": "Laid off Bethesda Montreal staff allegedly told they'd get \"smallest severance legally possible\" the same day as those Fallout announcements",
-      "link": "https://www.rockpapershotgun.com/laid-off-bethesda-montreal-staff-allegedly-told-theyd-get-smallest-severance-legally-possible-the-same-day-as-those-fallout-announcements",
-      "date": "2026-07-22T17:54:52.000Z",
-      "summary": "Last week, in the wake of yet another round of mass layoffs across the company, Xbox announced that Fallout 5 is in preproduction , Fallout 3 and New Vegas remasters are coming, and that Obsidian are ",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "StarCraft 2 is included in Blizzard's BlizzCon digital goodies, which is more evidence a new game will be announced soon, right?",
       "link": "https://www.pcgamer.com/gaming-industry/starcraft-2-is-included-in-blizzards-blizzcon-digital-goodies-which-is-more-evidence-a-new-game-will-be-announced-soon-right/",
       "date": "2026-07-22T17:51:21.000Z",
@@ -1857,16 +2193,6 @@
       ]
     },
     {
-      "title": "原来连Xbox内部都不喜欢Game Pass",
-      "link": "https://www.yystv.cn/p/14183",
-      "date": "2026-07-22T16:00:00.000Z",
-      "summary": "我从来没觉得加入Game Pass开心过。 大约两周前我们曾报道过， Xbox的新任CEO阿莎·夏尔玛（Asha Sharma）计划裁撤Xbox近3200名员工，诸多工作室和项目受到牵连 。 换句话说，这意味着未来Xbox所能提供的第一方IP会减少很多，以“第一方作品首发入库”而发家的Game Pass无疑会受到直接影响。 在这之前，每次Xbox召开发布会后，人们都不免有种“Xbox这回真好起来”",
-      "source": "游研社",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "85万人同时在线，《幻兽帕鲁》为什么能活出第二世？",
       "link": "https://www.yystv.cn/p/14179",
       "date": "2026-07-22T16:00:00.000Z",
@@ -1874,26 +2200,6 @@
       "source": "游研社",
       "companies": [
         "valve"
-      ]
-    },
-    {
-      "title": "Following layoffs and muddy strategy shifts, Xbox announces Backward Compatibility on PC program, with Blinx and Conker leading the first wave",
-      "link": "https://www.eurogamer.net/xbox-backward-compatibility-on-pc-announced",
-      "date": "2026-07-22T15:55:20.000Z",
-      "summary": "As Microsoft tries to downplay the effects on its gaming business of cutting 3,200 jobs and four studios , Xbox is rethinking its whole strategy even if the more recent comments from inside the house ",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "\"The goal is to provide what we can\": Elder Scrolls Online Crown Store undergoing changes due to \"team bandwidth\" in wake of Xbox layoffs",
-      "link": "https://www.rockpapershotgun.com/the-goal-is-to-provide-what-we-can-elder-scrolls-online-crown-store-undergoing-changes-due-to-team-bandwidth-in-wake-of-xbox-layoffs",
-      "date": "2026-07-22T15:39:15.000Z",
-      "summary": "Following Microsoft's mass layoffs , The Elder Scrolls Online has ended up in a transitional period while remaining staff work to forge a path forwards. If you want evidence of effects the cuts are al",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -1927,16 +2233,6 @@
       ]
     },
     {
-      "title": "Of all the platforms, Xbox is the only one to have just grown year-on-year - but there's a big catch",
-      "link": "https://www.eurogamer.net/circana-june-2026-game-hardware-xbox-growth-software-sales",
-      "date": "2026-07-22T14:03:51.000Z",
-      "summary": "Market analysis firm Circana has published the latest edition of its monthly report, which tracks spending across game hardware and software in the US. June's edition is another bleak one, with a near",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "Palworld has sold over 30m copies already, with Steam unsurprisingly emerging as the most popular platform",
       "link": "https://www.eurogamer.net/palworld-30-million-sales",
       "date": "2026-07-22T13:55:33.000Z",
@@ -1957,16 +2253,6 @@
       ]
     },
     {
-      "title": "Here's your next batch of Xbox Game Pass games for July",
-      "link": "https://www.eurogamer.net/xbox-game-pass-july-wave-2",
-      "date": "2026-07-22T11:30:11.000Z",
-      "summary": "Xbox has revealed the next batch of games coming to its Xbox Game Pass subscription service during the remainder of July and in early August, with Halo: Campaign Evolved and Hell Is Us spearheading th",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "Blizzard's calling time on Overwatch's hero customising Stadium mode, and I may well be the only person that's sad about that",
       "link": "https://www.eurogamer.net/overwatch-stadium-support-ending",
       "date": "2026-07-22T10:58:18.000Z",
@@ -1974,16 +2260,6 @@
       "source": "Eurogamer",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "Asha Sharma-appointed Xbox VP of engineering leaves just three months after moving over from Microsoft's CoreAI team",
-      "link": "https://www.eurogamer.net/xbox-vp-engineering-leaves-after-three-months",
-      "date": "2026-07-22T10:36:09.000Z",
-      "summary": "When Microsoft assigned Asha Sharma as the new leader of the Xbox division in February , replacing the Phil Spencer regime, the executive brought along some of her former colleagues with her. Now, one",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2054,57 +2330,6 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
-    },
-    {
-      "title": "Xbox Game Pass was a good idea in theory, former Forza Horizon 5 director says, but \"the reality is not enough people have subscribed\"",
-      "link": "https://www.eurogamer.net/forza-horizon-5-director-comments-xbox-game-pass",
-      "date": "2026-07-21T13:59:47.000Z",
-      "summary": "Mike Brown, ex-director on Forza Horizon 5 at Playground Games, has commented on Xbox's current problems and Game Pass ' impact on the brand's overarching strategy in recent years. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Order of the Sinking Star is coming to PS5, hands-on report",
-      "link": "https://blog.playstation.com/2026/07/21/order-of-the-sinking-star-is-coming-to-ps5-hands-on-report/",
-      "date": "2026-07-21T13:00:47.000Z",
-      "summary": "The glittering sky of mystery, magic, and head scratching enigmas is becoming much larger – Order of the Sinking Star is arriving on PlayStation 5 later this year. Developed by Jonathan Blow’s indepen",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "Tom Clancy's Ghost Recon Wildlands appears to be getting a PS5 and Xbox Series X/S Definitive Edition, but is it a remaster or a bog standard re-release?",
-      "link": "https://www.eurogamer.net/ghost-recon-wildlands-definitive-edition-leak",
-      "date": "2026-07-21T11:58:54.000Z",
-      "summary": "If you've been itching to replay Tom Clancy's Ghost Recon Wildlands, for some reason, you may soon have a reason to. The open-world co-op shooter will be 10 years old next March and it looks like Ubis",
-      "source": "Eurogamer",
-      "companies": [
-        "sony",
-        "xbox"
-      ]
-    },
-    {
-      "title": "\"The concept of [Xbox] Game Pass was good\" despite its eventual faceplant now contributing to mass job losses, reckons Forza Horizon 5 director",
-      "link": "https://www.rockpapershotgun.com/the-concept-of-xbox-game-pass-was-good-despite-its-eventual-faceplant-now-contributing-to-mass-job-losses-reckons-forza-horizon-5-director",
-      "date": "2026-07-21T11:34:39.000Z",
-      "summary": "Forza Horizon 5 creative director Mike Brown, who's currently working on open-world racer Clutch after departing Microsoft-owned Playground Games in 2023, has offered his perspective on Xbox's current",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "What sense can we make of the madness at id Software?",
-      "link": "https://www.eurogamer.net/what-sense-to-make-from-id-software-layoffs-microsoft-xbox",
-      "date": "2026-07-21T09:39:30.000Z",
-      "summary": "In a grim week for the games industry where Microsoft laid off 1,600 people (with 1,600 further job cuts hanging over the heads of Xbox employees) one decision stood out as especially egregious. Id So",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2361,36 +2586,6 @@
       ]
     },
     {
-      "title": "Team Fortress 2 Update Released",
-      "link": "<![CDATA[https://store.steampowered.com/news/275718/]]>",
-      "date": "2026-07-10T19:00:00.000Z",
-      "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated the Beachcomber's Brim to fix an incorrect",
-      "source": "Steam 官方新闻",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "Team Fortress 2 Update Released",
-      "link": "<![CDATA[https://store.steampowered.com/news/275469/]]>",
-      "date": "2026-07-08T23:13:00.000Z",
-      "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Updated the Beachcomber's Brim to add a second sty",
-      "source": "Steam 官方新闻",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "Team Fortress 2 Update Released",
-      "link": "<![CDATA[https://store.steampowered.com/news/274747/]]>",
-      "date": "2026-07-07T17:18:00.000Z",
-      "summary": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include: Summer 2026! Featuring 6 new community maps: Dryfi",
-      "source": "Steam 官方新闻",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
       "title": "热点预告：《逆水寒》黄金畅玩服免费开玩，米哈游捉宠新游再测试，BW2026开幕 逆水寒 - 鸣潮 - 燕云十六声",
       "link": "https://news.17173.com/content/07062026/102930349.shtml",
       "date": "2026-07-06T02:29:30.000Z",
@@ -2406,16 +2601,6 @@
       "link": "https://news.17173.com/content/06222026/090053286.shtml",
       "date": "2026-06-22T08:56:00.000Z",
       "summary": "上周游戏圈有不少大事，米哈游旗下虚拟形象“林离”即将登场；《碧蓝幻想：Relink》制作人直言参考《绝区零》；微软正考虑关停多家第一方工作 ...",
-      "source": "必应资讯",
-      "companies": [
-        "mihoyo"
-      ]
-    },
-    {
-      "title": "米哈游8款在研新游曝光：MMO！还有多人联机大世界",
-      "link": "https://news.17173.com/content/05292026/000025881.shtml",
-      "date": "2026-05-28T15:59:00.000Z",
-      "summary": "米哈游8款在研新游曝光！生活MMO、多人联机大世界、AI智能NPC，拓宽游戏赛道。你最期待哪款？点击查看详情。 17173 新闻导语 米哈游8款在研新游 ...",
       "source": "必应资讯",
       "companies": [
         "mihoyo"
