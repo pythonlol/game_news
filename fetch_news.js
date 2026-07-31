@@ -13,6 +13,8 @@ const HTML_FILE = path.join(ROOT, "index.html");
 const KEEP_DAYS = 60; // 历史资讯保留天数
 const MAX_PER_COMPANY = 50; // 每家公司最多保留条数
 const FETCH_TIMEOUT = 20000;
+const FETCH_CONCURRENCY = 5; // 同时抓取的来源数量上限
+const FETCH_RETRIES = 2; // 单个来源失败后的重试次数(间隔 1s/2s)
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
@@ -31,16 +33,20 @@ const COMPANIES = [
   { id: "valve", name: "Valve", en: "Valve", keywords: ["Valve", "Steam Deck", "Steam", "Half-Life", "半条命", "Dota", "Counter-Strike", "CS2", "反恐精英", "Portal", "传送门", "Team Fortress"] },
 ];
 
-// EA 单独用带词边界的正则,避免误匹配(如 "each" 中的 "ea" 不区分大小写时无碍,主要防 "EA" 缩写过宽)
+// 常用英文单词类关键词强制大小写敏感, 避免把普通词误判为厂商
+// (如 "switch to PC" 命中任天堂、"steam rising" 命中 Valve、"ea" 出现在普通文本中)
+const CASE_SENSITIVE = new Set(["EA", "Steam", "Switch", "Portal"]);
+
+// 匹配规则: 纯 ASCII 关键词加词边界(防 "Steam" 命中 "steampunk"、"CS2" 命中单词内部),
+// CASE_SENSITIVE 中的词额外要求大小写一致; 中文关键词保持子串匹配
 const COMPANY_REGEX = COMPANIES.map((c) => ({
   ...c,
-  regexes: c.keywords.map((k) =>
-    c.id === "ea" && k === "EA"
-      ? new RegExp("\\bEA\\b")
-      : new RegExp(escapeRegExp(k), "i")
-  ),
+  regexes: c.keywords.map((k) => {
+    const ascii = /^[\x20-\x7e]+$/.test(k);
+    const body = ascii ? `\\b${escapeRegExp(k)}\\b` : escapeRegExp(k);
+    return new RegExp(body, CASE_SENSITIVE.has(k) ? "" : "i");
+  }),
 }));
-// 给 EA 额外补一个字面 "EA" 关键词的正则已包含在上面逻辑中
 
 // ---------- 资讯来源 ----------
 // type=media: 需按关键词匹配厂商; 带 companyId: 直接归属该厂商
@@ -50,9 +56,9 @@ const SOURCES = [
   { name: "Xbox Wire", url: "https://news.xbox.com/en-us/feed/", type: "official", companyId: "xbox" },
   { name: "Steam 官方新闻", url: "https://store.steampowered.com/feeds/news.xml", type: "official", companyId: "valve" },
   // 按公司检索的必应资讯 RSS(用于国内厂商, 中文媒体覆盖更稳定)
-  { name: "必应资讯", url: "https://www.bing.com/search?q=" + encodeURIComponent("腾讯游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "tencent" },
-  { name: "必应资讯", url: "https://www.bing.com/search?q=" + encodeURIComponent("网易游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "netease" },
-  { name: "必应资讯", url: "https://www.bing.com/search?q=" + encodeURIComponent("米哈游 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "mihoyo" },
+  { name: "必应资讯·腾讯", url: "https://www.bing.com/search?q=" + encodeURIComponent("腾讯游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "tencent" },
+  { name: "必应资讯·网易", url: "https://www.bing.com/search?q=" + encodeURIComponent("网易游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "netease" },
+  { name: "必应资讯·米哈游", url: "https://www.bing.com/search?q=" + encodeURIComponent("米哈游 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "mihoyo" },
   // 游戏媒体
   { name: "IGN", url: "https://feeds.ign.com/ign/all", type: "media" },
   { name: "GameSpot", url: "https://www.gamespot.com/feeds/mashup/", type: "media" },
@@ -70,7 +76,7 @@ const SOURCES = [
 
 // 搜索类来源的导航页垃圾过滤(官网首页/百科/邮箱等非资讯结果)
 function isJunkSearchResult(item) {
-  if (/首页|百度百科|邮箱|登录|注册|下载|社区/.test(item.title)) return true;
+  if (/首页|百度百科|邮箱|登录|注册|下载|社区|网易云音乐/.test(item.title)) return true;
   try {
     const u = new URL(item.link);
     const segs = u.pathname.split("/").filter(Boolean);
@@ -189,22 +195,48 @@ function parse17173(html) {
 }
 
 async function fetchFeed(source) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT);
-  try {
-    const res = await fetch(source.url, {
-      headers: { "User-Agent": UA, Accept: "application/rss+xml,application/xml,text/xml,text/html,*/*" },
-      signal: ctrl.signal,
-      redirect: "follow",
-    });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const body = await res.text();
-    if (source.format === "html3dm") return parse3dm(body);
-    if (source.format === "html17173") return parse17173(body);
-    return parseFeed(body);
-  } finally {
-    clearTimeout(timer);
+  let lastErr;
+  for (let attempt = 0; attempt <= FETCH_RETRIES; attempt++) {
+    if (attempt) await new Promise((r) => setTimeout(r, 1000 * attempt));
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT);
+    try {
+      const res = await fetch(source.url, {
+        headers: {
+          "User-Agent": UA,
+          Accept: "application/rss+xml,application/xml,text/xml,text/html,*/*",
+          "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8",
+        },
+        signal: ctrl.signal,
+        redirect: "follow",
+      });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const body = await res.text();
+      if (source.format === "html3dm") return parse3dm(body);
+      if (source.format === "html17173") return parse17173(body);
+      return parseFeed(body);
+    } catch (e) {
+      lastErr = e;
+    } finally {
+      clearTimeout(timer);
+    }
   }
+  throw lastErr;
+}
+
+// 带并发上限的并行映射, 结果顺序与输入一致
+async function mapLimit(list, limit, fn) {
+  const results = new Array(list.length);
+  let i = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(limit, list.length) }, async () => {
+      while (i < list.length) {
+        const idx = i++;
+        results[idx] = await fn(list[idx]);
+      }
+    })
+  );
+  return results;
 }
 
 function matchCompanies(text) {
@@ -246,13 +278,13 @@ function renderHtml(data) {
     if (!iso) return "";
     const d = new Date(iso);
     if (isNaN(d)) return "";
-    return d.toLocaleDateString("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+    return d.toLocaleDateString("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" });
   };
   const fmtTime = (iso) => {
     if (!iso) return "";
     const d = new Date(iso);
     if (isNaN(d)) return "";
-    return d.toLocaleString("zh-CN", { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
+    return d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
   };
 
   // ---------- 今日最新: 最近 24 小时, 不足 10 条放宽到 48 小时 ----------
@@ -306,7 +338,7 @@ function renderHtml(data) {
 
   const nav = `<a href="#today">今日最新</a>` + COMPANIES.map((c) => `<a href="#${c.id}">${esc(c.name)}</a>`).join("");
   const updatedAt = data.updatedAt
-    ? new Date(data.updatedAt).toLocaleString("zh-CN", { hour12: false })
+    ? new Date(data.updatedAt).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false })
     : "从未更新";
 
   return `<!DOCTYPE html>
@@ -316,43 +348,49 @@ function renderHtml(data) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>每日游戏资讯 · 十大厂商</title>
 <style>
+  :root {
+    --bg: #13161c; --panel: #1a1e27; --text: #dfe3ea; --muted: #8b919e;
+    --accent: #8ab4f8; --line: #262c39;
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: #0f1117; color: #e6e6e6; line-height: 1.6; }
-  header { padding: 32px 24px 16px; text-align: center; }
-  header h1 { font-size: 28px; letter-spacing: 2px; }
-  header p { color: #8a8f9e; margin-top: 8px; font-size: 14px; }
-  nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; padding: 16px 24px; position: sticky; top: 0; background: #0f1117ee; backdrop-filter: blur(6px); z-index: 10; border-bottom: 1px solid #232838; }
-  nav a { color: #9ec1ff; text-decoration: none; font-size: 13px; padding: 4px 10px; border: 1px solid #2a3145; border-radius: 14px; }
-  nav a:hover { background: #1c2334; }
-  main { max-width: 860px; margin: 0 auto; padding: 24px 16px 60px; }
-  .company { margin-bottom: 40px; }
-  .company h2 { font-size: 20px; padding-bottom: 8px; border-bottom: 2px solid #2a3145; margin-bottom: 12px; display: flex; align-items: baseline; gap: 10px; }
-  .company h2 small { color: #8a8f9e; font-size: 13px; font-weight: normal; }
-  .badge { color: #4c5a7d; font-size: 14px; font-family: Consolas, monospace; }
+  body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 16px; }
+  header { max-width: 820px; margin: 0 auto; padding: 28px 20px 14px; }
+  header h1 { font-size: 24px; letter-spacing: 1px; }
+  header p { color: var(--muted); margin-top: 6px; font-size: 13px; }
+  nav { display: flex; flex-wrap: wrap; gap: 6px; max-width: 820px; margin: 0 auto; padding: 10px 20px; position: sticky; top: 0; background: rgba(19,22,28,.92); backdrop-filter: blur(8px); z-index: 10; border-bottom: 1px solid var(--line); }
+  nav a { color: var(--muted); text-decoration: none; font-size: 13px; padding: 3px 10px; border-radius: 12px; }
+  nav a:hover { color: var(--accent); background: var(--panel); }
+  main { max-width: 820px; margin: 0 auto; padding: 4px 20px 60px; }
+  .company { margin-top: 36px; }
+  .company h2 { font-size: 18px; margin-bottom: 4px; }
+  .company h2 small { color: var(--muted); font-size: 12px; font-weight: normal; margin-left: 8px; }
+  .badge { color: var(--accent); font-size: 13px; font-family: Consolas, monospace; margin-right: 6px; opacity: .75; }
+  .today .badge { opacity: 1; }
   ul { list-style: none; }
-  .news-item { padding: 10px 4px; border-bottom: 1px dashed #20263a; }
-  .news-item a { color: #d7e3ff; text-decoration: none; font-size: 15px; }
-  .news-item a:hover { color: #7fb0ff; text-decoration: underline; }
-  .meta { font-size: 12px; color: #8a8f9e; margin-top: 2px; display: flex; gap: 12px; }
-  .source { color: #6f9f6f; }
-  .summary { font-size: 13px; color: #9aa0ae; margin-top: 4px; }
-  .empty { color: #5a6070; font-size: 14px; padding: 8px 4px; list-style: none; }
-  .today h2 { border-bottom-color: #3d5a80; }
-  .today .badge { color: #e0a458; }
-  .tag { color: #7fb0ff; background: #1c2334; border-radius: 8px; padding: 0 6px; font-size: 11px; }
-  .time { color: #b7a6d9; }
-  footer { text-align: center; color: #5a6070; font-size: 12px; padding: 20px; }
+  .news-item { padding: 13px 0; border-bottom: 1px solid var(--line); }
+  .news-item:last-child { border-bottom: none; }
+  .news-item a { color: var(--text); text-decoration: none; font-size: 15.5px; font-weight: 500; }
+  .news-item a:hover { color: var(--accent); }
+  .news-item a:visited { color: #9aa1ad; }
+  .meta { font-size: 12px; color: var(--muted); margin-top: 3px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .tag { border: 1px solid var(--line); border-radius: 8px; padding: 0 6px; font-size: 11px; line-height: 18px; }
+  .summary { font-size: 13px; color: var(--muted); margin-top: 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .empty { color: var(--muted); font-size: 14px; padding: 10px 0; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px; border-top: 1px solid var(--line); }
   @media (max-width: 600px) {
-    header { padding: 20px 12px 10px; }
-    header h1 { font-size: 21px; }
+    body { font-size: 15px; }
+    header { padding: 20px 14px 10px; }
+    header h1 { font-size: 20px; }
     header p { font-size: 12px; }
-    nav { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; padding: 10px 12px; -webkit-overflow-scrolling: touch; }
+    nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    nav::-webkit-scrollbar { display: none; }
     nav a { flex-shrink: 0; font-size: 12px; }
-    main { padding: 16px 10px 48px; }
-    .company h2 { font-size: 17px; }
-    .news-item { padding: 12px 4px; }
-    .news-item a { font-size: 15px; line-height: 1.5; }
-    .summary { font-size: 12px; }
+    main { padding: 0 14px 48px; }
+    .company { margin-top: 28px; }
+    .company h2 { font-size: 16px; }
+    .news-item { padding: 12px 0; }
+    .news-item a { font-size: 15px; }
+    .summary { font-size: 12.5px; }
   }
 </style>
 </head>
@@ -375,23 +413,39 @@ ${sections}
 // ---------- 主流程 ----------
 async function main() {
   const data = loadData();
+  // 清理历史数据里搜索源混入的噪音(与新增条目同一套过滤规则)
+  const searchNames = new Set(SOURCES.filter((s) => s.type === "search").map((s) => s.name));
+  searchNames.add("必应资讯"); // 兼容来源改名前的历史数据
+  const beforeClean = data.items.length;
+  data.items = data.items.filter((it) => {
+    if (!searchNames.has(it.source)) return true;
+    if (isGlobalJunk(it) || isJunkSearchResult(it)) return false;
+    return matchCompanies(it.title + " " + (it.summary || "")).some((cid) => it.companies.includes(cid));
+  });
+  if (data.items.length < beforeClean) console.log(`清理历史噪音 ${beforeClean - data.items.length} 条`);
   const existing = new Map(data.items.map((it) => [it.link, it]));
   let added = 0;
 
-  for (const src of SOURCES) {
-    let items;
+  // 并发抓取所有来源(上限 FETCH_CONCURRENCY), 再按来源顺序统一处理, 保证去重结果稳定
+  const fetched = await mapLimit(SOURCES, FETCH_CONCURRENCY, async (src) => {
     try {
-      items = await fetchFeed(src);
+      const items = await fetchFeed(src);
       console.log(`[OK] ${src.name}: ${items.length} 条`);
+      return { src, items };
     } catch (e) {
       console.log(`[FAIL] ${src.name}: ${e.message}`);
-      continue;
+      return { src, items: [] };
     }
+  });
+
+  for (const { src, items } of fetched) {
     for (const it of items) {
       if (isGlobalJunk(it)) continue;
       if (src.type === "search" && isJunkSearchResult(it)) continue;
       const text = it.title + " " + it.summary;
-      const companies = src.companyId ? [src.companyId] : matchCompanies(text);
+      let companies = src.companyId ? [src.companyId] : matchCompanies(text);
+      // 搜索源噪音大: 标题/摘要必须确实命中该公司关键词才收录
+      if (src.type === "search" && !matchCompanies(text).includes(src.companyId)) continue;
       if (companies.length === 0) continue;
       const key = it.link;
       if (existing.has(key)) {
