@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-31T14:49:20.815Z",
+  "updatedAt": "2026-07-31T15:09:38.038Z",
   "items": [
+    {
+      "title": "MARVEL Tokon: Fighting Souls launch trailer",
+      "link": "https://www.gematsu.com/2026/07/marvel-tokon-fighting-souls-launch-trailer",
+      "date": "2026-07-31T15:09:00.000Z",
+      "summary": "Publisher Sony Interactive Entertainment and developer Arc System Works have released the launch trailer for &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "漫威Tokon：战斗之魂发布预告片",
+      "summaryZh": "发行商索尼互动娱乐和开发商Arc System Works发布了......"
+    },
     {
       "title": "《遗物：第一守护者》今日发售 Steam多半差评",
       "link": "https://www.3dmgame.com/news/202607/3949644.html",
@@ -52,6 +64,16 @@
       ]
     },
     {
+      "title": "下周Xbox新游前瞻：8月3日至7日游戏阵容",
+      "link": "https://news.17173.com/content/07312026/224535212.shtml",
+      "date": "2026-07-31T14:45:35.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "EA Sports FC 26 may have almost 10 million daily active users, a far larger player count than public data may have you believe",
       "link": "https://www.eurogamer.net/ea-sports-fc-26-10-million-daily-active-users-claim",
       "date": "2026-07-31T14:45:01.000Z",
@@ -59,7 +81,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC 26 可能拥有近一千万活跃用户，远比公开数据显示的要多",
+      "summaryZh": "据一位内容创作者称，EA Sports FC 26 的每日活跃用户数量惊人，他声称曾亲自听说过开发者对其人气的了解。阅读更多"
     },
     {
       "title": "Sony Says Discontinuation of PlayStation Discs Won't Have Any Negative Impact on Its Business — Now or in the Future",
@@ -69,7 +93,9 @@
       "source": "IGN",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "索尼表示，停止生产PlayStation光盘不会对其业务产生负面影响——无论是现在还是未来",
+      "summaryZh": "索尼有争议地决定停产PlayStation光盘，目前对其业务没有任何影响，未来也没有任何负面影响。"
     },
     {
       "title": "Surprise! After getting over 500,000 downloads on Steam, there's a Mortal Shell 2 beta live right now on PlayStation 5 and Xbox Series X/S",
@@ -81,7 +107,9 @@
         "sony",
         "xbox",
         "valve"
-      ]
+      ],
+      "titleZh": "惊喜！在Steam上下载超过50万次后，《真人壳2》的测试版目前正在PlayStation 5和Xbox Series X/S上线",
+      "summaryZh": "你对《致命壳2》感到兴奋吗？这款游戏在发售前就非常受欢迎，最近PS5实体版Revered版也售罄，最近刚刚宣布了一次惊喜的测试版——允许"
     },
     {
       "title": "Next Week on XBOX: New Games for August 3 to 7",
@@ -91,7 +119,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "下周XBOX：8月3日至7日的新游戏",
+      "summaryZh": "欢迎来到XBOX的下周节目！在这篇每周专题中，我们将介绍即将登陆XBOX Series X|S、XBOX One、PC版XBOX和Game Pass的所有游戏！请在下方查看这些即将推出的比赛详情，并点击"
     },
     {
       "title": "The Elder Scrolls Online developer posts extensive roadmap and reiterates that the game is \"here to stay\", in spite of sweeping Xbox layoffs",
@@ -101,7 +131,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《上古卷轴在线》开发商发布了详尽的路线图，并重申尽管Xbox遭遇大规模裁员，这款游戏“将长期存在”",
+      "summaryZh": "ZeniMax Online Studios，作为热门MMO《上古卷轴在线》的开发商，在"
     },
     {
       "title": "CloverPit coming to PS5, Switch 2, PS4, and Switch on August 13",
@@ -112,7 +144,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "《三叶草坑》将于8月13日登陆PS5、Switch 2、PS4和Switch",
+      "summaryZh": "发行商Future Friends Games和开发商Panik Arcade将发布老虎机类类恐怖游戏......"
     },
     {
       "title": "Genshin Impact Version version 7.0 update ‘Everwinter Without Mercy’ launches August 12",
@@ -122,7 +156,9 @@
       "source": "Gematsu",
       "companies": [
         "mihoyo"
-      ]
+      ],
+      "titleZh": "原神版本7.0更新“无情的永冬”将于8月12日上线",
+      "summaryZh": "原神7.0版本更新，名为“无情永冬”，将于八月上线......"
     },
     {
       "title": "Sony’s Latest PS5 Sales Data Shows Digital Pulling Even Further Ahead",
@@ -132,7 +168,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "索尼最新的PS5销售数据显示，数字市场进一步领先",
+      "summaryZh": "索尼拥抱全数字化未来的计划开始取得进展，公司已确认，从2026年第一季度（4月1日至6月30日）82%的PS5游戏、微交易和DLC均已完成。"
     },
     {
       "title": "PS5 Is Closing In On 100 Million Sales, But It’s Losing Ground To The PS4",
@@ -142,7 +180,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "PS5销量接近一亿台，但正逐渐被PS4取代",
+      "summaryZh": "索尼开始感受到主机价格上涨带来的压力，因为2026年4月1日至6月30日的最后一个季度，公司销售&nbsp;了160万台PS5，较之前略有增长"
     },
     {
       "title": "Sony Defends Going Digital, But Says It Understands Players’ Love Of Physical PS5 Games",
@@ -152,7 +192,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "索尼为数字化平台辩护，但表示理解玩家对实体PS5游戏的热爱",
+      "summaryZh": "索尼决定在2028年停止PS5光盘生产，自首次宣布以来就遭到了大量批评，公司也承认了这一反弹。在一次投资者问答环节中"
     },
     {
       "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release",
@@ -162,7 +204,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "Switch 2的《塞尔达传说：时之笛》重制版会不会正准备与GTA 6正面交锋？新发现的amiibo暗示可能在十一月发布",
+      "summaryZh": "看起来任天堂可能会为《塞尔达传说：时之笛》重制版做准备，计划在十一月发布——就在备受期待的《侠盗猎车手6》发布之前——关于两款新作的猜测"
     },
     {
       "title": "Xbox希望最终每天能触达超过10亿人，Asha Sharma称目标是在2030年前实现过半目标",
@@ -194,7 +238,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "报告显示，34%的实体PS5游戏和50%的Xbox Series X游戏在未下载的情况下无法完全正常工作",
+      "summaryZh": "主机是否跟随PC的脚步？"
     },
     {
       "title": "All Genshin Impact 7.0 livestream codes",
@@ -204,7 +250,9 @@
       "source": "PC Gamer",
       "companies": [
         "mihoyo"
-      ]
+      ],
+      "titleZh": "所有原神7.0直播代码",
+      "summaryZh": "从雪国特别节目中获取原石。"
     },
     {
       "title": "索尼公布2026财年Q1财报，PSN月活创1.25亿新纪录",
@@ -224,7 +272,9 @@
       "source": "Eurogamer",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "随着内存危机加剧，PlayStation承诺已确保足够的内存以满足PS5的销售需求（至少到2027年初为止）",
+      "summaryZh": "就在昨天，我们听说英伟达GPU的价格将再次上涨高达30%，因为对生成式AI硬件的需求加剧了元件危机和计算机系统成本的飙升"
     },
     {
       "title": "坚定不移：索尼重申将于2028年初取消实体光盘生产",
@@ -244,7 +294,9 @@
       "source": "IGN",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox希望最终每天触及超过十亿人，Asha Sharma告诉员工，目标是在2030年前实现一半目标",
+      "summaryZh": "Xbox负责人Asha Sharma告诉员工，到2030年，Microsoft的游戏业务将达到其每天触及超过十亿人的雄心目标的一半。"
     },
     {
       "title": "任天堂粉丝认为，随着Amiibo发售日的公布，塞尔达传说：智慧的回响: 塞尔达传说：时之笛 3D Remake 将于11…",
@@ -305,7 +357,9 @@
       "source": "Eurogamer",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "索尼誓言将继续推进无光盘计划，称“数字化正在所有媒体中推进”，尽管玩家强烈抗议",
+      "summaryZh": "索尼在PlayStation最新的财报电话会议上被问及其终止实体媒体的决定。该公司宣布将停止光盘的生产和销售等"
     },
     {
       "title": "GameCube Classic Super Mario Sunshine Joins Nintendo Switch Online Catalog Next Month",
@@ -315,7 +369,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "GameCube 经典版《超级马里奥阳光》将于下月加入任天堂Switch 在线目录",
+      "summaryZh": "GameCube经典《超级马里奥阳光》将于下月加入任天堂Switch Online的目录。"
     },
     {
       "title": "A former Assassin's Creed dev is making a ghost-hunting horror mystery based on visits to abandoned convents, in which your greatest weapon is a chunky instant camera",
@@ -325,7 +381,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "一位前《刺客信条》开发者正在制作一款基于访问废弃修道院的捉鬼恐怖悬疑游戏，而你最强的武器是一个笨重的即时摄像机",
+      "summaryZh": "在担任《杀出重围：人类革命》电影导演、《XCOM：局中侦探》首席电影顾问以及育碧蒙特利尔导演之后，游戏行业的下一步职业发展会是什么？"
     },
     {
       "title": "With GTA 6 Looming Over the Horizon, Sony Says It Has Secured Enough Memory to Meet Its PS5 Sales Targets",
@@ -335,7 +393,9 @@
       "source": "IGN",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "随着GTA 6的临近，索尼表示已确保足够的内存以满足PS5的销售目标",
+      "summaryZh": "索尼坚称其拥有足够的内存来满足本财年PlayStation 5的销售目标，而今年11月《侠盗猎车手6》的发布也在眼前。"
     },
     {
       "title": "索尼承认取消 PlayStation 实体光盘的决定引发了“强烈争议”，但坚称“我们将谨慎推进”。",
@@ -355,7 +415,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "任天堂粉丝相信，《塞尔达传说：时之笛重制版》将在11月与GTA 6正面交锋，Amiibo发布日期公布后",
+      "summaryZh": "粉丝们相信，任天堂将在十一月与GTA 6正面交锋，推出《塞尔达传说：时之笛2》重制版。"
     },
     {
       "title": "The $55bn private acquisition of Electronic Arts is expected to go ahead",
@@ -365,7 +427,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "预计对艺电的550亿美元私人收购将如期进行",
+      "summaryZh": "经过一年多的紧张辩论，艺电（Electronic Arts）报告已获得对拟议中550亿美元私有收购公司的“所有监管批准”。阅读更多"
     },
     {
       "title": "《星砂岛》正式版定档8月18日，对比EA版本全面升级，联机、新平台、海量内容即将登场",
@@ -397,7 +461,9 @@
       "source": "IGN",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "索尼承认对终止PlayStation光盘的决定持“强烈看法”，但坚称“我们将谨慎推进此事”",
+      "summaryZh": "索尼表示不会改变2028年停止PlayStation光盘发行的决定，同时承认电子游戏社区的“强烈观点”。"
     },
     {
       "title": "《SlashZero》正式定名《零境·入侵》，高燃国产动作肉鸽新游CJ抢先玩",
@@ -458,7 +524,9 @@
       "source": "Gematsu",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "PS5出货量超过9530万台",
+      "summaryZh": "索尼在其财报中宣布，PlayStation 5全球已出货9530万台......"
     },
     {
       "title": "游戏新闻 世嘉年度游戏销量报告：《索尼克》系列达16亿部 你买了吗？",
@@ -519,7 +587,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "“戏剧式冒险”游戏《书与钥匙的季节》宣布登陆Switch和PC",
+      "summaryZh": "发行商集英社和开发商iMel宣布推出《书籍与钥匙季》，这是一部“类似剧情的......"
     },
     {
       "title": "Nintendo GameCube – Nintendo Classics adds Super Mario Sunshine on August 13; Virtual Boy – Nintendo Classics adds D-HOPPER and ZERO RACERS on August 4",
@@ -529,7 +599,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "任天堂GameCube——任天堂经典将于8月13日推出《超级马里奥阳光》;Virtual Boy——任天堂经典将于8月4日加入D-HOPPER和ZERO RACERS",
+      "summaryZh": "任天堂GameCube——任天堂经典应用将于8月13日加入《超级马里奥阳光》，......"
     },
     {
       "title": "The rumors were true, Dungeons & Dragons' first 'Universes Beyond' crossover will be with World of Warcraft",
@@ -539,7 +611,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "传言属实，龙与地下城的第一个“超越宇宙”跨界将与魔兽世界合作",
+      "summaryZh": "终于，我可以亲自感染腐血瘟疫了。"
     },
     {
       "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale",
@@ -549,7 +623,9 @@
       "source": "IGN",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "在百思买开学促销期间，PlayStation 5电子游戏大幅打折",
+      "summaryZh": "其中包含了几款出色的游戏。"
     },
     {
       "title": "Dungeons & Dragons: World of Warcraft Revealed, Includes Every Playable WOW Species and Class",
@@ -559,7 +635,9 @@
       "source": "IGN",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《龙与地下城：魔兽世界揭晓》包含了所有可玩的魔兽世界种族和职业",
+      "summaryZh": "龙与地下城开发商Wizards of the Coast已经全面展示了与《魔兽世界》的大型联动。"
     },
     {
       "title": "Saudi Arabia's $55 billion takeover of Electronic Arts will happen next week",
@@ -569,7 +647,9 @@
       "source": "PC Gamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "沙特阿拉伯对艺电的550亿美元收购计划将于下周进行",
+      "summaryZh": "EA表示所有监管障碍都已清除，剩下的就是去做。"
     },
     {
       "title": "Xbox revenues dipped $1.7 billion last year, but Asha Sharma predicts a 'return to growth' by mid-2027",
@@ -579,7 +659,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox去年收入下降了17亿美元，但Asha Sharma预测到2027年中期将“重返增长”",
+      "summaryZh": "这些数字庞大且令人印象深刻，但主要信息似乎是Xbox不会消失。"
     },
     {
       "title": "There's a timeline where Dark Souls was a PlayStation exclusive, but Sony lost out on the chance because it wouldn't publish Demon's Souls in North America",
@@ -589,7 +671,9 @@
       "source": "PC Gamer",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "有一条时间线，《黑暗之魂》是PlayStation独占，但索尼因为不愿意在北美发行《恶魔之魂》而错失了这个机会",
+      "summaryZh": "事情本可以更糟。"
     },
     {
       "title": "Godot natively supports coding in Sumero-Akkadian Cuneiform, if you needed another reason to switch game engines",
@@ -599,7 +683,9 @@
       "source": "PC Gamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "如果你还需要另一个理由换游戏引擎，Godot 原生支持苏美-阿卡德楔形文字编码",
+      "summaryZh": "请注意，从现在起，我不会接受任何质量不佳的代码。"
     },
     {
       "title": "Has 'Xbox 360 brown' nostalgia finally arrived?",
@@ -609,7 +695,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "“Xbox 360棕色”怀旧终于来了吗？",
+      "summaryZh": "2000年代中期的粗獷风格或许将回归。"
     },
     {
       "title": "Valve finally gives Deadlock a proper ranked mode, warns that matches will be 'very rocky' to start",
@@ -619,7 +707,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Valve终于为Deadlock提供了真正的排位模式，并警告比赛开局将“非常不稳定”",
+      "summaryZh": "义士完成了。"
     },
     {
       "title": "Blizzard is keeping secrets about Diablo 4's next season until BlizzCon, but you can still try some of it out next week",
@@ -629,7 +719,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪对《暗黑破坏神4》下赛季的计划保密，直到暴雪嘉年华，但你下周仍然可以试玩其中一些内容",
+      "summaryZh": "不过，依然有很多新玩具可以玩。"
     },
     {
       "title": "EA Says Saudi Takeover Deal Is Set To Close Next Week",
@@ -639,7 +731,9 @@
       "source": "GameSpot",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA称沙特收购协议将于下周完成",
+      "summaryZh": "艺电很快将再次成为私有公司，这家游戏巨头将被沙特阿拉伯政府领导的投资团队收购。正如今天SEC提交的文件中披露的，"
     },
     {
       "title": "This upcoming Steam game is pioneering the accursed trucking genre, and as a former delivery guy I could not be more thrilled",
@@ -649,7 +743,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "这款即将推出的Steam游戏开创了该死的卡车运输类型，作为一名前快递员，我无比激动",
+      "summaryZh": "《Prospice： Abnormalous Logistics》模拟了正史中送货员的体验，梦境身体被溶解在集体死亡的迷宫中。"
     },
     {
       "title": "Square Enix Insists That Cursed Kingdom Hearts Art Was Not AI-Generated",
@@ -659,7 +755,9 @@
       "source": "GameSpot",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "史克威尔艾尼克斯坚称《被诅咒的王国之心》艺术作品并非AI生成",
+      "summaryZh": "上个月的任天堂直面会为《王国之心》粉丝带来了各种精彩内容，包括宣布《王国之心》三部曲的原生版本将登陆Switch 2 vi"
     },
     {
       "title": "Machine Party, out now, is masochistic Mario Party from the dev that brought you Buckshot Roulette",
@@ -669,7 +767,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《机械派对》现已发售，是开发者带来《散弹轮盘》的自虐式马里奥派对",
+      "summaryZh": "《马里奥派对》的视觉呈现与它激发的激动和无尽愤怒之间的对比中，显然存在一种幽默感。这不是一款关于暴力的游戏，但我"
     },
     {
       "title": "Diablo 4 Will Finally Let You Play The Same Character Each Season",
@@ -679,7 +779,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《暗黑破坏神4》终于允许你每季都操控同一个角色",
+      "summaryZh": "暗黑破坏神4第十五赛季将新增角色重生功能——允许玩家将永恒领域角色转换为季节角色。通常情况正好相反。角色"
     },
     {
       "title": "A Microsoft Flight Simulator Cinderella Story: Building the A220 Airliner",
@@ -689,7 +791,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Microsoft飞行模拟器灰姑娘故事：打造A220客机",
+      "summaryZh": "本周早些时候，Synaptic Simulations，一支由刚毕业几年的年轻开发者组成的小团队，在Microsoft飞行模拟器市场上推出了他们的首款产品：A220 Airl"
     },
     {
       "title": "Gears of War: E-Day devs are embracing 'old-school' multiplayer in 2026: 'No battle pass, no tour of duty, no gimmicks, no bullsh*t'",
@@ -699,7 +803,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《战争机器：E日》开发者在2026年拥抱“老派”多人模式：“没有战斗通行证，没有服役经历，没有花招，没有废话”",
+      "summaryZh": "但当然，这里有个条件。"
     },
     {
       "title": "Diablo 4 Season 15 Is Adding Stone Of Jordan And Other Iconic Items From Diablo’s Past",
@@ -709,7 +815,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暗黑破坏神4第十五季将加入乔丹之石以及暗黑破坏神过去的其他标志性物品",
+      "summaryZh": "暗黑破坏神4的下个赛季将回归系列历史上一些最具标志性的道具，包括强力戒指如乔丹之石和皇家荣耀戒指。库雷"
     },
     {
       "title": "Celebrating Age in 2026 – Where We’re At, and Where We’re Going",
@@ -719,7 +827,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "2026年庆祝年龄——我们现在的状况，以及未来的方向",
+      "summaryZh": "本文《2026年庆祝年龄——我们现状与未来》首发于XBOX Wire。"
     },
     {
       "title": "Fantasy Maiden Wars: Dream of the Stray Dreamer for Switch now available in the west",
@@ -729,7 +839,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《奇幻少女战争：迷途梦境》现已在西方平台Switch发售",
+      "summaryZh": "东方企划策略角色扮演游戏《幻想少女战争：迷途梦境》现已发售......"
     },
     {
       "title": "XBOX App Available on Hisense and VIDAA OS-powered TVs",
@@ -739,7 +851,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "XBOX 应用可在海信和 VIDAA 操作系统电视上使用",
+      "summaryZh": "我们继续将XBOX带到更多玩家已有的设备上，给他们更多方式去体验自己喜欢的游戏，尤其是那些可能负担不起或无法购买专属游戏的玩家"
     },
     {
       "title": "CoD: Black Ops 2 Port Is Plagued By A Hacker Resetting Accounts",
@@ -749,7 +863,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《使命召唤：黑色行动2》移植版被黑客重置账号困扰",
+      "summaryZh": "前两款《使命召唤：黑色行动》游戏最近作为原作的移植版在PS5和PS4上线，黑客们毫不犹豫地破坏了这份怀旧情怀。玩家们报告说黑方"
     },
     {
       "title": "SpeedRunners 2: King of Speed launches September 3",
@@ -761,7 +877,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《极速通缉令2：速度之王》将于9月3日发售",
+      "summaryZh": "《极速通缉令2：速度之王》将于PlayStation 5、Xbox Series、Switch和PC平台发售......"
     },
     {
       "title": "Dbrand unveils Steam Machine customization 'backup plan' after its Companion Cube got confined to the test chamber",
@@ -771,7 +889,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Dbrand 在其伴侣方块被限制在测试舱内后，公布了蒸汽机定制“备用方案”",
+      "summaryZh": "收工。"
     },
     {
       "title": "Bethesda’s New Logo Looks Like It Actually Belongs To A Video Game Company",
@@ -781,7 +901,9 @@
       "source": "GameSpot",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Bethesda的新标志看起来真的像是某游戏公司的",
+      "summaryZh": "今年是多个重要的电子游戏周年纪念，从《光环》25周年到超级任天堂35周年，发行商Bethesda Softworks也在庆祝40年入行，推出一款胸罩"
     },
     {
       "title": "Extract From the Gyldenmist: Dark Fantasy Extraction ARPG Mistfall Hunter Arrives on XBOX",
@@ -791,7 +913,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "摘自《Gyldenmist：黑暗幻想提取》ARPG《Mistfall Hunter》登陆XBOX",
+      "summaryZh": "新的狩猎在等着你。备受期待的黑暗奇幻动作角色扮演游戏《迷雾猎人》昨日正式在XBOX Series X|S、PC版XBOX和XBOX Game Pass上线。准备好介入吧"
     },
     {
       "title": "忍者神龟现已加入《索尼克赛车 交叉世界》",
@@ -811,7 +935,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "在《极限竞速：地平线6》中寻找弘前城的位置",
+      "summaryZh": "为Classy Castle挑战拍照吧。"
     },
     {
       "title": "Saber Interactive announces Rideshare “Stimulator” for PS5, Xbox Series, and PC",
@@ -822,7 +948,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "Saber Interactive 宣布为 PS5、Xbox Series 和 PC 推出网约车“Stimulator”",
+      "summaryZh": "发行商Saber Interactive和开发商UNIGINE宣布将推出PlayStation 5、Xbox Series等平台的网约车“刺激器”......"
     },
     {
       "title": "FF7 Revelation Director Really Wants You To Have A Physical Edition For The Game",
@@ -832,7 +960,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "最终幻想7：启示导演非常希望你能拥有实体版游戏",
+      "summaryZh": "目前游戏行业最大的话题是关于实体媒体的争论，索尼在2028年1月终止了PlayStation光盘的生产，率先掀起了这场讨论。大家"
     },
     {
       "title": "Silent Hill: Townfall Developers discuss the Scottish setting, retro technology, first-person combat",
@@ -842,7 +972,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "寂静岭：城镇陨落开发者讨论苏格兰背景、复古科技、第一人称战斗",
+      "summaryZh": "《寂静岭：镇落》将于9月24日登陆PlayStation 5，是标志性心理恐怖系列的最新作品。本文将带来制片人冈本基的见解"
     },
     {
       "title": "Free Play Days – WWE 2K26, Polterguys: Possession Party and Wildgate",
@@ -852,7 +984,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "自由游玩日 – WWE 2K26，Polterguys：附身派对和Wildgate",
+      "summaryZh": "走进擂台，在派对中萦绕，迎接未知，参加本周的免费游戏日！Polterguys 的附身派对本周末将在XBOX Game Pass Ultimate、Premium和Essentia平台上线"
     },
     {
       "title": "Your most powerful Necron unit in Dawn of War 4 is a sentient shard of a dead star god, and boy does he hate you",
@@ -862,7 +996,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "你在《战争黎明4》中最强大的死灵族单位是一个死去星神的有意识碎片，而他非常讨厌你",
+      "summaryZh": "在《战争黎明4》中，每个阵营都能部署庞大的终局单位，基本上压倒战场上的所有其他单位。比如，机械教团中热爱机器的技术祭司，他们"
     },
     {
       "title": "松弛聊手游：先刷活动还是通主线？",
@@ -882,7 +1018,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "在《极限竞速：地平线6》中北部地区的寻宝游戏在哪里",
+      "summaryZh": "找到雪地里那个随机的小屋。"
     },
     {
       "title": "Halo: Campaign Evolved doesn't have split-screen on PC, but this mod fixes that, if you're willing to look past some quirks",
@@ -892,7 +1030,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《光环：战役进化》在PC上没有分屏功能，但这个模组修复了这一点，如果你愿意忽略一些怪癖",
+      "summaryZh": "《光环：战役进化》现已正式在PC和主机平台发售。所有版本的功能几乎相同。几乎。这是因为PC版不支持分屏"
     },
     {
       "title": "Gears of War: E-Day multiplayer reveal trailer, developer overview",
@@ -902,7 +1042,9 @@
       "source": "Gematsu",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "战争机器：E日多人游戏发布预告片，开发者概览",
+      "summaryZh": "发行商Xbox Game Studios和开发商The Coalition发布了多人游戏揭晓预告片......"
     },
     {
       "title": "Gears of War: E-Day's new Horde may be the game's most interesting mode, but it left me with more questions than answers",
@@ -912,7 +1054,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《战争机器：E-Day》的新“部落”模式可能是游戏中最有趣的，但它让我产生了更多疑问而非答案",
+      "summaryZh": "我一直迫不及待想体验《战争机器：E-Day》的新部落模式——部落围攻，这似乎是一个设计更聪明、更具吸引力的版本。六月的Xbox首秀盛会让我彻底接受了T。"
     },
     {
       "title": "网易 - 维基百科，自由的百科全书",
@@ -932,7 +1076,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《摇摆人生》将于8月20日登陆Switch 2",
+      "summaryZh": "发行商Curve Games和开发商RubberBandGames将在......"
     },
     {
       "title": "Gears of War: E-Day Multiplayer – All the Details",
@@ -942,7 +1088,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "战争机器：E-Day 多人游戏——所有细节",
+      "summaryZh": "本文《战争机器：E日多人模式——所有细节》最初发表于XBOX Wire。"
     },
     {
       "title": "Gears of War: E-Day – Get an In-Depth Look at Multiplayer with New Trailer and Deep Dive",
@@ -952,7 +1100,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "战争机器：E-Day——通过新预告片和深度探索深入了解多人游戏",
+      "summaryZh": "现在，你将看到《战争机器：E日》多人模式的首次试玩预览在互联网上线——如果你迫不及待想了解更多，我们这里有视频供你参考。我们"
     },
     {
       "title": "Gears of War: E-Day multiplayer is so old, it feels new again",
@@ -962,7 +1112,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《战争机器：E-Day》多人模式已经很老了，现在却焕然一新",
+      "summaryZh": "部落和对战，没有杂质。"
     },
     {
       "title": "Halo: Campaign Evolved's 'death barriers' and ungenerous out-of-bounds restrictions are making the 42 skull grind a real bore",
@@ -972,7 +1124,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《光环：战役进化》的“死亡屏障”和宽容的界外限制让42个骷髅磨炼变得非常无聊",
+      "summaryZh": "《光环：战役进化》终于在预购了高级版的玩家五天抢先体验后，向所有人发售。但当大众终于开始重播士官长的首次登场广告时"
     },
     {
       "title": "Halo on helium has arrived less than a week after modders got their hands on Campaign Evolved, though AI might've been used to chipmunk Chief and Cortana",
@@ -982,7 +1136,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《氦气光环》在模组制作者拿到《战役进化》不到一周后就上线了，不过AI可能被用来搞砸了Chief和Cortana",
+      "summaryZh": "更新：发布后正好两分钟，我注意到《光环：花栗鼠版》的创作者在他们的YouTube频道上发布了AI生成的音乐视频。笑声被收回，等待更多证据。小心"
     },
     {
       "title": "\"Our business did not grow with our audience\": post-layoffs, Xbox execs are trying to sell a gaming division bounce back by summer 2027",
@@ -992,7 +1148,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "“我们的业务没有随着受众增长”：裁员后，Xbox高管试图在2027年夏季前卖掉一个游戏部门的复苏",
+      "summaryZh": "现在运营Xbox的人努力说服旁观者相信Microsoft的游戏部门现在处于更好的起点，从而吸引着监管者渴望的不断增长的资金"
     },
     {
       "title": "Mexican Ninja launches August 20",
@@ -1003,7 +1161,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "墨西哥忍者将于8月20日上线",
+      "summaryZh": "2.5D类Roguelike动作游戏《墨西哥忍者》将登陆PlayStation 5、Xbox Series等平台。"
     },
     {
       "title": "Assassin's Creed Hexe is at least one year away, insider claims",
@@ -1013,7 +1173,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "内部人士称《刺客信条六角》至少还要一年时间",
+      "summaryZh": "《刺客信条：代号Hexe》将作为继《暗影》之后，作为这个长期系列的下一款原创主线游戏。不幸的是，看来我们还要等更久才能重新回归"
     },
     {
       "title": "黄油猫正式开放领养！游戏内游戏外都可以养猫啦！",
@@ -1033,7 +1195,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "BeamNG.drive，Steam最顶尖的汽车煎饼制造商，迎来迄今为止最大的更新，带来了彻底改造的画面、全新的拉力赛赛段和一款运动感十足的新轿跑",
+      "summaryZh": "BeamNG.drive 长期以来一直是最容易推荐给在 Steam 街头巡游的汽车爱好者的游戏之一。正如Graham在2017年写的，它是一个可模组的沙盒，专注于车辆破坏物理"
     },
     {
       "title": "奇妙的旋转浮空大冒险《黄油猫》今日上线蒸汽平台",
@@ -1053,7 +1217,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "公告：不要执行Steam论坛随人提供的PowerShell命令，因为这可能会感染你的电脑，植入加密挖矿工具",
+      "summaryZh": "没有评判，只是友好提醒。"
     },
     {
       "title": "Xbox reports 10 percent drop in revenue across content and services, amid its mass job cuts and studio offload",
@@ -1063,7 +1229,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox报告称，内容和服务各项收入下降了10%，这主要是由于大规模裁员和工作室外流",
+      "summaryZh": "Microsoft最新披露，Xbox在上一个财年季度内容和服务收入下降了10%，此前经历了大规模裁员和开发团队的外卖"
     },
     {
       "title": "尽管财报表现惨淡，Xbox 首席执行官 Asha Sharma 仍持乐观展望",
@@ -1094,7 +1262,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "Aeruta即将登陆PS5、PS4和Switch平台",
+      "summaryZh": "发行商Gravity Game Arise和开发商FromDawn将发布地下城探索与面包店管理RPG......"
     },
     {
       "title": "DragonSword: Awakening sales top 200,000; PlayStation and Nintendo versions underway",
@@ -1105,7 +1275,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "《龙剑：觉醒》销量突破20万册;PlayStation和任天堂版本正在开发中",
+      "summaryZh": "动作角色扮演游戏《龙剑：觉醒》的总销量已突破20万套，PlayStation和任天堂版本......"
     },
     {
       "title": "Second Sino-Japanese War first-person shooter The Defiant adds PS5, Xbox Series versions",
@@ -1116,7 +1288,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "第二次中日战争第一人称射击游戏《叛逆者》新增了PS5和Xbox Series版本",
+      "summaryZh": "《叛逆者》是一款以中日战争为背景的第一人称射击游戏......"
     },
     {
       "title": "对我而言，Steam Machine 比 PS5 或 Xbox Series X 更好",
@@ -1199,7 +1373,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "EXSTETRA登陆PS5、Switch 2和Switch平台将于9月3日发售",
+      "summaryZh": "PlayStation 5、Switch 2 以及重制版奇幻角色扮演游戏的 Switch 版本......"
     },
     {
       "title": "Xbox揭晓德国科隆游戏展参展详情，直播活动同步确认",
@@ -1220,7 +1396,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "《恶魔之夜狂热》将于10月22日上线",
+      "summaryZh": "“速通训练模拟角色扮演游戏”恶魔夜狂热将于PlayStation 5、Switch和PC平台通过......"
     },
     {
       "title": "Stupid Never Dies launches October 21",
@@ -1231,7 +1409,9 @@
       "companies": [
         "sony",
         "valve"
-      ]
+      ],
+      "titleZh": "《愚蠢永不消逝》将于10月21日发布",
+      "summaryZh": "动作角色扮演游戏《愚蠢永不消逝》将通过Steam平台在PlayStation 5和PC平台发售......"
     },
     {
       "title": "Xbox CEO Asha Sharma Gives Optimistic Outlook Despite Grim Fiscal Earnings Report",
@@ -1241,7 +1421,9 @@
       "source": "IGN",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox首席执行官Asha Sharma尽管财报严峻，仍持乐观展望",
+      "summaryZh": "Xbox首席执行官Asha Sharma对公司2026年第四季度财报作出回应，报告显示内容和硬件的盈利持续下滑。"
     },
     {
       "title": "Hololive vtuber says new rhythm game on Steam is surprisingly true to their personas for a reason: 'We had tons of involvement with the script and dialogue'",
@@ -1251,7 +1433,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Hololive 虚拟主播表示，Steam上的新节奏游戏出乎意料地忠于他们的形象，原因在于：“我们在剧本和对话上投入了大量内容”",
+      "summaryZh": "Hololive 虚拟主播 Shiori Novella 表示，她对《Hololive Dreams》有很多参与。"
     },
     {
       "title": "Battlefield 6's Record-Breaking Success Earns EA CEO $38 Million Payday, But Laid-Off Devs Aren't Around to Celebrate",
@@ -1261,7 +1445,9 @@
       "source": "IGN",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地6》创纪录的成功让EA CEO获得了3800万美元的奖金，但被裁员的开发者们却无法庆祝",
+      "summaryZh": "由于《战地6》的出色表现，EA的CEO获得了800万美元的加薪——而这距离负责开发游戏的开发者被裁员仅四个月。"
     },
     {
       "title": "Halo: Campaign Evolved On PC Has A Hidden Feature You Need A Mod To Access",
@@ -1272,7 +1458,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "PC版《光环：战役进化》有一个隐藏功能，需要通过模组才能访问",
+      "summaryZh": "本周，PlayStation 5玩家首次能够与Xbox和PC平台的玩家一起体验《光环：战役进化》。主机玩家可以使用PC移植版的经典《光环》功能"
     },
     {
       "title": "The Steam Machine is Better For Me Than the PS5 or Xbox Series X",
@@ -1284,7 +1472,9 @@
         "sony",
         "xbox",
         "valve"
-      ]
+      ],
+      "titleZh": "Steam机对我来说比PS5或Xbox Series X更好",
+      "summaryZh": "Steam Machine 已经上线一个月了，它已经完美融入了我的日常游戏习惯。现在，我无法想象没有它的生活。"
     },
     {
       "title": "Steam Machine reservation queue should be caught up by the end of 2026, Valve says",
@@ -1294,7 +1484,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Valve表示，Steam Machine的预订队列预计将在2026年底前完成",
+      "summaryZh": "这到底是好消息还是坏消息，取决于个人视角。"
     },
     {
       "title": "EA CEO Got A Huge Pay Increase While Company Laid Off Devs",
@@ -1304,7 +1496,9 @@
       "source": "GameSpot",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA CEO大幅加薪，公司裁员开发者",
+      "summaryZh": "当沙特对艺电的杠杆收购最终完成后，这家新成立的私有公司将无需向公众披露任何财务文件。与此同时，EA最新的财经光盘"
     },
     {
       "title": "Nintendo Switch 2 Drops to Just £364 in Today's Best UK Deals",
@@ -1314,7 +1508,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "任天堂Switch 2在今日英国最佳优惠中降至仅364英镑",
+      "summaryZh": "在亚马逊英国以仅364英镑的价格购买任天堂Switch 2，可能价格上涨前，还有乐高、漫威金刚狼和飞利浦剃须刀的顶级每日优惠。"
     },
     {
       "title": "WoW Classic Hardcore Players Are Being Terrorized By Hidden Underground Enemies",
@@ -1324,7 +1520,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "魔兽世界经典硬核玩家正被隐藏的地下敌人恐吓",
+      "summaryZh": "魔兽世界经典版的硬核服务器已经够难了，还要担心地下伏击，但这正是游戏中毫无防备的低等级玩家所遭遇的事。”"
     },
     {
       "title": "Mod activates split-screen support in Halo: Campaign Evolved PC that's just sitting there, unused",
@@ -1334,7 +1532,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "模组激活了《光环：战役进化》PC版的分屏支持，而分屏功能就那样闲置着，未被使用。",
+      "summaryZh": "拜托，Halo Studios。"
     },
     {
       "title": "Shrek Comes To Ubisoft’s Popular Fighting Game",
@@ -1344,7 +1544,9 @@
       "source": "GameSpot",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《怪物史莱克》登陆育碧热门格斗游戏",
+      "summaryZh": "在《史莱克》被加入一款热门足球游戏后，大家最喜欢的绿色食人魔现在出现在育碧的格斗游戏《乱斗》中。今年《怪物史莱克》在各地不断出现，以庆祝25吨的庆祝"
     },
     {
       "title": "Croc 2: Kingdom of the Gobbos remaster announced for PS5, Xbox Series, PS4, Switch, and PC",
@@ -1356,7 +1558,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "鳄鱼2：戈博斯王国重制版宣布登陆PS5、Xbox Series、PS4、Switch和PC",
+      "summaryZh": "Argonaut Games 宣布了1999年发布的平台游戏《鳄鱼2：王国之国》的重制版"
     },
     {
       "title": "Tencent - Wikipedia",
@@ -1366,7 +1570,8 @@
       "source": "必应资讯",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "腾讯 - 维基百科"
     },
     {
       "title": "Superhero Workplace Comedy, Dispatch Launches on XBOX Today",
@@ -1376,7 +1581,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "《超级英雄职场喜剧》《派遣》今日登陆XBOX平台",
+      "summaryZh": "文章《超级英雄职场喜剧，Dispatch 今日登陆XBOX》最早发布于XBOX Wire。"
     },
     {
       "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
@@ -1386,7 +1593,9 @@
       "source": "PC Gamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "在裁员《战地6》开发者后，EA支付了3800万美元给CEO，因为《战地6》表现非常出色",
+      "summaryZh": "比2025年增加了800万美元的加薪。"
     },
     {
       "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
@@ -1396,7 +1605,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "魔兽世界经典版最新的补丁正在用大量地下敌人的漏洞让硬核玩家感到恐惧，这很可能是暴雪编程中一个几十年来的怪癖造成的",
+      "summaryZh": "石爪山脉又开始耍老把戏了。"
     },
     {
       "title": "The next game on GOG's preservation list would be your favourite ARPG if it hadn't released the same year as Diablo 2, and it's on sale now",
@@ -1406,7 +1617,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "如果不是和《暗黑破坏神2》同年发售，GOG保存名单上的下一款游戏本来就是你最喜欢的动作角色扮演游戏，而且现在已经在打折了",
+      "summaryZh": "机会号NOX检测两次。"
     },
     {
       "title": "Stealth and armour placement rule supreme in Tyr, the new tank shooter from former Destiny and Valorant devs, with a public playtest now live",
@@ -1416,7 +1629,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "潜行和装甲布置在《Tyr》中至高无上，这款由前《命运》和《无畏》开发者打造的新坦克射击游戏，现已公开测试",
+      "summaryZh": "轰！一则预告片刚刚出现在你的收件箱里，铜屑和化石屑的碎片将你的笔记本电脑轰炸得粉碎。你拼命用望远镜扫描地平线，但没有任何 si"
     },
     {
       "title": "Xbox服务器大规模宕机，实体版游戏也被波及",
@@ -1446,7 +1661,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "Switch 2的近畿精神事务局将于7月30日上线",
+      "summaryZh": "恐怖动作游戏《近畿灵事局》的Switch 2版本将于......"
     },
     {
       "title": "Valve has released the CAD design files for the Steam Machine's exterior, leaving us asking: how long before someone makes a GabeCube skin?",
@@ -1456,7 +1673,9 @@
       "source": "Eurogamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Valve发布了蒸汽机外观的CAD设计文件，这让我们不禁问：多久后才能有人做出GabeCube皮肤？",
+      "summaryZh": "Steam Machine 已经在我们中间几周了——虽然价格不菲且供应有限——而且仿制品已经开始出现。与此同时，Valve 允许那些特定的用户使用"
     },
     {
       "title": "Dungeon Antiqua 2 coming to PS5, Xbox Series, and Switch on August 20",
@@ -1468,7 +1687,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《古地地下城2》将于8月20日登陆PS5、Xbox Series和Switch平台",
+      "summaryZh": "AMATA Games 将发布由白桃工厂开发的地下城爬行RPG续作《古地牢2》登陆PlayStation平台......"
     },
     {
       "title": "The Elder Scrolls Online: Tour Tamriel with the Prince of Madness in a New Questline",
@@ -1478,7 +1699,9 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "上古卷轴在线：与疯狂王子一起在新任务线中游览泰姆瑞尔",
+      "summaryZh": "本文《上古卷轴在线：与疯狂王子在新任务线中游览泰姆瑞尔》最初发表于XBOX Wire。"
     },
     {
       "title": "You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026",
@@ -1488,7 +1711,9 @@
       "source": "Eurogamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "你现在可能听不到太多相关消息，但《绝地求生》系列在2026年上半年收入增长了25%",
+      "summaryZh": "《绝地求生》曾是PC上最大的多人游戏，默默地继续保持着非常好的表现。虽然它可能不再登上头条，但它依然是Steam最受欢迎游戏前五名中的常客。"
     },
     {
       "title": "Pokemon Pokopia Expansion Pass | Extended Overview Trailer",
@@ -1498,7 +1723,9 @@
       "source": "GameSpot",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "宝可梦波科皮亚扩展通行证 |扩展概览预告片",
+      "summaryZh": "深呼吸，放松身心，我们将深入探索泡泡盆地水下小镇。宝可梦宝可梦扩展通行证付费DLC第一部分：泡泡盆地将于2026年8月5日发布。"
     },
     {
       "title": "Tentpole Xbox release Halo: Campaign Evolved performs better on the PlayStation 5, with the PS5 Pro providing the best experience",
@@ -1509,7 +1736,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox重磅作品《光环：战役进化》在PlayStation 5上表现更好，PS5 Pro提供了最佳体验",
+      "summaryZh": "《光环：战役进化》——Microsoft最新大制作作品——已经在PlayStation和Xbox平台上由科幻爱好者们亲手发售。不过，经过一番艰难的测试，你可能会感到惊讶"
     },
     {
       "title": "Pokémon Pokopia's Bubbly Basin DLC and underwater-themed free update is coming as soon as next week",
@@ -1519,7 +1748,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "宝可梦的泡泡盆地DLC和水下主题的免费更新最快下周就会上线",
+      "summaryZh": "更新 2：19pm：任天堂刚刚发布了一段七分钟的预告片，确认了8月5日的发售日期，并向玩家介绍了《泡泡盆地》内容和新机制。一个塞科"
     },
     {
       "title": "Clair Obscur: Expedition 33 devs are working on a Nintendo Switch 2 version, but note the \"big technical challenge\" of getting it up and running",
@@ -1529,7 +1760,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "Clair Obscur：《探险33》的开发者正在开发任天堂Switch 2版本，但要注意让它上线运行的“重大技术挑战”",
+      "summaryZh": "你想在Switch 2上玩《Clair Obscur： Expedition 33》吗？自任天堂主机发布以来，粉丝们一直渴望这款突破性的RPG登陆平台——我们也看到了一些暗示"
     },
     {
       "title": "Linux kernel patch can boost the Steam Deck's 1% low frame rate by as much as 31% in early testing",
@@ -1539,7 +1772,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Linux内核补丁可以在早期测试中将Steam Deck 1%的低帧率提升多达31%",
+      "summaryZh": "老款掌机还有生命力。"
     },
     {
       "title": "Blizzard's former Battle.net lead is moving his expertise over to the Epic Games Store to 'elevate player, creator, and developer experiences'",
@@ -1549,7 +1784,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪前 Battle.net 负责人将他的专业知识转移到Epic游戏商店，旨在“提升玩家、创作者和开发者的体验”",
+      "summaryZh": "至少 Battle.net 不会主动让我恼火。"
     },
     {
       "title": "腾讯新游《失控进化》联动大雷美少女！玩家：路边两条？",
@@ -1571,7 +1808,9 @@
         "sony",
         "xbox",
         "valve"
-      ]
+      ],
+      "titleZh": "《疯狂出租车：世界巡回赛》支持竞技多人模式，你很快就有机会体验",
+      "summaryZh": "世嘉宣布将举办《疯狂出租车：世界巡回赛》的闭门网络测试。该有限测试可在PC（Steam和Xbox应用）、PS5和Xbox Series X/S平台提供。它运行的单次会话从"
     },
     {
       "title": "Console Archives Doraemon launches July 30",
@@ -1582,7 +1821,9 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "主机档案《哆啦A梦》将于7月30日发售",
+      "summaryZh": "《主机档案：哆啦A梦》将于7月30日登陆PlayStation 5和Switch 2，发布......"
     },
     {
       "title": "Arcade Archives TX-1 launches July 30",
@@ -1594,7 +1835,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "Arcade Archives TX-1将于7月30日上线",
+      "summaryZh": "《街机档案2 TX-1》将登陆PlayStation 5、Xbox Series和Switch 2，以及......"
     },
     {
       "title": "007 First Light's Switch 2 release date may be closer than we realised",
@@ -1604,7 +1847,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "007 First Light 的 Switch 2 发售日期可能比我们想象的更近",
+      "summaryZh": "自从被宣布正在开发中以来，任天堂Switch 2版的《007 First Light》几乎一直备受期待。那个版本的游戏并没有和所有版本一起发行"
     },
     {
       "title": "After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across \"all milestones\"",
@@ -1614,7 +1859,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "在裁减《战地6》开发者后，EA负责人安德鲁·威尔逊去年的奖金从800万美元上升到3800万美元，这得益于游戏在“所有里程碑”上的成功",
+      "summaryZh": "艺电CEO安德鲁·威尔逊在2026财年获得了3870万美元奖金，因为公司如《战地6》等游戏表现优异，达到“所有里程碑”，并且推出了新的AI策略——exe"
     },
     {
       "title": "Finding Polka launches August 12",
@@ -1624,7 +1871,9 @@
       "source": "Gematsu",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "寻找波尔卡号将于8月12日发射",
+      "summaryZh": "冒险游戏《寻找波尔卡》将于8月12日通过Steam平台在PC平台发售，发行商为PARCO......"
     },
     {
       "title": "Double Fine hit with layoffs after exiting Xbox - \"The people we are losing were all important\"",
@@ -1635,7 +1884,9 @@
       "companies": [
         "xbox",
         "ubisoft"
-      ]
+      ],
+      "titleZh": "退出Xbox后双重罚款被裁员——“我们失去的人都很重要”",
+      "summaryZh": "在宣布Xbox将裁减3200个部门职位并与四家工作室分道扬镳后近一个月，《心灵杀手2》工作室Double Fine Productions正在裁员以确保"
     },
     {
       "title": "Ubisoft reportedly has yet another Far Cry game in development, but at least this one doesn't appear to be in trouble",
@@ -1645,7 +1896,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "据报道，育碧还有另一款《孤岛惊魂》游戏正在开发中，但至少这部游戏看起来没有遇到麻烦",
+      "summaryZh": "《孤岛惊魂》系列沉寂的时间远比育碧预期的要长。公司从未停止开发新的《孤岛惊魂》游戏，只是从未真正问世。接下来"
     },
     {
       "title": "505 Games携手原主创夏思源宣布系列续作，《无常》开启全新篇章",
@@ -1695,7 +1948,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "寂静岭：城镇陨落动机报告",
+      "summaryZh": "超自然恐怖与角色心理挣扎之间的界限在《寂静岭》系列中常常模糊，但这界限可能从未像《寂静岭：镇落》那样模糊。"
     },
     {
       "title": "这世上没有能被轻松复刻的传奇：《光环：战役进化》评测",
@@ -1775,7 +2030,9 @@
       "source": "Gematsu",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "柏拉图尼卡太空将于8月14日发射",
+      "summaryZh": "“心理太空探索冒险”游戏《柏拉图尼卡空间》将于八月通过Steam平台PC平台发售......"
     },
     {
       "title": "Steam周销量排行榜:《幻兽帕鲁》二连冠|2026年7月第4周",
@@ -1819,7 +2076,9 @@
       "source": "IGN",
       "companies": [
         "mihoyo"
-      ]
+      ],
+      "titleZh": "崩坏星穹铁道限量版充电宝和充电器在亚马逊上有售",
+      "summaryZh": "全体登上星际列车。"
     },
     {
       "title": "腾讯公司 - Tencent 腾讯",
@@ -1839,7 +2098,9 @@
       "source": "IGN",
       "companies": [
         "xbox"
-      ]
+      ],
+      "summaryZh": "《光环：战役进化》将有史以来最优秀的游戏之一带到了虚幻引擎5。以下是如何调整设置以调节性能的方法。",
+      "titleZh": "光环：战役进化PC设定指南"
     },
     {
       "title": "Speaking of Matt Damon, there's a new survival game out this week on Steam where you're stranded on Mars and have to grow potatoes to survive",
@@ -1849,7 +2110,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "说到马特·达蒙，本周Steam上有一款新生存游戏，你被困在火星上，必须种植土豆才能生存",
+      "summaryZh": "《火星救援》的粉丝会觉得生存游戏《Sol One》过于熟悉。"
     },
     {
       "title": "Don't let this beautifully-drawn action RPG starring two girls trained in Sekiro-style combat get lost in the sea of new games on Steam",
@@ -1859,7 +2122,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "别让这款以两位受过《只狼》风格战斗训练的女孩为主角的精美动作角色扮演游戏淹没在Steam上新游戏的海洋中",
+      "summaryZh": "《月光》拥有《尼尔》的氛围和令人满意的魂类游戏动作感。"
     },
     {
       "title": "After gaining independence from Xbox, Double Fine are laying off a quarter of their staff",
@@ -1869,7 +2134,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "在摆脱Xbox独立后，Double Fine将裁员四分之一",
+      "summaryZh": "又是这样一天，Double Fine宣布裁员23名员工。这发生在他们与Xbox分道扬镳、重新独立之后几周，那是"
     },
     {
       "title": "Xbox Speaks Out After Double Fine Lays Off 25 Percent of Staff in Transition to Independent Status",
@@ -1879,7 +2146,9 @@
       "source": "IGN",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox在Double Fine裁员25%、转型为独立公司后发声",
+      "summaryZh": "Double Fine，以制作2005年平台游戏《心灵杀手》而闻名，在Xbox大规模重组行动曝光三周后，已裁员25.6%。"
     },
     {
       "title": "'Only the survival of our studio would make us consider such a painful action': Tim Schafer announces Double Fine layoffs just 3 weeks after Xbox cut it loose",
@@ -1889,7 +2158,9 @@
       "source": "PC Gamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "“只有我们工作室的存续才会让我们考虑如此痛苦的举动”：蒂姆·谢弗宣布裁员，距离Xbox解雇Double Fine仅三周",
+      "summaryZh": "共有23人失业。"
     },
     {
       "title": "The Iniu 10,000mAh Power Bank Will More Than Double Nintendo Switch 2 Play Time for Less Than $10",
@@ -1899,7 +2170,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "Iniu 这款 10,000mAh 移动电源，将以不到 10 美元的价格将使任天堂 Switch 2 的游戏时间翻倍多",
+      "summaryZh": "同时玩和充能。"
     },
     {
       "title": "Xbox announces Gamescom 2026 plans",
@@ -1909,7 +2182,9 @@
       "source": "Gematsu",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Xbox 宣布 2026 年科隆展计划",
+      "summaryZh": "Xbox宣布了2026年科隆游戏展的计划，该展将于8月26日至......"
     },
     {
       "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13",
@@ -1919,7 +2194,9 @@
       "source": "Gematsu",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "疯狂出租车：世界巡回赛闭幕网络测试定于9月11日至13日",
+      "summaryZh": "世嘉将在PlayStation 5平台举办《疯狂出租车：世界巡回赛》的闭门网络测试，......"
     },
     {
       "title": "XBOX @ gamescom 2026",
@@ -1929,17 +2206,8 @@
       "source": "Xbox Wire",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "A Mission Worthy of Master Chief",
-      "link": "https://www.gamespot.com/videos/a-mission-worthy-of-master-chief/",
-      "date": "2026-07-28T16:37:45.000Z",
-      "summary": "Watch the biggest moments from Xbox's Halo experience at the Fandom Party at San Diego Comic-Con, celebrating the legacy (and future!) of one of gaming's most iconic franchises.",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ]
+      ],
+      "summaryZh": "加入XBOX参加2026年科隆游戏展，共同庆祝25周年游戏。我们即将回到德国科隆，与来自世界各地的玩家交流，并重点介绍即将推出的许多精彩游戏"
     },
     {
       "title": "Ball x Pit final update The Naturalist arrives August 6",
@@ -1949,7 +2217,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "球与坑最终更新 《自然学家》将于8月6日登陆",
+      "summaryZh": "你好，PlayStation 博客社区的朋友们！我最后一次回来了（...也许）分享最新且最终的免费Ball x Pit更新中可以期待的内容。名为《自然学家更新》，玩家可以期待更多内容"
     },
     {
       "title": "PlayStation Plus Monthly Games lineup for August 2026 announced",
@@ -1959,7 +2229,9 @@
       "source": "Gematsu",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "2026年8月PlayStation Plus月度游戏阵容公布",
+      "summaryZh": "索尼互动娱乐宣布了2026年8月PlayStation Plus Essential版的月度游戏阵容......"
     },
     {
       "title": "Here are our PS Plus monthly games for August, with a bonus pack for Marvel fans",
@@ -1969,7 +2241,9 @@
       "source": "Eurogamer",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "以下是我们八月PS Plus月度游戏，以及为漫威粉丝准备的额外包",
+      "summaryZh": "八月即将到来，索尼公布了本月PlayStation Plus游戏阵容。这个月看起来会是个大热门，这意味着任何套餐的PS Plus订阅用户都应该能拥有"
     },
     {
       "title": "PlayStation Plus Free Games For August 2026 Revealed",
@@ -1979,7 +2253,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "2026年8月PlayStation Plus免费游戏揭晓",
+      "summaryZh": "PlayStation公布了本月为PlayStation Plus订阅用户提供的免费游戏。所有PS Plus会员从8月4日起都可以领取三件免费赠品：Big Walk、Dying Light 2、a"
     },
     {
       "title": "PlayStation Plus Monthly Games for August – Dying Light 2 Stay Human: Reloaded Edition, Big Walk, Signalis",
@@ -1989,7 +2265,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "PlayStation Plus八月月度游戏——消逝的光芒2 保持人类：重装版，Big Walk，Signalis",
+      "summaryZh": "无论是独自或与朋友一起，灵活地在末日城市中生存，结伴同行边走边交谈，穿越充满谜题的愉快世界，或者独自前往反乌托邦的未来旅行"
     },
     {
       "title": "9 R.I.P. sequel launches October 27 in the west",
@@ -1999,7 +2277,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《9 R.I.P.》续集将于10月27日在西方上映",
+      "summaryZh": "乙女视觉小说续作《9 R.I.P.》续作将于10月27日在Switch平台发售......"
     },
     {
       "title": "Teenage Mutant Ninja Turtles: Splintered Fate – Switch 2 physical edition, new DLC character announced",
@@ -2009,7 +2289,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "忍者神龟：分裂的命运 – Switch 2实体版，新DLC角色公布",
+      "summaryZh": "超级邪恶巨企将发行《忍者神龟：分裂的命运》实体版......"
     },
     {
       "title": "Rare Nintendo Famicombox units found in perfectly operational state in a Japanese \"love hotel\"",
@@ -2019,7 +2301,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "在日本“爱情旅馆”中发现的稀有任天堂红白机机，状态完美",
+      "summaryZh": "今天，在意想不到的复古游戏新闻中，我们得知了传奇的Famicombox——任天堂1986年发布的商业专用主机——在一家日本爱情旅馆被发现的消息。阅读更多"
     },
     {
       "title": "Flamecraft is coming to PS5 this year, demo available today",
@@ -2029,7 +2313,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《火焰之术》今年登陆PS5，试玩版现已发售",
+      "summaryZh": "大家好，PlayStation社区的朋友们！我是Monster Couch的Matt，非常激动地告诉大家，Flamecraft今年晚些时候将登陆PlayStation 5。与此同时，如果你好奇想知道接下来会发生什么"
     },
     {
       "title": "Live-Action Zelda Movie Actor Was Too Young To Play Breath Of The Wild When It Released",
@@ -2039,7 +2325,9 @@
       "source": "GameSpot",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "真人版塞尔达电影演员在《旷野之息》上映时还太年轻，无法参与",
+      "summaryZh": "理想情况下，参与改编一部备受赞誉的媒体系列的人应该对该系列非常熟悉。但即将上映的真人版《塞尔德传说》中赋予林克生命的演员"
     },
     {
       "title": "Flamecraft adds PS5, Xbox Series, and Switch versions; demo now available",
@@ -2051,7 +2339,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "Flamecraft 增加了 PS5、Xbox Series 和 Switch 版本;演示现已上线",
+      "summaryZh": "桌面策略游戏《火焰工艺》的电子游戏版本将登陆PlayStation 5，......"
     },
     {
       "title": "网易 - 维基百科，自由的百科全书 - zh.wikipedia.org",
@@ -2071,7 +2361,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Steam Frame 的 subreddit 目前正疯狂祈祷发售日期",
+      "summaryZh": "天哪！里面到底发生了什么？！"
     },
     {
       "title": "Final Fantasy 14 On Switch 2 Is A Sobering Reminder That Storage Isn’t Cheap",
@@ -2081,7 +2373,9 @@
       "source": "GameSpot",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "Switch 2版《最终幻想14》令人警醒地提醒我们，存储空间并不便宜",
+      "summaryZh": "史上最大规模的MMO之一《最终幻想14》将于下个月登陆Switch 2，你需要腾出大量空间来安装游戏。根据Switch eShop的列表"
     },
     {
       "title": "Slain 2: The Beast Within adds PS5, Xbox Series versions",
@@ -2092,7 +2386,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《Skilled 2： The Beast Within》新增了PS5和Xbox Series版本",
+      "summaryZh": "发行商Silver Lining Interactive和开发商Steel Mantis将发布横版动作游戏《Slain 2： the ..."
     },
     {
       "title": "Marvel Tōkon's developer has apologised to PC players for the beta's performance issues, with only a week until launch",
@@ -2102,7 +2398,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Marvel Tōkon的开发者已向PC玩家为测试版的性能问题道歉，距离发售仅剩一周",
+      "summaryZh": "但它仍然打破了Steam格斗游戏测试版的纪录。"
     },
     {
       "title": "The Legend of Zelda movie's Link, Benjamin Evan Ainsworth, couldn't play Breath of the Wild because of his age (and the lack of a Switch)",
@@ -2112,7 +2410,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《塞尔达传说》电影中的林克·本杰明·埃文·安斯沃斯因为年龄（以及没有Switch）无法玩《旷野之息》",
+      "summaryZh": "《塞尔达传说：旷野之息》和《王国之泪》拓展了主线系列的视野，吸引了大量新玩家，但饰演真人版林克的演员却错过了前者——"
     },
     {
       "title": "Tormented Souls II coming to Switch 2 on October 15",
@@ -2122,7 +2422,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《受折磨的灵魂II》将于10月15日登陆Switch 2",
+      "summaryZh": "发行商PQube和开发商Dual Effect将发布生存恐怖游戏续作《Tormented Souls II》......"
     },
     {
       "title": "Call of Duty: Black Ops 2 players want you to please stop voting for Nuketown, Hijacked and Raid every match",
@@ -2132,7 +2434,9 @@
       "source": "Eurogamer",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《使命召唤：黑色行动2》的玩家希望你别每场比赛都投票给核城、劫持和突袭",
+      "summaryZh": "最近发布的《使命召唤：黑色行动1》和《黑色行动2》PlayStation移植版非常受欢迎，但这股玩家的涌入也提醒了大家——无论是否经典——玩家最终还是会被淘汰"
     },
     {
       "title": "Marvel’s Spider-Man 2 Swings Into A Brand New Day",
@@ -2142,18 +2446,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "Long-Awaited Co-Op Zombie Game Is Finally Arriving Next Month",
-      "link": "https://www.gamespot.com/articles/long-awaited-co-op-zombie-game-is-finally-arriving-next-month/",
-      "date": "2026-07-28T13:00:00.000Z",
-      "summary": "Though No More Room In Hell 2 has been playable via Steam and Epic's early-access programs for a while now, the 1.0 build is finally on the way, and it'll coincide with the game's launch on PS5 and Xb",
-      "source": "GameSpot",
-      "companies": [
-        "sony",
-        "valve"
-      ]
+      ],
+      "titleZh": "漫威蜘蛛侠2迎来全新的一天",
+      "summaryZh": "《蜘蛛侠：全新一天》本周正式上映，为了庆祝蜘蛛侠回归，PS5版《漫威蜘蛛侠2》也进行了一些升级。而开发者Insomniac拥有p"
     },
     {
       "title": "\"I wish I could do that\": A developer on The Sims has been eyeing up Paralives' characters' asymmetric shoes and their wider possibilities",
@@ -2163,7 +2458,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“我真希望我也能做到”：《模拟人生》的一位开发者一直在关注《Paralives》角色的非对称鞋子及其更广泛的可能性",
+      "summaryZh": "不对称鞋看起来可能没什么大不了的。我的意思是，如果我们超越那座文化高峰，把奇怪的袜子变成了自豪的不搭鞋时尚宣言，那就不对称了"
     },
     {
       "title": "BioEden for PS5, Xbox Series, and Switch 2 launches September 3",
@@ -2175,7 +2472,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "summaryZh": "PlayStation 5、Xbox Series和Switch 2版本的太阳朋克管理游戏BioEden将......",
+      "titleZh": "《BioEden》登陆PS5、Xbox Series和Switch 2将于9月3日发售"
     },
     {
       "title": "玩家当月老？《燕云十六声》官宣联动《新白娘子传奇》",
@@ -2195,7 +2494,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "现在Valve在Steam上固定了本地网络游戏传输，你就不用再担心带宽或数据限制了",
+      "summaryZh": "分享就是关心——这里有检查你的Steam客户端是否最新。"
     },
     {
       "title": "腾讯少见的良心让利？WeGame零分成政策扶持《影之刃零》",
@@ -2327,7 +2628,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "“到底发生了什么事”：独立开发者发现他们被忽视的Steam游戏竟然为《Undertale》多人模式提供了动力，因为该模组的玩家活跃度爆升了1700%",
+      "summaryZh": "鲜为人知的平台游戏《Crashphalt》意外地走红——但玩家们享受的却是另一种体验。"
     },
     {
       "title": "Meccha Chameleon Players Are Getting Malware From User-Made Maps",
@@ -2337,7 +2640,9 @@
       "source": "GameSpot",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "机甲变色龙玩家正在从用户制作的地图中感染恶意软件",
+      "summaryZh": "《机甲变色龙》——一款最近在Steam上爆红的多人道具狩猎游戏——自六月初发售以来，似乎遇到了第一个真正的坎坷。正如一位玩家指出的那样"
     },
     {
       "title": "Blood Dungeon adds Switch 2 and Switch versions, launches August 25",
@@ -2349,7 +2654,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《血地牢》新增了Switch 2和Switch版本，将于8月25日发售",
+      "summaryZh": "2D平台生存游戏《血之地牢》将登陆PlayStation 5、Xbox Series、Switch 2等平台。"
     },
     {
       "title": "The Pokémon Company is turning to facial recognition scans to help combat scalpers",
@@ -2359,7 +2666,9 @@
       "source": "PC Gamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "宝可梦公司正在利用面部识别扫描来帮助打击黄牛",
+      "summaryZh": "这是你买Chase卡的代价。"
     },
     {
       "title": "Shigeru Miyamoto thinks people don't care about console specs that much anymore, believes Nintendo instead provides \"gameplay that only we can create\"",
@@ -2369,7 +2678,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "宫本茂认为人们现在不太在意主机规格，认为任天堂提供了“只有我们能创造的游戏玩法”",
+      "summaryZh": "任天堂宫本茂的新采访透露，他认为人们已经不再那么在意画面和性能，这与过去几代人的消费者优先级相比。阅读"
     },
     {
       "title": "育碧同时开发两款《孤岛惊魂》游戏 其中一款野心很大",
@@ -2429,7 +2740,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "“绝对是我造过的最愚蠢的东西”：Guy在Steam Deck上装上尖刺和电击枪，阻止家人使用它",
+      "summaryZh": "是的，他们先试过给它设置密码。"
     },
     {
       "title": "User-made maps from Steam top-seller Meccha Chameleon have been found to contain malware, just as the game's official Discord server got hacked",
@@ -2439,7 +2752,9 @@
       "source": "Eurogamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Steam畅销游戏《Meccha Chameleon》的用户制作地图被发现含有恶意软件，正如游戏官方Discord服务器被黑一样",
+      "summaryZh": "独立病毒式爆红的道具狩猎游戏《变色龙机甲》经历了一个相当不幸的周末。游戏开发者回应了一则声称部分Steam创意工坊地图被包含的报道"
     },
     {
       "title": "BeastLink launches in Early Access for PC on August 18",
@@ -2449,7 +2764,9 @@
       "source": "Gematsu",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "BeastLink 将于8月18日在PC平台抢先体验阶段上线",
+      "summaryZh": "多人怪兽动作游戏《BeastLink》将通过Steam在PC平台以抢先体验形式上线......"
     },
     {
       "title": "\"I dunno why they chose Crashphalt\": forgotten Steam game suddenly becomes a hit after players start using it for Undertale online multiplayer",
@@ -2459,7 +2776,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "“我不知道他们为什么选Crashphalt”：被遗忘的Steam游戏突然在玩家开始用它进行Undertale在线多人游戏后大受欢迎",
+      "summaryZh": "《Crashphalt》于2018年发布，是一款免费且古怪的多人游戏，玩家通过地面重击制造地震涟漪，努力在幕外互相踢出。它有种“压倒性”的感觉"
     },
     {
       "title": "Memory chipmaker CXMT sees shares surge 466%, becomes one of China's most valuable listed companies right below Tencent",
@@ -2469,7 +2788,9 @@
       "source": "PC Gamer",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "存储芯片制造商CXMT股价飙升466%，成为中国仅次于腾讯的最有价值上市公司之一",
+      "summaryZh": "“很难说这种乐观情绪是否可持续。”"
     },
     {
       "title": "More bad news for Valve and its still unreleased Steam Frame as Qualcomm is set to raise the price of its chips, like everyone else",
@@ -2479,7 +2800,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "对Valve及其尚未发布的Steam Frame来说，还有坏消息，因为高通计划像其他公司一样提高芯片价格",
+      "summaryZh": "Valve的新款VR头显即将发布。"
     },
     {
       "title": "Gen.G 和 T1 在 无畏契约 太平洋赛区第二周比赛后位列小组榜首",
@@ -2549,7 +2872,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Steam周评测：大量粗糙的零售模拟游戏继续涌入Steam，且看不到尽头",
+      "summaryZh": "截至7月26日当周所有有趣的Steam事实。"
     },
     {
       "title": "腾讯 - 维基百科，自由的百科全书",
@@ -2569,7 +2894,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "《又一个僵尸防御高清版》的真名，在Steam上限时免费发布",
+      "summaryZh": "带上枪，带上你的朋友。"
     },
     {
       "title": "热点预告：2026ChinaJoy开幕！多款怀旧游戏大更新 热点预告 - ChinaJoy - 绝区零",
@@ -2589,7 +2916,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "如果你怀念过去那些直白的动作角色扮演游戏，可以试试《Darkstone Restoration》的慷慨演示版",
+      "summaryZh": "打开传送门，我们回去。"
     },
     {
       "title": "Tencent 腾讯",
@@ -2599,7 +2928,8 @@
       "source": "必应资讯",
       "companies": [
         "tencent"
-      ]
+      ],
+      "summaryZh": "欢迎来到中国，轻松支付与卫星支付，腾讯正在改进支付服务，让来华游客更好地享受充满活力的国际旅游和文化交流。"
     },
     {
       "title": "玩魔兽世界，做反诈男孩",
@@ -2619,7 +2949,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《最终幻想14》计划对其住房系统进行两次重大改造，以赶上《魔兽世界》的进度：“这大概是很多人最期待的项目”",
+      "summaryZh": "秘密的住房变动正在进行中。"
     },
     {
       "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
@@ -2629,7 +2961,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "J.K. Simmons没玩过《博德之门3》或他的任何游戏，但他很喜欢《传送门2》：“我本可以拍电影、舞台剧，或者其他什么”",
+      "summaryZh": "公平就是公平。"
     },
     {
       "title": "Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it",
@@ -2639,7 +2973,9 @@
       "source": "PC Gamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "育碧表示，《黑旗》重制版仅两周就超出了“年度预期”，而此前不久，该重制版裁员也被裁掉了",
+      "summaryZh": "电子游戏盗版。"
     },
     {
       "title": "Steam may be celebrating the railway experience with its Train Fest, but let's remember how rubbish the typical train trip is with some Train Sim World DLC",
@@ -2649,7 +2985,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Steam可能在通过Train Fest庆祝铁路体验，但我们要记住，带着Train Sim World的DLC来体验典型的火车之旅有多糟糕",
+      "summaryZh": "“那灰色、朦胧的阴霾从我身边掠过，真是英国风情。”"
     },
     {
       "title": "A crossover between Dungeons & Dragons and World of Warcraft has leaked",
@@ -2659,7 +2997,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "龙与地下城与魔兽世界的跨界合作泄露了",
+      "summaryZh": "这次看起来不仅仅是入门套装，正如我们在之前的跨界作品中看到的，比如《怪奇物语》或《瑞克和莫蒂》。"
     },
     {
       "title": "With Doomsday Approaching, Grab A Cheap Marvel Tokon: Fighting Souls Steam Key With This Preorder Deal",
@@ -2669,7 +3009,9 @@
       "source": "GameSpot",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "随着末日临近，利用本次预购优惠抢购廉价的漫威Tokon：战斗之魂Steam激活码",
+      "summaryZh": "《漫威Tokon：战斗之魂》正是我对超级英雄格斗游戏的期待。我希望它充满活力。我希望它充满熟悉的面孔和鲜为人知的角色。最重要的是"
     },
     {
       "title": "Modding wizard creates Grand Theft Auto multiverse that lets players travel instantly between Rockstar's first three games: 'We got inter-GTA portals before GTA 6'",
@@ -2679,7 +3021,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "模组大师打造了《侠盗猎车手》多元宇宙，让玩家能瞬间穿越Rockstar前三款游戏：“我们在GTA 6之前就有跨GTA传送门”",
+      "summaryZh": "模组创作者说：“另一个游戏实际上是在运行它，不是视频或捕捉的窗口。”"
     },
     {
       "title": "Tencent 腾讯",
@@ -2709,7 +3053,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "病毒浣熊吉莫西正成为一只可赚取的魔兽宠物",
+      "summaryZh": "吉莫西，这只短刺浣熊，赢得了网络的心，他即将登上魔兽世界。在过去的几周里，浣熊吉莫西作为西雅图本地人迅速走红"
     },
     {
       "title": "Amazon Gaming boss says high hardware prices could be good news for its Luna cloud gaming program",
@@ -2719,7 +3065,9 @@
       "source": "PC Gamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "亚马逊Gaming负责人表示，高昂的硬件价格对其Luna云游戏项目可能是好消息",
+      "summaryZh": "在一个价值1000美元的Steam机器的世界里，无硬件的游戏选项可能会更广泛地吸引人。"
     },
     {
       "title": "Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW",
@@ -2729,7 +3077,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪员工因涉嫌帮助朋友作弊而失业",
+      "summaryZh": "暴雪确认，一名曾使用开发者工具帮助一群朋友完成《魔兽世界》中具有挑战性的Mythic+地下城的员工已不再留职。耳朵"
     },
     {
       "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run",
@@ -2739,7 +3089,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪解雇了魔兽世界开发者，因为他们在地下城中使用禁忌魔法来瞬杀普通玩家的Boss",
+      "summaryZh": "魔兽世界工作室暴雪宣布，他们解雇了一名开发者，原因是他们用仅开发的法术瞬间击杀了一些非开发冒险者队伍的Mythic+地下城Boss。TH"
     },
     {
       "title": "网易最离谱的新品，《遗忘之海》吓到我了",
@@ -2789,7 +3141,9 @@
       "source": "GameSpot",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《生化危机4》的销量是其他任何现世代重制版的两倍多",
+      "summaryZh": "《刺客信条：黑旗重同步版》的发布证明了电子游戏重制依然有强烈的市场需求，育碧这款新作销量达到350万份且还在增长，取得了巨大成功"
     },
     {
       "title": "Surprise, Age of Empires 3: Definitive Edition's Baltic Powers expansion has re-emerged from the annals of cancelled DLC history, will come out in September",
@@ -2799,7 +3153,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "惊喜的是，《帝国时代3：终极版》的波罗的海列强扩展包从被取消的DLC历史中重新出现，将于九月发布",
+      "summaryZh": "啊！在2025年初你被取消后，你并没有完全退出战场，《帝国时代III：终极版》的波罗的海列强DLC！这只是你的一个策略手段"
     },
     {
       "title": "EA Sports FC 27 Has A New $150 Edition, Because Ultimate Wasn’t Ultimate Enough",
@@ -2809,7 +3165,9 @@
       "source": "GameSpot",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC 27推出了新的150美元版本，因为终极版还不够 Ultimate",
+      "summaryZh": "EA似乎打算从消费者那里榨取额外现金，因为他们不仅会推出70美元的标准版和100美元的“终极版”足球游戏《EA Sports FC 27》，还将"
     },
     {
       "title": "《魔兽世界》员工后台秒BOSS，只为带飞大雷美女主播",
@@ -2829,7 +3187,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗重同步》已售出超过350万份，“在首14天内就超出了年度预期”",
+      "summaryZh": "《刺客信条：黑旗》在育碧的开发中正日益壮大。在开局几天内净销量达到200万（随后一周内飙升至300万），育碧刚刚宣布"
     },
     {
       "title": "新闻 | HoYoverse",
@@ -2859,7 +3219,9 @@
       "source": "IGN",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "英雄联盟 Riftbound 卡牌游戏：复仇者补充包的第一印象 |IGN预览",
+      "summaryZh": "抢先预览《英雄联盟：裂谷边界》即将推出的复仇扩展包。"
     },
     {
       "title": "Blizzard fires World of Warcraft game master who insta-killed bosses for friends",
@@ -2869,7 +3231,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪解雇了那个为朋友瞬杀Boss的魔兽世界游戏主持人",
+      "summaryZh": "这也将是对涉案球员采取“行动”。"
     },
     {
       "title": "Ubisoft chief says Sony's decision to kill game discs isn't going to be a big deal",
@@ -2879,7 +3243,9 @@
       "source": "PC Gamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "育碧负责人表示，索尼决定终止游戏光盘不会成为大问题",
+      "summaryZh": "伊夫·吉勒莫认为，缺乏实体光盘甚至可能是件好事。"
     },
     {
       "title": "Tencent 腾讯",
@@ -2889,7 +3255,8 @@
       "source": "必应资讯",
       "companies": [
         "tencent"
-      ]
+      ],
+      "summaryZh": "腾讯成立于1998年，是一家致力于提升用户生活、支持企业数字化的互联网公司，秉持“用户价值，科技为善”的使命。"
     },
     {
       "title": "EU approves Saudi Arabia's $55bn acquisition of EA, clearing path for largest private leveraged buyout of all time",
@@ -2899,7 +3266,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "欧盟批准沙特阿拉伯以550亿美元收购EA，为有史以来最大规模的私人杠杆收购铺平了道路",
+      "summaryZh": "欧盟已批准沙特阿拉伯公共投资基金（PIF）、私募股权公司Silver Lake和投资公司Affini对艺电的备受争议收购，金额达550亿美元"
     },
     {
       "title": "Blizzard investigating World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded",
@@ -2909,7 +3278,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪调查《魔兽世界》作弊丑闻，游戏主持人在未意识到被录制的情况下“死亡触碰”了Boss",
+      "summaryZh": "其中一位玩家随后在Twitch直播中泄露了内幕。"
     },
     {
       "title": "Faker becomes an honorary Korean police officer to help discourage online gambling",
@@ -2919,7 +3290,9 @@
       "source": "PC Gamer",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "Faker成为韩国名誉警察，以帮助遏制网络赌博",
+      "summaryZh": "在拳头为《英雄联盟》接受“博彩赞助”一年后，这位著名电竞职业选手如今成为“网络赌博预防大使”。"
     },
     {
       "title": "StarCraft 2 is included in Blizzard's BlizzCon digital goodies, which is more evidence a new game will be announced soon, right?",
@@ -2929,7 +3302,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《星际争霸2》被收录在暴雪的暴雪嘉年华数字奖励中，这更说明新游戏即将发布，对吧？",
+      "summaryZh": "只有我觉得暴雪正在准备宣布传闻中的星际争霸射击游戏吗？"
     },
     {
       "title": "腾讯公司 - Tencent 腾讯",
@@ -2949,7 +3324,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗》重新同步的模组制作者让黑胡子可玩，但这里有一个针筒形状的理由，避免历史准确的海盗角色扮演",
+      "summaryZh": "《刺客信条：黑旗重同步》是一场田园诗般的海盗冒险，尤其是它将目光牢牢锁定在爱德华·肯威追求战利品的过程中。自然，肯威和一群真正的人混在一起"
     },
     {
       "title": "Blizzard's calling time on Overwatch's hero customising Stadium mode, and I may well be the only person that's sad about that",
@@ -2959,7 +3336,9 @@
       "source": "Eurogamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪宣布结束了守望先锋英雄定制体育场模式的时代，我可能是唯一对此感到难过的人",
+      "summaryZh": "我认为在线服务游戏面临一个有趣的难题：如何在不断创新和变化的同时，持续提供游戏的核心体验，以达到"
     },
     {
       "title": "Jagex wants classic British point-and-click MMO RuneScape to be bigger than World of Warcraft",
@@ -2969,7 +3348,9 @@
       "source": "Eurogamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "Jagex 希望经典的英国点击式 MMO RuneScape 能超越魔兽世界",
+      "summaryZh": "Jagex首席执行官Jon Bellamy分享了他对RuneScape未来五年成为全球最大MMO的宏大梦想。对于不了解的人来说，这意味着要彻底颠覆魔兽世界"
     },
     {
       "title": "Battlefield 6's newest and largest map is good, but I worry it will end up being nothing more than a curiosity",
@@ -2979,7 +3360,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地6》最新且最大的地图不错，但我担心它最终会沦为一个好奇的玩意儿",
+      "summaryZh": "在我玩《战地6》即将推出的鹤礁地图——迄今为止最大的一张，明天第四季即将登陆时，有一个想法让我始终挥之不去。鹤礁就是那个"
     },
     {
       "title": "EA Sports FC simulations correctly predicted the FIFA World Cup winner would be Spain, and it's not the first time it has happened",
@@ -2989,7 +3372,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC的模拟正确预测FIFA世界杯冠军将是西班牙，这并非首次发生",
+      "summaryZh": "西班牙在昨晚以1比0击败阿根廷后，成为新的FIFA世界杯冠军，EA Sports FC游戏再次正确预测了结果。阅读更多"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced sold 3 million in its first week",
@@ -2999,7 +3384,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗重同步》首周销量达300万份",
+      "summaryZh": "在开局销量达200万张后，《刺客信条 黑旗重同步》达到了新的销售里程碑：育碧宣布该重制版在所有平台上一周内销量已超过300万套。阅读 m"
     },
     {
       "title": "热游情报：“成人版Steam”即将上线，LOL怀旧服公布，《古剑》线下试玩显真容 热游情报 - 英雄联盟怀旧服 - 成人版Steam",
@@ -3020,7 +3407,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地6》第四季将迎来进化版的航母突击模式，而《壮志凌云》的联动不仅仅是外观",
+      "summaryZh": "《战地6》即将到来的第四季依然看起来是最激动人心的赛季之一。在本周早些时候首次展示了海战后，战地工作室现在详细介绍了"
     },
     {
       "title": "\"I would fight it tooth and nail\": The Sims artist would challenge any mandate to reduce diversity after EA Saudi buyout",
@@ -3030,7 +3419,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“我会拼尽全力反对”：这位模拟人生艺术家挑战了EA沙特收购后任何减少多样性的强制措施",
+      "summaryZh": "针对沙特支持的EA收购后，模拟人生团队可能面临减少多样性支持的担忧，高级角色艺术家Jess Hyland表示她“没听说过什么"
     },
     {
       "title": "Ubisoft is working on Assassin's Creed Black Flag Resynced New Game Plus",
@@ -3040,7 +3431,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "育碧正在开发《刺客信条：黑旗》重新同步的新游戏加版",
+      "summaryZh": "《刺客信条：黑旗重同步》的巨大成功，很可能与工作室决定开发新游戏加成模式有关。游戏总监理查德·奈特确认了该功能"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced's latest update stops unexpected mutinies triggered by ship shopping trips and forces skies to be sunnier",
@@ -3050,7 +3443,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗重同步》的最新更新阻止了因船只购物引发的意外叛变，并使天空变得更加晴朗",
+      "summaryZh": "我们都经历过。你是个口袋里满是刚偷来的金币的海盗船长，想把钱全花在崭新的大炮或雕刻成ba形的船首像上"
     },
     {
       "title": "\"Never say never\": Criterion aren't ruling out a return to Need For Speed, but Battlefield is their only focus for now",
@@ -3060,7 +3455,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“永不言不可能”：Criterion并未排除回归《极品飞车》，但目前《战地》是他们唯一的重点",
+      "summaryZh": "上周，为了纪念其成立30周年，EA将Criterion重新命名为Criterion：战地工作室。这家历史悠久的工作室曾创作过《Burnout》，近年来引领了《极品飞车》系列的发展"
     },
     {
       "title": "League of Legends Classic players clash against old-school skin cosmetics, as the faithfulness of the new game mode is called into question",
@@ -3070,7 +3467,9 @@
       "source": "Eurogamer",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "英雄联盟经典版的玩家与老派皮肤装饰展开激烈对决，新模式的忠实度受到质疑",
+      "summaryZh": "《英雄联盟经典版》由拳头游戏正式公布。作为对早期MOBA体验的重现，《英雄联盟经典版》将早期赛季的核心时刻融合在一起，"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced studio Ubisoft Barcelona goes on three-day strike in protest of layoffs",
@@ -3080,7 +3479,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗》重新同步工作室育碧巴塞罗那为抗议裁员而发起为期三天的罢工",
+      "summaryZh": "《刺客信条 黑旗重同步》开局火热，育碧仅发售当天就宣称销量达200万份。但尽管取得成功，育碧巴塞罗那——参与其中一家的工作室"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced enjoys the best launch of any AC game on Steam, making avast sum of money there",
@@ -3091,7 +3492,9 @@
       "companies": [
         "ubisoft",
         "valve"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗重同步》在Steam上拥有所有《刺客信条》游戏中最成功的首发，赚取了大量收益",
+      "summaryZh": "现在很明显，《刺客信条：黑旗重同步》对育碧来说是成功的，尽管这也莫名其妙地导致发行商裁掉了许多制作该游戏的开发者"
     },
     {
       "title": "米哈游就 “不正当竞争纠纷” 为案由，向B站提起诉讼；该案将 ...",
@@ -3111,7 +3514,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "“育碧认为这就是我们应得的”：《刺客信条：黑旗重新同步》发布后因育碧巴塞罗那计划裁员引发工会罢工",
+      "summaryZh": "继《刺客信条：黑旗重同步》发布后，这是一家遍布全球的育碧工作室共同开发的项目，其中一家工作室的工会抗议活动也随之爆发"
     },
     {
       "title": "热点预告：《三角洲行动》新模式测试，《古剑》举办线下试玩 三角洲行动 - 永劫无间 - Apex英雄",

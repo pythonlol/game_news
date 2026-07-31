@@ -1,7 +1,8 @@
 // 游戏资讯每日抓取脚本
 // 用法: node fetch_news.js
 // 功能: 从官网 RSS 和游戏媒体 RSS 抓取 10 家主流游戏厂商的最新资讯,
-//       合并进 data/news.json(去重、保留 60 天),并生成 index.html 静态网页。
+//       合并进 data/news.json(去重、保留 60 天),非中文条目自动翻译为中文,
+//       并生成 index.html 静态网页。
 
 const fs = require("fs");
 const path = require("path");
@@ -239,6 +240,76 @@ async function mapLimit(list, limit, fn) {
   return results;
 }
 
+// ---------- 翻译: 非中文标题/摘要 -> 中文 ----------
+// 主用 Edge 翻译接口(免费/免密钥/支持批量, 国内可直连), 失败回退谷歌免费接口(CI 上可用)
+// 译文以 titleZh/summaryZh 写入数据文件持久缓存, 已有译文的条目不会重复请求
+const TRANSLATE_BATCH = 20; // 每次请求合并的文本条数
+
+function needsTranslation(s) {
+  return !!s && !/[一-鿿]/.test(s);
+}
+
+let edgeToken = null;
+async function translateViaEdge(texts) {
+  if (!edgeToken) {
+    const auth = await fetch("https://edge.microsoft.com/translate/auth", { signal: AbortSignal.timeout(15000) });
+    if (!auth.ok) throw new Error("HTTP " + auth.status);
+    edgeToken = await auth.text();
+  }
+  const res = await fetch("https://api-edge.cognitive.microsofttranslator.com/translate?to=zh-Hans&api-version=3.0", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: "Bearer " + edgeToken },
+    body: JSON.stringify(texts.map((t) => ({ Text: t }))),
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  return data.map((d, i) => (d.translations && d.translations[0] && d.translations[0].text) || texts[i]);
+}
+
+async function translateViaGoogle(texts) {
+  const out = [];
+  for (const t of texts) {
+    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" + encodeURIComponent(t);
+    const res = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(15000) });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    out.push((data[0] || []).map((seg) => seg[0]).join("") || t);
+  }
+  return out;
+}
+
+async function translateChunk(texts) {
+  try {
+    return await translateViaEdge(texts);
+  } catch {
+    try {
+      return await translateViaGoogle(texts);
+    } catch {
+      return null;
+    }
+  }
+}
+
+async function translateItems(items) {
+  const tasks = [];
+  for (const it of items) {
+    if (needsTranslation(it.title) && !it.titleZh) tasks.push([it, "titleZh", it.title]);
+    if (needsTranslation(it.summary) && !it.summaryZh) tasks.push([it, "summaryZh", it.summary]);
+  }
+  if (!tasks.length) return;
+  const chunks = [];
+  for (let i = 0; i < tasks.length; i += TRANSLATE_BATCH) chunks.push(tasks.slice(i, i + TRANSLATE_BATCH));
+  let ok = 0;
+  await mapLimit(chunks, 3, async (chunk) => {
+    const out = await translateChunk(chunk.map((t) => t[2]));
+    if (out) chunk.forEach((t, i) => {
+      if (out[i] && out[i] !== t[2]) { t[0][t[1]] = out[i]; ok++; }
+    });
+  });
+  console.log(`翻译完成 ${ok}/${tasks.length} 段文本(失败条目保留原文)`);
+}
+
 function matchCompanies(text) {
   const hits = [];
   for (const c of COMPANY_REGEX) {
@@ -300,11 +371,11 @@ function renderHtml(data) {
         .map(
           (it) => `
         <li class="news-item">
-          <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+          <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>
           <div class="meta"><span class="time">${fmtTime(it.date)}</span><span class="source">${esc(it.source)}</span>${it.companies
             .map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`)
             .join("")}</div>
-          ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
+          ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
         </li>`
         )
         .join("")
@@ -322,9 +393,9 @@ function renderHtml(data) {
           .map(
             (it) => `
         <li class="news-item">
-          <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+          <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>
           <div class="meta"><span class="source">${esc(it.source)}</span><span class="date">${fmtDate(it.date)}</span></div>
-          ${it.summary ? `<p class="summary">${esc(it.summary)}</p>` : ""}
+          ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
         </li>`
           )
           .join("")
@@ -471,6 +542,9 @@ async function main() {
     count[main] = (count[main] || 0) + 1;
     return count[main] <= MAX_PER_COMPANY;
   });
+
+  // 翻译非中文条目(结果写入条目字段, 随数据文件持久缓存)
+  await translateItems(all);
 
   data.items = all;
   data.updatedAt = new Date().toISOString();
