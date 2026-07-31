@@ -366,44 +366,39 @@ function renderHtml(data) {
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const todayItems = recent.filter((it) => now - new Date(it.date).getTime() <= 24 * 3600e3);
   const today = todayItems.length >= 10 ? todayItems : recent;
-  const todayList = today.length
-    ? today
-        .map(
-          (it) => `
+  // 单条资讯渲染: showTime 时显示具体时间并附带厂商标签(用于"今日最新"混排)
+  const renderItem = (it, showTime) => `
         <li class="news-item">
           <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>
-          <div class="meta"><span class="time">${fmtTime(it.date)}</span><span class="source">${esc(it.source)}</span>${it.companies
-            .map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`)
-            .join("")}</div>
+          <div class="meta">${showTime ? `<span class="time">${fmtTime(it.date)}</span>` : `<span class="date">${fmtDate(it.date)}</span>`}<span class="source">${esc(it.source)}</span>${
+            showTime ? it.companies.map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`).join("") : ""
+          }</div>
           ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
-        </li>`
-        )
-        .join("")
-    : `<li class="empty">最近 48 小时暂无新资讯</li>`;
+        </li>`;
+
+  const todayList = today.length ? today.map((it) => renderItem(it, true)).join("") : `<li class="empty">最近 48 小时暂无新资讯</li>`;
   const todaySection = `
       <section class="company today" id="today">
         <h2><span class="badge">★</span> 今日最新 <small>最近更新按时间混排</small></h2>
-        <ul>${todayList}</ul>
+        <ul class="cards">${todayList}</ul>
       </section>`;
 
+  // 每家厂商默认展示前 VISIBLE_COUNT 条, 其余折叠, 避免页面过长
+  const VISIBLE_COUNT = 8;
   const sections = COMPANIES.map((c, idx) => {
     const items = byCompany[c.id];
+    const head = items.slice(0, VISIBLE_COUNT).map((it) => renderItem(it, false)).join("");
+    const rest = items.slice(VISIBLE_COUNT);
     const list = items.length
-      ? items
-          .map(
-            (it) => `
-        <li class="news-item">
-          <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>
-          <div class="meta"><span class="source">${esc(it.source)}</span><span class="date">${fmtDate(it.date)}</span></div>
-          ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
-        </li>`
-          )
-          .join("")
-      : `<li class="empty">暂无可匹配的资讯</li>`;
+      ? `<ul class="cards">${head}</ul>` +
+        (rest.length
+          ? `<details class="more"><summary>展开其余 ${rest.length} 条</summary><ul class="cards">${rest.map((it) => renderItem(it, false)).join("")}</ul></details>`
+          : "")
+      : `<p class="empty">暂无可匹配的资讯</p>`;
     return `
       <section class="company" id="${c.id}">
-        <h2><span class="badge">${String(idx + 1).padStart(2, "0")}</span> ${esc(c.name)} <small>${esc(c.en)}</small></h2>
-        <ul>${list}</ul>
+        <h2><span class="badge">${String(idx + 1).padStart(2, "0")}</span> ${esc(c.name)} <small>${esc(c.en)} · ${items.length} 条</small></h2>
+        ${list}
       </section>`;
   }).join("\n");
 
@@ -420,63 +415,69 @@ function renderHtml(data) {
 <title>每日游戏资讯 · 十大厂商</title>
 <style>
   :root {
-    --bg: #13161c; --panel: #1a1e27; --text: #dfe3ea; --muted: #8b919e;
-    --accent: #8ab4f8; --line: #262c39;
+    --bg: #0e1117; --panel: #171c26; --panel-hover: #1c2230; --text: #e6e9f0; --muted: #8f97a8;
+    --accent: #8ab4f8; --accent-soft: rgba(138,180,248,.14); --line: #262d3c;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; scroll-padding-top: 60px; }
   body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 16px; }
-  header { max-width: 820px; margin: 0 auto; padding: 28px 20px 14px; }
-  header h1 { font-size: 24px; letter-spacing: 1px; }
-  header p { color: var(--muted); margin-top: 6px; font-size: 13px; }
-  nav { display: flex; flex-wrap: wrap; gap: 6px; max-width: 820px; margin: 0 auto; padding: 10px 20px; position: sticky; top: 0; background: rgba(19,22,28,.92); backdrop-filter: blur(8px); z-index: 10; border-bottom: 1px solid var(--line); }
-  nav a { color: var(--muted); text-decoration: none; font-size: 13px; padding: 3px 10px; border-radius: 12px; }
-  nav a:hover { color: var(--accent); background: var(--panel); }
-  main { max-width: 820px; margin: 0 auto; padding: 4px 20px 60px; }
-  .company { margin-top: 36px; }
-  .company h2 { font-size: 18px; margin-bottom: 4px; }
+  header { max-width: 860px; margin: 0 auto; padding: 36px 20px 18px; }
+  header h1 { font-size: 26px; letter-spacing: 1px; display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  header h1 .updated { font-size: 12px; font-weight: normal; letter-spacing: 0; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 2px 12px; }
+  header p { color: var(--muted); margin-top: 10px; font-size: 13px; }
+  nav { display: flex; flex-wrap: wrap; gap: 6px; max-width: 860px; margin: 0 auto; padding: 10px 20px; position: sticky; top: 0; background: rgba(14,17,23,.9); backdrop-filter: blur(10px); z-index: 10; border-bottom: 1px solid var(--line); }
+  nav a { color: var(--muted); text-decoration: none; font-size: 13px; padding: 4px 12px; border-radius: 999px; transition: color .15s, background .15s; }
+  nav a:hover { color: var(--accent); background: var(--accent-soft); }
+  main { max-width: 860px; margin: 0 auto; padding: 8px 20px 64px; }
+  .company { margin-top: 40px; }
+  .company h2 { font-size: 18px; margin-bottom: 14px; padding-left: 12px; border-left: 3px solid var(--accent); line-height: 1.4; }
   .company h2 small { color: var(--muted); font-size: 12px; font-weight: normal; margin-left: 8px; }
-  .badge { color: var(--accent); font-size: 13px; font-family: Consolas, monospace; margin-right: 6px; opacity: .75; }
-  .today .badge { opacity: 1; }
-  ul { list-style: none; }
-  .news-item { padding: 13px 0; border-bottom: 1px solid var(--line); }
-  .news-item:last-child { border-bottom: none; }
-  .news-item a { color: var(--text); text-decoration: none; font-size: 15.5px; font-weight: 500; }
+  .badge { color: var(--accent); font-size: 13px; font-family: Consolas, monospace; margin-right: 6px; opacity: .8; }
+  ul.cards { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .news-item { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; transition: border-color .15s, background .15s; }
+  .news-item:hover { border-color: var(--accent); background: var(--panel-hover); }
+  .news-item a { color: var(--text); text-decoration: none; font-size: 15.5px; font-weight: 600; line-height: 1.55; display: inline-block; }
   .news-item a:hover { color: var(--accent); }
-  .news-item a:visited { color: #9aa1ad; }
-  .meta { font-size: 12px; color: var(--muted); margin-top: 3px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-  .tag { border: 1px solid var(--line); border-radius: 8px; padding: 0 6px; font-size: 11px; line-height: 18px; }
-  .summary { font-size: 13px; color: var(--muted); margin-top: 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .empty { color: var(--muted); font-size: 14px; padding: 10px 0; }
-  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px; border-top: 1px solid var(--line); }
+  .news-item a:visited { color: #98a0ae; }
+  .meta { font-size: 12px; color: var(--muted); margin-top: 6px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .meta .time, .meta .date { font-family: Consolas, monospace; }
+  .tag { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 0 8px; font-size: 11px; line-height: 18px; }
+  .summary { font-size: 13px; color: var(--muted); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .empty { color: var(--muted); font-size: 14px; padding: 6px 0; }
+  .more summary { list-style: none; cursor: pointer; text-align: center; color: var(--muted); font-size: 13px; margin-top: 10px; padding: 9px 0; border: 1px dashed var(--line); border-radius: 12px; transition: color .15s, border-color .15s; user-select: none; }
+  .more summary::-webkit-details-marker { display: none; }
+  .more summary:hover { color: var(--accent); border-color: var(--accent); }
+  .more[open] summary { margin-bottom: 10px; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 28px 20px; border-top: 1px solid var(--line); }
+  footer a { color: var(--accent); text-decoration: none; margin-left: 12px; }
   @media (max-width: 600px) {
     body { font-size: 15px; }
-    header { padding: 20px 14px 10px; }
-    header h1 { font-size: 20px; }
+    header { padding: 24px 14px 12px; }
+    header h1 { font-size: 21px; }
     header p { font-size: 12px; }
     nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
     nav::-webkit-scrollbar { display: none; }
     nav a { flex-shrink: 0; font-size: 12px; }
-    main { padding: 0 14px 48px; }
-    .company { margin-top: 28px; }
-    .company h2 { font-size: 16px; }
-    .news-item { padding: 12px 0; }
+    main { padding: 4px 14px 48px; }
+    .company { margin-top: 32px; }
+    .company h2 { font-size: 16px; margin-bottom: 12px; }
+    .news-item { padding: 12px 14px; }
     .news-item a { font-size: 15px; }
     .summary { font-size: 12.5px; }
   }
 </style>
 </head>
 <body>
-<header>
-  <h1>每日游戏资讯</h1>
-  <p>收录腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 十大厂商动态 · 来源: 厂商官网 + 游戏媒体</p>
-  <p>最近更新: ${updatedAt}</p>
+<header id="top">
+  <h1>每日游戏资讯 <span class="updated">更新于 ${updatedAt}</span></h1>
+  <p>收录腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 十大厂商动态 · 来源: 厂商官网 + 游戏媒体 · 英文资讯已自动翻译, 悬停标题可看原文</p>
 </header>
 <nav>${nav}</nav>
 <main>
 ${todaySection}
 ${sections}
 </main>
-<footer>由 fetch_news.js 自动生成 · 数据保留最近 ${KEEP_DAYS} 天</footer>
+<footer>由 fetch_news.js 自动生成 · 数据保留最近 ${KEEP_DAYS} 天<a href="#top">回到顶部 ↑</a></footer>
 </body>
 </html>`;
 }
