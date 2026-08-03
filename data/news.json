@@ -1,6 +1,194 @@
 {
-  "updatedAt": "2026-08-02T04:21:24.246Z",
+  "updatedAt": "2026-08-03T04:27:32.465Z",
   "items": [
+    {
+      "title": "版权问题随时下架？玩家自制虚幻5《魔兽世界》8月15日上线",
+      "link": "https://news.17173.com/content/08032026/110746168.shtml",
+      "date": "2026-08-03T11:07:46.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "热点预告：《魔兽世界》怀旧服第五阶段开启！《三角洲行动》开启全新宝藏月摸大红！",
+      "link": "https://news.17173.com/content/08032026/092747631.shtml",
+      "date": "2026-08-03T09:27:47.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent",
+        "blizzard"
+      ]
+    },
+    {
+      "title": "索尼被曝将于9月举办State of Play 爆料称是综合发布会",
+      "link": "https://www.3dmgame.com/news/202608/3949757.html",
+      "date": "2026-08-03T04:27:32.095Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "打脸索尼？微软被曝新主机仍留光驱只为让老游戏继续发光",
+      "link": "https://www.3dmgame.com/news/202608/3949754.html",
+      "date": "2026-08-03T04:27:32.095Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony",
+        "xbox"
+      ]
+    },
+    {
+      "title": "《宝可梦：风波》早期开发测试视频曝光 投球捕捉机制将成为正史！",
+      "link": "https://www.3dmgame.com/news/202608/3949753.html",
+      "date": "2026-08-03T04:27:32.095Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "一张美足照让育碧懵了！《刺客信条：黑旗》女玩家照片获19万点赞",
+      "link": "https://www.3dmgame.com/news/202608/3949745.html",
+      "date": "2026-08-03T04:27:32.095Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "《龙之信条2》重大更新8月底上线 PS5/XSX终获60帧模式",
+      "link": "https://www.3dmgame.com/news/202608/3949743.html",
+      "date": "2026-08-03T04:27:32.095Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "This Week’s Japanese Game Releases: MARVEL Tokon: Fighting Souls, Beast of Reincarnation, more",
+      "link": "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-marvel-tokon-fighting-souls-beast-of-reincarnation-more",
+      "date": "2026-08-03T04:23:47.000Z",
+      "summary": "MARVEL Tokon: Fighting Souls for PlayStation and PC, and Beast of Reincarnation for PlayStation 5, &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "本周日本游戏发布：MARVEL Tokon：战斗魂魄、转生之兽，更多内容",
+      "summaryZh": "《漫威托康：战斗之魂》PlayStation和PC版，以及《转生野兽》PlayStation 5版......"
+    },
+    {
+      "title": "沙特主权基金及财团收购EA案将于本周三完成",
+      "link": "https://www.gcores.com/articles/217889",
+      "date": "2026-08-03T04:08:12.000Z",
+      "summary": "沙特阿拉伯主权财富基金、 银湖资本和 Affinity Partners 投资公司共同组成的投资者财团以550亿美元收购美国艺电公司（Electronic Arts）将于8月4日正式完成。此前，欧盟无条件批准了本次收购，也扫清了有史以来规模最大杠杆收购的最后障碍。 据悉，公司领导层和总部将保持不变。EA 将继续由首席执行官 Andrew Wilson 领导，办公地点也将继续设在加利福尼亚州雷德伍德",
+      "source": "机核",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "Steam Week in Review: Once positioned as mainstream-friendly PC gaming solutions, can Valve's hardware survive the memory crisis?",
+      "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-once-positioned-as-mainstream-friendly-pc-gaming-solutions-can-valves-hardware-survive-the-memory-crisis/",
+      "date": "2026-08-03T03:46:43.000Z",
+      "summary": "All the interesting Steam facts for the week ending August 2.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Steam周回顾：曾被定位为主流PC游戏解决方案的Valve硬件，能否在内存危机中存活下来？",
+      "summaryZh": "截至8月2日当周的所有有趣Steam事实。"
+    },
+    {
+      "title": "Changeable Guardian ESTIQUE for PS5, Xbox Series, Switch, and PC launches August 6",
+      "link": "https://www.gematsu.com/2026/08/changeable-guardian-estique-for-ps5-xbox-series-switch-and-pc-launches-august-6",
+      "date": "2026-08-03T02:17:14.000Z",
+      "summary": "AMATA Games will release Cat Hui Trading LLC-developed side-scrolling robot shoot ’em up Changeable Guardian &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ],
+      "titleZh": "可更换守护者ESTIQUE于PS5、Xbox Series、Switch和PC平台将于8月6日发售",
+      "summaryZh": "AMATA Games将发布由Cat Hui Trading LLC开发的横版机器人射击游戏《Changeable Guardian》......"
+    },
+    {
+      "title": "应对AI浪潮，微软宣布全面优化Windows 11内存占用",
+      "link": "https://www.gcores.com/articles/217872",
+      "date": "2026-08-03T01:30:00.000Z",
+      "summary": "微软宣布，未来公司将重点提升 8GB 设备在 Windows 11 的运行体验。微软承认，系统组件大量使用了 WebView2 技术，进而占用了大量的内存。而本次深度瘦身及优化的目的正是显著减少系统内存占用，进而给用户在低内存环境下提供更好的体验。据悉，微软将首先在预览计划中推出这些措施，确保无误后推送给更广泛的用户群体。 值得一提的是，微软曾建议游戏玩家配备32GB内存。然而，全球内存短缺迫使厂",
+      "source": "机核",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "译介存档丨宫本茂x饭野贤治1996年开发者访谈 Vol.12",
+      "link": "https://www.gcores.com/radios/217886",
+      "date": "2026-08-02T23:00:00.000Z",
+      "summary": "在这篇1996年的开发者访谈中，任天堂的首席开发者宫本茂先生与以《D之食卓》为人所知的饭野贤治先生展开一场对谈。 两人从刚刚问世的《超级马力欧64》谈起，一边探讨游戏中的各种设计细节，一边就行业发展趋势提出各自的看法，如今回顾，既有一些预言在三十年后成为现实，也有一些观点仍然值得当下的开发者深思和反省。 ▽ 01:25我就是玩不下去《超级马力欧64》 03:31自由感 紧张感不可得兼 08:293",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership",
+      "link": "https://www.eurogamer.net/story-of-seasons-mobile-cancelled",
+      "date": "2026-08-02T12:36:57.000Z",
+      "summary": "Marvelous has confirmed it's ending its partnership with Tencent , and cancelling a Story of Seasons mobile game that had been in the works since 2019. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "tencent"
+      ],
+      "titleZh": "《牧场物语》手机游戏被取消，漫威终止了与腾讯六年的合作关系",
+      "summaryZh": "漫威已确认将结束与腾讯的合作关系，并取消自2019年起开发的《牧场物语》手机游戏。阅读更多"
+    },
+    {
+      "title": "Space Marine 2's latest updates add Terminator Sorcerers and Steam Workshop support, so you can now play co-op with 9 other players if you want",
+      "link": "https://www.pcgamer.com/games/action/space-marine-2s-latest-updates-add-terminator-sorcerers-and-steam-workshop-support-so-you-can-now-play-co-op-with-9-other-players-if-you-want/",
+      "date": "2026-08-02T12:00:00.000Z",
+      "summary": "Terminator too.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《太空陆战队2》的最新更新新增了《终结者：魔法师》和Steam创意工坊支持，所以如果你愿意，现在可以和另外9名玩家一起合作",
+      "summaryZh": "《终结者》也是。"
+    },
+    {
+      "title": "I enjoyed this video of Oblivion Remastered actor Wes Johnson goofing around in a sound booth dressed as Sheogorath, but a patch for the PC version would be nice too, Bethesda",
+      "link": "https://www.pcgamer.com/games/the-elder-scrolls/i-enjoyed-this-video-of-oblivion-remastered-actor-wes-johnson-goofing-around-in-a-sound-booth-dressed-as-sheogorath-but-a-patch-for-the-pc-version-would-be-nice-too-bethesda/",
+      "date": "2026-08-02T11:00:00.000Z",
+      "summary": "Bethesda takes a different approach to marketing its Switch 2 launch.",
+      "source": "PC Gamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "我很喜欢这段《湮灭：重制版》演员韦斯·约翰逊扮成希欧格拉斯在录音室胡闹的视频，但如果有PC版补丁也不错，贝塞斯达",
+      "summaryZh": "贝塞斯达在Switch 2发布时采取了不同的宣传方式。"
+    },
+    {
+      "title": "Xbox UK and Europe console price hikes revealed - and it's even worse than we expected",
+      "link": "https://www.eurogamer.net/xbox-console-price-rise-uk-europe",
+      "date": "2026-08-02T10:54:44.000Z",
+      "summary": "Xbox has finally revealed the price hikes recently rolled out across its hardware, and Xbox consoles in the UK are now between 34 and 49 percent more expensive than they were last month. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Xbox 英国和欧洲主机价格上涨曝光——情况比我们预期的还要糟糕",
+      "summaryZh": "Xbox终于公布了最近在硬件上推出的价格上涨，英国的Xbox主机价格比上个月上涨了34%到49%。阅读更多"
+    },
     {
       "title": "PS5年底不会缺货！索尼内存供应可持续到2027年初",
       "link": "https://www.3dmgame.com/news/202608/3949699.html",
@@ -2091,16 +2279,6 @@
       "summaryZh": "轰！一则预告片刚刚出现在你的收件箱里，铜屑和化石屑的碎片将你的笔记本电脑轰炸得粉碎。你拼命用望远镜扫描地平线，但没有任何 si"
     },
     {
-      "title": "Xbox服务器大规模宕机，实体版游戏也被波及",
-      "link": "https://www.yystv.cn/p/14210",
-      "date": "2026-07-29T16:00:00.000Z",
-      "summary": "又一场全面数字版游戏未来的“事故演习”。 微软的Xbox Live服务最近遭遇了大规模的故障。据多家外媒报道，26-27日这两天，许多Xbox玩家没法启动游戏，按下图标就会报错。 从当时的Xbox状态页和相关评论区来看，受影响的服务不单单是启动游戏，而且玩家间受影响的情况五花八门。有人表示一切正常无事发生，但有人则无法登录账号，还有人看不到自己的游戏库，甚至还有人连实体版游戏都打不开。 Xbox的",
-      "source": "游研社",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "黄浦江畔的巨型机械飞爪，成了LOLM的“异世界入口”",
       "link": "https://www.yystv.cn/p/14207",
       "date": "2026-07-29T16:00:00.000Z",
@@ -2147,18 +2325,6 @@
       ],
       "titleZh": "《古地地下城2》将于8月20日登陆PS5、Xbox Series和Switch平台",
       "summaryZh": "AMATA Games 将发布由白桃工厂开发的地下城爬行RPG续作《古地牢2》登陆PlayStation平台......"
-    },
-    {
-      "title": "The Elder Scrolls Online: Tour Tamriel with the Prince of Madness in a New Questline",
-      "link": "https://news.xbox.com/en-us/2026/07/29/the-elder-scrolls-online-tour-tamriel-with-the-prince-of-madness-in-a-new-questline/",
-      "date": "2026-07-29T14:00:00.000Z",
-      "summary": "The post The Elder Scrolls Online: Tour Tamriel with the Prince of Madness in a New Questline appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "上古卷轴在线：与疯狂王子一起在新任务线中游览泰姆瑞尔",
-      "summaryZh": "本文《上古卷轴在线：与疯狂王子在新任务线中游览泰姆瑞尔》最初发表于XBOX Wire。"
     },
     {
       "title": "You might not hear that much about it anymore, but the PUBG series grew its revenue by 25% in the first half of 2026",
@@ -2387,16 +2553,6 @@
       "summaryZh": "超自然恐怖与角色心理挣扎之间的界限在《寂静岭》系列中常常模糊，但这界限可能从未像《寂静岭：镇落》那样模糊。"
     },
     {
-      "title": "每个人都会拥有属于自己的“寂静岭”：机核采访《寂静岭：Townfall》制作人",
-      "link": "https://www.gcores.com/articles/217610",
-      "date": "2026-07-29T07:00:00.000Z",
-      "summary": "作为主机游戏历史上的经典恐怖IP之一，新作《寂静岭：Townfall》的推出，让所有《寂静岭》系列的粉丝们点燃了对系列未来走向的期待与好奇。应Konami邀请，机核网连同其他多家媒体在上月末，出席了于东京举办的《寂静岭：Townfall》媒体试玩活动。 在现场进行了PS5版《寂静岭：Townfall》的试玩体验之后，我们采访了本作的两位核心开发成员——《寂静岭》IP总负责人 冈本基 先生，以及本作",
-      "source": "机核",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "《刺客信条：影》发布1.1.12更新补丁 2GB到20GB！",
       "link": "https://www.3dmgame.com/news/202607/3949416.html",
       "date": "2026-07-29T04:09:28.110Z",
@@ -2427,18 +2583,6 @@
       ],
       "titleZh": "柏拉图尼卡太空将于8月14日发射",
       "summaryZh": "“心理太空探索冒险”游戏《柏拉图尼卡空间》将于八月通过Steam平台PC平台发售......"
-    },
-    {
-      "title": "《疯狂出租车：极速环游》现已开启封测注册",
-      "link": "https://www.gcores.com/articles/217697",
-      "date": "2026-07-29T01:22:16.000Z",
-      "summary": "世嘉旗下《疯狂出租车：极速环游》现已开启 多人封闭网络测试注册 。玩家可在8月31日前报名参加于9月11日至9月13日进行的测试，Xbox Series X|S 、PlayStation 5 以及 Steam 平台均可体验。 世嘉表示，本次测试是为了在正式发售前检验网络多人联机功能的稳定性。由于测试版本仍在开发中，游戏中可能存在漏洞或不稳定现象。测试期间游戏仅提供英语和日语支持。在随机抽取测试资格",
-      "source": "机核",
-      "companies": [
-        "sony",
-        "xbox",
-        "valve"
-      ]
     },
     {
       "title": "《007 初露锋芒》现已通过Steam Deck验证，1.1.0更新同步实装",
@@ -2507,30 +2651,6 @@
       ],
       "titleZh": "Iniu 这款 10,000mAh 移动电源，将以不到 10 美元的价格将使任天堂 Switch 2 的游戏时间翻倍多",
       "summaryZh": "同时玩和充能。"
-    },
-    {
-      "title": "Crazy Taxi: World Tour closed network test set for September 11 to 13",
-      "link": "https://www.gematsu.com/2026/07/crazy-taxi-world-tour-closed-network-test-set-for-september-11-to-13",
-      "date": "2026-07-28T17:59:35.000Z",
-      "summary": "SEGA will host a closed network test for Crazy Taxi: World Tour across PlayStation 5, &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "疯狂出租车：世界巡回赛闭幕网络测试定于9月11日至13日",
-      "summaryZh": "世嘉将在PlayStation 5平台举办《疯狂出租车：世界巡回赛》的闭门网络测试，......"
-    },
-    {
-      "title": "Ball x Pit final update The Naturalist arrives August 6",
-      "link": "https://blog.playstation.com/2026/07/28/ball-x-pit-final-update-the-naturalist-arrives-august-6/",
-      "date": "2026-07-28T16:00:14.000Z",
-      "summary": "Hello PlayStation Blog community! I’m back for the last time (…maybe) to share what to expect in the latest and final, free Ball x Pit update. Titled The Naturalist Update, players can expect more of ",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "球与坑最终更新 《自然学家》将于8月6日登陆",
-      "summaryZh": "你好，PlayStation 博客社区的朋友们！我最后一次回来了（...也许）分享最新且最终的免费Ball x Pit更新中可以期待的内容。名为《自然学家更新》，玩家可以期待更多内容"
     },
     {
       "title": "9 R.I.P. sequel launches October 27 in the west",
@@ -2765,16 +2885,6 @@
       ]
     },
     {
-      "title": "宫本茂谈退休生活：很少独自玩Switch2 但会和孙子一起通关",
-      "link": "https://www.3dmgame.com/news/202607/3949345.html",
-      "date": "2026-07-28T03:58:43.249Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "3DM发行游戏《小闹花园》正式定档！9月22日Steam发售！",
       "link": "https://www.3dmgame.com/news/202607/3949343.html",
       "date": "2026-07-28T03:58:43.249Z",
@@ -2782,16 +2892,6 @@
       "source": "3DM游戏网",
       "companies": [
         "valve"
-      ]
-    },
-    {
-      "title": "任天堂工作内幕曝光！前员工：依旧加班但升职不了",
-      "link": "https://www.3dmgame.com/news/202607/3949342.html",
-      "date": "2026-07-28T03:58:43.249Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2857,32 +2957,6 @@
       ],
       "titleZh": "机甲变色龙玩家正在从用户制作的地图中感染恶意软件",
       "summaryZh": "《机甲变色龙》——一款最近在Steam上爆红的多人道具狩猎游戏——自六月初发售以来，似乎遇到了第一个真正的坎坷。正如一位玩家指出的那样"
-    },
-    {
-      "title": "Blood Dungeon adds Switch 2 and Switch versions, launches August 25",
-      "link": "https://www.gematsu.com/2026/07/blood-dungeon-adds-switch-2-and-switch-versions-launches-august-25",
-      "date": "2026-07-27T16:20:48.000Z",
-      "summary": "2D platforming survival game Blood Dungeon will launch for PlayStation 5, Xbox Series, Switch 2, &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox"
-      ],
-      "titleZh": "《血地牢》新增了Switch 2和Switch版本，将于8月25日发售",
-      "summaryZh": "2D平台生存游戏《血之地牢》将登陆PlayStation 5、Xbox Series、Switch 2等平台。"
-    },
-    {
-      "title": "The Pokémon Company is turning to facial recognition scans to help combat scalpers",
-      "link": "https://www.pcgamer.com/games/card-games/the-pokemon-company-is-turning-to-facial-recognition-scans-to-help-combat-scalpers/",
-      "date": "2026-07-27T16:05:50.000Z",
-      "summary": "A high price to pay for your chase card.",
-      "source": "PC Gamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦公司正在利用面部识别扫描来帮助打击黄牛",
-      "summaryZh": "这是你买Chase卡的代价。"
     },
     {
       "title": "育碧同时开发两款《孤岛惊魂》游戏 其中一款野心很大",
@@ -3081,18 +3155,6 @@
       ]
     },
     {
-      "title": "If you miss the straightforward action RPGs of the past, try the generous demo for Darkstone Restoration",
-      "link": "https://www.pcgamer.com/games/rpg/if-you-miss-the-straightforward-action-rpgs-of-the-past-try-the-generous-demo-for-darkstone-restoration/",
-      "date": "2026-07-27T02:18:16.000Z",
-      "summary": "Open a portal, we're going back.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "如果你怀念过去那些直白的动作角色扮演游戏，可以试试《Darkstone Restoration》的慷慨演示版",
-      "summaryZh": "打开传送门，我们回去。"
-    },
-    {
       "title": "Tencent 腾讯",
       "link": "https://www.tencent.com/en-us/index.html",
       "date": "2026-07-27T01:41:00.000Z",
@@ -3124,18 +3186,6 @@
       ],
       "titleZh": "《最终幻想14》计划对其住房系统进行两次重大改造，以赶上《魔兽世界》的进度：“这大概是很多人最期待的项目”",
       "summaryZh": "秘密的住房变动正在进行中。"
-    },
-    {
-      "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
-      "link": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
-      "date": "2026-07-26T17:31:42.000Z",
-      "summary": "Fair is fair.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "J.K. Simmons没玩过《博德之门3》或他的任何游戏，但他很喜欢《传送门2》：“我本可以拍电影、舞台剧，或者其他什么”",
-      "summaryZh": "公平就是公平。"
     },
     {
       "title": "Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it",
