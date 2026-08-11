@@ -9,6 +9,10 @@
 (function(){var t="dark";try{t=localStorage.getItem("gamenews-theme")||"dark"}catch(e){}if(["dark","light","eye"].indexOf(t)<0)t="dark";document.documentElement.setAttribute("data-theme",t);})();
 </script>
 <style>
+  :root {
+    --bg: #0e1117; --panel: #171c26; --panel-hover: #1c2230; --text: #e6e9f0; --muted: #8f97a8;
+    --accent: #8ab4f8; --accent-soft: rgba(138,180,248,.14); --line: #262d3c;
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   /* 三套主题: 暗色(默认) / 亮色 / 护眼(豆沙绿), 通过 html[data-theme] 切换 */
   html[data-theme="dark"] {
@@ -65,10 +69,12 @@
   .theme-switch button.active { background: var(--panel2); color: var(--accent2); border-color: var(--accent2); }
   footer { text-align: center; color: var(--dim); font-size: 12px; padding: 20px; }
   @media (max-width: 600px) {
-    header { padding: 20px 12px 10px; }
+    body { font-size: 15px; }
+    header { padding: 24px 14px 12px; }
     header h1 { font-size: 21px; }
     header p { font-size: 12px; }
-    nav { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; padding: 10px 12px; -webkit-overflow-scrolling: touch; }
+    nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    nav::-webkit-scrollbar { display: none; }
     nav a { flex-shrink: 0; font-size: 12px; }
     main { padding: 16px 10px 48px; }
     .company h2 { font-size: 17px; }
@@ -89,7 +95,7 @@
 
       <section class="company today" id="today">
         <h2><span class="badge">★</span> 今日最新 <small>最近更新按时间混排</small></h2>
-        <ul>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://news.17173.com/content/08112026/111059468.shtml" target="_blank" rel="noopener">《暗黑破坏神》系列30周年庆典大更！毁灭之王巴尔正式回归</a>
           <div class="meta"><span class="time">08/11 11:10</span><span class="source">17173</span><span class="tag">暴雪</span></div>
@@ -263,8 +269,8 @@
       </section>
 
       <section class="company" id="tencent">
-        <h2><span class="badge">01</span> 腾讯游戏 <small>Tencent Games</small></h2>
-        <ul>
+        <h2><span class="badge">01</span> 腾讯游戏 <small>Tencent Games · 50 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://news.17173.com/content/08112026/100037776.shtml" target="_blank" rel="noopener">腾讯撤资跑路！知名游戏大厂高管创业新作前路未卜</a>
           <div class="meta"><span class="source">17173</span><span class="date">2026/08/11</span></div>
@@ -323,33 +329,33 @@
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07272026/173721352.shtml" target="_blank" rel="noopener">Gen.G 和 T1 在 无畏契约 太平洋赛区第二周比赛后位列小组榜首</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07272026/160049967.shtml" target="_blank" rel="noopener">童年回忆来袭！腾讯《QQ宠物》停运8年接入AI重磅回归</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07272026/153917980.shtml" target="_blank" rel="noopener">LEVIATÁN与100T在无畏契约美洲赛区第二周保持统治力，多场比赛零封对手</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07272026/135732080.shtml" target="_blank" rel="noopener">玩家自己就能做！腾讯游戏自研AI让零基础2天做出游戏</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07272026/133929751.shtml" target="_blank" rel="noopener">祖安变线下威胁！《三角洲行动》女玩家疑似被恶意开盒</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://www.yystv.cn/p/14194" target="_blank" rel="noopener">牌佬COS成自己最爱的角色，赢下了全国第一</a>
-          <div class="meta"><span class="source">游研社</span><span class="date">2026/07/25</span></div>
-          <p class="summary">当悠扬而肃杀的小提琴声响起，《符文战场：英雄联盟对战卡牌》的第三赛季全国公开赛正式拉开了帷幕。 舞台之上，一名小提琴演奏家Cos成戏命师“烬”，站在全场仅剩的一束光线里，完成了从“大幕渐起”到“完美谢幕”的奏鸣。 台下人头攒动，几乎所有人都被突然响起的音乐吸引，目光紧盯着大屏幕。而在人群最密集的后排，同样站着另一名全身包裹严实、手持两段大狙的“烬”，即将开始自己在这赛季的完美谢幕。 这名装扮还原度</p>
+          <a href="https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF" target="_blank" rel="noopener">腾讯 - 维基百科，自由的百科全书</a>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">必应资讯</span></div>
+          <p class="summary">腾讯於2004年6月16日在 香港交易所 挂牌上市，于2016年9月5日首次成为 亚洲 市值最高的上市公司 [3]，并于2017年11月21日成为亚洲首家市值突破5000亿美元的公司 [4]。 2017年，腾讯首次跻身《财富》杂志世界500强排行榜，以228.7亿美元的营收位居478位 [5]。</p>
         </li>
         <li class="news-item">
           <a href="https://www.ign.com/articles/league-of-legends-riftbound-tcg-first-impressions-of-the-vendetta-booster-set-ign-preview" target="_blank" rel="noopener">League of Legends Riftbound TCG: First Impressions of the Vendetta Booster Set | IGN Preview</a>
@@ -389,8 +395,8 @@
       </section>
 
       <section class="company" id="netease">
-        <h2><span class="badge">02</span> 网易游戏 <small>NetEase Games</small></h2>
-        <ul>
+        <h2><span class="badge">02</span> 网易游戏 <small>NetEase Games · 30 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://news.17173.com/content/08112026/110614891.shtml" target="_blank" rel="noopener">第五人格IVL：成都GG_YuM手感火热四抓翻盘，让一追三取得胜利！</a>
           <div class="meta"><span class="source">17173</span><span class="date">2026/08/11</span></div>
@@ -429,24 +435,19 @@
         </li>
         <li class="news-item">
           <a href="https://www.yystv.cn/p/14196" target="_blank" rel="noopener">网易最离谱的新品，《遗忘之海》吓到我了</a>
-          <div class="meta"><span class="source">游研社</span><span class="date">2026/07/25</span></div>
+          <div class="meta"><span class="date">2026/07/25</span><span class="source">游研社</span></div>
           <p class="summary">平静的海面培养不出优秀的水手。那么掉进去就会失忆的海面又如何呢？ 从开服到现在，《遗忘之海》吓到了我两次。 第一次是我被这游戏的品类划分吓到。因为《遗忘之海》的官方类型定义，是一串名词连成的长难句：“航海题材开放世界回合制肉鸽搜打撤游戏”。这句话要素太多，有当下流行的“肉鸽”“搜打撤”玩法，也有放到2026年还是略显小众的“航海”和“回合制战斗”题材，很难想象最终会缝合出什么东西、主要讨好什么类型</p>
         </li>
         <li class="news-item">
-          <a href="https://news.17173.com/content/07132026/090515005.shtml" target="_blank" rel="noopener">热点预告：《三角洲行动》新模式测试，《古剑》举办线下试玩 三角洲行动 - 永劫无间 - Apex英雄</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/13</span></div>
-          
-        </li>
-        <li class="news-item">
           <a href="https://news.17173.com/content/07062026/102930349.shtml" target="_blank" rel="noopener">热点预告：《逆水寒》黄金畅玩服免费开玩，米哈游捉宠新游再测试，BW2026开幕 逆水寒 - 鸣潮 - 燕云十六声</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/06</span></div>
+          <div class="meta"><span class="date">2026/07/06</span><span class="source">17173</span></div>
           
         </li></ul></details>
       </section>
 
       <section class="company" id="mihoyo">
-        <h2><span class="badge">03</span> 米哈游 <small>HoYoverse</small></h2>
-        <ul>
+        <h2><span class="badge">03</span> 米哈游 <small>HoYoverse · 12 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://news.17173.com/content/08102026/000043070.shtml" target="_blank" rel="noopener">热点预告：《影之刃零》将开启全平台预售！《原神》7.0版本上线旅行者抵达至冬！ 影之刃零 - 原神 - 最终幻想14</a>
           <div class="meta"><span class="source">17173</span><span class="date">2026/08/10</span></div>
@@ -489,8 +490,43 @@
           
         </li>
         <li class="news-item">
+          <a href="https://news.17173.com/content/08052026/101325902.shtml" target="_blank" rel="noopener">他操盘过米哈游《原神》国民级联动，现在来卖前网易团队新作了</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949655.html" target="_blank" rel="noopener">《原神》7.0“无神怜爱的雪国”8月12日上线 更多新玩法</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.gematsu.com/2026/07/genshin-impact-version-version-7-0-update-everwinter-without-mercy-launches-august-12" target="_blank" rel="noopener" title="Genshin Impact Version version 7.0 update ‘Everwinter Without Mercy’ launches August 12">原神版本7.0更新“无情的永冬”将于8月12日上线</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">Gematsu</span></div>
+          <p class="summary">原神7.0版本更新，名为“无情永冬”，将于八月上线......</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-0-livestream/" target="_blank" rel="noopener" title="All Genshin Impact 7.0 livestream codes">所有原神7.0直播代码</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">PC Gamer</span></div>
+          <p class="summary">从雪国特别节目中获取原石。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/radios/217525" target="_blank" rel="noopener">松弛聊手游：先刷活动还是通主线？</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">机核</span></div>
+          <p class="summary">本期时间轴制作：西楼 久违的《松弛聊手游》再更新，大家都在玩些什么？ 我们从《绝区零》3.0 的新版本聊到《鸣潮》即将到来的大版本预热；从《赛博朋克2077：边缘行者》的高质量联动聊到《明日方舟》的最新活动。 最令人意外的还有当年的MMO《洛奇》，发布了全新的手游版本，这款“原汁原味”新游戏又是怎么适配手游节奏的呢？</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/honkai-star-rail-limited-edition-power-banks-and-chargers-are-on-sale-at-amazon" target="_blank" rel="noopener" title="Honkai Star Rail Limited Edition Power Banks and Chargers Are on Sale at Amazon">崩坏星穹铁道限量版充电宝和充电器在亚马逊上有售</a>
+          <div class="meta"><span class="date">2026/07/29</span><span class="source">IGN</span></div>
+          <p class="summary">全体登上星际列车。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/07272026/102532915.shtml" target="_blank" rel="noopener">热点预告：2026ChinaJoy开幕！多款怀旧游戏大更新 热点预告 - ChinaJoy - 绝区零</a>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">17173</span></div>
+          
+        </li></ul><details class="more"><summary>展开其余 4 条</summary><ul class="cards">
+        <li class="news-item">
           <a href="https://www.hoyoverse.com/zh-cn/news" target="_blank" rel="noopener">新闻 | HoYoverse</a>
-          <div class="meta"><span class="source">必应资讯</span><span class="date">2026/07/24</span></div>
+          <div class="meta"><span class="date">2026/07/24</span><span class="source">必应资讯</span></div>
           <p class="summary">「月之八」版本「映夏！ 归乡？ 千灵节！ 」现已开启. Copyright © COGNOSPHERE. All Rights Reserved.</p>
         </li>
         <li class="news-item">
@@ -500,19 +536,19 @@
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07062026/102930349.shtml" target="_blank" rel="noopener">热点预告：《逆水寒》黄金畅玩服免费开玩，米哈游捉宠新游再测试，BW2026开幕 逆水寒 - 鸣潮 - 燕云十六声</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/06</span></div>
+          <div class="meta"><span class="date">2026/07/06</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/06222026/090053286.shtml" target="_blank" rel="noopener">热游情报：米哈游AI虚拟人游戏登上Steam，虚幻6引擎正式公布</a>
-          <div class="meta"><span class="source">必应资讯</span><span class="date">2026/06/22</span></div>
+          <div class="meta"><span class="date">2026/06/22</span><span class="source">必应资讯</span></div>
           <p class="summary">上周游戏圈有不少大事，米哈游旗下虚拟形象“林离”即将登场；《碧蓝幻想：Relink》制作人直言参考《绝区零》；微软正考虑关停多家第一方工作 ...</p>
         </li></ul></details>
       </section>
 
       <section class="company" id="nintendo">
-        <h2><span class="badge">04</span> 任天堂 <small>Nintendo</small></h2>
-        <ul>
+        <h2><span class="badge">04</span> 任天堂 <small>Nintendo · 50 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://www.gcores.com/articles/218190" target="_blank" rel="noopener">《越过山丘 over the hill》将于10月14日发售</a>
           <div class="meta"><span class="source">机核</span><span class="date">2026/08/11</span></div>
@@ -725,18 +761,68 @@
           
         </li>
         <li class="news-item">
-          <a href="https://www.3dmgame.com/news/202607/3949277.html" target="_blank" rel="noopener">《恶魔城：贝尔蒙特的诅咒》帧率目标引热议 Switch版仅30帧</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.3dmgame.com/news/202608/3950264.html" target="_blank" rel="noopener">TGA年度游戏再临任天堂 《双人成行》10月15日或登Switch2</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">3DM游戏网</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://www.3dmgame.com/news/202607/3949276.html" target="_blank" rel="noopener">发售16年《超级马里奥银河2》M站评分突然提高 成为第三高</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.pcgamer.com/games/action/hopefully-as-many-people-as-possible-get-to-play-it-before-nintendo-flips-out-fans-spent-3-years-secretly-crafting-a-full-metroid-prime-2d-demake-and-it-rocks/" target="_blank" rel="noopener" title="'Hopefully as many people as possible get to play it before Nintendo flips out': Fans spent 3 years secretly crafting a full Metroid Prime 2D demake, and it rocks">“希望在任天堂崩溃之前有尽可能多的人玩到它”：粉丝们花了 3 年时间秘密制作了完整的《银河战士 Prime》2D 解构版，效果非常震撼</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">PC Gamer</span></div>
+          <p class="summary">《银河战士：起源》将系列中的第一款 3D 游戏带回了过去。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218190" target="_blank" rel="noopener">《越过山丘 over the hill》将于10月14日发售</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">机核</span></div>
+          <p class="summary">独立游戏开发团队 Funselektor 与 Strelka Games 宣布，由《拉力赛艺术 art of rally》创作者打造的1至4人越野探索游戏《越过山丘 over the hill》，将于10月14日正式登陆 Steam；PlayStation®5、Xbox Series X|S 及 Nintendo Switch 2 版本则计划于2027年推出。 &lt;内嵌内容，请前往机核查看&gt; 此前上</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026" target="_blank" rel="noopener" title="The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7">JSAUX 屏幕保护膜非常便宜，只需 7 美元即可为您的 Nintendo Switch 2 提供保险</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">IGN</span></div>
+          <p class="summary">三件装，以防你弄乱（两次）。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/cheapest-nintendo-switch-2-microsd-express-memory-card-deal-august-2026" target="_blank" rel="noopener" title="Walmart's Private Label 512GB and 256GB Nintendo Switch 2 Memory Cards Are the Best Deals You Can Get">沃尔玛自有品牌 512GB 和 256GB Nintendo Switch 2 存储卡是您能买到的最划算的交易</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">IGN</span></div>
+          <p class="summary">在内存危机中价格保持不变，但能持续多久？</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gematsu.com/2026/08/over-the-hill-launches-october-14-for-pc-in-2027-for-ps5-xbox-series-and-switch-2" target="_blank" rel="noopener" title="over the hill launches October 14 for PC, in 2027 for PS5, Xbox Series, and Switch 2">《over the hill》将于 10 月 14 日推出 PC 版，PS5、Xbox Series 和 Switch 2 版将于 2027 年推出</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">Gematsu</span></div>
+          <p class="summary">山上越野探索游戏将于 10 月 14 日通过 Steam 推出 PC 版……</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gematsu.com/2026/08/village-in-the-shade-launches-october-27-in-the-west" target="_blank" rel="noopener" title="Village in the Shade launches October 27 in the west">Village in the Shade 将于 10 月 27 日在西部推出</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">Gematsu</span></div>
+          <p class="summary">乡村生活模拟游戏《Village in the Shade》即将推出 PlayStation 5、Switch 2 等平台</p>
+        </li></ul><details class="more"><summary>展开其余 42 条</summary><ul class="cards">
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/this-switch-game-you-might-have-bought-is-now-totally-unplayable/" target="_blank" rel="noopener" title="This Switch Game You Might Have Bought Is Now Totally Unplayable">你可能买过的这款 Switch 游戏现在完全无法玩</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">GameSpot</span></div>
+          <p class="summary">Nintendo Switch 版本的《异形：火力小队精英》现已完全下架，购买者无法再玩。开发商 Cold Iron Studios 今年早些时候宣布</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-the-elder-scrolls-iv-oblivion-remastered-for-switch-2-duskfade-more" target="_blank" rel="noopener" title="This Week’s Japanese Game Releases: The Elder Scrolls IV: Oblivion Remastered for Switch 2, Duskfade, more">本周发布的日本游戏：《上古卷轴 IV：湮没》 Switch 2 重制版、《Duskfade》等</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Gematsu</span></div>
+          <p class="summary">Switch 2 版《上古卷轴 IV：湮没重制》和 PlayStation 5、Xbox 版《暮色》……</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/toem-2-release-date" target="_blank" rel="noopener" title="Acclaimed photography puzzler sequel Toem 2 gets a release date">广受好评的摄影益智游戏续作《Toem 2》确定了发行日期</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">Eurogamer</span></div>
+          <p class="summary">Toem 2 将于 2026 年 9 月 29 日在 Nintendo Switch 1 和 2、PC 和 PS5 上发布。 了解更多</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3950171.html" target="_blank" rel="noopener">《轮回之兽》中有三种方式让你感觉像玩《宝可梦》</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">3DM游戏网</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://news.17173.com/content/07272026/211031506.shtml" target="_blank" rel="noopener">宝可梦传说：阿尔宙斯公司宣布日本卡牌店将引入人脸识别系统以打击黄牛，小学及以上年龄段强制执行</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.gematsu.com/2026/08/moomin-midsummer-madness-launches-this-fall" target="_blank" rel="noopener" title="Moomin: Midsummer Madness launches this fall">姆明：仲夏疯狂将于今年秋季推出</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">Gematsu</span></div>
+          <p class="summary">点击式冒险游戏《姆明：仲夏疯狂》将于 Switch 2、Switch 和 PC 上通过……推出</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08082026/050745194.shtml" target="_blank" rel="noopener">《宝可梦》初代系列现已上线 Disney+ —— 那么，其他剧集都去哪儿了？</a>
+          <div class="meta"><span class="date">2026/08/08</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
@@ -767,8 +853,8 @@
       </section>
 
       <section class="company" id="sony">
-        <h2><span class="badge">05</span> 索尼 PlayStation <small>PlayStation</small></h2>
-        <ul>
+        <h2><span class="badge">05</span> 索尼 PlayStation <small>PlayStation · 65 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://www.gcores.com/articles/218190" target="_blank" rel="noopener">《越过山丘 over the hill》将于10月14日发售</a>
           <div class="meta"><span class="source">机核</span><span class="date">2026/08/11</span></div>
@@ -1093,8 +1179,8 @@
       </section>
 
       <section class="company" id="xbox">
-        <h2><span class="badge">06</span> 微软 Xbox <small>Xbox</small></h2>
-        <ul>
+        <h2><span class="badge">06</span> 微软 Xbox <small>Xbox · 67 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://www.gcores.com/articles/218190" target="_blank" rel="noopener">《越过山丘 over the hill》将于10月14日发售</a>
           <div class="meta"><span class="source">机核</span><span class="date">2026/08/11</span></div>
@@ -1402,23 +1488,48 @@
           <p class="summary">On Monday, Xbox suffered a major server outage that affected players worldwide . The outage took down several key functions of Xbox, including the ability to buy and download games, play them offline,</p>
         </li>
         <li class="news-item">
-          <a href="https://www.3dmgame.com/news/202607/3949280.html" target="_blank" rel="noopener">Win11要瘦身了！微软承认原生应用太吃内存</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.eurogamer.net/blizzard-is-microsofts-top-performing-studio-thanks-largely-to-diablo-4-and-overwatch" target="_blank" rel="noopener" title="Blizzard is Microsoft's &quot;top performing&quot; studio, thanks largely to Diablo 4 and Overwatch">暴雪是微软“表现最好”的工作室，这主要归功于《暗黑破坏神 4》和《守望先锋》</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Eurogamer</span></div>
+          <p class="summary">虽然 Xbox 部门因大范围的重组而陷入困境，这将导致数千人失业，并且一些工作室的规模大幅缩小 - 一家 Xbox 工作室似乎</p>
+        </li></ul><details class="more"><summary>展开其余 59 条</summary><ul class="cards">
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/xbox-store-pc-australia-age-verification-r18-games" target="_blank" rel="noopener" title="Xbox now requires Australians to prove their age to access games rated 18+, though &quot;games you already own won't be affected&quot;">Xbox 现在要求澳大利亚人证明自己的年龄才能访问 18+ 级的游戏，但“您已经拥有的游戏不会受到影响”</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Eurogamer</span></div>
+          <p class="summary">Xbox 现在要求澳大利亚用户验证年龄，然后才能在 Xbox 主机上的 Xbox Store 以及 PC 上的 Microsoft Store 上购买分级为 18+ 的游戏。阅读更多</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08102026/050713523.shtml" target="_blank" rel="noopener">据报道，得益于 Overwatch 与 暗黑破坏岛，暴雪成为 Xbox 旗下“表现最佳”的工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://news.17173.com/content/07272026/230854114.shtml" target="_blank" rel="noopener">Game Pass 本该拯救 Xbox，如今却成了公司的催命符</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.pcgamer.com/gaming-industry/australians-must-now-prove-their-age-to-buy-r18-games-on-the-xbox-store/" target="_blank" rel="noopener" title="Australians must now prove their age to buy R18+ games on the Xbox store">澳大利亚人现在必须证明自己的年龄才能在 Xbox 商店购买 R18+ 游戏</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">PC Gamer</span></div>
+          <p class="summary">微软是各大游戏平台中第一个实施更严格年龄验证的。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3950202.html" target="_blank" rel="noopener">王者归来？暴雪成Xbox旗下表现最好工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">3DM游戏网</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://www.ign.com/articles/game-pass-was-supposed-to-save-xbox-instead-its-killing-the-company" target="_blank" rel="noopener">Game Pass Was Supposed To Save Xbox – Instead, It’s Killing the Company</a>
-          <div class="meta"><span class="source">IGN</span><span class="date">2026/07/27</span></div>
-          <p class="summary">Game Pass was supposed to be the all-you-can-play subscription service that put Xbox on top after a disastrous generation. Instead, it's a failure that's threatening to ruin the company.</p>
+          <a href="https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-the-elder-scrolls-iv-oblivion-remastered-for-switch-2-duskfade-more" target="_blank" rel="noopener" title="This Week’s Japanese Game Releases: The Elder Scrolls IV: Oblivion Remastered for Switch 2, Duskfade, more">本周发布的日本游戏：《上古卷轴 IV：湮没》 Switch 2 重制版、《Duskfade》等</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Gematsu</span></div>
+          <p class="summary">Switch 2 版《上古卷轴 IV：湮没重制》和 PlayStation 5、Xbox 版《暮色》……</p>
         </li>
         <li class="news-item">
-          <a href="https://news.17173.com/content/07272026/221159624.shtml" target="_blank" rel="noopener">Xbox 现遭遇大规模服务中断，微软表示正修复影响游戏库、登录及启动的重大故障</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/27</span></div>
+          <a href="https://www.gcores.com/articles/218147" target="_blank" rel="noopener">《奥德赛》电影带动《刺客信条：奥德赛》，玩家增幅达134%</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">机核</span></div>
+          <p class="summary">随着电影《奥德赛》全球票房突破10亿美元，公众对《刺客信条：奥德赛》的关注也日益增加。值得一提的是，育碧已将《刺客信条：奥德赛》加入Xbox Game Pass和PlayStation Plus订阅服务，主机订阅用户无需额外付费即可直接游玩。日活跃用户从3.6万增至8.4万，增幅达134%。 随着电影《奥德赛》全球票房突破10亿美元，公众对《刺客信条：奥德赛》的关注也日益增加。值得一提的是，育碧已</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo" target="_blank" rel="noopener" title="Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo">据报道，凭借《守望先锋》和《暗黑破坏神》，暴雪引领 Xbox 成为“表现最佳”工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">IGN</span></div>
+          <p class="summary">据报道，暴雪娱乐是微软的金童，《守望先锋》和《暗黑破坏神 4：仇恨之王》帮助其成为“表现最佳”的 Xbox 工作室。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08092026/050702547.shtml" target="_blank" rel="noopener">“他们根本不懂艺术”——在微软裁员重创 id Software 后，末日黎明 / DOOM Dawn 开发者发文怒斥 Xbox</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
@@ -1439,8 +1550,188 @@
       </section>
 
       <section class="company" id="blizzard">
-        <h2><span class="badge">07</span> 暴雪 <small>Blizzard</small></h2>
-        <ul>
+        <h2><span class="badge">07</span> 暴雪 <small>Blizzard · 49 条</small></h2>
+        <ul class="cards">
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08112026/100344116.shtml" target="_blank" rel="noopener">《魔兽世界》新版本抢先看！开发团队曝新首领战无需奶和T</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/overwatchs-battle-pass-overhaul-will-let-you-swap-out-skins-you-dont-want/" target="_blank" rel="noopener" title="Overwatch’s Battle Pass Overhaul Will Let You Swap Out Skins You Don’t Want">《守望先锋》战斗通行证大修将让你更换不想要的皮肤</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">GameSpot</span></div>
+          <p class="summary">作为第 4 赛季的一部分，《守望先锋》对其战斗通行证进行了重大更改，采用了新的多轨系统，甚至让玩家可以选择更换和替换他们不想要的皮肤。正如中所解释的</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/fps/overwatchs-old-battle-passes-are-finally-coming-back-permanently-starting-next-month-but-some-of-the-rewards-will-be-left-out/" target="_blank" rel="noopener" title="Overwatch's old battle passes are finally coming back permanently starting next month, but some of the rewards will be left out">《守望先锋》的旧战斗通行证终于从下个月开始永久回归，但一些奖励将被排除</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">PC Gamer</span></div>
+          <p class="summary">多年后，暴雪开始放松对战斗通行证“FOMO”的态度。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/blizzard-is-reportedly-xboxs-new-top-studio/" target="_blank" rel="noopener" title="Blizzard Is Reportedly Xbox’s New Top Studio">据报道，暴雪是 Xbox 的新顶级工作室</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">GameSpot</span></div>
+          <p class="summary">据报道，在所有 Xbox 工作室中（诚然，由于大规模裁员和工作室剥离，现在工作室数量减少了），暴雪是“表现最好的”。这是根据 fr 的一份新报告得出的</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08102026/095540474.shtml" target="_blank" rel="noopener">暴雪靠《暗黑4》成微软销冠？曝《魔兽世界》新资料片将至</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/blizzard-is-microsofts-top-performing-studio-thanks-largely-to-diablo-4-and-overwatch" target="_blank" rel="noopener" title="Blizzard is Microsoft's &quot;top performing&quot; studio, thanks largely to Diablo 4 and Overwatch">暴雪是微软“表现最好”的工作室，这主要归功于《暗黑破坏神 4》和《守望先锋》</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Eurogamer</span></div>
+          <p class="summary">虽然 Xbox 部门因大范围的重组而陷入困境，这将导致数千人失业，并且一些工作室的规模大幅缩小 - 一家 Xbox 工作室似乎</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08102026/050713523.shtml" target="_blank" rel="noopener">据报道，得益于 Overwatch 与 暗黑破坏岛，暴雪成为 Xbox 旗下“表现最佳”的工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3950202.html" target="_blank" rel="noopener">王者归来？暴雪成Xbox旗下表现最好工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">3DM游戏网</span></div>
+          
+        </li></ul><details class="more"><summary>展开其余 41 条</summary><ul class="cards">
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo" target="_blank" rel="noopener" title="Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo">据报道，凭借《守望先锋》和《暗黑破坏神》，暴雪引领 Xbox 成为“表现最佳”工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">IGN</span></div>
+          <p class="summary">据报道，暴雪娱乐是微软的金童，《守望先锋》和《暗黑破坏神 4：仇恨之王》帮助其成为“表现最佳”的 Xbox 工作室。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/gaming-industry/blizzard-is-now-reportedly-microsofts-top-studio-according-to-leaked-email/" target="_blank" rel="noopener" title="Blizzard is now reportedly Microsoft's top studio, according to leaked email">据泄露的电子邮件称，暴雪现在是微软的顶级工作室</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">PC Gamer</span></div>
+          <p class="summary">“过去的一年是暴雪历史上第三高的财政收入。”</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218113" target="_blank" rel="noopener">《守望先锋》公布“D.Mon”英雄游戏预览</a>
+          <div class="meta"><span class="date">2026/08/08</span><span class="source">机核</span></div>
+          <p class="summary">《守望先锋》公布“D.Mon”英雄游戏预览。 前职业电竞选手李侑娜正式加入英雄阵容，成为全新的重装英雄。她驾驶机甲，以等离子剑贴身斩击敌人，并用强力屏障为队友撑起防线。 &lt;内嵌内容，请前往机核查看&gt; 据悉，“D.Mon”可以开启助推器迅速穿梭战场，架起聚变连发枪持续压制敌方，而释放终极技能无极斩，则能为全队打开致胜的窗口。和D.Va一样，当机甲承受过多伤害时，你可以从D.Mon的机甲中弹出；待下一</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/fps/overwatchs-new-mech-hero-is-the-sword-and-board-sequel-to-d-va-except-her-code-isnt-a-plate-of-spaghetti-under-the-hood/" target="_blank" rel="noopener" title="Overwatch's new mech hero is the sword-and-board sequel to D.Va, except her code isn't 'a plate of spaghetti' under the hood">《守望先锋》的新机甲英雄是 D.Va 的剑棋续作，只不过她的代码并不是“一盘意大利面条”</a>
+          <div class="meta"><span class="date">2026/08/08</span><span class="source">PC Gamer</span></div>
+          <p class="summary">暴雪着手通过 D.Mon 来避免过去的错误。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218096" target="_blank" rel="noopener">展示游戏和展示花草是一种事情｜机事本8.1-8.7</a>
+          <div class="meta"><span class="date">2026/08/07</span><span class="source">机核</span></div>
+          <p class="summary">【机事本】是机核文章区的栏目，每周五更新。每周五下班之前，我们会收集几位编辑的“小作文”，题材随意，立意自选，栏目名取自Windows系统自带的最轻便的文本编辑器，代表“轻便与畅快”。 本周出场人物：四十二，Ann，Jerry 四十二：捋了一下最近正在玩或者正打算玩的东西 零度空间ZeroSpace ：可能是目前整个形制最接近《星际争霸2》的独立RTS。而且重点放在合作PVE，在生产队列和指令方面</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/rpg/diablo-4s-newest-class-barely-made-a-splash-with-lord-of-hatred-but-its-shaping-up-to-be-king-of-the-next-season/" target="_blank" rel="noopener" title="Diablo 4's newest class barely made a splash with Lord of Hatred, but it's shaping up to be king of the next season">《暗黑破坏神 4》的最新职业在《仇恨之王》中几乎没有引起轰动，但它有望成为下一季的王者</a>
+          <div class="meta"><span class="date">2026/08/07</span><span class="source">PC Gamer</span></div>
+          <p class="summary">术士们终于迎来了众人瞩目的时刻。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08062026/110029335.shtml" target="_blank" rel="noopener">可以躺着刷宝了？业内爆料暴雪将《暗黑破坏神4》移植新平台</a>
+          <div class="meta"><span class="date">2026/08/06</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/diablo-4-switch-2-release-date-price-leak-code-in-box" target="_blank" rel="noopener" title="Diablo 4 may finally arrive on Switch 2 next month as a code-in-the-box physical version, according to reliable leaker">据可靠的泄密者称，《暗黑破坏神 4》最终可能会在下个月以预装物理版本的形式登陆 Switch 2</a>
+          <div class="meta"><span class="date">2026/08/06</span><span class="source">Eurogamer</span></div>
+          <p class="summary">我们还有另一个迹象表明《暗黑破坏神 4》即将登陆 Nintendo Switch 2。 Dealabs 的 billbil-kun（一位有着丰富的行业泄密历史的泄密者）的一份新报告表明，我们更接近于</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218010" target="_blank" rel="noopener">10大坐骑免费送：《魔兽世界》国服21周年庆今日开启</a>
+          <div class="meta"><span class="date">2026/08/06</span><span class="source">机核</span></div>
+          <p class="summary">《魔兽世界》国服21周年庆于今日开启。玩家只需上线即可领取包括邪能尖塔飞鹰、神圣玛瑙云端翔龙、季鹍之嗣、虚羽龙鹰在内的坐骑，参与各类活动还可免费获得额外坐骑（总计10款）。参与趣味测试，可额外获得“雷鸣脊背雷象”。 网易暴雪国服运营团队同时确认， 将在10月16日至10月18日期间在上海举行国服21周年线下嘉年华。此外，还有包括红包在内的更多惊喜，详情如下：</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/diablo-4-season-15-update-rebirth" target="_blank" rel="noopener" title="Diablo 4 players have long wanted to bring their Eternal characters into the Seasonal realm, and now they're getting their wish, sort of">暗黑破坏神 4 玩家长期以来一直希望将他们的永恒角色带入季节性领域，现在他们的愿望实现了，有点像</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">Eurogamer</span></div>
+          <p class="summary">暴雪将在《暗黑破坏神 4》的下一次更新中引入一项人们期待已久的功能，该功能已经在公共测试领域进行测试。该功能称为“重生”，它终于可以让您</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08052026/110922260.shtml" target="_blank" rel="noopener">10大坐骑免费送！《魔兽世界》国服21周年庆典明日开启</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08042026/093533676.shtml" target="_blank" rel="noopener">再不领就没了！国服原价128元《暗黑破坏神4》免费领最后一天</a>
+          <div class="meta"><span class="date">2026/08/04</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08032026/110746168.shtml" target="_blank" rel="noopener">版权问题随时下架？玩家自制虚幻5《魔兽世界》8月15日上线</a>
+          <div class="meta"><span class="date">2026/08/03</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/08032026/092747631.shtml" target="_blank" rel="noopener">热点预告：《魔兽世界》怀旧服第五阶段开启！《三角洲行动》开启全新宝藏月摸大红！</a>
+          <div class="meta"><span class="date">2026/08/03</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/radios/217527" target="_blank" rel="noopener">金蝉脱壳！核周报 8.1</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">机核</span></div>
+          <p class="summary">本期时间轴制作：佟和 本周DND公布了和《魔兽世界》联动的新消息；《绝地遣兵2》公布了与《战锤40k》联动的新消息；505 games 携手原主创夏思源官宣《无常》续作计划…​ *Booom 暴造“摊开玩”游戏市集正在火热售票中*​ 「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~ ​ 购票链接： https://www.gcores.com/articles/2</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/former-wow-designer-says-blizzard-had-no-way-to-measure-maximum-player-dps-while-building-early-raids-so-the-studio-enlisted-its-strongest-sickos-to-grind-target-dummies/" target="_blank" rel="noopener" title="Former WoW designer says Blizzard had no way to measure maximum player DPS while building early raids—so the studio enlisted its strongest sickos to grind target dummies">前《魔兽世界》设计师表示，暴雪在构建早期团队副本时无法测量玩家最大DPS——因此工作室动用了最强的“疯子”来刷目标假人</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">PC Gamer</span></div>
+          <p class="summary">有疑问时，自己做DPS并集结。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/world-of-warcraft-is-coming-to-dd-and-will-let-you-grind-renown-just-like-the-mmo/" target="_blank" rel="noopener" title="World Of Warcraft Is Coming To D&amp;D, And Will Let You Grind Renown Just Like The MMO">魔兽世界即将登陆龙与地下城，让你像MMO一样刷声望</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">GameSpot</span></div>
+          <p class="summary">魔兽世界将获得类似《龙与地下城》的改编，这款标志性的桌面角色扮演游戏将将暴雪这款热门MMORPG转化为真正的纸笔游戏体验</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/07312026/081217288.shtml" target="_blank" rel="noopener">《Demeo x Dungeons &amp; Dragons: Battlemarked: 小小魔兽》正式公布，包含 小小魔兽 所有可玩种族与职业</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">17173</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/the-rumors-were-true-dungeons-and-dragons-first-universes-beyond-crossover-will-be-with-world-of-warcraft/" target="_blank" rel="noopener" title="The rumors were true, Dungeons &amp; Dragons' first 'Universes Beyond' crossover will be with World of Warcraft">传言属实，龙与地下城的第一个“超越宇宙”跨界将与魔兽世界合作</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">PC Gamer</span></div>
+          <p class="summary">终于，我可以亲自感染腐血瘟疫了。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.ign.com/articles/dungeons-dragons-world-of-warcraft-revealed-includes-every-playable-wow-species-and-class" target="_blank" rel="noopener" title="Dungeons &amp; Dragons: World of Warcraft Revealed, Includes Every Playable WOW Species and Class">《龙与地下城：魔兽世界揭晓》包含了所有可玩的魔兽世界种族和职业</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">IGN</span></div>
+          <p class="summary">龙与地下城开发商Wizards of the Coast已经全面展示了与《魔兽世界》的大型联动。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/rpg/blizzard-is-keeping-secrets-about-diablo-4s-next-season-until-blizzcon-but-you-can-still-try-some-of-it-out-next-week/" target="_blank" rel="noopener" title="Blizzard is keeping secrets about Diablo 4's next season until BlizzCon, but you can still try some of it out next week">暴雪对《暗黑破坏神4》下赛季的计划保密，直到暴雪嘉年华，但你下周仍然可以试玩其中一些内容</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">PC Gamer</span></div>
+          <p class="summary">不过，依然有很多新玩具可以玩。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/diablo-4-will-finally-let-you-play-the-same-character-each-season/" target="_blank" rel="noopener" title="Diablo 4 Will Finally Let You Play The Same Character Each Season">《暗黑破坏神4》终于允许你每季都操控同一个角色</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">GameSpot</span></div>
+          <p class="summary">暗黑破坏神4第十五赛季将新增角色重生功能——允许玩家将永恒领域角色转换为季节角色。通常情况正好相反。角色</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/diablo-4-season-15-is-adding-stone-of-jordan-and-other-iconic-items-from-diablos-past/" target="_blank" rel="noopener" title="Diablo 4 Season 15 Is Adding Stone Of Jordan And Other Iconic Items From Diablo’s Past">暗黑破坏神4第十五季将加入乔丹之石以及暗黑破坏神过去的其他标志性物品</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">GameSpot</span></div>
+          <p class="summary">暗黑破坏神4的下个赛季将回归系列历史上一些最具标志性的道具，包括强力戒指如乔丹之石和皇家荣耀戒指。库雷</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/wow-classic-hardcore-players-are-being-terrorized-by-hidden-underground-enemies/" target="_blank" rel="noopener" title="WoW Classic Hardcore Players Are Being Terrorized By Hidden Underground Enemies">魔兽世界经典硬核玩家正被隐藏的地下敌人恐吓</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">GameSpot</span></div>
+          <p class="summary">魔兽世界经典版的硬核服务器已经够难了，还要担心地下伏击，但这正是游戏中毫无防备的低等级玩家所遭遇的事。”</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/wow-classics-latest-patch-is-terrorizing-hardcore-players-with-bugged-piles-of-underground-enemies-and-its-likely-due-to-a-decades-old-quirk-of-blizzard-programming/" target="_blank" rel="noopener" title="WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming">魔兽世界经典版最新的补丁正在用大量地下敌人的漏洞让硬核玩家感到恐惧，这很可能是暴雪编程中一个几十年来的怪癖造成的</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">PC Gamer</span></div>
+          <p class="summary">石爪山脉又开始耍老把戏了。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/rpg/the-next-game-on-gogs-preservation-list-would-be-your-favourite-arpg-if-it-hadnt-released-the-same-year-as-diablo-2-and-its-on-sale-now/" target="_blank" rel="noopener" title="The next game on GOG's preservation list would be your favourite ARPG if it hadn't released the same year as Diablo 2, and it's on sale now">如果不是和《暗黑破坏神2》同年发售，GOG保存名单上的下一款游戏本来就是你最喜欢的动作角色扮演游戏，而且现在已经在打折了</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">PC Gamer</span></div>
+          <p class="summary">机会号NOX检测两次。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/gaming-industry/blizzards-former-battle-net-lead-is-moving-his-expertise-over-to-the-epic-games-store-to-elevate-player-creator-and-developer-experiences/" target="_blank" rel="noopener" title="Blizzard's former Battle.net lead is moving his expertise over to the Epic Games Store to 'elevate player, creator, and developer experiences'">暴雪前 Battle.net 负责人将他的专业知识转移到Epic游戏商店，旨在“提升玩家、创作者和开发者的体验”</a>
+          <div class="meta"><span class="date">2026/07/29</span><span class="source">PC Gamer</span></div>
+          <p class="summary">至少 Battle.net 不会主动让我恼火。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://news.17173.com/content/07282026/100231572.shtml" target="_blank" rel="noopener">《魔兽世界》TBC周年大更：双经典团本回归！S3上线</a>
+          <div class="meta"><span class="date">2026/07/28</span><span class="source">17173</span></div>
+          
+        </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/08112026/111059468.shtml" target="_blank" rel="noopener">《暗黑破坏神》系列30周年庆典大更！毁灭之王巴尔正式回归</a>
           <div class="meta"><span class="source">17173</span><span class="date">2026/08/11</span></div>
@@ -1524,63 +1815,63 @@
         </li>
         <li class="news-item">
           <a href="https://www.gcores.com/radios/217553" target="_blank" rel="noopener">玩魔兽世界，做反诈男孩</a>
-          <div class="meta"><span class="source">机核</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">机核</span></div>
           <p class="summary">如题，金花带来的魔兽世界系列之反诈男孩新篇章，金花这次被骗了！ 主播：金花、恶霸波、野人、蛋挞、CIS 剪辑：蛋挞 加群可以直接社媒搜索播客公社老袁私信～</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-planning-2-major-overhauls-to-its-housing-system-to-catch-up-with-world-of-warcraft-its-probably-the-number-1-thing-on-the-list-a-lot-of-people-are-requesting/" target="_blank" rel="noopener">Final Fantasy 14 is planning 2 major overhauls to its housing system to catch up with World of Warcraft: 'It's probably the number 1 thing on the list a lot of people are requesting'</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/27</span></div>
-          <p class="summary">Secret housing changes are afoot.</p>
+          <a href="https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-planning-2-major-overhauls-to-its-housing-system-to-catch-up-with-world-of-warcraft-its-probably-the-number-1-thing-on-the-list-a-lot-of-people-are-requesting/" target="_blank" rel="noopener" title="Final Fantasy 14 is planning 2 major overhauls to its housing system to catch up with World of Warcraft: 'It's probably the number 1 thing on the list a lot of people are requesting'">《最终幻想14》计划对其住房系统进行两次重大改造，以赶上《魔兽世界》的进度：“这大概是很多人最期待的项目”</a>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">PC Gamer</span></div>
+          <p class="summary">秘密的住房变动正在进行中。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/games/world-of-warcraft/a-crossover-between-dungeons-and-dragons-and-world-of-warcraft-has-leaked/" target="_blank" rel="noopener">A crossover between Dungeons &amp; Dragons and World of Warcraft has leaked</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/26</span></div>
-          <p class="summary">Seems likely to be more than just a starter set this time, as we've seen in previous crossovers like Stranger Things or Rick &amp; Morty.</p>
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/a-crossover-between-dungeons-and-dragons-and-world-of-warcraft-has-leaked/" target="_blank" rel="noopener" title="A crossover between Dungeons &amp; Dragons and World of Warcraft has leaked">龙与地下城与魔兽世界的跨界合作泄露了</a>
+          <div class="meta"><span class="date">2026/07/26</span><span class="source">PC Gamer</span></div>
+          <p class="summary">这次看起来不仅仅是入门套装，正如我们在之前的跨界作品中看到的，比如《怪奇物语》或《瑞克和莫蒂》。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.gamespot.com/articles/jimothy-the-viral-raccoon-is-becoming-an-earnable-wow-pet/" target="_blank" rel="noopener">Jimothy, The Viral Raccoon, Is Becoming An Earnable WoW Pet</a>
-          <div class="meta"><span class="source">GameSpot</span><span class="date">2026/07/25</span></div>
-          <p class="summary">Jimothy, the short-spined raccoon who has captured the hearts of the internet, is coming to World of Warcraft . Over the past few weeks, Jimothy the raccoon has gone absolutely viral, as Seattle local</p>
+          <a href="https://www.gamespot.com/articles/jimothy-the-viral-raccoon-is-becoming-an-earnable-wow-pet/" target="_blank" rel="noopener" title="Jimothy, The Viral Raccoon, Is Becoming An Earnable WoW Pet">病毒浣熊吉莫西正成为一只可赚取的魔兽宠物</a>
+          <div class="meta"><span class="date">2026/07/25</span><span class="source">GameSpot</span></div>
+          <p class="summary">吉莫西，这只短刺浣熊，赢得了网络的心，他即将登上魔兽世界。在过去的几周里，浣熊吉莫西作为西雅图本地人迅速走红</p>
         </li>
         <li class="news-item">
-          <a href="https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/" target="_blank" rel="noopener">Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW</a>
-          <div class="meta"><span class="source">GameSpot</span><span class="date">2026/07/25</span></div>
-          <p class="summary">A Blizzard employee who used developer tools to allegedly help a group of friends complete a challenging Mythic+ dungeon in World of Warcraft is no longer with the company, Blizzard has confirmed. Ear</p>
+          <a href="https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/" target="_blank" rel="noopener" title="Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW">暴雪员工因涉嫌帮助朋友作弊而失业</a>
+          <div class="meta"><span class="date">2026/07/25</span><span class="source">GameSpot</span></div>
+          <p class="summary">暴雪确认，一名曾使用开发者工具帮助一群朋友完成《魔兽世界》中具有挑战性的Mythic+地下城的员工已不再留职。耳朵</p>
         </li>
         <li class="news-item">
-          <a href="https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run" target="_blank" rel="noopener">Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run</a>
-          <div class="meta"><span class="source">Rock Paper Shotgun</span><span class="date">2026/07/25</span></div>
-          <p class="summary">World of Warcraft studio Blizzard have announced that they've fired a developer after development-only spells were used to insta-kill some Mythic+ dungeon bosses for a party of non-dev adventurers. Th</p>
+          <a href="https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run" target="_blank" rel="noopener" title="Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run">暴雪解雇了魔兽世界开发者，因为他们在地下城中使用禁忌魔法来瞬杀普通玩家的Boss</a>
+          <div class="meta"><span class="date">2026/07/25</span><span class="source">Rock Paper Shotgun</span></div>
+          <p class="summary">魔兽世界工作室暴雪宣布，他们解雇了一名开发者，原因是他们用仅开发的法术瞬间击杀了一些非开发冒险者队伍的Mythic+地下城Boss。TH</p>
         </li>
         <li class="news-item">
           <a href="https://news.17173.com/content/07242026/170844240.shtml" target="_blank" rel="noopener">《魔兽世界》员工后台秒BOSS，只为带飞大雷美女主播</a>
-          <div class="meta"><span class="source">17173</span><span class="date">2026/07/24</span></div>
+          <div class="meta"><span class="date">2026/07/24</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">
           <a href="https://www.gcores.com/articles/217482" target="_blank" rel="noopener">暴雪嘉年华2026终极纪念典藏礼包现已上架</a>
-          <div class="meta"><span class="source">机核</span><span class="date">2026/07/24</span></div>
+          <div class="meta"><span class="date">2026/07/24</span><span class="source">机核</span></div>
           <p class="summary">暴雪嘉年华2026终极纪念典藏礼包现已上架。即日起至9月28日，玩家可选购​海量​游戏​内​物品，​庆祝​本次盛世。售价328元的​多​合​一​典藏礼​包​包​含​全部​四​个​产品​的​暴雪​嘉​年​华纪念​典藏​礼包，​包括​《魔兽​世界》​《守望​先​锋》​《暗黑​破​坏神 ​IV》​《炉石传​说​》，​以及​其他​来自​暴雪​宇宙​的​游戏​内​物品。 与此同时，玩家也可以单独选购不同游戏</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/games/world-of-warcraft/blizzard-fires-world-of-warcraft-game-master-who-insta-killed-bosses-for-friends/" target="_blank" rel="noopener">Blizzard fires World of Warcraft game master who insta-killed bosses for friends</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/24</span></div>
-          <p class="summary">It will also be &quot;taking action&quot; against the players who were involved.</p>
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/blizzard-fires-world-of-warcraft-game-master-who-insta-killed-bosses-for-friends/" target="_blank" rel="noopener" title="Blizzard fires World of Warcraft game master who insta-killed bosses for friends">暴雪解雇了那个为朋友瞬杀Boss的魔兽世界游戏主持人</a>
+          <div class="meta"><span class="date">2026/07/24</span><span class="source">PC Gamer</span></div>
+          <p class="summary">这也将是对涉案球员采取“行动”。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-investigating-a-world-of-warcraft-cheating-scandal-after-game-master-death-touched-bosses-for-friends-without-realizing-it-was-being-recorded/" target="_blank" rel="noopener">Blizzard investigating World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/23</span></div>
-          <p class="summary">One of the players then went on a Twitch stream to spill the beans.</p>
+          <a href="https://www.pcgamer.com/games/world-of-warcraft/blizzard-is-investigating-a-world-of-warcraft-cheating-scandal-after-game-master-death-touched-bosses-for-friends-without-realizing-it-was-being-recorded/" target="_blank" rel="noopener" title="Blizzard investigating World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded">暴雪调查《魔兽世界》作弊丑闻，游戏主持人在未意识到被录制的情况下“死亡触碰”了Boss</a>
+          <div class="meta"><span class="date">2026/07/23</span><span class="source">PC Gamer</span></div>
+          <p class="summary">其中一位玩家随后在Twitch直播中泄露了内幕。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/gaming-industry/starcraft-2-is-included-in-blizzards-blizzcon-digital-goodies-which-is-more-evidence-a-new-game-will-be-announced-soon-right/" target="_blank" rel="noopener">StarCraft 2 is included in Blizzard's BlizzCon digital goodies, which is more evidence a new game will be announced soon, right?</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/23</span></div>
-          <p class="summary">Is it just me or is Blizzard gearing up to announce the rumored StarCraft shooter?</p>
+          <a href="https://www.pcgamer.com/gaming-industry/starcraft-2-is-included-in-blizzards-blizzcon-digital-goodies-which-is-more-evidence-a-new-game-will-be-announced-soon-right/" target="_blank" rel="noopener" title="StarCraft 2 is included in Blizzard's BlizzCon digital goodies, which is more evidence a new game will be announced soon, right?">《星际争霸2》被收录在暴雪的暴雪嘉年华数字奖励中，这更说明新游戏即将发布，对吧？</a>
+          <div class="meta"><span class="date">2026/07/23</span><span class="source">PC Gamer</span></div>
+          <p class="summary">只有我觉得暴雪正在准备宣布传闻中的星际争霸射击游戏吗？</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/overwatch-stadium-support-ending" target="_blank" rel="noopener">Blizzard's calling time on Overwatch's hero customising Stadium mode, and I may well be the only person that's sad about that</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/22</span></div>
-          <p class="summary">Live service games face an interesting conundrum, I think: how do you keep offering the core experience of a game while also periodically reinventing it, and varying it, in such a way that will make i</p>
+          <a href="https://www.eurogamer.net/overwatch-stadium-support-ending" target="_blank" rel="noopener" title="Blizzard's calling time on Overwatch's hero customising Stadium mode, and I may well be the only person that's sad about that">暴雪宣布结束了守望先锋英雄定制体育场模式的时代，我可能是唯一对此感到难过的人</a>
+          <div class="meta"><span class="date">2026/07/22</span><span class="source">Eurogamer</span></div>
+          <p class="summary">我认为在线服务游戏面临一个有趣的难题：如何在不断创新和变化的同时，持续提供游戏的核心体验，以达到</p>
         </li>
         <li class="news-item">
           <a href="https://www.eurogamer.net/jagex-runescape-bigger-than-world-of-warcraft" target="_blank" rel="noopener">Jagex wants classic British point-and-click MMO RuneScape to be bigger than World of Warcraft</a>
@@ -1590,8 +1881,8 @@
       </section>
 
       <section class="company" id="ea">
-        <h2><span class="badge">08</span> EA <small>Electronic Arts</small></h2>
-        <ul>
+        <h2><span class="badge">08</span> EA <small>Electronic Arts · 37 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://news.17173.com/content/08112026/104734173.shtml" target="_blank" rel="noopener">《战地6》删除游戏模式惹怒老玩家！玩了470小时照样退款成功</a>
           <div class="meta"><span class="source">17173</span><span class="date">2026/08/11</span></div>
@@ -1679,39 +1970,44 @@
           
         </li>
         <li class="news-item">
-          <a href="https://www.rockpapershotgun.com/surprise-age-of-empires-3-definitive-editions-baltic-powers-expansion-has-re-emerged-from-the-annals-of-cancelled-dlc-history-will-come-out-in-september" target="_blank" rel="noopener">Surprise, Age of Empires 3: Definitive Edition's Baltic Powers expansion has re-emerged from the annals of cancelled DLC history, will come out in September</a>
-          <div class="meta"><span class="source">Rock Paper Shotgun</span><span class="date">2026/07/24</span></div>
-          <p class="summary">Ah! You hadn't totally retreated from the battlefield following your cancellation in early 2025, Age of Empires III: Definitive Edition 's Baltic Powers DLC! It was just one of your strategic tricks t</p>
+          <a href="https://www.3dmgame.com/news/202608/3950268.html" target="_blank" rel="noopener">《战地6》更新删除突击模式惹怒老玩家 游玩470小时居然退款成功</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">3DM游戏网</span></div>
+          
         </li>
         <li class="news-item">
-          <a href="https://www.gamespot.com/articles/ea-sports-fc-27-has-a-new-150-edition-because-ultimate-wasnt-ultimate-enough/" target="_blank" rel="noopener">EA Sports FC 27 Has A New $150 Edition, Because Ultimate Wasn’t Ultimate Enough</a>
-          <div class="meta"><span class="source">GameSpot</span><span class="date">2026/07/24</span></div>
-          <p class="summary">EA looks like it'll be aiming to extract extra cash from consumers, as not only will the company be offering $70 standard and $100 &quot;Ultimate&quot; editions of its soccer game EA Sports FC 27 , it'll also b</p>
+          <a href="https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed" target="_blank" rel="noopener" title="Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed">《战地 6》关键模式被移除后，游玩时间超过 400 小时的玩家将获得 Steam 全额退款</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">IGN</span></div>
+          <p class="summary">在《战地》工作室从游戏的快速匹配匹配中删除关键模式后，一位拥有数百小时游戏时间的《战地 6》玩家获得了游戏的全额退款。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/saudi-arabian-pif-aquisition-electronic-arts-approved-european-union" target="_blank" rel="noopener">EU approves Saudi Arabia's $55bn acquisition of EA, clearing path for largest private leveraged buyout of all time</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/23</span></div>
-          <p class="summary">The European Union has approved the controversial $55bn acquisition of Electronic Arts by Saudi Arabia's Public Investment Fund (PIF), private equity company Silver Lake, and investment company Affini</p>
+          <a href="https://www.pcgamer.com/games/fps/battlefield-6-player-claims-to-have-received-steam-refund-after-470-hours-due-to-surprise-mode-removal/" target="_blank" rel="noopener" title="Battlefield 6 player claims to have received Steam refund after 470 hours due to surprise mode removal">《战地 6》玩家声称因惊喜模式被移除而在 470 小时后收到 Steam 退款</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">PC Gamer</span></div>
+          <p class="summary">模式疯狂。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/battlefield-6-season-4-tsuru-reef-preview" target="_blank" rel="noopener">Battlefield 6's newest and largest map is good, but I worry it will end up being nothing more than a curiosity</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/21</span></div>
-          <p class="summary">There's been one thought I haven't been able to shake during my time with Battlefield 6 's upcoming Tsuru Reef map - the game's biggest yet, which arrives tomorrow with Season 4 . Tsuru Reef is the it</p>
+          <a href="https://www.gamespot.com/articles/battlefield-6-removed-a-fan-favorite-mode-as-devs-look-for-best-way-to-bring-it-back/" target="_blank" rel="noopener" title="Battlefield 6 Removed A Fan-Favorite Mode, As Devs Look For “Best” Way To Bring It Back">《战地 6》取消了粉丝最喜欢的模式，开发者正在寻找“最佳”方式将其恢复</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">GameSpot</span></div>
+          <p class="summary">从《战地 6》中移除《Rush》在游戏社区中并没有得到很好的反响，开发商 Battlefield Studios 证实正在探索将其重新带回的方法。该模式的播放列表，以及</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/ea-sports-fc-spain-winner-fifa-world-cup" target="_blank" rel="noopener">EA Sports FC simulations correctly predicted the FIFA World Cup winner would be Spain, and it's not the first time it has happened</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/20</span></div>
-          <p class="summary">Spain is the new FIFA World Cup winner after defeating Argentina one to zero last night, and once again, the EA Sports FC game correctly predicted the result in advance. Read more</p>
+          <a href="https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode" target="_blank" rel="noopener" title="Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay">据报道，在 EA 悄悄从 Quickplay 中取消 Rush 模式后，Steam 向登录 470 小时的《战地 6》玩家退款</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">Eurogamer</span></div>
+          <p class="summary">一名《战地 6》玩家对流行的 Rush 模式被取消感到“不满”，声称尽管已经玩了 470 个小时，但已经从 Steam 获得了全额退款。阅读更多</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/battlefield-6-top-gun-collaboration-season-4-carrier-strike" target="_blank" rel="noopener">Battlefield 6 is getting an evolved Carrier Assault mode in Season 4, and the Top Gun collab brings more than cosmetics</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/17</span></div>
-          <p class="summary">Battlefield 6 's upcoming Season 4 continues to look like one of its most exciting seasons yet. After delivering a first look at naval combat earlier this week , Battlefield Studios has now detailed m</p>
+          <a href="https://www.pcgamer.com/gaming-industry/the-guy-in-charge-of-ea-sports-is-now-in-charge-of-ea-everything/" target="_blank" rel="noopener" title="The guy in charge of EA Sports is now in charge of EA everything">负责 EA Sports 的人现在负责 EA 的一切</a>
+          <div class="meta"><span class="date">2026/08/06</span><span class="source">PC Gamer</span></div>
+          <p class="summary">随着沙特阿拉伯对 EA 的收购现已完成，高层发生了一些变化。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.rockpapershotgun.com/i-would-fight-it-tooth-and-nail-the-sims-artist-would-challenge-any-mandate-to-reduce-diversity-after-ea-saudi-buyout" target="_blank" rel="noopener">&quot;I would fight it tooth and nail&quot;: The Sims artist would challenge any mandate to reduce diversity after EA Saudi buyout</a>
-          <div class="meta"><span class="source">Rock Paper Shotgun</span><span class="date">2026/07/17</span></div>
-          <p class="summary">Answering concerns that The Sims team may face pressure to reduce support for diversity following the Saudi Arabian-backed buyout of EA, senior character artist Jess Hyland says she's not &quot;heard anyth</p>
+          <a href="https://www.gamespot.com/articles/kingdom-come-actor-is-living-my-dream-opening-a-medieval-pub-to-drink-beer-and-eat-food-with-friends/" target="_blank" rel="noopener" title="Kingdom Come Actor Is Living My Dream, Opening A Medieval Pub To Drink Beer And Eat Food With Friends">《天国降临》演员实现我的梦想，开一家中世纪酒吧与朋友一起喝啤酒、吃美食</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">GameSpot</span></div>
+          <p class="summary">因在《天国降临》RPG 系列和 EA 的《战地 V》中扮演角色而闻名的英国演员卢克·戴尔 (Luke Dale) 宣布，他在捷克共和国购买了一家小酒馆，并计划将其改造成中世纪风格的酒吧。</p>
+        </li></ul><details class="more"><summary>展开其余 29 条</summary><ul class="cards">
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/hardware/graphics-cards/ea-has-fixed-a-niche-battlefield-6-issue-where-some-nvidia-gpus-were-crashing-while-changing-attachments-or-playing-on-maps-with-large-bodies-of-water/" target="_blank" rel="noopener" title="EA has fixed a niche Battlefield 6 issue where some Nvidia GPUs were crashing while changing attachments or 'playing on maps with large bodies of water'">EA 修复了《战地 6》中的一个小问题，即一些 Nvidia GPU 在更换附件或“在有大片水域的地图上玩”时崩溃</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">PC Gamer</span></div>
+          <p class="summary">它似乎与最近的 Nvidia 驱动程序更新有关。</p>
         </li>
         <li class="news-item">
           <a href="https://www.rockpapershotgun.com/never-say-never-criterion-arent-ruling-out-a-return-to-need-for-speed-but-battlefield-is-their-only-focus-for-now" target="_blank" rel="noopener">&quot;Never say never&quot;: Criterion aren't ruling out a return to Need For Speed, but Battlefield is their only focus for now</a>
@@ -1726,8 +2022,143 @@
       </section>
 
       <section class="company" id="ubisoft">
-        <h2><span class="badge">09</span> 育碧 <small>Ubisoft</small></h2>
-        <ul>
+        <h2><span class="badge">09</span> 育碧 <small>Ubisoft · 39 条</small></h2>
+        <ul class="cards">
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3950269.html" target="_blank" rel="noopener">刚做完《黑旗》重制版就被裁 育碧员工提前成立自己的工作室</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/1666-amsterdam-impressions-patrice-desilets" target="_blank" rel="noopener" title="I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas">我已经看过很多《1666：阿姆斯特丹》了，《刺客信条》的创作者制作的这款巫术游戏有一些令人惊讶的想法</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">Eurogamer</span></div>
+          <p class="summary">1666 年：经过长达 15 年的构思（涉及法律斗争、重写概念、秘密出版商，最后是一款真正的游戏），阿姆斯特丹于今年重新回到公众视野。足以</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/amsterdam-1666-early-access-release-date" target="_blank" rel="noopener" title="Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected">《刺客信条》创作者的黑暗巫术动作游戏《1666：阿姆斯特丹》抢先体验版的推出时间比我们预期的要早</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">Eurogamer</span></div>
+          <p class="summary">1666 年：《阿姆斯特丹》是一款在《刺客信条》创作者帕特里斯·德西莱特 (Patrice Désilets) 和育碧软件 (Ubisoft) 之间多年法律斗争中幸存下来的游戏，现已确定抢先体验发布日期。将于8月25日发布</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/the-division-resurgence-steam-release-user-reviews" target="_blank" rel="noopener" title="The Division Resurgence, the free-to-play mobile off-shoot, is now on Steam and players are confused and a little miffed">免费手机游戏《全境封锁：复兴》现已登陆 Steam，玩家们感到困惑和有点恼火</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">Eurogamer</span></div>
+          <p class="summary">“全境封锁”这个名字你可能已经忘记了。在基于育碧最大系列的众多衍生作品中，《卷土重来》是少数真正成功的作品之一。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3950214.html" target="_blank" rel="noopener">《刺客信条：黑旗》重制版DLC内容泄露 爱德华·肯威或将迎来全新故事</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218147" target="_blank" rel="noopener">《奥德赛》电影带动《刺客信条：奥德赛》，玩家增幅达134%</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">机核</span></div>
+          <p class="summary">随着电影《奥德赛》全球票房突破10亿美元，公众对《刺客信条：奥德赛》的关注也日益增加。值得一提的是，育碧已将《刺客信条：奥德赛》加入Xbox Game Pass和PlayStation Plus订阅服务，主机订阅用户无需额外付费即可直接游玩。日活跃用户从3.6万增至8.4万，增幅达134%。 随着电影《奥德赛》全球票房突破10亿美元，公众对《刺客信条：奥德赛》的关注也日益增加。值得一提的是，育碧已</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/third-person-shooter/free-to-play-division-game-launches-on-steam-to-mixed-reviews-calling-it-slop-disrespects-actual-slop/" target="_blank" rel="noopener" title="Free-to-play Division game launches on Steam to mixed reviews: 'Calling it slop disrespects actual slop'">免费游戏《Division》在 Steam 上发布，评价褒贬不一：“称其为“slop”是不尊重实际的“slop””</a>
+          <div class="meta"><span class="date">2026/08/10</span><span class="source">PC Gamer</span></div>
+          <p class="summary">事实证明，《全境封锁：复兴》是专为移动设备打造的。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/radios/217785" target="_blank" rel="noopener">失落的故事线（上）：《刺客信条》本该只有三部</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">机核</span></div>
+          <p class="summary">本期时间轴制作：天行 作为一个重置作品，《刺客信条 黑旗：记忆重制》删除了原版游戏的全部现代剧情。这背后的一个现象是，这个系列其实一直在逐渐弱化现代线剧情的比重。但是对于这个系列而言，这实在是一个值得惋惜的事情，为什么我们说，《刺客信条》本该只有三部？ 本期故事节目我们将从《刺客信条》前几部的现代故事入手，聊聊老《刺客》现代剧情的精彩之处，也分析一下这个系列是怎么逐渐调整方向的。</p>
+        </li></ul><details class="more"><summary>展开其余 31 条</summary><ul class="cards">
+        <li class="news-item">
+          <a href="https://www.rockpapershotgun.com/credible-military-storytelling-ubisoft-announce-playtests-for-new-ghost-recon-game-alongside-a-sizeable-wildlands-update-and-a-future-soldier-giveaway" target="_blank" rel="noopener" title="&quot;Credible military storytelling&quot;: Ubisoft announce playtests for new Ghost Recon game alongside a sizeable Wildlands update and a Future Soldier giveaway">“可信的军事故事讲述”：育碧宣布对新《幽灵行动》游戏进行游戏测试，同时进行大规模《荒野》更新和《未来士兵》赠品</a>
+          <div class="meta"><span class="date">2026/08/07</span><span class="source">Rock Paper Shotgun</span></div>
+          <p class="summary">就像中央情报局在厚颜无耻的小政权更迭之前散布错误信息一样，育碧也开始谈论他们的下一款合适的《幽灵行动》游戏。据现场制作人伊琳娜-加布里埃拉·波帕 (Irina-Gabriela Popa) 介绍，</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gcores.com/articles/218062" target="_blank" rel="noopener">《彩虹六号：围攻》“炼狱”活动现已正式回归</a>
+          <div class="meta"><span class="date">2026/08/07</span><span class="source">机核</span></div>
+          <p class="summary">《彩虹六号：围攻》“炼狱”活动现已正式回归。育碧表示，玩家可探索焕然一新的“炼狱”体验。玩家可直面超自然力量，夺取强悍奖励，在神话与传说缔造的战场上，争夺掌控权。玩家还可领取专属 Twitch Drop 奖励，详情如下： 华丽蜕变的摩天大楼 在华丽蜕变的摩天大楼中展开激战，它已然褪去现代的繁杂，在远古力量之下重生。寻找不断转移的祭坛，夺取掌控权，在地图上不断推进，同时随机应变。 扩充你的“炼狱”收</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/assassins-creed/assassins-creed-valhalla-director-comes-back-to-ubisoft-to-be-game-director-for-the-entire-brand/" target="_blank" rel="noopener" title="Assassin's Creed Valhalla director comes back to Ubisoft to be game director for the entire brand">《刺客信条：英灵殿》总监重返育碧，担任整个品牌的游戏总监</a>
+          <div class="meta"><span class="date">2026/08/06</span><span class="source">PC Gamer</span></div>
+          <p class="summary">埃里克·巴普蒂扎特回来了。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns" target="_blank" rel="noopener" title="Assassin's Creed Valhalla director makes sudden return to Ubisoft, and will lead the series moving forward">《刺客信条：英灵殿》导演突然回归育碧，并将带领该系列向前发展</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">Eurogamer</span></div>
+          <p class="summary">《刺客信条：英灵殿》、《黑旗》和《起源》的总监已回到育碧，领导未来《刺客信条》游戏的开发。阅读更多</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949926.html" target="_blank" rel="noopener">《刺客信条：黑旗》重制版更新1.0.6版本 可选择移除背部吹箭</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949920.html" target="_blank" rel="noopener">EA私有化后债务十倍于育碧！负债200亿竟要员工买单</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949911.html" target="_blank" rel="noopener">曝16年《刺客信条》老将重返育碧！曾执导《英灵殿》等</a>
+          <div class="meta"><span class="date">2026/08/05</span><span class="source">3DM厂商新闻</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/assassins-creed/our-long-caribbean-nightmare-is-over-you-can-hide-the-blow-pipe-in-assassins-creed-black-flag-resynced-now/" target="_blank" rel="noopener" title="Our long Caribbean nightmare is over: You can hide the blow pipe in Assassin's Creed Black Flag Resynced now">我们漫长的加勒比噩梦结束了：你可以在《刺客信条黑旗》中隐藏吹管了，现已重新同步</a>
+          <div class="meta"><span class="date">2026/08/04</span><span class="source">PC Gamer</span></div>
+          <p class="summary">时尚杀手。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949843.html" target="_blank" rel="noopener">意外的选择！ voices38攻破育碧23年发行大作</a>
+          <div class="meta"><span class="date">2026/08/04</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949745.html" target="_blank" rel="noopener">一张美足照让育碧懵了！《刺客信条：黑旗》女玩家照片获19万点赞</a>
+          <div class="meta"><span class="date">2026/08/03</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202608/3949656.html" target="_blank" rel="noopener">《刺客信条：黑旗 记忆重置》1.005.034更新现身PS后台</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.pcgamer.com/games/strategy/ubisofts-nft-tactics-game-a-thing-that-still-exists-is-shutting-down-in-october/" target="_blank" rel="noopener" title="Ubisoft's NFT tactics game, a thing that still exists, is shutting down in October">育碧的NFT战术游戏——一个仍然存在的游戏——将在十月关闭</a>
+          <div class="meta"><span class="date">2026/08/01</span><span class="source">PC Gamer</span></div>
+          <p class="summary">技术上讲，它在五月就放弃了Web3功能，但似乎并没有太大帮助。</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202607/3949641.html" target="_blank" rel="noopener">《刺客信条：奥德赛》迎来第二春 全平台在线近25万</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.rockpapershotgun.com/a-former-assassins-creed-dev-is-making-a-ghost-hunting-horror-mystery-based-on-visits-to-abandoned-convents-in-which-your-greatest-weapon-is-a-chunky-instant-camera" target="_blank" rel="noopener" title="A former Assassin's Creed dev is making a ghost-hunting horror mystery based on visits to abandoned convents, in which your greatest weapon is a chunky instant camera">一位前《刺客信条》开发者正在制作一款基于访问废弃修道院的捉鬼恐怖悬疑游戏，而你最强的武器是一个笨重的即时摄像机</a>
+          <div class="meta"><span class="date">2026/07/31</span><span class="source">Rock Paper Shotgun</span></div>
+          <p class="summary">在担任《杀出重围：人类革命》电影导演、《XCOM：局中侦探》首席电影顾问以及育碧蒙特利尔导演之后，游戏行业的下一步职业发展会是什么？</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/assassins-creed-hexe-potential-release-window-leak" target="_blank" rel="noopener" title="Assassin's Creed Hexe is at least one year away, insider claims">内部人士称《刺客信条六角》至少还要一年时间</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">Eurogamer</span></div>
+          <p class="summary">《刺客信条：代号Hexe》将作为继《暗影》之后，作为这个长期系列的下一款原创主线游戏。不幸的是，看来我们还要等更久才能重新回归</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.gamespot.com/articles/shrek-comes-to-ubisofts-popular-fighting-game/" target="_blank" rel="noopener" title="Shrek Comes To Ubisoft’s Popular Fighting Game">《怪物史莱克》登陆育碧热门格斗游戏</a>
+          <div class="meta"><span class="date">2026/07/30</span><span class="source">GameSpot</span></div>
+          <p class="summary">在《史莱克》被加入一款热门足球游戏后，大家最喜欢的绿色食人魔现在出现在育碧的格斗游戏《乱斗》中。今年《怪物史莱克》在各地不断出现，以庆祝25吨的庆祝</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.eurogamer.net/new-far-cry-kodiak-open-world-ubisoft-vantage-studios" target="_blank" rel="noopener" title="Ubisoft reportedly has yet another Far Cry game in development, but at least this one doesn't appear to be in trouble">据报道，育碧还有另一款《孤岛惊魂》游戏正在开发中，但至少这部游戏看起来没有遇到麻烦</a>
+          <div class="meta"><span class="date">2026/07/29</span><span class="source">Eurogamer</span></div>
+          <p class="summary">《孤岛惊魂》系列沉寂的时间远比育碧预期的要长。公司从未停止开发新的《孤岛惊魂》游戏，只是从未真正问世。接下来</p>
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202607/3949416.html" target="_blank" rel="noopener">《刺客信条：影》发布1.1.12更新补丁 2GB到20GB！</a>
+          <div class="meta"><span class="date">2026/07/29</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
+        <li class="news-item">
+          <a href="https://www.3dmgame.com/news/202607/3949334.html" target="_blank" rel="noopener">《刺客信条：黑旗记忆重置》大卖！玩家集体请愿续作</a>
+          <div class="meta"><span class="date">2026/07/28</span><span class="source">3DM游戏网</span></div>
+          
+        </li>
         <li class="news-item">
           <a href="https://www.eurogamer.net/1666-amsterdam-impressions-patrice-desilets" target="_blank" rel="noopener">我已经看到了更多的1666 ：阿姆斯特丹，刺客信条创作者的巫术游戏有一些令人惊讶的想法</a><div class="orig-title">I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas</div>
           <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/08/11</span></div>
@@ -1811,18 +2242,18 @@
         </li>
         <li class="news-item">
           <a href="https://www.3dmgame.com/news/202607/3949291.html" target="_blank" rel="noopener">育碧同时开发两款《孤岛惊魂》游戏 其中一款野心很大</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/27</span></div>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">3DM游戏网</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/games/assassins-creed/ubisoft-says-the-black-flag-remake-has-exceeded-annual-expectations-in-just-two-weeks-shortly-after-it-laid-off-a-number-of-the-people-who-made-it/" target="_blank" rel="noopener">Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/27</span></div>
-          <p class="summary">Videogame piracy.</p>
+          <a href="https://www.pcgamer.com/games/assassins-creed/ubisoft-says-the-black-flag-remake-has-exceeded-annual-expectations-in-just-two-weeks-shortly-after-it-laid-off-a-number-of-the-people-who-made-it/" target="_blank" rel="noopener" title="Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it">育碧表示，《黑旗》重制版仅两周就超出了“年度预期”，而此前不久，该重制版裁员也被裁掉了</a>
+          <div class="meta"><span class="date">2026/07/27</span><span class="source">PC Gamer</span></div>
+          <p class="summary">电子游戏盗版。</p>
         </li>
         <li class="news-item">
-          <a href="https://www.gamespot.com/articles/resident-evil-4-has-sold-more-than-twice-as-much-as-any-other-current-gen-remake/" target="_blank" rel="noopener">Resident Evil 4 Has Sold More Than Twice As Much As Any Other Current-Gen Remake</a>
-          <div class="meta"><span class="source">GameSpot</span><span class="date">2026/07/24</span></div>
-          <p class="summary">The launch of Assassin's Creed Black Flag Resynced has proven that there's still a strong appetite for video game remakes, and at 3.5 million sales and counting, Ubisoft's new game is off to a smashin</p>
+          <a href="https://www.gamespot.com/articles/resident-evil-4-has-sold-more-than-twice-as-much-as-any-other-current-gen-remake/" target="_blank" rel="noopener" title="Resident Evil 4 Has Sold More Than Twice As Much As Any Other Current-Gen Remake">《生化危机4》的销量是其他任何现世代重制版的两倍多</a>
+          <div class="meta"><span class="date">2026/07/24</span><span class="source">GameSpot</span></div>
+          <p class="summary">《刺客信条：黑旗重同步版》的发布证明了电子游戏重制依然有强烈的市场需求，育碧这款新作销量达到350万份且还在增长，取得了巨大成功</p>
         </li>
         <li class="news-item">
           <a href="https://www.eurogamer.net/assassins-creed-black-flag-sales-exceed-annual-expectations" target="_blank" rel="noopener">Assassin's Creed Black Flag Resynced has already sold over 3.5 million copies, &quot;exceeding annual expectations within its first 14 days&quot;</a>
@@ -1830,19 +2261,19 @@
           <p class="summary">Assassin's Creed Black Flag is going from strength-to-strength for Ubisoft. After netting 2m sales in its opening few days (and then ascending to 3m within a week ), Ubisoft has just announced that th</p>
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/gaming-industry/ubisoft-chief-says-sonys-decision-to-kill-game-discs-isnt-going-to-be-a-big-deal/" target="_blank" rel="noopener">Ubisoft chief says Sony's decision to kill game discs isn't going to be a big deal</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/24</span></div>
-          <p class="summary">Yves Guillemot reckons the lack of physical discs might even be a good thing.</p>
+          <a href="https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-latest-update-stops-unexpected-mutinies-triggered-by-ship-shopping-trips-and-forces-skies-to-be-sunnier" target="_blank" rel="noopener" title="Assassin's Creed Black Flag Resynced's latest update stops unexpected mutinies triggered by ship shopping trips and forces skies to be sunnier">《刺客信条：黑旗重同步》的最新更新阻止了因船只购物引发的意外叛变，并使天空变得更加晴朗</a>
+          <div class="meta"><span class="date">2026/07/16</span><span class="source">Rock Paper Shotgun</span></div>
+          <p class="summary">我们都经历过。你是个口袋里满是刚偷来的金币的海盗船长，想把钱全花在崭新的大炮或雕刻成ba形的船首像上</p>
         </li>
         <li class="news-item">
-          <a href="https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-modders-make-blackbeard-playable-but-heres-a-syringe-shaped-reason-to-avoid-historically-accurate-pirate-roleplay" target="_blank" rel="noopener">Assassin's Creed Black Flag Resynced modders make Blackbeard playable, but here's a syringe-shaped reason to avoid historically accurate pirate roleplay</a>
-          <div class="meta"><span class="source">Rock Paper Shotgun</span><span class="date">2026/07/22</span></div>
-          <p class="summary">Assassin&amp;rsquo;s Creed Black Flag Resynced 's an idyllic pirate adventure, especially given it trains its eye firmly on Edward Kenway's quest for booty. Naturally, Kenway hangs out with a bunch of rea</p>
+          <a href="https://www.eurogamer.net/ubisoft-barcelona-strike-july-2026" target="_blank" rel="noopener" title="Assassin's Creed Black Flag Resynced studio Ubisoft Barcelona goes on three-day strike in protest of layoffs">《刺客信条：黑旗》重新同步工作室育碧巴塞罗那为抗议裁员而发起为期三天的罢工</a>
+          <div class="meta"><span class="date">2026/07/15</span><span class="source">Eurogamer</span></div>
+          <p class="summary">《刺客信条 黑旗重同步》开局火热，育碧仅发售当天就宣称销量达200万份。但尽管取得成功，育碧巴塞罗那——参与其中一家的工作室</p>
         </li>
         <li class="news-item">
-          <a href="https://www.eurogamer.net/assassins-creed-black-flag-resynced-3-million-copies-one-week" target="_blank" rel="noopener">Assassin's Creed Black Flag Resynced sold 3 million in its first week</a>
-          <div class="meta"><span class="source">Eurogamer</span><span class="date">2026/07/20</span></div>
-          <p class="summary">After its big 2m sales opening , Assassin's Creed Black Flag Resynced has reached a new sales milestone: Ubisoft announced that the remake has sold over 3m units in a week across all platforms. Read m</p>
+          <a href="https://www.eurogamer.net/assassins-creed-black-flag-resynced-steam-launch-data" target="_blank" rel="noopener" title="Assassin's Creed Black Flag Resynced enjoys the best launch of any AC game on Steam, making avast sum of money there">《刺客信条：黑旗重同步》在Steam上拥有所有《刺客信条》游戏中最成功的首发，赚取了大量收益</a>
+          <div class="meta"><span class="date">2026/07/15</span><span class="source">Eurogamer</span></div>
+          <p class="summary">现在很明显，《刺客信条：黑旗重同步》对育碧来说是成功的，尽管这也莫名其妙地导致发行商裁掉了许多制作该游戏的开发者</p>
         </li>
         <li class="news-item">
           <a href="https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus" target="_blank" rel="noopener">Ubisoft is working on Assassin's Creed Black Flag Resynced New Game Plus</a>
@@ -1872,8 +2303,8 @@
       </section>
 
       <section class="company" id="valve">
-        <h2><span class="badge">10</span> Valve <small>Valve</small></h2>
-        <ul>
+        <h2><span class="badge">10</span> Valve <small>Valve · 69 条</small></h2>
+        <ul class="cards">
         <li class="news-item">
           <a href="https://www.gcores.com/articles/218185" target="_blank" rel="noopener">《昭和米国物语》公布配置要求，推荐GTX 1660Ti</a>
           <div class="meta"><span class="source">机核</span><span class="date">2026/08/11</span></div>
@@ -2126,19 +2557,19 @@
           
         </li>
         <li class="news-item">
-          <a href="https://www.pcgamer.com/gaming-industry/amazon-gaming-boss-says-high-hardware-prices-could-be-good-news-for-its-luna-cloud-gaming-program/" target="_blank" rel="noopener">Amazon Gaming boss says high hardware prices could be good news for its Luna cloud gaming program</a>
-          <div class="meta"><span class="source">PC Gamer</span><span class="date">2026/07/25</span></div>
-          <p class="summary">In a world of $1,000 Steam Machines, a hardware-free gaming option might have wider appeal.</p>
+          <a href="https://www.gcores.com/articles/218185" target="_blank" rel="noopener">《昭和米国物语》公布配置要求，推荐GTX 1660Ti</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">机核</span></div>
+          <p class="summary">近日，独立游戏开发商铃空游戏在 Steam 悄然更新了《昭和米国物语》的 Steam 页面，首次公开了配置要求。 结合此前游戏确认参展年内的科隆游戏展 ，游戏或仍有望在年内发售。据悉，本作需50GB可用空间，官方推荐使用 GTX 1660Ti 显卡及16GB内存。详情如下： 最低配置 操作系统: Windows 10 (64-bits) 处理器: Intel Core i5-5575R@2.80G</p>
         </li>
         <li class="news-item">
-          <a href="https://www.ign.com/articles/steam-machine-too-expensive-jsaux-steam-deck-dock-alternative" target="_blank" rel="noopener">Steam Machine Too Expensive? Get Your Deck a Dock</a>
-          <div class="meta"><span class="source">IGN</span><span class="date">2026/07/25</span></div>
-          <p class="summary">I can't justify the cost of a Steam Machine, so I got myself a dock, and it's perfect.</p>
+          <a href="https://www.gcores.com/articles/218190" target="_blank" rel="noopener">《越过山丘 over the hill》将于10月14日发售</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">机核</span></div>
+          <p class="summary">独立游戏开发团队 Funselektor 与 Strelka Games 宣布，由《拉力赛艺术 art of rally》创作者打造的1至4人越野探索游戏《越过山丘 over the hill》，将于10月14日正式登陆 Steam；PlayStation®5、Xbox Series X|S 及 Nintendo Switch 2 版本则计划于2027年推出。 &lt;内嵌内容，请前往机核查看&gt; 此前上</p>
         </li>
         <li class="news-item">
-          <a href="https://www.gematsu.com/2026/07/sponge-break-launches-july-30" target="_blank" rel="noopener">Sponge Break launches July 30</a>
-          <div class="meta"><span class="source">Gematsu</span><span class="date">2026/07/25</span></div>
-          <p class="summary">One-to-four-player cooperative rafting adventure game Sponge Break will launch for PC via Steam on July &amp;hellip;</p>
+          <a href="https://www.gcores.com/articles/218188" target="_blank" rel="noopener">《无人深空》公布十周年宣传片，全新更新在路上</a>
+          <div class="meta"><span class="date">2026/08/11</span><span class="source">机核</span></div>
+          <p class="summary">《无人深空》公布十周年宣传片，庆祝这个难忘的日子。《无人深空》于2016年8月9日在PS4与PC平台发售。由于宣传承诺未兑现以及多人在线内容匮乏，游戏发售初期在Steam平台收到数万条差评，口碑一度降至“差评如潮”。然而，Hello Games 在此后持续更新游戏，玩家评价逐渐回升。发售两年后，评价转为“褒贬不一”，五年后升至“特别好评”。 &lt;内嵌内容，请前往机核查看&gt; Hello Games 负</p>
         </li>
         <li class="news-item">
           <a href="https://www.3dmgame.com/news/202607/3949116.html" target="_blank" rel="noopener">H2 Interactive 宣布《IGS 经典街机合集》8月13日登陆 Steam</a>
@@ -2146,13 +2577,13 @@
           
         </li>
         <li class="news-item">
-          <a href="https://www.3dmgame.com/news/202607/3949167.html" target="_blank" rel="noopener">《三国志14 威力加强传承版套装》开启预购 Steam 288元</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/24</span></div>
+          <a href="https://www.3dmgame.com/news/202608/3950172.html" target="_blank" rel="noopener">Valve正式推送SteamOS更新 终于修复Steam主机关机后自动唤醒故障</a>
+          <div class="meta"><span class="date">2026/08/09</span><span class="source">3DM游戏网</span></div>
           
         </li>
         <li class="news-item">
-          <a href="https://www.3dmgame.com/news/202607/3949123.html" target="_blank" rel="noopener">硬核动作游戏《这龙带刀》Steam特别好评 恶搞很成功动作差点意思</a>
-          <div class="meta"><span class="source">3DM游戏网</span><span class="date">2026/07/24</span></div>
+          <a href="https://news.17173.com/content/08082026/080901890.shtml" target="_blank" rel="noopener">《Marvel Tokon》Steam 评价陷入“褒贬不一”，PC 移植版表现糟糕引发玩家投诉，Arc System Works 对此做出…</a>
+          <div class="meta"><span class="date">2026/08/08</span><span class="source">17173</span></div>
           
         </li>
         <li class="news-item">

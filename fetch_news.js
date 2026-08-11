@@ -1,7 +1,8 @@
 // 游戏资讯每日抓取脚本
 // 用法: node fetch_news.js
 // 功能: 从官网 RSS 和游戏媒体 RSS 抓取 10 家主流游戏厂商的最新资讯,
-//       合并进 data/news.json(去重、保留 60 天),并生成 index.html 静态网页。
+//       合并进 data/news.json(去重、保留 60 天),非中文条目自动翻译为中文,
+//       并生成 index.html 静态网页。
 
 const fs = require("fs");
 const path = require("path");
@@ -15,6 +16,8 @@ const HTML_FILE = path.join(ROOT, "index.html");
 const KEEP_DAYS = 60; // 历史资讯保留天数
 const MAX_PER_COMPANY = 50; // 每家公司最多保留条数
 const FETCH_TIMEOUT = 20000;
+const FETCH_CONCURRENCY = 5; // 同时抓取的来源数量上限
+const FETCH_RETRIES = 2; // 单个来源失败后的重试次数(间隔 1s/2s)
 
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
@@ -33,16 +36,20 @@ const COMPANIES = [
   { id: "valve", name: "Valve", en: "Valve", keywords: ["Valve", "Steam Deck", "Steam", "Half-Life", "半条命", "Dota", "Counter-Strike", "CS2", "反恐精英", "Portal", "传送门", "Team Fortress"] },
 ];
 
-// EA 单独用带词边界的正则,避免误匹配(如 "each" 中的 "ea" 不区分大小写时无碍,主要防 "EA" 缩写过宽)
+// 常用英文单词类关键词强制大小写敏感, 避免把普通词误判为厂商
+// (如 "switch to PC" 命中任天堂、"steam rising" 命中 Valve、"ea" 出现在普通文本中)
+const CASE_SENSITIVE = new Set(["EA", "Steam", "Switch", "Portal"]);
+
+// 匹配规则: 纯 ASCII 关键词加词边界(防 "Steam" 命中 "steampunk"、"CS2" 命中单词内部),
+// CASE_SENSITIVE 中的词额外要求大小写一致; 中文关键词保持子串匹配
 const COMPANY_REGEX = COMPANIES.map((c) => ({
   ...c,
-  regexes: c.keywords.map((k) =>
-    c.id === "ea" && k === "EA"
-      ? new RegExp("\\bEA\\b")
-      : new RegExp(escapeRegExp(k), "i")
-  ),
+  regexes: c.keywords.map((k) => {
+    const ascii = /^[\x20-\x7e]+$/.test(k);
+    const body = ascii ? `\\b${escapeRegExp(k)}\\b` : escapeRegExp(k);
+    return new RegExp(body, CASE_SENSITIVE.has(k) ? "" : "i");
+  }),
 }));
-// 给 EA 额外补一个字面 "EA" 关键词的正则已包含在上面逻辑中
 
 // ---------- 资讯来源 ----------
 // type=media: 需按关键词匹配厂商; 带 companyId: 直接归属该厂商
@@ -73,7 +80,7 @@ const SOURCES = [
 
 // 搜索类来源的导航页垃圾过滤(官网首页/百科/邮箱等非资讯结果)
 function isJunkSearchResult(item) {
-  if (/首页|百度百科|邮箱|登录|注册|下载|社区/.test(item.title)) return true;
+  if (/首页|百度百科|邮箱|登录|注册|下载|社区|网易云音乐/.test(item.title)) return true;
   try {
     const u = new URL(item.link);
     const segs = u.pathname.split("/").filter(Boolean);
@@ -213,6 +220,92 @@ async function fetchFeed(source) {
   } finally {
     clearTimeout(timer);
   }
+  throw lastErr;
+}
+
+// 带并发上限的并行映射, 结果顺序与输入一致
+async function mapLimit(list, limit, fn) {
+  const results = new Array(list.length);
+  let i = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(limit, list.length) }, async () => {
+      while (i < list.length) {
+        const idx = i++;
+        results[idx] = await fn(list[idx]);
+      }
+    })
+  );
+  return results;
+}
+
+// ---------- 翻译: 非中文标题/摘要 -> 中文 ----------
+// 主用 Edge 翻译接口(免费/免密钥/支持批量, 国内可直连), 失败回退谷歌免费接口(CI 上可用)
+// 译文以 titleZh/summaryZh 写入数据文件持久缓存, 已有译文的条目不会重复请求
+const TRANSLATE_BATCH = 20; // 每次请求合并的文本条数
+
+function needsTranslation(s) {
+  return !!s && !/[一-鿿]/.test(s);
+}
+
+let edgeToken = null;
+async function translateViaEdge(texts) {
+  if (!edgeToken) {
+    const auth = await fetch("https://edge.microsoft.com/translate/auth", { signal: AbortSignal.timeout(15000) });
+    if (!auth.ok) throw new Error("HTTP " + auth.status);
+    edgeToken = await auth.text();
+  }
+  const res = await fetch("https://api-edge.cognitive.microsofttranslator.com/translate?to=zh-Hans&api-version=3.0", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: "Bearer " + edgeToken },
+    body: JSON.stringify(texts.map((t) => ({ Text: t }))),
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  return data.map((d, i) => (d.translations && d.translations[0] && d.translations[0].text) || texts[i]);
+}
+
+async function translateViaGoogle(texts) {
+  const out = [];
+  for (const t of texts) {
+    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" + encodeURIComponent(t);
+    const res = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(15000) });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    out.push((data[0] || []).map((seg) => seg[0]).join("") || t);
+  }
+  return out;
+}
+
+async function translateChunk(texts) {
+  try {
+    return await translateViaEdge(texts);
+  } catch {
+    try {
+      return await translateViaGoogle(texts);
+    } catch {
+      return null;
+    }
+  }
+}
+
+async function translateItems(items) {
+  const tasks = [];
+  for (const it of items) {
+    if (needsTranslation(it.title) && !it.titleZh) tasks.push([it, "titleZh", it.title]);
+    if (needsTranslation(it.summary) && !it.summaryZh) tasks.push([it, "summaryZh", it.summary]);
+  }
+  if (!tasks.length) return;
+  const chunks = [];
+  for (let i = 0; i < tasks.length; i += TRANSLATE_BATCH) chunks.push(tasks.slice(i, i + TRANSLATE_BATCH));
+  let ok = 0;
+  await mapLimit(chunks, 3, async (chunk) => {
+    const out = await translateChunk(chunk.map((t) => t[2]));
+    if (out) chunk.forEach((t, i) => {
+      if (out[i] && out[i] !== t[2]) { t[0][t[1]] = out[i]; ok++; }
+    });
+  });
+  console.log(`翻译完成 ${ok}/${tasks.length} 段文本(失败条目保留原文)`);
 }
 
 // 失败重试: 共尝试 attempts 次, 间隔递增, 避免偶发超时/限流丢掉当天数据
@@ -403,13 +496,13 @@ function renderHtml(data) {
     if (!iso) return "";
     const d = new Date(iso);
     if (isNaN(d)) return "";
-    return d.toLocaleDateString("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+    return d.toLocaleDateString("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" });
   };
   const fmtTime = (iso) => {
     if (!iso) return "";
     const d = new Date(iso);
     if (isNaN(d)) return "";
-    return d.toLocaleString("zh-CN", { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
+    return d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
   };
 
   // ---------- 今日最新: 最近 24 小时, 不足 10 条放宽到 48 小时 ----------
@@ -420,10 +513,8 @@ function renderHtml(data) {
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const todayItems = recent.filter((it) => now - new Date(it.date).getTime() <= 24 * 3600e3);
   const today = todayItems.length >= 10 ? todayItems : recent;
-  const todayList = today.length
-    ? today
-        .map(
-          (it) => `
+  // 单条资讯渲染: showTime 时显示具体时间并附带厂商标签(用于"今日最新"混排)
+  const renderItem = (it, showTime) => `
         <li class="news-item">
           <a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.titleZh || it.title)}</a>${it.titleZh ? `<div class="orig-title">${esc(it.title)}</div>` : ""}
           <div class="meta"><span class="time">${fmtTime(it.date)}</span><span class="source">${esc(it.source)}</span>${it.companies
@@ -437,7 +528,7 @@ function renderHtml(data) {
   const todaySection = `
       <section class="company today" id="today">
         <h2><span class="badge">★</span> 今日最新 <small>最近更新按时间混排</small></h2>
-        <ul>${todayList}</ul>
+        <ul class="cards">${todayList}</ul>
       </section>`;
 
   // 公司分区默认只显示前 5 条, 其余折叠进 <details>
@@ -495,6 +586,10 @@ function renderHtml(data) {
 (function(){var t="dark";try{t=localStorage.getItem("gamenews-theme")||"dark"}catch(e){}if(["dark","light","eye"].indexOf(t)<0)t="dark";document.documentElement.setAttribute("data-theme",t);})();
 </script>
 <style>
+  :root {
+    --bg: #0e1117; --panel: #171c26; --panel-hover: #1c2230; --text: #e6e9f0; --muted: #8f97a8;
+    --accent: #8ab4f8; --accent-soft: rgba(138,180,248,.14); --line: #262d3c;
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   /* 三套主题: 暗色(默认) / 亮色 / 护眼(豆沙绿), 通过 html[data-theme] 切换 */
   html[data-theme="dark"] {
@@ -551,10 +646,12 @@ function renderHtml(data) {
   .theme-switch button.active { background: var(--panel2); color: var(--accent2); border-color: var(--accent2); }
   footer { text-align: center; color: var(--dim); font-size: 12px; padding: 20px; }
   @media (max-width: 600px) {
-    header { padding: 20px 12px 10px; }
+    body { font-size: 15px; }
+    header { padding: 24px 14px 12px; }
     header h1 { font-size: 21px; }
     header p { font-size: 12px; }
-    nav { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; padding: 10px 12px; -webkit-overflow-scrolling: touch; }
+    nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    nav::-webkit-scrollbar { display: none; }
     nav a { flex-shrink: 0; font-size: 12px; }
     main { padding: 16px 10px 48px; }
     .company h2 { font-size: 17px; }
@@ -606,6 +703,16 @@ ${sections}
 // ---------- 主流程 ----------
 async function main() {
   const data = loadData();
+  // 清理历史数据里搜索源混入的噪音(与新增条目同一套过滤规则)
+  const searchNames = new Set(SOURCES.filter((s) => s.type === "search").map((s) => s.name));
+  searchNames.add("必应资讯"); // 兼容来源改名前的历史数据
+  const beforeClean = data.items.length;
+  data.items = data.items.filter((it) => {
+    if (!searchNames.has(it.source)) return true;
+    if (isGlobalJunk(it) || isJunkSearchResult(it)) return false;
+    return matchCompanies(it.title + " " + (it.summary || "")).some((cid) => it.companies.includes(cid));
+  });
+  if (data.items.length < beforeClean) console.log(`清理历史噪音 ${beforeClean - data.items.length} 条`);
   const existing = new Map(data.items.map((it) => [it.link, it]));
   let added = 0;
 
@@ -627,7 +734,9 @@ async function main() {
       if (isGlobalJunk(it)) continue;
       if (src.type === "search" && isJunkSearchResult(it)) continue;
       const text = it.title + " " + it.summary;
-      const companies = src.companyId ? [src.companyId] : matchCompanies(text);
+      let companies = src.companyId ? [src.companyId] : matchCompanies(text);
+      // 搜索源噪音大: 标题/摘要必须确实命中该公司关键词才收录
+      if (src.type === "search" && !matchCompanies(text).includes(src.companyId)) continue;
       if (companies.length === 0) continue;
       const key = it.link;
       if (existing.has(key)) {
@@ -654,6 +763,9 @@ async function main() {
     count[main] = (count[main] || 0) + 1;
     return count[main] <= MAX_PER_COMPANY;
   });
+
+  // 翻译非中文条目(结果写入条目字段, 随数据文件持久缓存)
+  await translateItems(all);
 
   data.items = all;
   data.updatedAt = new Date().toISOString();
