@@ -457,7 +457,7 @@ function renderHtml(data) {
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; scroll-padding-top: 60px; }
-  body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 16px; }
+  body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 16px; transition: background-color .25s ease, color .25s ease; }
   header { max-width: 860px; margin: 0 auto; padding: 36px 20px 18px; }
   header h1 { font-size: 26px; letter-spacing: 1px; display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
   header h1 .updated { font-size: 12px; font-weight: normal; letter-spacing: 0; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 2px 12px; }
@@ -503,12 +503,15 @@ function renderHtml(data) {
     nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
     nav::-webkit-scrollbar { display: none; }
     nav a { flex-shrink: 0; font-size: 12px; }
-    main { padding: 4px 14px 48px; }
+    main { padding: 4px 14px 96px; }
     .company { margin-top: 32px; }
     .company h2 { font-size: 16px; margin-bottom: 12px; }
     .news-item { padding: 12px 14px; }
     .news-item a { font-size: 15px; }
     .summary { font-size: 12.5px; }
+    /* 小屏: 主题按钮缩小并贴近角落, main 底部留白避免遮挡正文 */
+    .theme-switch { left: 12px; bottom: 12px; gap: 4px; }
+    .theme-switch button { font-size: 11px; padding: 5px 10px; }
   }
 </style>
 </head>
