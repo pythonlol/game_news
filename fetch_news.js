@@ -351,12 +351,6 @@ function renderHtml(data) {
     if (isNaN(d)) return "";
     return d.toLocaleDateString("zh-CN", { timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit" });
   };
-  const fmtTime = (iso) => {
-    if (!iso) return "";
-    const d = new Date(iso);
-    if (isNaN(d)) return "";
-    return d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
-  };
 
   // ---------- 今日最新: 最近 24 小时, 不足 10 条放宽到 48 小时 ----------
   const companyName = Object.fromEntries(COMPANIES.map((c) => [c.id, c.name]));
@@ -366,11 +360,31 @@ function renderHtml(data) {
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const todayItems = recent.filter((it) => now - new Date(it.date).getTime() <= 24 * 3600e3);
   const today = todayItems.length >= 10 ? todayItems : recent;
-  // 单条资讯渲染: showTime 时显示具体时间并附带厂商标签(用于"今日最新"混排)
+  // 相对时间: 1 小时内显示分钟, 1 天内显示小时, 7 天内显示天数, 更早显示日期; 悬停看完整时间
+  const relTime = (iso) => {
+    const d = new Date(iso);
+    if (isNaN(d)) return "";
+    const diff = now - d.getTime();
+    if (diff < 0) return fmtDate(iso);
+    const min = Math.floor(diff / 60e3);
+    if (min < 1) return "刚刚";
+    if (min < 60) return `${min} 分钟前`;
+    const hr = Math.floor(min / 60);
+    if (hr < 24) return `${hr} 小时前`;
+    const day = Math.floor(hr / 24);
+    if (day < 7) return `${day} 天前`;
+    return fmtDate(iso);
+  };
+  const fmtFull = (iso) => {
+    const d = new Date(iso);
+    return isNaN(d) ? "" : d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false });
+  };
+  const isNew = (it) => it.date && now - new Date(it.date).getTime() <= 24 * 3600e3;
+  // 单条资讯渲染: showTime 时附带厂商标签(用于"今日最新"混排); 24 小时内的条目带 NEW 标记
   const renderItem = (it, showTime) => `
         <li class="news-item">
-          <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>
-          <div class="meta">${showTime ? `<span class="time">${fmtTime(it.date)}</span>` : `<span class="date">${fmtDate(it.date)}</span>`}<span class="source">${esc(it.source)}</span>${
+          <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>${isNew(it) ? `<span class="new-badge">NEW</span>` : ""}
+          <div class="meta">${it.date ? `<span class="time" title="${esc(fmtFull(it.date))}">${relTime(it.date)}</span>` : ""}<span class="source">${esc(it.source)}</span>${
             showTime ? it.companies.map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`).join("") : ""
           }</div>
           ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
@@ -402,7 +416,8 @@ function renderHtml(data) {
       </section>`;
   }).join("\n");
 
-  const nav = `<a href="#today">今日最新</a>` + COMPANIES.map((c) => `<a href="#${c.id}">${esc(c.name)}</a>`).join("");
+  const nav = `<a href="#today">今日最新</a>` + COMPANIES.map((c) => `<a href="#${c.id}">${esc(c.name)}</a>`).join("") +
+    `<input class="search" id="q" type="search" placeholder="搜索资讯…" aria-label="搜索资讯">`;
   const updatedAt = data.updatedAt
     ? new Date(data.updatedAt).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false })
     : "从未更新";
@@ -412,6 +427,11 @@ function renderHtml(data) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
+<meta property="og:title" content="每日游戏资讯 · 十大厂商">
+<meta property="og:description" content="腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 最新动态, 每天自动更新">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://chichihehe.cc/game/">
 <title>每日游戏资讯 · 十大厂商</title>
 <script>
 // 页面渲染前先应用用户上次选择的主题, 避免切换闪烁
@@ -445,6 +465,9 @@ function renderHtml(data) {
   nav { display: flex; flex-wrap: wrap; gap: 6px; max-width: 860px; margin: 0 auto; padding: 10px 20px; position: sticky; top: 0; background: var(--nav-bg); backdrop-filter: blur(10px); z-index: 10; border-bottom: 1px solid var(--line); }
   nav a { color: var(--muted); text-decoration: none; font-size: 13px; padding: 4px 12px; border-radius: 999px; transition: color .15s, background .15s; }
   nav a:hover { color: var(--accent); background: var(--accent-soft); }
+  .search { margin-left: auto; flex-shrink: 0; border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 12px; font-size: 13px; width: 130px; outline: none; transition: width .2s, border-color .15s; }
+  .search:focus { border-color: var(--accent); width: 190px; }
+  .search::placeholder { color: var(--muted); }
   main { max-width: 860px; margin: 0 auto; padding: 8px 20px 64px; }
   .company { margin-top: 40px; }
   .company h2 { font-size: 18px; margin-bottom: 14px; padding-left: 12px; border-left: 3px solid var(--accent); line-height: 1.4; }
@@ -459,6 +482,7 @@ function renderHtml(data) {
   .meta { font-size: 12px; color: var(--muted); margin-top: 6px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
   .meta .time, .meta .date { font-family: Consolas, monospace; }
   .tag { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 0 8px; font-size: 11px; line-height: 18px; }
+  .new-badge { display: inline-block; vertical-align: 3px; margin-left: 6px; background: #e05555; color: #fff; border-radius: 999px; padding: 0 7px; font-size: 10px; line-height: 16px; font-weight: 700; }
   .summary { font-size: 13px; color: var(--muted); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .empty { color: var(--muted); font-size: 14px; padding: 6px 0; }
   .more summary { list-style: none; cursor: pointer; text-align: center; color: var(--muted); font-size: 13px; margin-top: 10px; padding: 9px 0; border: 1px dashed var(--line); border-radius: 12px; transition: color .15s, border-color .15s; user-select: none; }
@@ -519,6 +543,29 @@ ${sections}
   try { cur = localStorage.getItem(KEY) || "dark"; } catch(e) {}
   if (["dark","light","eye"].indexOf(cur) < 0) cur = "dark";
   apply(cur);
+})();
+</script>
+<script>
+// 导航栏搜索: 输入即过滤(匹配标题/摘要/来源/厂商标签), 搜索时自动展开折叠分区, 清空后恢复
+(function(){
+  var q = document.getElementById("q");
+  if (!q) return;
+  var items = document.querySelectorAll(".news-item");
+  var sections = document.querySelectorAll("main .company");
+  var folds = document.querySelectorAll("details.more");
+  q.addEventListener("input", function(){
+    var s = q.value.trim().toLowerCase();
+    var i, j;
+    for (i = 0; i < folds.length; i++) folds[i].open = !!s;
+    for (i = 0; i < items.length; i++)
+      items[i].style.display = !s || items[i].textContent.toLowerCase().indexOf(s) >= 0 ? "" : "none";
+    for (i = 0; i < sections.length; i++) {
+      var lis = sections[i].querySelectorAll(".news-item");
+      var any = !s;
+      for (j = 0; j < lis.length; j++) if (lis[j].style.display !== "none") { any = true; break; }
+      sections[i].style.display = any ? "" : "none";
+    }
+  });
 })();
 </script>
 </body>
