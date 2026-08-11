@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-11T04:00:40.109Z",
+  "updatedAt": "2026-08-11T04:01:23.643Z",
   "items": [
+    {
+      "title": "两款史低！ 《女神异闻录》三部曲Steam开启动画播出优惠促销",
+      "link": "https://www.3dmgame.com/news/202608/3950277.html",
+      "date": "2026-08-11T04:01:14.837Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "宝可梦公司曝巨大丑闻 前高管涉嫌多年在厕所偷拍",
+      "link": "https://www.3dmgame.com/news/202608/3949994.html",
+      "date": "2026-08-11T04:01:14.837Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "索尼获5亿美元关税退款！玩家怒喷抗议：涨价我们买单 退款不分钱",
+      "link": "https://www.3dmgame.com/news/202608/3950003.html",
+      "date": "2026-08-11T04:01:14.837Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "业界楷模 任天堂宣布向熊本地震灾区捐款5000万 免费维修主机",
+      "link": "https://www.3dmgame.com/news/202608/3950000.html",
+      "date": "2026-08-11T04:01:14.837Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "索尼直接不装了！PS5包装盒上被贴警告：不再会有实体版",
+      "link": "https://www.3dmgame.com/news/202608/3949987.html",
+      "date": "2026-08-11T04:01:14.837Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "《只拥有发光功能的装置》8月28日登陆Steam 创意互动玩法",
       "link": "https://www.3dmgame.com/news/202608/3950285.html",
@@ -225,6 +275,16 @@
       ],
       "titleZh": "《over the hill》将于 10 月 14 日推出 PC 版，PS5、Xbox Series 和 Switch 2 版将于 2027 年推出",
       "summaryZh": "山上越野探索游戏将于 10 月 14 日通过 Steam 推出 PC 版……"
+    },
+    {
+      "title": "腾讯 - 维基百科，自由的百科全书",
+      "link": "https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF",
+      "date": "2026-08-10T20:22:00.000Z",
+      "summary": "腾讯於2004年6月16日在 香港交易所 挂牌上市，于2016年9月5日首次成为 亚洲 市值最高的上市公司 [3]，并于2017年11月21日成为亚洲首家市值突破5000亿美元的公司 [4]。 2017年，腾讯首次跻身《财富》杂志世界500强排行榜，以228.7亿美元的营收位居478位 [5]。",
+      "source": "必应资讯·腾讯",
+      "companies": [
+        "tencent"
+      ]
     },
     {
       "title": "Battlefield 6 player claims to have received Steam refund after 470 hours due to surprise mode removal",
@@ -2936,26 +2996,6 @@
       "summaryZh": "《Marvel Rivals》自上线以来一直在不断扩大其阵容，而在第 9.5 季：底比斯之谜中，一个险恶的黑社会人物将被添加到直播游戏中。有声"
     },
     {
-      "title": "Crimson Moon battles demonic corruption on September 1",
-      "link": "https://blog.playstation.com/2026/08/04/crimson-moon-battles-demonic-corruption-on-september-1/",
-      "date": "2026-08-04T16:00:48.000Z",
-      "summary": "Earlier this year, we introduced Crimson Moon, our gothic high renaissance action RPG. You play as a Nephilim, a powerful half-human, half-angel warrior sworn to reclaim the fallen city of Gildenarch ",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "Gameplay first look – Mafia: The Old Country’s Man of Honor expansion",
-      "link": "https://blog.playstation.com/2026/08/04/gameplay-first-look-mafia-the-old-countrys-man-of-honor-expansion/",
-      "date": "2026-08-04T15:00:49.000Z",
-      "summary": "Hi everyone, I’m Josh Zammit, design director at Hangar 13 working on the Man of Honor expansion* for Mafia: The Old Country. We’re super excited to share the first look gameplay above, and I’d like t",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "You can try the newly-launched Switch 2 port of Final Fantasy 14 for free, right now, if you have a spare 117GB",
       "link": "https://www.eurogamer.net/final-fantasy-14-switch-2-space-free-trial",
       "date": "2026-08-04T13:46:04.000Z",
@@ -2963,7 +3003,9 @@
       "source": "Eurogamer",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "如果您有 117GB 空闲空间，现在就可以免费试用新推出的 Switch 2 端口版《最终幻想 14》",
+      "summaryZh": "您听说过广受好评的 MMORPG 最终幻想 14 吗？好吧，今天，经常被人提起的《最终幻想》在线游戏已经登陆 Switch 2，这标志着从发布到发布之间的一个非常快的转变。"
     },
     {
       "title": "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff",
@@ -2973,7 +3015,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "国际足联世界杯推出不到两个月，其开发商已解雇 85% 的员工",
+      "summaryZh": "负责《FIFA 世界杯：发布版》的开发团队 Refractor Games 的大量开发人员已被解雇。总的来说，工作室中大约 85% 的开发人员都拥有"
     },
     {
       "title": "Game Pass adds Gears of War: E-Day open beta, Cricket 26, Date Everything!, and more in early to mid August",
@@ -3059,7 +3103,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "出于某种原因，即使微软解雇了它的创建者，Xbox 的 FanFest 世界巡演仍在进行",
+      "summaryZh": "好吧，在解雇了数千人之后，这并不是一个好主意：全球 Xbox FanFest 巡演。但显然，即使在微软解雇了推销和创建该产品的人之后，它仍在继续进行。"
     },
     {
       "title": "《三角洲行动》主播巅峰赛总决赛即将打响！8月2日，群星汇聚，新王加冕！",
@@ -3099,7 +3145,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "泄露的文件显示，微软将在未来几年让开发者通过向后兼容性将更多 Xbox 360 游戏带到 PC 上",
+      "summaryZh": "微软最近进行了大规模裁员，并据报道与以色列军方有联系，据报道，微软将向开发者提供将 Xbox 360 游戏移植到 PC 上的机会，作为持续向后兼容的一部分。"
     },
     {
       "title": "Microsoft is working on making Xbox 360 games playable on PC, leaked document reveals",
@@ -3109,7 +3157,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "泄露的文件显示，微软正在努力让 Xbox 360 游戏可以在 PC 上玩",
+      "summaryZh": "微软正计划将 Xbox 360 游戏引入 PC。这是根据 The Verge 查看的一份泄露文件得出的结论。据报道，该公司最近发送给开发商的文件称，他们将"
     },
     {
       "title": "意外的选择！ voices38攻破育碧23年发行大作",
@@ -3199,7 +3249,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "在青蛙平台游戏 Big Hops Together 中与您的朋友交谈，这是青蛙平台游戏的全新八人合作更新，其灵感来自马里奥模组",
+      "summaryZh": "Big Hops 是一款很酷的 3D 平台游戏，青蛙可以用舌头作为抓钩。尽管我进行了很多探索和热切祈祷，但我还没有遇到一只能够在现实中做到这一点的青蛙。"
     },
     {
       "title": "版权问题随时下架？玩家自制虚幻5《魔兽世界》8月15日上线",
@@ -3271,7 +3323,9 @@
       "source": "Eurogamer",
       "companies": [
         "tencent"
-      ]
+      ],
+      "titleZh": "Marvelous 终止与腾讯六年的合作伙伴关系，《四季故事》手游被取消",
+      "summaryZh": "Marvelous 已确认将终止与腾讯的合作关系，并取消自 2019 年以来一直在制作的《四季故事》手机游戏。 阅读更多"
     },
     {
       "title": "Home - Tencent",
@@ -3392,36 +3446,6 @@
       ]
     },
     {
-      "title": "TGA年度游戏再临任天堂 《双人成行》10月15日或登Switch2",
-      "link": "https://www.3dmgame.com/news/202608/3950264.html",
-      "date": "2026-07-31T16:00:00.000Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《完蛋！我被男同学包围了》发布更新 Steam已好评如潮",
-      "link": "https://www.3dmgame.com/news/202608/3949882.html",
-      "date": "2026-07-31T16:00:00.000Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "SE宣布向熊本震灾区捐款3000万日元 任天堂捐了5000万",
-      "link": "https://www.3dmgame.com/news/202608/3950038.html",
-      "date": "2026-07-31T16:00:00.000Z",
-      "summary": "",
-      "source": "3DM厂商新闻",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "EA私有化后债务十倍于育碧！负债200亿竟要员工买单",
       "link": "https://www.3dmgame.com/news/202608/3949920.html",
       "date": "2026-07-31T16:00:00.000Z",
@@ -3459,7 +3483,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC 26 可能拥有近 1000 万每日活跃用户，玩家数量比您可能相信的公开数据要多得多",
+      "summaryZh": "一位内容创作者表示，《EA Sports FC 26》的每日活跃用户数量似乎惊人，他声称自己从开发者那里亲耳听到了该游戏的受欢迎程度。阅读更多"
     },
     {
       "title": "Genshin Impact Version version 7.0 update ‘Everwinter Without Mercy’ launches August 12",
@@ -3504,7 +3530,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "一位前《刺客信条》开发者正在制作一部基于对废弃修道院的参观的幽灵狩猎恐怖悬疑游戏，在这款游戏中，你最好的武器是一台厚重的即时相机",
+      "summaryZh": "在担任《杀出重围：人类革命》的电影导演、《幽浮：调查局》的首席电影顾问以及《育碧蒙特利尔》的导演之后，下一个合乎逻辑的游戏行业职业生涯是什么？"
     },
     {
       "title": "The $55bn private acquisition of Electronic Arts is expected to go ahead",
@@ -3514,7 +3542,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "550 亿美元私人收购艺电公司预计将继续进行",
+      "summaryZh": "经过一年多的紧张辩论，美国艺电公司 (Electronic Arts) 宣布，其 550 亿美元私人收购该公司的提议已获得“所有监管部门批准”。阅读更多"
     },
     {
       "title": "Tencent - Wikipedia",
@@ -3908,7 +3938,8 @@
       "companies": [
         "ubisoft"
       ],
-      "titleZh": "据报道，育碧还有另一款孤岛惊魂游戏正在开发中，但至少这款似乎并没有遇到麻烦"
+      "titleZh": "据报道，育碧还有另一款孤岛惊魂游戏正在开发中，但至少这款似乎并没有遇到麻烦",
+      "summaryZh": "《孤岛惊魂》系列休眠的时间比育碧希望的要长得多。该公司从未停止开发新的《孤岛惊魂》游戏，但他们只是从未见过世面。这下个"
     },
     {
       "title": "《刺客信条：影》发布1.1.12更新补丁 2GB到20GB！",
@@ -3960,7 +3991,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“我希望我能做到这一点”：《模拟人生》的一位开发者一直在关注《Paralives》角色的不对称鞋子及其更广泛的可能性",
+      "summaryZh": "不对称的鞋子可能看起来没什么大不了的。我的意思是，如果我们超越文化之山，将奇怪的袜子的失礼行为转变为不匹配鞋子的骄傲时尚宣言，asym"
     },
     {
       "title": "玩家当月老？《燕云十六声》官宣联动《新白娘子传奇》",
@@ -4122,7 +4155,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《最终幻想 14》正计划对其住房系统进行两次重大改革，以赶上《魔兽世界》：“这可能是很多人要求的清单上的第一件事”",
+      "summaryZh": "秘密的住房变动正在进行中。"
     },
     {
       "title": "Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it",
@@ -4132,7 +4167,9 @@
       "source": "PC Gamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "育碧表示，在解雇了一些制作人员后不久，《黑旗》重制版在短短两周内就超出了“年度预期”",
+      "summaryZh": "电子游戏盗版。"
     },
     {
       "title": "A crossover between Dungeons & Dragons and World of Warcraft has leaked",
@@ -4142,7 +4179,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《龙与地下城》和《魔兽世界》之间的联动已经泄露",
+      "summaryZh": "正如我们在之前的《怪奇物语》或《瑞克与莫蒂》等跨界游戏中所看到的那样，这次似乎不仅仅是一个首发设定。"
     },
     {
       "title": "Jimothy, The Viral Raccoon, Is Becoming An Earnable WoW Pet",
@@ -4152,7 +4191,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "病毒浣熊吉莫西正在成为可赚钱的魔兽世界宠物",
+      "summaryZh": "迷倒互联网的短刺浣熊吉莫西即将来到《魔兽世界》。在过去的几周里，浣熊吉莫西（Jimothy）迅速走红，因为西雅图当地人"
     },
     {
       "title": "Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW",
@@ -4162,7 +4203,9 @@
       "source": "GameSpot",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪员工因涉嫌帮助朋友在《魔兽世界》中作弊而失业",
+      "summaryZh": "暴雪证实，一名暴雪员工据称使用开发者工具帮助一群朋友完成《魔兽世界》中具有挑战性的神话+地下城，该员工已不再在公司工作。耳朵"
     },
     {
       "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run",
@@ -4172,7 +4215,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪解雇了《魔兽世界》开发商，原因是他们在地下城闯关期间使用禁止魔法为普通玩家秒杀头目",
+      "summaryZh": "魔兽世界工作室暴雪宣布，他们解雇了一名开发人员，原因是一群非开发冒险家使用仅限开发的咒语秒杀了一些神话+地下城的首领。钍"
     },
     {
       "title": "网易最离谱的新品，《遗忘之海》吓到我了",
@@ -4224,7 +4269,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "令人惊讶的是，《帝国时代 3：决定版》的波罗的海强国资料片已从取消的 DLC 历史中重新出现，将于 9 月推出",
+      "summaryZh": "啊!自 2025 年初取消《帝国时代 III：决定版》的波罗的海强国 DLC 以来，您并没有完全退出战场！这只是你的战略伎俩之一"
     },
     {
       "title": "EA Sports FC 27 Has A New $150 Edition, Because Ultimate Wasn’t Ultimate Enough",
@@ -4234,7 +4281,9 @@
       "source": "GameSpot",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC 27 推出 150 美元新版，因为终极版还不够终极版",
+      "summaryZh": "EA 的目标似乎是从消费者那里获取额外的现金，因为该公司不仅将提供 70 美元的标准版和 100 美元的“终极”版足球游戏 EA Sports FC 27，还将推出"
     },
     {
       "title": "《魔兽世界》员工后台秒BOSS，只为带飞大雷美女主播",
@@ -4254,7 +4303,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗》重新同步版已售出超过 350 万份，“在发行的前 14 天内就超出了年度预期”",
+      "summaryZh": "育碧的《刺客信条黑旗》正在不断壮大。在开业几天内净销售额达到 200 万份（然后在一周内升至 300 万份）后，育碧刚刚宣布"
     },
     {
       "title": "新闻 | HoYoverse",
@@ -4277,16 +4328,6 @@
       ]
     },
     {
-      "title": "League of Legends Riftbound TCG: First Impressions of the Vendetta Booster Set | IGN Preview",
-      "link": "https://www.ign.com/articles/league-of-legends-riftbound-tcg-first-impressions-of-the-vendetta-booster-set-ign-preview",
-      "date": "2026-07-24T00:00:00.000Z",
-      "summary": "Get an early look at League of Legends Riftbound's upcoming Vendetta expansion.",
-      "source": "IGN",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Blizzard fires World of Warcraft game master who insta-killed bosses for friends",
       "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-fires-world-of-warcraft-game-master-who-insta-killed-bosses-for-friends/",
       "date": "2026-07-23T22:49:11.000Z",
@@ -4294,7 +4335,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "为朋友秒杀boss的魔兽世界游戏大师被暴雪解雇",
+      "summaryZh": "它还将对涉案玩家“采取行动”。"
     },
     {
       "title": "Ubisoft chief says Sony's decision to kill game discs isn't going to be a big deal",
@@ -4304,7 +4347,9 @@
       "source": "PC Gamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "育碧首席执行官表示索尼取消游戏光盘的决定不会有什么大不了的",
+      "summaryZh": "Yves Guillemot 认为缺少物理光盘甚至可能是一件好事。"
     },
     {
       "title": "EU approves Saudi Arabia's $55bn acquisition of EA, clearing path for largest private leveraged buyout of all time",
@@ -4314,7 +4359,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "欧盟批准沙特阿拉伯以 550 亿美元收购 EA，为有史以来最大的私人杠杆收购扫清道路",
+      "summaryZh": "欧盟已批准沙特阿拉伯公共投资基金 (PIF)、私募股权公司 Silver Lake 和投资公司 Affini 以 550 亿美元收购艺电公司 (Electronic Arts) 的争议性交易。"
     },
     {
       "title": "Blizzard investigating World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded",
@@ -4324,7 +4371,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪调查《魔兽世界》作弊丑闻，游戏大师为朋友“触死”老板，却没有意识到此事被记录",
+      "summaryZh": "随后，其中一名玩家在 Twitch 直播中透露了秘密。"
     },
     {
       "title": "StarCraft 2 is included in Blizzard's BlizzCon digital goodies, which is more evidence a new game will be announced soon, right?",
@@ -4334,7 +4383,9 @@
       "source": "PC Gamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "《星际争霸 2》包含在暴雪的暴雪嘉年华数字好礼中，这进一步证明了新游戏即将发布，对吧？",
+      "summaryZh": "是只有我一个人还是暴雪正准备发布传闻中的《星际争霸》射击游戏？"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced modders make Blackbeard playable, but here's a syringe-shaped reason to avoid historically accurate pirate roleplay",
@@ -4344,7 +4395,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗》重新同步模组让黑胡子变得可玩，但这里有一个注射器形状的原因，可以避免历史上准确的海盗角色扮演",
+      "summaryZh": "《刺客信条：黑旗重制版》是一场田园诗般的海盗冒险，特别是考虑到它紧紧盯着爱德华·肯威对战利品的追求。当然，肯威和一群真正的人一起出去玩"
     },
     {
       "title": "Blizzard's calling time on Overwatch's hero customising Stadium mode, and I may well be the only person that's sad about that",
@@ -4354,7 +4407,9 @@
       "source": "Eurogamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "暴雪宣布《守望先锋》英雄定制体育场模式时间到了，我很可能是唯一对此感到难过的人",
+      "summaryZh": "我认为，实时服务游戏面临着一个有趣的难题：如何不断提供游戏的核心体验，同时定期重新发明它并改变它，从而使我能够"
     },
     {
       "title": "Jagex wants classic British point-and-click MMO RuneScape to be bigger than World of Warcraft",
@@ -4364,7 +4419,9 @@
       "source": "Eurogamer",
       "companies": [
         "blizzard"
-      ]
+      ],
+      "titleZh": "Jagex 希望经典的英国点击式 MMO RuneScape 比《魔兽世界》更强大",
+      "summaryZh": "Jagex 首席执行官乔恩·贝拉米 (Jon Bellamy) 分享了他对 RuneScape 在未来五年内成为世界上最大的 MMO 的远大抱负。对于那些不知道的人来说，这将意味着将《魔兽世界》从世界上推翻。"
     },
     {
       "title": "Battlefield 6's newest and largest map is good, but I worry it will end up being nothing more than a curiosity",
@@ -4374,7 +4431,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地 6》最新最大的地图不错，但我担心它最终会成为一种好奇",
+      "summaryZh": "在玩《战地 6》即将推出的鹤礁地图时，我始终无法动摇一个想法——该地图是游戏迄今为止最大的地图，将于明天随第四季一起发布。鹤礁就是它"
     },
     {
       "title": "EA Sports FC simulations correctly predicted the FIFA World Cup winner would be Spain, and it's not the first time it has happened",
@@ -4384,7 +4443,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "EA Sports FC 模拟正确预测 FIFA 世界杯冠军将是西班牙，而且这并不是第一次发生",
+      "summaryZh": "西班牙队昨晚以一比零击败阿根廷队，成为世界杯新的冠军得主，EA Sports FC 游戏再次提前正确预测了结果。阅读更多"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced sold 3 million in its first week",
@@ -4394,7 +4455,9 @@
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "《刺客信条：黑旗》重新同步发售首周销量突破 300 万份",
+      "summaryZh": "在开盘销量突破 200 万套之后，《刺客信条：黑旗重制版》又达到了新的销售里程碑：育碧宣布该重制版一周内在所有平台上的销量已超过 300 万套。读米"
     },
     {
       "title": "Battlefield 6 is getting an evolved Carrier Assault mode in Season 4, and the Top Gun collab brings more than cosmetics",
@@ -4416,7 +4479,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“我会竭尽全力与之抗争”：这位模拟人生艺术家将挑战 EA 沙特收购后任何减少多样性的指令",
+      "summaryZh": "在沙特阿拉伯支持的 EA 收购之后，《模拟人生》团队可能面临减少对多元化支持的压力，资深角色艺术家 Jess Hyland 在回答这一问题时表示，她“没有听到任何消息”"
     },
     {
       "title": "Ubisoft is working on Assassin's Creed Black Flag Resynced New Game Plus",
@@ -4450,7 +4515,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "“永不言败”：标准并不排除回归《极品飞车》的可能性，但《战地》是他们目前唯一的关注点",
+      "summaryZh": "上周，为了纪念成立 30 周年，EA 将 Criterion 更名为 Criterion：战地工作室。这家传奇工作室曾创作《Burnout》，近年来又推出了《极品飞车》系列"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced studio Ubisoft Barcelona goes on three-day strike in protest of layoffs",
@@ -4495,7 +4562,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "ubisoft"
-      ]
+      ],
+      "titleZh": "“育碧认为这是我们应得的”：《刺客信条黑旗》重新同步版发布后，育碧巴塞罗那计划裁员引发工会罢工",
+      "summaryZh": "继《刺客信条：黑旗重新同步》（由世界各地的育碧工作室共同推出）发行后，其中一家工作室的工会抗议活动已经拉开序幕。"
     },
     {
       "title": "热点预告：《逆水寒》黄金畅玩服免费开玩，米哈游捉宠新游再测试，BW2026开幕 逆水寒 - 鸣潮 - 燕云十六声",
