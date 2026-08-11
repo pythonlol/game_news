@@ -390,11 +390,20 @@ function renderHtml(data) {
           ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
         </li>`;
 
-  const todayList = today.length ? today.map((it) => renderItem(it, true)).join("") : `<li class="empty">最近 48 小时暂无新资讯</li>`;
+  // 今日最新默认只展示前 TODAY_VISIBLE 条, 其余折叠, 想看再点开
+  const TODAY_VISIBLE = 10;
+  const todayHead = today.slice(0, TODAY_VISIBLE).map((it) => renderItem(it, true)).join("");
+  const todayRest = today.slice(TODAY_VISIBLE);
+  const todayList = today.length
+    ? `<ul class="cards">${todayHead}</ul>` +
+      (todayRest.length
+        ? `<details class="more"><summary>展开其余 ${todayRest.length} 条</summary><ul class="cards">${todayRest.map((it) => renderItem(it, true)).join("")}</ul></details>`
+        : "")
+    : `<p class="empty">最近 48 小时暂无新资讯</p>`;
   const todaySection = `
       <section class="company today" id="today">
         <h2><span class="badge">★</span> 今日最新 <small>最近更新按时间混排</small></h2>
-        <ul class="cards">${todayList}</ul>
+        ${todayList}
       </section>`;
 
   // 每家厂商默认展示前 VISIBLE_COUNT 条, 其余折叠, 避免页面过长
