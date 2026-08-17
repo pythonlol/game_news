@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-08-16T02:19:28.403Z",
+  "updatedAt": "2026-08-17T02:18:04.623Z",
   "items": [
+    {
+      "title": "韩国PC新作《QUIET》Steam测试参与人数突破15万人",
+      "link": "https://news.17173.com/content/08172026/071623909.shtml",
+      "date": "2026-08-17T07:16:23.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "Steam黑历史曝光！拖延游戏上架再拒绝、被迫重画等",
+      "link": "https://www.3dmgame.com/news/202608/3950729.html",
+      "date": "2026-08-17T02:17:55.721Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "恩情还不完！ voices38攻破《刺客信条：黑旗》重制版D加密",
+      "link": "https://www.3dmgame.com/news/202608/3950719.html",
+      "date": "2026-08-17T02:17:55.721Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day",
+      "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-here-are-the-32-steam-games-brave-enough-to-release-on-gta-6-day/",
+      "date": "2026-08-17T01:43:59.000Z",
+      "summary": "All the interesting Steam facts for the week ending August 16.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Steam 周回顾：以下是勇敢地在 GTA 6 日发布的 32 款 Steam 游戏",
+      "summaryZh": "截至 8 月 16 日当周所有有趣的 Steam 事实。"
+    },
+    {
+      "title": "298元起：《黎明行者之血》现已开启Steam预购",
+      "link": "https://www.gcores.com/articles/218424",
+      "date": "2026-08-17T01:15:00.000Z",
+      "summary": "由 Rebel Wolves 工作室开发、万代发行的动作角色扮演游戏《黎明行者之血》现已在 Steam 开启预购，国区售价298元起。游戏工作室由《巫师3》总监 Konrad Tomaszkiewicz 领衔，团队包括多名 CDPR 老将。 <内嵌内容，请前往机核查看> 作为一款开放世界动作 RPG，本作融合了丰富的奇幻与历史元素。玩家将在一个被黑暗力量侵蚀的大地上探索，击败怪物、揭露阴谋、做出关",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "热游情报：暴雪靠《暗黑四》成为Xbox销冠！《影之刃零》开启预售，甄子丹以BOSS形态登场！",
+      "link": "https://news.17173.com/content/08172026/002149623.shtml",
+      "date": "2026-08-17T00:21:49.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox",
+        "blizzard"
+      ]
+    },
+    {
+      "title": "This Week’s Japanese Game Releases: Starsand Island, STEINS;GATE RE:BOOT, more",
+      "link": "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-starsand-island-steinsgate-reboot-more",
+      "date": "2026-08-16T22:33:00.000Z",
+      "summary": "Starsand Island for PlayStation 5, Xbox Series, Switch 2, and PC, and STEINS;GATE RE:BOOT for &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ],
+      "titleZh": "本周发布的日本游戏：Starsand Island、STEINS;GATE RE:BOOT 等",
+      "summaryZh": "《Starsand Island》适用于 PlayStation 5、Xbox Series、Switch 2 和 PC，《STEINS;GATE RE:BOOT》适用于……"
+    },
+    {
+      "title": "The Best Deals Today: Final Fantasy VII Rebirth for Switch 2, Nioh 3, Project Hail Mary, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-august-16-2026",
+      "date": "2026-08-16T21:20:54.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "今日超值优惠：《Final Fantasy VII Rebirth》（Switch 2、Nioh 3、Project Hail Mary 等）"
+    },
+    {
+      "title": "League of Legends YouTuber unearths the original investor pitch from when the game was called Onslaught: War of the Immortals",
+      "link": "https://www.pcgamer.com/games/moba/league-of-legends-youtuber-unearths-the-original-investor-pitch-from-when-the-game-was-called-onslaught-war-of-the-immortals/",
+      "date": "2026-08-16T17:42:47.000Z",
+      "summary": "Back when the game was seemingly 6v6, Sion had a beard, and the story revolved around \"an antichrist of sorts.\"",
+      "source": "PC Gamer",
+      "companies": [
+        "tencent"
+      ],
+      "titleZh": "《英雄联盟》的 YouTuber 挖掘了这款游戏名为《猛攻：诸神之战》时的原始投资者宣传",
+      "summaryZh": "当比赛看起来是 6v6 的时候，赛恩留着胡子，故事围绕着“某种反基督者”展开。"
+    },
+    {
+      "title": "Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page",
+      "link": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
+      "date": "2026-08-16T17:34:21.000Z",
+      "summary": "Amid the row between Saber Interactive CEO Matthew Karch and former writer Stella Sacco after he said he'd have \"been happy to replace\" her with AI, the studio has finally added the AI disclaimer to R",
+      "source": "Eurogamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Sabre Interactive 最终在 Rideshare Stimulator 的 Steam 页面上添加了人工智能免责声明",
+      "summaryZh": "Saber Interactive 首席执行官马修·卡奇 (Matthew Karch) 与前作家斯特拉·萨科 (Stella Sacco) 发生争执，后者表示他“很乐意用人工智能取代”她，工作室最终在 R 中添加了人工智能免责声明"
+    },
+    {
+      "title": "David Brevik, creator of Diablo, reveals the 'worst ending' to any game he's played: 'But I really love the game. It's amazing'",
+      "link": "https://www.pcgamer.com/gaming-industry/david-brevik-creator-of-diablo-reveals-the-worst-ending-to-any-game-hes-played-but-i-really-love-the-game-its-amazing/",
+      "date": "2026-08-16T17:00:00.000Z",
+      "summary": "The legendary game designer guides us through the games on his PC.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《暗黑破坏神》的创造者大卫·布雷维克透露了他玩过的所有游戏的“最糟糕的结局”：“但我真的很喜欢这个游戏。太神奇了’",
+      "summaryZh": "这位传奇游戏设计师引导我们体验他电脑上的游戏。"
+    },
+    {
+      "title": "FENNEL GC在无畏契约太平洋赛区比赛前扩充教练组",
+      "link": "https://news.17173.com/content/08162026/163655898.shtml",
+      "date": "2026-08-16T16:36:55.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "The Best Handheld Gaming PCs to Take Your Games on the Go",
+      "link": "https://www.ign.com/articles/best-handheld-gaming-pc",
+      "date": "2026-08-16T14:00:00.000Z",
+      "summary": "Play your favorite PC, Steam, and Xbox games on the go with the best handheld gaming PCs.",
+      "source": "IGN",
+      "companies": [
+        "xbox",
+        "valve"
+      ],
+      "titleZh": "适合随时随地玩游戏的最佳手持游戏电脑",
+      "summaryZh": "使用最好的手持游戏电脑随时随地玩您最喜爱的 PC、Steam 和 Xbox 游戏。"
+    },
+    {
+      "title": "Psychological thriller game Time To Wake Up adds PS5, Xbox Series versions",
+      "link": "https://www.gematsu.com/2026/08/psychological-thriller-game-time-to-wake-up-adds-ps5-xbox-series-versions",
+      "date": "2026-08-16T04:00:17.000Z",
+      "summary": "“Atmospheric psychological thriller” game Time To Wake Up will launch for PlayStation 5 and Xbox &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony",
+        "xbox"
+      ],
+      "titleZh": "心理惊悚游戏《Time To Wake Up》新增 PS5、Xbox 系列版本",
+      "summaryZh": "“氛围心理惊悚”游戏《Time To Wake Up》即将在 PlayStation 5 和 Xbox 上推出……"
+    },
     {
       "title": "Team Liquid将GSR提拔至《无畏契约》主阵容担任替补",
       "link": "https://news.17173.com/content/08162026/033636119.shtml",
@@ -1996,16 +2156,6 @@
       ]
     },
     {
-      "title": "帅的不行！《漫威金刚狼》限定款PS5主机发布",
-      "link": "https://www.3dmgame.com/news/202608/3950361.html",
-      "date": "2026-08-12T03:21:39.487Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "把Steam Deck改造成Game Boy！玩家自制掌机惊艳亮相",
       "link": "https://www.3dmgame.com/news/202608/3950352.html",
       "date": "2026-08-12T03:21:39.487Z",
@@ -2435,16 +2585,6 @@
       ]
     },
     {
-      "title": "PC降价看不到！微软今年要对Win11等大涨价 CPU越高端系统越贵",
-      "link": "https://www.3dmgame.com/news/202608/3950286.html",
-      "date": "2026-08-11T04:00:17.889Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "《暗黑破坏神》系列30周年庆典大更！毁灭之王巴尔正式回归",
       "link": "https://news.17173.com/content/08112026/111059468.shtml",
       "date": "2026-08-11T03:10:59.000Z",
@@ -2530,18 +2670,6 @@
       ]
     },
     {
-      "title": "STEINS;GATE RE:BOOT for Xbox Series delayed to October 29",
-      "link": "https://www.gematsu.com/2026/08/steinsgate-reboot-for-xbox-series-delayed-to-october-29",
-      "date": "2026-08-11T01:15:30.000Z",
-      "summary": "Publishers MAGES. and Spike Chunsoft have delayed (2) the Xbox Series version of STEINS;GATE RE:BOOT &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Xbox 系列《斯坦因之门 RE:BOOT》推迟至 10 月 29 日",
-      "summaryZh": "出版商法师。和 Spike Chunsoft 推迟了 (2) Xbox 系列版本的《命运石之门 RE:BOOT》……"
-    },
-    {
       "title": "The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7",
       "link": "https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026",
       "date": "2026-08-11T00:45:00.000Z",
@@ -2552,40 +2680,6 @@
       ],
       "titleZh": "JSAUX 屏幕保护膜非常便宜，只需 7 美元即可为您的 Nintendo Switch 2 提供保险",
       "summaryZh": "三件装，以防你弄乱（两次）。"
-    },
-    {
-      "title": "Valve 正在扩大 SteamOS 的掌机支持范围，期待其生态持续壮大",
-      "link": "https://news.17173.com/content/08112026/071052951.shtml",
-      "date": "2026-08-10T23:10:52.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "Walmart's Private Label 512GB and 256GB Nintendo Switch 2 Memory Cards Are the Best Deals You Can Get",
-      "link": "https://www.ign.com/articles/cheapest-nintendo-switch-2-microsd-express-memory-card-deal-august-2026",
-      "date": "2026-08-10T22:45:00.000Z",
-      "summary": "Prices remain constant amidst the memory crisis, but for how long?",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "沃尔玛自有品牌 512GB 和 256GB Nintendo Switch 2 存储卡是您能买到的最划算的交易",
-      "summaryZh": "在内存危机中价格保持不变，但能持续多久？"
-    },
-    {
-      "title": "The vibey offroading game with more than a million Steam wishlists has a release date",
-      "link": "https://www.pcgamer.com/games/sim/the-vibey-offroading-game-with-more-than-a-million-steam-wishlists-has-a-release-date/",
-      "date": "2026-08-10T22:33:09.000Z",
-      "summary": "Over the Hill looks set to be a low key hit.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "这款拥有超过 100 万 Steam 愿望清单的 Viby 越野游戏已确定发布日期",
-      "summaryZh": "《Over the Hill》看起来将是一部低调的热门作品。"
     },
     {
       "title": "核心模式被移除，游玩时长超 400 小时的 战地风云6 玩家获 Steam 全额退款",
@@ -2599,18 +2693,6 @@
       ]
     },
     {
-      "title": "Valve Is Expanding SteamOS Support to More Handhelds, and I Hope It Keeps Growing",
-      "link": "https://www.ign.com/articles/valve-is-expanding-steamos-support-to-more-handhelds-and-i-hope-it-keeps-growing",
-      "date": "2026-08-10T22:03:58.000Z",
-      "summary": "Valve has added initial support for the Claw 8 EX AI+, along with some other ARM handhelds, and I hope it's just getting started.",
-      "source": "IGN",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve 正在将 SteamOS 支持扩展到更多手持设备，我希望它能继续增长",
-      "summaryZh": "Valve 已经增加了对 Claw 8 EX AI+ 以及其他一些 ARM 手持设备的初步支持，我希望这只是开始。"
-    },
-    {
       "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
       "link": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
       "date": "2026-08-10T21:10:16.000Z",
@@ -2622,21 +2704,6 @@
       ],
       "titleZh": "《战地 6》关键模式被移除后，游玩时间超过 400 小时的玩家将获得 Steam 全额退款",
       "summaryZh": "在《战地》工作室从游戏的快速匹配匹配中删除关键模式后，一位拥有数百小时游戏时间的《战地 6》玩家获得了游戏的全额退款。"
-    },
-    {
-      "title": "over the hill launches October 14 for PC, in 2027 for PS5, Xbox Series, and Switch 2",
-      "link": "https://www.gematsu.com/2026/08/over-the-hill-launches-october-14-for-pc-in-2027-for-ps5-xbox-series-and-switch-2",
-      "date": "2026-08-10T20:25:48.000Z",
-      "summary": "Off-road exploration game over the hill will launch for PC via Steam on October 14, &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox",
-        "valve"
-      ],
-      "titleZh": "《over the hill》将于 10 月 14 日推出 PC 版，PS5、Xbox Series 和 Switch 2 版将于 2027 年推出",
-      "summaryZh": "山上越野探索游戏将于 10 月 14 日通过 Steam 推出 PC 版……"
     },
     {
       "title": "腾讯 - 维基百科，自由的百科全书",
@@ -2696,30 +2763,6 @@
       ],
       "titleZh": "《战地 6》取消了粉丝最喜欢的模式，开发者正在寻找“最佳”方式将其恢复",
       "summaryZh": "从《战地 6》中移除《Rush》在游戏社区中并没有得到很好的反响，开发商 Battlefield Studios 证实正在探索将其重新带回的方法。该模式的播放列表，以及"
-    },
-    {
-      "title": "Steam user data 'may have been compromised' by a cyberattack targeting Valve's European shipping partner",
-      "link": "https://www.pcgamer.com/gaming-industry/steam-user-data-may-have-been-compromised-by-a-cyberattack-targeting-valves-european-shipping-partner/",
-      "date": "2026-08-10T17:45:04.000Z",
-      "summary": "An attack targeting CEVA Logistics \"likely\" exposed the personal information of European customers who ordered Steam hardware, Valve says.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Steam 用户数据可能因针对 Valve 欧洲运输合作伙伴的网络攻击而受到损害",
-      "summaryZh": "Valve 表示，针对 CEVA Logistics 的攻击“可能”暴露了订购 Steam 硬件的欧洲客户的个人信息。"
-    },
-    {
-      "title": "In cosmic roguelike The Carcass, you build a colony inside the corpse of a god that's slowly becoming aware of you",
-      "link": "https://www.rockpapershotgun.com/in-cosmic-roguelike-the-carcass-you-build-a-colony-inside-the-corpse-of-a-god-thats-slowly-becoming-aware-of-you",
-      "date": "2026-08-10T17:00:00.000Z",
-      "summary": "Update 10th August: Seems I may have been naive about this one! While there's no AI disclosure on the full Steam page for The Carcass, there is a disclosure on the separate store page for the demo. He",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "在宇宙类 Rogue 游戏《The Carcass》中，你在神的尸体内建立了一个殖民地，而这个神的尸体正在慢慢意识到你的存在",
-      "summaryZh": "8 月 10 日更新：看来我对这一点可能太天真了！虽然 The Carcass 的完整 Steam 页面上没有人工智能披露，但演示版的单独商店页面上有披露。他"
     },
     {
       "title": "I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas",
@@ -4257,16 +4300,6 @@
       "summaryZh": "全体登上星际列车。"
     },
     {
-      "title": "腾讯公司 - Tencent 腾讯",
-      "link": "https://www.tencent.com/zh-cn/about.html",
-      "date": "2026-07-28T23:22:00.000Z",
-      "summary": "腾讯于1998年11月成立，是一家互联网公司，通过技术丰富互联网用户的生活，助力企业数字化升级。 我们的使命是“用户为本 科技向善”。 Founded in 1998, Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the",
-      "source": "必应资讯",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "网易 - 维基百科，自由的百科全书 - zh.wikipedia.org",
       "link": "https://zh.wikipedia.org/zh-hans/%E7%BD%91%E6%98%93",
       "date": "2026-07-28T14:40:00.000Z",
@@ -4296,16 +4329,6 @@
       "source": "17173",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "腾讯少见的良心让利？WeGame零分成政策扶持《影之刃零》",
-      "link": "https://news.17173.com/content/07282026/101327263.shtml",
-      "date": "2026-07-28T10:13:27.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
       ]
     },
     {
