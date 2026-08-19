@@ -95,6 +95,11 @@ function isGlobalJunk(item) {
   return /壁纸|图集|美图/.test(item.title);
 }
 
+// 所有来源通用: 只收 http(s) 链接, 防止被劫持/投毒的来源把 javascript: 等协议注入页面 href
+function isSafeLink(link) {
+  return /^https?:\/\//i.test(link);
+}
+
 function escapeRegExp(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -561,6 +566,7 @@ async function main() {
   searchNames.add("必应资讯"); // 兼容来源改名前的历史数据
   const beforeClean = data.items.length;
   data.items = data.items.filter((it) => {
+    if (!isSafeLink(it.link)) return false;
     if (!searchNames.has(it.source)) return true;
     if (isGlobalJunk(it) || isJunkSearchResult(it)) return false;
     return matchCompanies(it.title + " " + (it.summary || "")).some((cid) => it.companies.includes(cid));
@@ -583,6 +589,7 @@ async function main() {
 
   for (const { src, items } of fetched) {
     for (const it of items) {
+      if (!isSafeLink(it.link)) continue;
       if (isGlobalJunk(it)) continue;
       if (src.type === "search" && isJunkSearchResult(it)) continue;
       const text = it.title + " " + it.summary;
