@@ -11,6 +11,9 @@ const ROOT = __dirname;
 const DATA_DIR = path.join(ROOT, "data");
 const DATA_FILE = path.join(DATA_DIR, "news.json");
 const HTML_FILE = path.join(ROOT, "index.html");
+const TEMPLATE_FILE = path.join(ROOT, "template.html");
+const FEED_FILE = path.join(ROOT, "feed.xml");
+const SITE_URL = "https://chichihehe.cc/game";
 const KEEP_DAYS = 60; // 历史资讯保留天数
 const MAX_PER_COMPANY = 50; // 每家公司最多保留条数
 const FETCH_TIMEOUT = 20000;
@@ -77,9 +80,10 @@ const SOURCES = [
 
 // 搜索类来源的导航页垃圾过滤(官网首页/百科/邮箱等非资讯结果)
 function isJunkSearchResult(item) {
-  if (/首页|百度百科|邮箱|登录|注册|下载|社区|网易云音乐/.test(item.title)) return true;
+  if (/首页|百度百科|维基|邮箱|登录|注册|下载|社区|网易云音乐/.test(item.title)) return true;
   try {
     const u = new URL(item.link);
+    if (u.hostname.endsWith("wikipedia.org")) return true; // 百科词条不是资讯
     const segs = u.pathname.split("/").filter(Boolean);
     if (segs.length <= 1 && !/\d{3,}/.test(u.pathname)) return true; // 裸域名或浅层导航页
   } catch {}
@@ -331,6 +335,60 @@ function saveData(data) {
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2), "utf8");
 }
 
+// ---------- 同题去重 ----------
+// 多家媒体常报道同一条新闻(尤其英文媒体互相编译), 渲染时按标题相似度合并为一组,
+// 主条目正常展示, 其余来源折叠成"其他来源"链接。数据文件保持原始条目不变。
+// 分词前先归一化别名, 提升同题命中率(如 "战地风云6" 与 "战地6")
+const TITLE_ALIASES = [
+  [/战地风云/g, "战地"],
+  ["over the hill", "越过山丘"],
+];
+const TITLE_STOPWORDS = /[的了在是和与对为就都而也或被把让使称]/g;
+// 发售预告类标题的模板词("将于8月20日登陆/发售"), 不剥离的话两条无关新游预告
+// 会因共享模板词被误并
+const TITLE_BOILERPLATE = /[将于年月日号发售推出登陆定档官宣正确定]/g;
+const EN_STOPWORDS = new Set(["the", "a", "an", "and", "or", "of", "to", "in", "on", "for", "with", "is", "are", "was", "will", "its", "it", "this", "that", "from", "at", "by", "as", "be", "your", "you"]);
+
+function titleTokens(title) {
+  let s = String(title || "").toLowerCase();
+  for (const [re, to] of TITLE_ALIASES) s = s.replace(re, to);
+  s = s.replace(/[《》「」『』【】\[\]()（）{}<>：:，,。.！!？?；;、·—~\-_|\\/"'“”‘’…\s]/g, "");
+  s = s.replace(TITLE_STOPWORDS, "").replace(TITLE_BOILERPLATE, "");
+  const tokens = new Set();
+  for (const w of s.match(/[a-z0-9]+/g) || []) if (!EN_STOPWORDS.has(w)) tokens.add(w);
+  for (const ch of s.replace(/[a-z0-9]/g, "")) tokens.add(ch); // 中文按单字, 对改写标题更宽容
+  return tokens;
+}
+
+function isSameStory(a, b) {
+  // 时间相距过远的不合并, 避免把几周后的跟进报道误并
+  if (a.date && b.date && Math.abs(new Date(a.date) - new Date(b.date)) > 72 * 3600e3) return false;
+  const A = titleTokens(a.titleZh || a.title);
+  const B = titleTokens(b.titleZh || b.title);
+  if (A.size < 5 || B.size < 5) return false;
+  let inter = 0;
+  for (const t of A) if (B.has(t)) inter++;
+  // 占比与绝对数量同时达标: 短标题剥离模板词后剩不了几个 token, 防止个别巧合命中
+  return inter >= 3 && inter / Math.min(A.size, B.size) >= 0.45;
+}
+
+// 输入需按时间降序; 代表条目优先选原文为中文的(可读性好于机翻)
+function groupByStory(items) {
+  const groups = [];
+  for (const it of items) {
+    let placed = false;
+    for (const g of groups) {
+      if (isSameStory(g[0], it)) { g.push(it); placed = true; break; }
+    }
+    if (!placed) groups.push([it]);
+  }
+  return groups.map((g) => {
+    const zhIdx = g.findIndex((x) => !x.titleZh);
+    const repIdx = zhIdx >= 0 ? zhIdx : 0;
+    return { item: g[repIdx], others: g.filter((_, i) => i !== repIdx) };
+  });
+}
+
 // ---------- 生成网页 ----------
 function renderHtml(data) {
   const byCompany = {};
@@ -380,24 +438,36 @@ function renderHtml(data) {
     return isNaN(d) ? "" : d.toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false });
   };
   const isNew = (it) => it.date && now - new Date(it.date).getTime() <= 24 * 3600e3;
-  // 单条资讯渲染: showTime 时附带厂商标签(用于"今日最新"混排); 24 小时内的条目带 NEW 标记
-  const renderItem = (it, showTime) => `
-        <li class="news-item">
+  // 单条资讯渲染: showTime 时附带厂商标签(用于"今日最新"混排); 服务端先按构建时间生成
+  // 相对时间和 NEW 标记(无 JS 时的兜底), li 上的 data-time 供前端实时重算;
+  // others 为同题合并时被折叠的其他来源
+  const renderItem = (it, showTime, others) => {
+    const seen = new Set();
+    const altLinks = [];
+    for (const o of others || []) {
+      if (seen.has(o.source)) continue; // 同一来源的多条合并显示一次
+      seen.add(o.source);
+      altLinks.push(`<a href="${esc(o.link)}" target="_blank" rel="noopener">${esc(o.source)}</a>`);
+    }
+    return `
+        <li class="news-item" data-time="${it.date || ""}">
           <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>${isNew(it) ? `<span class="new-badge">NEW</span>` : ""}
           <div class="meta">${it.date ? `<span class="time" title="${esc(fmtFull(it.date))}">${relTime(it.date)}</span>` : ""}<span class="source">${esc(it.source)}</span>${
             showTime ? it.companies.map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`).join("") : ""
-          }</div>
+          }${altLinks.length ? `<span class="alt">其他来源: ${altLinks.join(" · ")}</span>` : ""}</div>
           ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
         </li>`;
+  };
 
-  // 今日最新默认只展示前 TODAY_VISIBLE 条, 其余折叠, 想看再点开
+  // 今日最新默认只展示前 TODAY_VISIBLE 组, 其余折叠, 想看再点开; 同题多来源合并为一组
   const TODAY_VISIBLE = 10;
-  const todayHead = today.slice(0, TODAY_VISIBLE).map((it) => renderItem(it, true)).join("");
-  const todayRest = today.slice(TODAY_VISIBLE);
-  const todayList = today.length
+  const todayGroups = groupByStory(today);
+  const todayHead = todayGroups.slice(0, TODAY_VISIBLE).map((g) => renderItem(g.item, true, g.others)).join("");
+  const todayRest = todayGroups.slice(TODAY_VISIBLE);
+  const todayList = todayGroups.length
     ? `<ul class="cards">${todayHead}</ul>` +
       (todayRest.length
-        ? `<details class="more"><summary>展开其余 ${todayRest.length} 条</summary><ul class="cards">${todayRest.map((it) => renderItem(it, true)).join("")}</ul></details>`
+        ? `<details class="more"><summary>展开其余 ${todayRest.length} 条</summary><ul class="cards">${todayRest.map((g) => renderItem(g.item, true, g.others)).join("")}</ul></details>`
         : "")
     : `<p class="empty">最近 48 小时暂无新资讯</p>`;
   const todaySection = `
@@ -406,182 +476,81 @@ function renderHtml(data) {
         ${todayList}
       </section>`;
 
-  // 每家厂商默认展示前 VISIBLE_COUNT 条, 其余折叠, 避免页面过长
+  // 每家厂商默认展示前 VISIBLE_COUNT 组, 其余折叠, 避免页面过长; 分组结果同时供侧边导航计数
+  const companyGroups = {};
+  for (const c of COMPANIES) companyGroups[c.id] = groupByStory(byCompany[c.id]);
   const VISIBLE_COUNT = 5;
   const sections = COMPANIES.map((c, idx) => {
-    const items = byCompany[c.id];
-    const head = items.slice(0, VISIBLE_COUNT).map((it) => renderItem(it, false)).join("");
-    const rest = items.slice(VISIBLE_COUNT);
-    const list = items.length
+    const groups = companyGroups[c.id];
+    const head = groups.slice(0, VISIBLE_COUNT).map((g) => renderItem(g.item, false, g.others)).join("");
+    const rest = groups.slice(VISIBLE_COUNT);
+    const list = groups.length
       ? `<ul class="cards">${head}</ul>` +
         (rest.length
-          ? `<details class="more"><summary>展开其余 ${rest.length} 条</summary><ul class="cards">${rest.map((it) => renderItem(it, false)).join("")}</ul></details>`
+          ? `<details class="more"><summary>展开其余 ${rest.length} 条</summary><ul class="cards">${rest.map((g) => renderItem(g.item, false, g.others)).join("")}</ul></details>`
           : "")
       : `<p class="empty">暂无可匹配的资讯</p>`;
     return `
       <section class="company" id="${c.id}">
-        <h2><span class="badge">${String(idx + 1).padStart(2, "0")}</span> ${esc(c.name)} <small>${esc(c.en)} · ${items.length} 条</small></h2>
+        <h2><span class="badge">${String(idx + 1).padStart(2, "0")}</span> ${esc(c.name)} <small>${esc(c.en)} · ${groups.length} 条</small></h2>
         ${list}
       </section>`;
   }).join("\n");
 
-  const nav = `<a href="#today">今日最新</a>` + COMPANIES.map((c) => `<a href="#${c.id}">${esc(c.name)}</a>`).join("") +
+  // 桌面宽屏下 nav 渲染为侧边栏, 各链接附带条数角标(小屏由 CSS 隐藏)
+  const nav = `<a href="#today">今日最新<span class="count">${todayGroups.length}</span></a>` +
+    COMPANIES.map((c) => `<a href="#${c.id}">${esc(c.name)}<span class="count">${companyGroups[c.id].length}</span></a>`).join("") +
     `<input class="search" id="q" type="search" placeholder="搜索资讯…" aria-label="搜索资讯">`;
   const updatedAt = data.updatedAt
     ? new Date(data.updatedAt).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai", hour12: false })
     : "从未更新";
 
-  return `<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
-<meta property="og:title" content="每日游戏资讯 · 十大厂商">
-<meta property="og:description" content="腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 最新动态, 每天自动更新">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://chichihehe.cc/game/">
-<title>每日游戏资讯 · 十大厂商</title>
-<script>
-// 页面渲染前先应用用户上次选择的主题, 避免切换闪烁
-(function(){var t="dark";try{t=localStorage.getItem("gamenews-theme")||"dark"}catch(e){}if(["dark","light","eye"].indexOf(t)<0)t="dark";document.documentElement.setAttribute("data-theme",t);})();
-</script>
-<style>
-  :root {
-    --bg: #0e1117; --panel: #171c26; --panel-hover: #1c2230; --text: #e6e9f0; --muted: #8f97a8;
-    --accent: #8ab4f8; --accent-soft: rgba(138,180,248,.14); --line: #262d3c;
-    --nav-bg: rgba(14,17,23,.9); --visited: #98a0ae;
-  }
-  /* 亮色主题 */
-  html[data-theme="light"] {
-    --bg: #f5f6f8; --panel: #ffffff; --panel-hover: #eef2f8; --text: #1c2330; --muted: #667085;
-    --accent: #2f6fd0; --accent-soft: rgba(47,111,208,.10); --line: #d8dde6;
-    --nav-bg: rgba(245,246,248,.9); --visited: #8a92a6;
-  }
-  /* 护眼主题(豆沙绿) */
-  html[data-theme="eye"] {
-    --bg: #e3edcd; --panel: #eef5dd; --panel-hover: #e2eec9; --text: #2f3a28; --muted: #67795a;
-    --accent: #2e6b2e; --accent-soft: rgba(46,107,46,.12); --line: #c3d3a8;
-    --nav-bg: rgba(227,237,205,.9); --visited: #7d8f6c;
-  }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  html { scroll-behavior: smooth; scroll-padding-top: 60px; }
-  body { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; font-size: 16px; transition: background-color .25s ease, color .25s ease; }
-  header { max-width: 860px; margin: 0 auto; padding: 36px 20px 18px; }
-  header h1 { font-size: 26px; letter-spacing: 1px; display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  header h1 .updated { font-size: 12px; font-weight: normal; letter-spacing: 0; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 2px 12px; }
-  header p { color: var(--muted); margin-top: 10px; font-size: 13px; }
-  nav { display: flex; flex-wrap: wrap; gap: 6px; max-width: 860px; margin: 0 auto; padding: 10px 20px; position: sticky; top: 0; background: var(--nav-bg); backdrop-filter: blur(10px); z-index: 10; border-bottom: 1px solid var(--line); }
-  nav a { color: var(--muted); text-decoration: none; font-size: 13px; padding: 4px 12px; border-radius: 999px; transition: color .15s, background .15s; }
-  nav a:hover { color: var(--accent); background: var(--accent-soft); }
-  .search { margin-left: auto; flex-shrink: 0; border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 12px; font-size: 13px; width: 130px; outline: none; transition: width .2s, border-color .15s; }
-  .search:focus { border-color: var(--accent); width: 190px; }
-  .search::placeholder { color: var(--muted); }
-  main { max-width: 860px; margin: 0 auto; padding: 8px 20px 64px; }
-  .company { margin-top: 40px; }
-  .company h2 { font-size: 18px; margin-bottom: 14px; padding-left: 12px; border-left: 3px solid var(--accent); line-height: 1.4; }
-  .company h2 small { color: var(--muted); font-size: 12px; font-weight: normal; margin-left: 8px; }
-  .badge { color: var(--accent); font-size: 13px; font-family: Consolas, monospace; margin-right: 6px; opacity: .8; }
-  ul.cards { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-  .news-item { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 18px; transition: border-color .15s, background .15s; }
-  .news-item:hover { border-color: var(--accent); background: var(--panel-hover); }
-  .news-item a { color: var(--text); text-decoration: none; font-size: 15.5px; font-weight: 600; line-height: 1.55; display: inline-block; }
-  .news-item a:hover { color: var(--accent); }
-  .news-item a:visited { color: var(--visited); }
-  .meta { font-size: 12px; color: var(--muted); margin-top: 6px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-  .meta .time, .meta .date { font-family: Consolas, monospace; }
-  .tag { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 0 8px; font-size: 11px; line-height: 18px; }
-  .new-badge { display: inline-block; vertical-align: 3px; margin-left: 6px; background: #e05555; color: #fff; border-radius: 999px; padding: 0 7px; font-size: 10px; line-height: 16px; font-weight: 700; }
-  .summary { font-size: 13px; color: var(--muted); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-  .empty { color: var(--muted); font-size: 14px; padding: 6px 0; }
-  .more summary { list-style: none; cursor: pointer; text-align: center; color: var(--muted); font-size: 13px; margin-top: 10px; padding: 9px 0; border: 1px dashed var(--line); border-radius: 12px; transition: color .15s, border-color .15s; user-select: none; }
-  .more summary::-webkit-details-marker { display: none; }
-  .more summary:hover { color: var(--accent); border-color: var(--accent); }
-  .more[open] summary { margin-bottom: 10px; }
-  .theme-switch { position: fixed; left: 20px; bottom: 24px; display: flex; gap: 6px; z-index: 20; }
-  .theme-switch button { cursor: pointer; font-size: 12px; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--muted); transition: color .15s, border-color .15s; }
-  .theme-switch button:hover { color: var(--accent); border-color: var(--accent); }
-  .theme-switch button.active { color: var(--accent); border-color: var(--accent); background: var(--accent-soft); }
-  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 28px 20px; border-top: 1px solid var(--line); }
-  footer a { color: var(--accent); text-decoration: none; margin-left: 12px; }
-  @media (max-width: 600px) {
-    body { font-size: 15px; }
-    header { padding: 24px 14px 12px; }
-    header h1 { font-size: 21px; }
-    header p { font-size: 12px; }
-    nav { flex-wrap: nowrap; overflow-x: auto; padding: 8px 14px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
-    nav::-webkit-scrollbar { display: none; }
-    nav a { flex-shrink: 0; font-size: 12px; }
-    main { padding: 4px 14px 96px; }
-    .company { margin-top: 32px; }
-    .company h2 { font-size: 16px; margin-bottom: 12px; }
-    .news-item { padding: 12px 14px; }
-    .news-item a { font-size: 15px; }
-    .summary { font-size: 12.5px; }
-    /* 小屏: 主题按钮缩小并贴近角落, main 底部留白避免遮挡正文 */
-    .theme-switch { left: 12px; bottom: 12px; gap: 4px; }
-    .theme-switch button { font-size: 11px; padding: 5px 10px; }
-  }
-</style>
-</head>
-<body>
-<header id="top">
-  <h1>每日游戏资讯 <span class="updated">更新于 ${updatedAt}</span></h1>
-  <p>收录腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 十大厂商动态 · 来源: 厂商官网 + 游戏媒体 · 英文资讯已自动翻译, 悬停标题可看原文</p>
-</header>
-<nav>${nav}</nav>
-<main>
-${todaySection}
-${sections}
-</main>
-<footer>由 fetch_news.js 自动生成 · 数据保留最近 ${KEEP_DAYS} 天<a href="#top">回到顶部 ↑</a></footer>
-<div class="theme-switch" role="group" aria-label="主题切换">
-  <button type="button" data-set-theme="eye">护眼</button>
-  <button type="button" data-set-theme="light">亮色</button>
-  <button type="button" data-set-theme="dark">暗色</button>
-</div>
-<script>
-// 左下角主题切换: 护眼 / 亮色 / 暗色, 选择存入 localStorage, 下次打开自动生效
-(function(){
-  var KEY = "gamenews-theme";
-  var btns = document.querySelectorAll(".theme-switch button");
-  function apply(t){
-    document.documentElement.setAttribute("data-theme", t);
-    try { localStorage.setItem(KEY, t); } catch(e) {}
-    for (var i = 0; i < btns.length; i++) btns[i].classList.toggle("active", btns[i].getAttribute("data-set-theme") === t);
-  }
-  for (var i = 0; i < btns.length; i++) btns[i].addEventListener("click", function(){ apply(this.getAttribute("data-set-theme")); });
-  var cur = "dark";
-  try { cur = localStorage.getItem(KEY) || "dark"; } catch(e) {}
-  if (["dark","light","eye"].indexOf(cur) < 0) cur = "dark";
-  apply(cur);
-})();
-</script>
-<script>
-// 导航栏搜索: 输入即过滤(匹配标题/摘要/来源/厂商标签), 搜索时自动展开折叠分区, 清空后恢复
-(function(){
-  var q = document.getElementById("q");
-  if (!q) return;
-  var items = document.querySelectorAll(".news-item");
-  var sections = document.querySelectorAll("main .company");
-  var folds = document.querySelectorAll("details.more");
-  q.addEventListener("input", function(){
-    var s = q.value.trim().toLowerCase();
-    var i, j;
-    for (i = 0; i < folds.length; i++) folds[i].open = !!s;
-    for (i = 0; i < items.length; i++)
-      items[i].style.display = !s || items[i].textContent.toLowerCase().indexOf(s) >= 0 ? "" : "none";
-    for (i = 0; i < sections.length; i++) {
-      var lis = sections[i].querySelectorAll(".news-item");
-      var any = !s;
-      for (j = 0; j < lis.length; j++) if (lis[j].style.display !== "none") { any = true; break; }
-      sections[i].style.display = any ? "" : "none";
-    }
-  });
-})();
-</script>
-</body>
-</html>`;
+  // 动态内容注入 template.html 骨架; 函数式替换避免替换串中的 $& 等被解释
+  return fs
+    .readFileSync(TEMPLATE_FILE, "utf8")
+    .replace("__UPDATED_ISO__", () => data.updatedAt || "")
+    .replace("__UPDATED_TEXT__", () => updatedAt)
+    .replace("__KEEP_DAYS__", () => String(KEEP_DAYS))
+    .replace("__NAV__", () => nav)
+    .replace("__MAIN__", () => todaySection + "\n" + sections);
+}
+
+// ---------- 生成 RSS ----------
+// 输出最新 60 条供阅读器订阅; 与 index.html 同步更新
+function renderRss(data) {
+  const escXml = (s) =>
+    String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
+  const companyName = Object.fromEntries(COMPANIES.map((c) => [c.id, c.name]));
+  const items = data.items
+    .filter((it) => it.date)
+    .sort((a, b) => (b.date || "").localeCompare(a.date || ""))
+    .slice(0, 60)
+    .map((it) => {
+      const desc = [it.summaryZh || it.summary, `来源: ${it.source}`, `厂商: ${it.companies.map((cid) => companyName[cid] || cid).join(", ")}`]
+        .filter(Boolean)
+        .join(" | ");
+      return `    <item>
+      <title>${escXml(it.titleZh || it.title)}</title>
+      <link>${escXml(it.link)}</link>
+      <guid isPermaLink="false">${escXml(it.link)}</guid>
+      <pubDate>${new Date(it.date).toUTCString()}</pubDate>
+      <description>${escXml(desc)}</description>
+    </item>`;
+    })
+    .join("\n");
+  const lastBuild = data.updatedAt ? new Date(data.updatedAt).toUTCString() : new Date().toUTCString();
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>每日游戏资讯 · 十大厂商</title>
+    <link>${SITE_URL}/</link>
+    <description>腾讯、网易、米哈游、任天堂、索尼、微软、暴雪、EA、育碧、Valve 最新动态, 每天自动更新</description>
+    <language>zh-CN</language>
+    <lastBuildDate>${lastBuild}</lastBuildDate>
+${items}
+  </channel>
+</rss>
+`;
 }
 
 // ---------- 主流程 ----------
@@ -653,9 +622,10 @@ async function main() {
   data.updatedAt = new Date().toISOString();
   saveData(data);
   fs.writeFileSync(HTML_FILE, renderHtml(data), "utf8");
+  fs.writeFileSync(FEED_FILE, renderRss(data), "utf8");
 
   console.log(`新增 ${added} 条, 现有共 ${all.length} 条`);
-  console.log(`已生成 ${HTML_FILE}`);
+  console.log(`已生成 ${HTML_FILE} 和 ${FEED_FILE}`);
 }
 
 main().catch((e) => {
