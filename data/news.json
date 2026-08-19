@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-19T01:18:11.093Z",
+  "updatedAt": "2026-08-19T01:22:34.210Z",
   "items": [
+    {
+      "title": "任天堂连下两城！继印度之后 Switch双主机宣布进军印尼",
+      "link": "https://www.3dmgame.com/news/202608/3950370.html",
+      "date": "2026-08-19T01:22:29.242Z",
+      "summary": "",
+      "source": "3DM厂商新闻",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "游戏新闻 世嘉年度游戏销量报告：《索尼克》系列达16亿部 你买了吗？",
+      "link": "https://www.3dmgame.com/news/202311/3880807.html",
+      "date": "2026-08-19T01:22:29.241Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "《影之刃零》直播被外网狂喷！原因竟是因为索尼",
       "link": "https://www.3dmgame.com/news/202608/3950869.html",
@@ -79,7 +99,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "罗宾·威廉姆斯 (Robin Williams) 的孩子们重用 Instagram 来对抗人工智能滥用",
+      "summaryZh": "罗宾·威廉姆斯 (Robin Williams) 的孩子扎克 (Zak)、塞尔达 (Zelda) 和科迪 (Cody) 在十年后恢复了已故父亲的 Instagram 帐户，以打击 AI 对他的声音和肖像的猖獗滥用。"
     },
     {
       "title": "冒险解谜游戏《沉星之序》将于10月9日发售",
@@ -101,7 +123,9 @@
       "source": "IGN",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《星露谷物语 Switch 2》实体版是我能抢到的现金",
+      "summaryZh": "Switch 2 版《星露谷物语》以数字方式发布八个月后，升级版实体版在 Fangamer 上出现。"
     },
     {
       "title": "Clipmatrix is a Counter-Strike-like, bunny hopping, platforming romp through surreal and industrial locales",
@@ -111,7 +135,9 @@
       "source": "Rock Paper Shotgun",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "Clipmatrix 是一款类似《反恐精英》的兔子跳跃平台游戏，穿越超现实和工业场景",
+      "summaryZh": "当一款游戏从技术上并不存在的标志性游戏中采用了深受喜爱的机制时，总是以一种特殊的方式让我感到高兴。我所说的不存在是指像wavedash这样的东西"
     },
     {
       "title": "The Binding of Isaac: Repentance+ Online launches November 19 for PS5, Xbox Series, and Switch 2",
@@ -123,7 +149,21 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《以撒的结合：忏悔+ Online》将于 11 月 19 日推出 PS5、Xbox Series 和 Switch 2",
+      "summaryZh": "Nicalis 将为 PlayStation 5、Xbox 系列和……发行《以撒的结合：忏悔+ Online》"
+    },
+    {
+      "title": "Former PlayStation boss Shuhei Yoshida told Clair Obscur devs to not call it a 'turn-based RPG' so people wouldn't 'overlook' it",
+      "link": "https://www.pcgamer.com/games/rpg/former-playstation-boss-shuhei-yoshida-told-clair-obscur-devs-to-not-call-it-a-turn-based-rpg-so-people-wouldnt-overlook-it/",
+      "date": "2026-08-18T20:08:43.000Z",
+      "summary": "More than eight million copies sold suggests he might've been right.",
+      "source": "PC Gamer",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "前 PlayStation 老板 Shuhei Yoshida 告诉 Clair Obscur 开发者不要称其为“回合制 RPG”，这样人们就不会“忽视”它",
+      "summaryZh": "超过八百万册的销量表明他可能是对的。"
     },
     {
       "title": "Surprise Xbox Game To Be Announced At Gamescom, Insider Says",
@@ -133,7 +173,21 @@
       "source": "GameSpot",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "内部人士称惊喜 Xbox 游戏将在科隆游戏展上发布",
+      "summaryZh": "微软似乎正准备在本月的科隆游戏展上宣布一款新游戏，它可能来自一个成熟的系列。内部人士 NateTheHate 2 表示：“我听说 Xbox 发布了一个巧妙的消息，"
+    },
+    {
+      "title": "NBA 2K27 Preseason Breakdown Game Reveal",
+      "link": "https://news.xbox.com/en-us/2026/08/18/nba-2k27-preseason-breakdown-game-reveal/",
+      "date": "2026-08-18T19:04:57.000Z",
+      "summary": "The NBA 2K27 Preseason Breakdown Game Reveal provides an in-depth overview of everything new this year. Get the full scoop on brand-new content coming to The City, MyCAREER, MyTEAM, and more, in addit",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "NBA 2K27 季前赛详细比赛揭晓",
+      "summaryZh": "《NBA 2K27 季前赛详细比赛揭晓》深入概述了今年的所有新内容。全面了解 The City、MyCAREER、MyTEAM 等即将推出的全新内容"
     },
     {
       "title": "The Krispy Kreme x Pokemon Doughnuts As Reviewed By A Four-Year-Old",
@@ -143,7 +197,9 @@
       "source": "GameSpot",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "一位四岁孩子对 Krispy Kreme x Pokemon Donuts 的评价",
+      "summaryZh": "除了是《马里奥》爱好者之外，我四岁的儿子也是《口袋妖怪》的忠实粉丝——他对这个系列的了解已经远远超过了我。作为一个四岁的孩子，他已经"
     },
     {
       "title": "PlayStation Plus Is Removing 10 Games Soon, So Finish Them While You Can",
@@ -153,7 +209,9 @@
       "source": "GameSpot",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "PlayStation Plus 即将下架 10 款游戏，请尽快完成它们",
+      "summaryZh": "上周，针对额外和高级订阅者的 PlayStation Plus 游戏目录宣布了几款新游戏，正如您所料，一些游戏也即将退出。总共还有10克"
     },
     {
       "title": "New NBA 2K27 gameplay details on The City, co-op, MyNBA eras, and more",
@@ -163,7 +221,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《NBA 2K27》关于城市、合作、MyNBA 时代等的全新游戏细节",
+      "summaryZh": "进入 2K 世界，通过 NBA 2K27 季前赛细分：游戏揭晓回顾来了解您的竞技状态！ 《NBA 2K》在加利福尼亚州洛杉矶的因纽特圆顶进行了 45 分钟的现场直播，详细介绍了这些内容"
     },
     {
       "title": "辐射 4 发布补丁更新 Creation Kit，修复 Steam Deck 崩溃等各类问题",
@@ -184,7 +244,9 @@
       "companies": [
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "iRacing Arcade 将于 8 月 21 日登陆 PS5、Xbox 系列",
+      "summaryZh": "发行商 iRacing.com Motorsport Simulations 和开发商 Original Fire Games 将发布赛车游戏 iRacing Arcade …"
     },
     {
       "title": "Pipistrello and the Cursed Yoyo coming to Switch 2 on August 20",
@@ -194,7 +256,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "《Pipistrello 和被诅咒的 Yoyo》将于 8 月 20 日登陆 Switch 2",
+      "summaryZh": "发行商 PM Studios 和开发商 Pocket Trap 将发布 2D 的 Switch 2 版本……"
     },
     {
       "title": "Battlefield 6 Free Trial Overlaps With Call Of Duty: Modern Warfare 4 Beta This Weekend",
@@ -204,7 +268,9 @@
       "source": "GameSpot",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地 6》免费试用版与《使命召唤：现代战争 4》本周末测试版重叠",
+      "summaryZh": "《战地》和《使命召唤》本周末将重叠，因为这两个系列的最新作品都为粉丝们带来了激动人心的机会。 《战地 6》现已免费开放至 8 月 25 日，以庆祝"
     },
     {
       "title": "RetroSpace launches October 1",
@@ -216,7 +282,21 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "RetroSpace 将于 10 月 1 日推出",
+      "summaryZh": "“迪斯科朋克太空恐怖”第一人称射击游戏 RetroSpace 将为 PlayStation 5、Xbox Series、Switch 2 和……推出"
+    },
+    {
+      "title": "How The Sinking City 2 Shifts to Survival Horror While Keeping Its Investigation Roots",
+      "link": "https://news.xbox.com/en-us/2026/08/18/the-sinking-city-2-survival-horror/",
+      "date": "2026-08-18T15:00:00.000Z",
+      "summary": "Arkham is flooded, and the things that survived the flood are still using the bodies of the people who didn’t. The Sinking City 2 is a Lovecraftian survival horror game set in an otherworldly version ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《沉没之城 2》如何在保留调查根源的同时转向生存恐怖",
+      "summaryZh": "阿卡姆被洪水淹没了，而那些在洪水中幸存下来的东西仍然在使用那些没有被洪水淹没的人的尸体。 《沉没之城 2》是一款以超凡脱俗的版本为背景的洛夫克拉夫特式生存恐怖游戏"
     },
     {
       "title": "Here's your next batch of Xbox and PC Game Pass games for August",
@@ -226,7 +306,9 @@
       "source": "Eurogamer",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "这是 8 月份的下一批 Xbox 和 PC Game Pass 游戏",
+      "summaryZh": "下一批 Xbox 和 PC Game Pass 游戏已经公布，详细说明了 8 月下旬将推出的游戏。阅读更多"
     },
     {
       "title": "Into the Dead: Our Darkest Days launches in March 2027 for PS5, Xbox Series, Switch 2, and PC",
@@ -238,7 +320,9 @@
         "nintendo",
         "sony",
         "xbox"
-      ]
+      ],
+      "titleZh": "《勇闯死者：至暗之日》将于 2027 年 3 月推出 PS5、Xbox Series、Switch 2 和 PC 版",
+      "summaryZh": "僵尸庇护所生存游戏《勇闯死者：我们至暗的日子》将退出抢先体验，并且……"
     },
     {
       "title": "Meet the Lovecraftian monstrosities of The Sinking City 2, out today on PS5",
@@ -248,7 +332,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "来认识一下今天在 PS5 上发售的《沉没之城 2》中的洛夫克拉夫特式怪物",
+      "summaryZh": "大家好，我叫 Evgeny Maloshenkov，我负责《沉没之城 2》背后的团队 Frogwares 的生物设计。当我们在 2023 年开始制作续集时，我们知道我们想要"
     },
     {
       "title": "Relaxing puzzle-building game Hexplorando announced for Switch, PC",
@@ -258,7 +344,9 @@
       "source": "Gematsu",
       "companies": [
         "nintendo"
-      ]
+      ],
+      "titleZh": "休闲解谜游戏 Hexlorando 宣布登陆 Switch、PC",
+      "summaryZh": "发行商Maximum Entertainment 和开发商Hexplora Interactive 宣布推出Hexplorando，一款轻松的解谜游戏。它 …"
     },
     {
       "title": "Game Pass adds Resonance: A Plague Tale Legacy, Vapor World: Over the Mind, Blood Dungeon, and more in late August",
@@ -268,7 +356,9 @@
       "source": "Gematsu",
       "companies": [
         "xbox"
-      ]
+      ],
+      "titleZh": "Game Pass 将于 8 月下旬新增《共鸣：瘟疫传说遗产》、《蒸汽世界：超越心灵》、《血色地牢》等",
+      "summaryZh": "微软宣布将于 8 月底在 Game Pass 上推出新游戏，其中包括《Resonance》：……"
     },
     {
       "title": "Order of the Sinking Star launches October 8",
@@ -279,7 +369,21 @@
       "companies": [
         "nintendo",
         "sony"
-      ]
+      ],
+      "titleZh": "《陨星令》将于 10 月 8 日推出",
+      "summaryZh": "叙事解谜冒险游戏《Order of the Sinking Star》将于 PlayStation 5、Switch 推出……"
+    },
+    {
+      "title": "Coming to XBOX Game Pass: Resonance: A Plague Tale Legacy, Vapor World: Over the Mind, Blood Dungeon, and More",
+      "link": "https://news.xbox.com/en-us/2026/08/18/xbox-game-pass-august-2026-wave-2/",
+      "date": "2026-08-18T13:00:00.000Z",
+      "summary": "We have more games coming your way on day one (including one you may have seen in our XBOX Games Showcase this summer)! Go grab your controller or mouse and let’s get to the games. Available Today Egg",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "即将登陆 XBOX Game Pass：《共鸣：瘟疫传说遗产》、《蒸汽世界：超越心灵》、《血色地牢》等",
+      "summaryZh": "第一天我们就会为您带来更多游戏（包括今年夏天您可能在我们的 XBOX 游戏展示中看到的一款游戏）！拿起你的控制器或鼠标，开始游戏吧。今日供应鸡蛋"
     },
     {
       "title": "Helldivers 2: A deep dive into the Illuminate Void",
@@ -289,7 +393,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《Helldivers 2》：深入探索光明虚空",
+      "summaryZh": "地狱潜水员们，我们终于进入了未知，面对难以想象的事情。我们的精英维和人员正在调查腐败现象，并将自由之光照亮黑暗的中心。网关是c"
     },
     {
       "title": "Battlefield 6 is hosting a free trial, just in time for Call of Duty: Modern Warfare 4's beta",
@@ -299,7 +405,9 @@
       "source": "Eurogamer",
       "companies": [
         "ea"
-      ]
+      ],
+      "titleZh": "《战地 6》正在举办免费试用，正好赶上《使命召唤：现代战争 4》的测试版",
+      "summaryZh": "《战地 6》的最新免费试玩版今天与第 4 季的季中更新同时开始，虽然这本身可能并不特别引人注目，但时机更重要：它与《使命召唤》重合"
     },
     {
       "title": "20-year-old Gunz the Duel gets Steam re-release, receives harsh criticism over network issues and suspected use of generative AI",
@@ -309,7 +417,9 @@
       "source": "Eurogamer",
       "companies": [
         "valve"
-      ]
+      ],
+      "titleZh": "20 岁的《决斗冈兹》在 Steam 上重新发布，因网络问题和涉嫌使用生成人工智能而受到严厉批评",
+      "summaryZh": "Gunz the Duel 是一款 2006 年首次发布的经典 3 人称动作游戏，现已重返 Steam。但期待已久的定义类型游戏的回归却因技术问题而受到一定影响"
     },
     {
       "title": "独属老玩家的怀旧回忆！腾讯《天堂2：盟约》梦回网吧时代",
@@ -349,7 +459,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "（针对东南亚）PlayStation Store：2026 年 7 月的热门下载量",
+      "summaryZh": "是时候看看哪些 PS5、PS4、PS VR2 和免费游戏登上了上个月亚洲下载排行榜的榜首。  7 月，EA SPORTS FC 26 和《刺客信条：黑旗重新同步》荣登亚洲 PS5 下载榜首"
     },
     {
       "title": "深入武林！《影之刃零》索尼专场SOP：玩法及故事详解",
@@ -369,7 +481,9 @@
       "source": "PlayStation Blog",
       "companies": [
         "sony"
-      ]
+      ],
+      "titleZh": "《幻刃零》游戏状态深入战斗和武林世界",
+      "summaryZh": "《幻影之刃零》定于 10 月 29 日*发售。在我们深入探讨游戏《State of Play》一集中，我们分享了更多有关《幻影之刃零》的世界、其游戏系统以及参与的内容。"
     },
     {
       "title": "对标Hello Kitty！索尼花重金打造新吉祥物IP",
@@ -2148,18 +2262,6 @@
       "summaryZh": "我们非常高兴地宣布，《羊蹄之魂》即将推出更多新内容！ 10 月 2 日，我们将推出新的叙事扩展、新的单人战斗生存模式以及新的生活质量"
     },
     {
-      "title": "(For Southeast Asia) Helldivers 2 joins PlayStation Plus Game Catalog today, Devoid of Liberty update out now",
-      "link": "https://blog.playstation.com/2026/08/12/20260813-helldivers2/",
-      "date": "2026-08-13T04:13:22.000Z",
-      "summary": "We have watched the Void stretch across the galaxy for too long. The threat posed to our Liberty is too great and we can no longer stand by as the Illuminate gain ground. Helldivers, you are needed on",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "（针对东南亚）《Helldivers 2》今天加入 PlayStation Plus 游戏目录，《Devoid of Liberty》现已更新",
-      "summaryZh": "我们已经看到虚空横跨银河系太久了。对我们的自由构成的威胁太大了，我们不能再袖手旁观，因为光明会正在取得进展。地狱潜水员，需要你"
-    },
-    {
       "title": "Xbox公布《战争机器：事变日》惊艳3D模压限定版手柄",
       "link": "https://news.17173.com/content/08132026/041053021.shtml",
       "date": "2026-08-13T04:10:53.000Z",
@@ -2181,16 +2283,6 @@
       ],
       "titleZh": "Mind Diver 将于 8 月 27 日登陆 PS5、Switch 2",
       "summaryZh": "发行商 PLAYISM 和开发商 Indoor Sunglasses 将发布 PlayStation 5 和 Switch 2 版本……"
-    },
-    {
-      "title": "含《天国：拯救2》《吸血鬼幸存者》：索尼公布8月PS+新增游戏阵营",
-      "link": "https://www.gcores.com/articles/218305",
-      "date": "2026-08-13T03:29:00.000Z",
-      "summary": "面向 PlayStation Plus 升级及尊贵档会员提供的游戏库将于本月新增一批大作。除了此前公布的《绝地潜兵2》外，玩家还可于18日起畅玩 《天国：拯救2》 《吸血鬼幸存者》 以及《赛马娘 Pretty Derby 热血喧闹大感谢祭！》 在内的精彩游戏。详情如下： 畅玩游戏库(新增游戏) 《绝地潜兵2》 《天国：拯救2》 《吸血鬼幸存者》 《地狱即我们》 《赛马娘 Pretty Derby ",
-      "source": "机核",
-      "companies": [
-        "sony"
-      ]
     },
     {
       "title": "腾讯第二季度游戏业务重回双位数增长，《洛克王国：世界》新手游双榜第一",
@@ -2357,20 +2449,6 @@
       ],
       "titleZh": "Half Mermaid Productions 的 PRECOGNITION（以前称为 Project C）将于 2028 年春季推出 PS5、Xbox Series、Switch 2 和 PC 平台",
       "summaryZh": "Kinetic Publishing 将出版 Half Mermaid Productions 于 2024 年 1 月宣布的真人科幻恐怖游戏 Project C，……"
-    },
-    {
-      "title": "Cozy wizard life simulation game Aether Wizard Life launches in fall 2028 for PS5, Xbox Series, Switch 2, and PC",
-      "link": "https://www.gematsu.com/2026/08/cozy-wizard-life-simulation-game-aether-wizard-life-launches-in-fall-2028-for-ps5-xbox-series-switch-2-and-pc",
-      "date": "2026-08-12T19:23:24.000Z",
-      "summary": "Kinetic Publishing will publish Vonder Games-developed cozy wizard life simulation game Aether Wizard Life when &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox"
-      ],
-      "titleZh": "舒适的巫师生活模拟游戏《Aether Wizard Life》将于 2028 年秋季推出，适用于 PS5、Xbox Series、Switch 2 和 PC",
-      "summaryZh": "Kinetic Publishing 将在以下时间发布 Vonder Games 开发的舒适巫师生活模拟游戏 Aether Wizard Life："
     },
     {
       "title": "Dive Into What’s Next with Subnautica 2 Experimental",
@@ -2652,42 +2730,6 @@
       ],
       "titleZh": "所谓的 Xbox Elite Series 3 控制器原型不知何故最终落入客户手中",
       "summaryZh": "Xbox Elite Series 3 无线控制器尚未正式发布，但据称的原型机似乎落入了那些以为自己购买 E 的人手中"
-    },
-    {
-      "title": "As Xbox head Asha Sharma reportedly visits Bethesda HQ, workers put up red flags representing laid off staff and a giant inflatable rat outside",
-      "link": "https://www.rockpapershotgun.com/as-xbox-head-asha-sharma-reportedly-visits-bethesda-hq-workers-put-up-red-flags-representing-laid-off-staff-and-a-giant-inflatable-rat-outside",
-      "date": "2026-08-11T20:03:21.000Z",
-      "summary": "It's probably a weird day to be working at Bethesda's Rockville headquarters. In a week's time, on August 18th, the Communications Workers of America have organised numerous rallies across the US and ",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "据报道，当 Xbox 负责人阿莎·夏尔马 (Asha Sharma) 访问贝塞斯达总部时，工人们竖起了代表下岗员工的红旗，并在外面竖起了一只巨大的充气老鼠",
-      "summaryZh": "在贝塞斯达罗克维尔总部工作可能是奇怪的一天。 8 月 18 日，一周的时间里，美国通信工人协会在美国各地组织了多次集会。"
-    },
-    {
-      "title": "The Elder Scrolls 6 Might Have An 8-Letter Subtitle",
-      "link": "https://www.gamespot.com/articles/the-elder-scrolls-6-might-have-an-8-letter-subtitle/",
-      "date": "2026-08-11T19:57:04.000Z",
-      "summary": "The Elder Scrolls 6 is one of Microsoft's biggest upcoming games, but it remains largely a mystery, despite being announced more than eight years ago. Today, August 11, Xbox CEO Asha Sharma provided a",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《上古卷轴 6》可能会有 8 个字母的副标题",
-      "summaryZh": "《上古卷轴 6》是微软即将推出的最大游戏之一，尽管它在八年多前就已发布，但在很大程度上仍然是个谜。今天，即 8 月 11 日，Xbox 首席执行官 Asha Sharma 提供了"
-    },
-    {
-      "title": "Xbox CEO Gets Elder Scrolls 6 Demo, Teases the Subtitle",
-      "link": "https://www.ign.com/articles/xbox-ceo-gets-elder-scrolls-6-demo-teases-the-subtitle",
-      "date": "2026-08-11T19:30:41.000Z",
-      "summary": "Xbox CEO Asha Sharma got to see a \"live playthrough\" of The Elder Scrolls 6, and she posted her reactions on social media afterwards. She also teased – in the vaguest of ways – the subtitle for the up",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Xbox CEO 获得《上古卷轴 6》演示并调侃副标题",
-      "summaryZh": "Xbox 首席执行官阿莎·夏尔马 (Asha Sharma) 观看了《上古卷轴 6》的“现场试玩”，随后她在社交媒体上发布了自己的反应。她还以最含糊的方式取笑了《向上》的副标题。"
     },
     {
       "title": "Battlefield 6 Trailer Shows Off New Version Of Wake Island, And It Looks Incredible",
