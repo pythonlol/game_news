@@ -250,15 +250,48 @@ async function mapLimit(list, limit, fn) {
 }
 
 // ---------- 翻译: 非中文标题/摘要 -> 中文 ----------
-// 谷歌翻译免费网页端点(免密钥)。原主用的 Edge 翻译 auth 接口已被微软下线
-// (2026-08 起 404), 谷歌回退也从 GitHub 数据中心 IP 快速连发触发 403/429 限流,
-// 因此改为: 串行 + 350ms 限速, gtx 与 dict-chrome-ex 两个端点互为备份。
+// 主用阿里云百炼 qwen-mt-turbo(密钥经 DASHSCOPE_API_KEY 环境变量注入,
+// GitHub Actions 中配置为 repo secret, 代码不落盘密钥); 无密钥或失败时
+// 回退谷歌免费端点(gtx 与 dict-chrome-ex 互备, 需 350ms 限流防 429)。
 // 译文以 titleZh/summaryZh 写入数据文件持久缓存, 已有译文的条目不会重复请求
 const TRANSLATE_BATCH = 20; // 每次请求合并的文本条数
-const TRANSLATE_INTERVAL = 350; // 相邻两次翻译请求的最小间隔, 防限流
+const TRANSLATE_INTERVAL = 350; // 谷歌免费端点相邻请求的最小间隔, 防限流
 
 function needsTranslation(s) {
   return !!s && !/[一-鿿]/.test(s);
+}
+
+// 百炼批量翻译: 多条文本编号合并为一个请求, 按编号解析译文
+async function translateViaBailian(texts) {
+  const key = process.env.DASHSCOPE_API_KEY;
+  if (!key) return null;
+  const numbered = texts.map((t, i) => `${i + 1}. ${t}`).join("\n");
+  const res = await fetch("https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: "Bearer " + key },
+    // qwen-mt 不支持 system 角色, 指令并入 user 消息
+    body: JSON.stringify({
+      model: "qwen-mt-turbo",
+      messages: [{ role: "user", content: "Translate each numbered line below into Simplified Chinese. Keep the numbering format (one line per input line, same order). Output ONLY the numbered translations.\n\n" + numbered }],
+    }),
+    signal: AbortSignal.timeout(60000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  const content = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+  if (!content) throw new Error("空响应");
+  // 按 "1. xxx" 编号行解析回原文顺序; 行数或编号不匹配则视为失败走回退
+  const lines = content.split("\n").map((l) => l.trim()).filter(Boolean);
+  const out = new Array(texts.length).fill(null);
+  let matched = 0;
+  for (const l of lines) {
+    const m = l.match(/^(\d+)[.、:：\)]?\s*(.+)$/);
+    if (!m) continue;
+    const idx = Number(m[1]) - 1;
+    if (idx >= 0 && idx < texts.length && !out[idx]) { out[idx] = m[2].trim(); matched++; }
+  }
+  if (matched < texts.length) throw new Error(`编号解析 ${matched}/${texts.length}`);
+  return out;
 }
 
 let lastTranslateAt = 0;
@@ -296,6 +329,13 @@ async function translateViaGoogleDict(texts) {
 }
 
 async function translateChunk(texts) {
+  // 主通道: 百炼(需密钥, 支持批量, 质量好); 失败回退谷歌免费端点
+  try {
+    const out = await translateViaBailian(texts);
+    if (out) return out;
+  } catch (e) {
+    console.log(`[WARN] 百炼翻译失败回退谷歌: ${e.message}`);
+  }
   if (!gtxBlocked) {
     try {
       return await translateViaGoogle(texts);

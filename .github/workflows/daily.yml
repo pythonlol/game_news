@@ -30,6 +30,9 @@ jobs:
 
       - name: 抓取资讯并生成网页
         run: node fetch_news.js
+        env:
+          # 阿里云百炼翻译密钥(repo secret, 代码不落盘); 未配置时自动回退谷歌免费端点
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
 
       - name: 提交更新
         run: |
