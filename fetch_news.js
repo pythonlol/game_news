@@ -250,37 +250,30 @@ async function mapLimit(list, limit, fn) {
 }
 
 // ---------- 翻译: 非中文标题/摘要 -> 中文 ----------
-// 主用 Edge 翻译接口(免费/免密钥/支持批量, 国内可直连), 失败回退谷歌免费接口(CI 上可用)
+// 谷歌翻译免费网页端点(免密钥)。原主用的 Edge 翻译 auth 接口已被微软下线
+// (2026-08 起 404), 谷歌回退也从 GitHub 数据中心 IP 快速连发触发 403/429 限流,
+// 因此改为: 串行 + 350ms 限速, gtx 与 dict-chrome-ex 两个端点互为备份。
 // 译文以 titleZh/summaryZh 写入数据文件持久缓存, 已有译文的条目不会重复请求
 const TRANSLATE_BATCH = 20; // 每次请求合并的文本条数
+const TRANSLATE_INTERVAL = 350; // 相邻两次翻译请求的最小间隔, 防限流
 
 function needsTranslation(s) {
   return !!s && !/[一-鿿]/.test(s);
 }
 
-let edgeToken = null;
-async function translateViaEdge(texts) {
-  if (!edgeToken) {
-    const auth = await fetch("https://edge.microsoft.com/translate/auth", { signal: AbortSignal.timeout(15000) });
-    if (!auth.ok) throw new Error("HTTP " + auth.status);
-    edgeToken = await auth.text();
-  }
-  const res = await fetch("https://api-edge.cognitive.microsofttranslator.com/translate?to=zh-Hans&api-version=3.0", {
-    method: "POST",
-    headers: { "Content-Type": "application/json", Authorization: "Bearer " + edgeToken },
-    body: JSON.stringify(texts.map((t) => ({ Text: t }))),
-    signal: AbortSignal.timeout(20000),
-  });
-  if (!res.ok) throw new Error("HTTP " + res.status);
-  const data = await res.json();
-  return data.map((d, i) => (d.translations && d.translations[0] && d.translations[0].text) || texts[i]);
+let lastTranslateAt = 0;
+async function throttledFetch(url, opts) {
+  const wait = lastTranslateAt + TRANSLATE_INTERVAL - Date.now();
+  if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+  lastTranslateAt = Date.now();
+  return fetch(url, opts);
 }
 
 async function translateViaGoogle(texts) {
   const out = [];
   for (const t of texts) {
     const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=" + encodeURIComponent(t);
-    const res = await fetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(15000) });
+    const res = await throttledFetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(15000) });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     out.push((data[0] || []).map((seg) => seg[0]).join("") || t);
@@ -288,15 +281,32 @@ async function translateViaGoogle(texts) {
   return out;
 }
 
+// 备用端点: 谷歌词典扩展所用, 对数据中心 IP 更宽容, 响应为 {sentences:[{trans}]}
+let gtxBlocked = false;
+async function translateViaGoogleDict(texts) {
+  const out = [];
+  for (const t of texts) {
+    const url = "https://clients5.google.com/translate_a/single?dj=1&dt=t&client=dict-chrome-ex&sl=auto&tl=zh-CN&q=" + encodeURIComponent(t);
+    const res = await throttledFetch(url, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(15000) });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    out.push((data.sentences || []).map((s) => s.trans || "").join("") || t);
+  }
+  return out;
+}
+
 async function translateChunk(texts) {
-  try {
-    return await translateViaEdge(texts);
-  } catch {
+  if (!gtxBlocked) {
     try {
       return await translateViaGoogle(texts);
-    } catch {
-      return null;
+    } catch (e) {
+      if (/HTTP 40[03]|HTTP 429/.test(e.message)) gtxBlocked = true; // 端点被限流, 后续直接走备用端点
     }
+  }
+  try {
+    return await translateViaGoogleDict(texts);
+  } catch {
+    return null;
   }
 }
 
@@ -307,15 +317,15 @@ async function translateItems(items) {
     if (needsTranslation(it.summary) && !it.summaryZh) tasks.push([it, "summaryZh", it.summary]);
   }
   if (!tasks.length) return;
-  const chunks = [];
-  for (let i = 0; i < tasks.length; i += TRANSLATE_BATCH) chunks.push(tasks.slice(i, i + TRANSLATE_BATCH));
   let ok = 0;
-  await mapLimit(chunks, 3, async (chunk) => {
+  // 串行处理: 免费接口按请求次数限流, 并发只会更快触发 403/429
+  for (let i = 0; i < tasks.length; i += TRANSLATE_BATCH) {
+    const chunk = tasks.slice(i, i + TRANSLATE_BATCH);
     const out = await translateChunk(chunk.map((t) => t[2]));
-    if (out) chunk.forEach((t, i) => {
-      if (out[i] && out[i] !== t[2]) { t[0][t[1]] = out[i]; ok++; }
+    if (out) chunk.forEach((t, j) => {
+      if (out[j] && out[j] !== t[2]) { t[0][t[1]] = out[j]; ok++; }
     });
-  });
+  }
   console.log(`翻译完成 ${ok}/${tasks.length} 段文本(失败条目保留原文)`);
 }
 
