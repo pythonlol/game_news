@@ -316,6 +316,8 @@ async function translateViaGoogle(texts) {
 
 // 备用端点: 谷歌词典扩展所用, 对数据中心 IP 更宽容, 响应为 {sentences:[{trans}]}
 let gtxBlocked = false;
+// 各翻译通道处理的文本量统计, 汇入最终日志便于排查通道故障
+const translateStats = { bailian: 0, google: 0, googleDict: 0 };
 async function translateViaGoogleDict(texts) {
   const out = [];
   for (const t of texts) {
@@ -332,19 +334,23 @@ async function translateChunk(texts) {
   // 主通道: 百炼(需密钥, 支持批量, 质量好); 失败回退谷歌免费端点
   try {
     const out = await translateViaBailian(texts);
-    if (out) return out;
+    if (out) { translateStats.bailian += texts.length; return out; }
   } catch (e) {
     console.log(`[WARN] 百炼翻译失败回退谷歌: ${e.message}`);
   }
   if (!gtxBlocked) {
     try {
-      return await translateViaGoogle(texts);
+      const out = await translateViaGoogle(texts);
+      translateStats.google += texts.length;
+      return out;
     } catch (e) {
       if (/HTTP 40[03]|HTTP 429/.test(e.message)) gtxBlocked = true; // 端点被限流, 后续直接走备用端点
     }
   }
   try {
-    return await translateViaGoogleDict(texts);
+    const out = await translateViaGoogleDict(texts);
+    translateStats.googleDict += texts.length;
+    return out;
   } catch {
     return null;
   }
@@ -366,7 +372,7 @@ async function translateItems(items) {
       if (out[j] && out[j] !== t[2]) { t[0][t[1]] = out[j]; ok++; }
     });
   }
-  console.log(`翻译完成 ${ok}/${tasks.length} 段文本(失败条目保留原文)`);
+  console.log(`翻译完成 ${ok}/${tasks.length} 段文本(百炼 ${translateStats.bailian}, 谷歌 ${translateStats.google}, 谷歌词典 ${translateStats.googleDict}; 失败条目保留原文)`);
 }
 
 function matchCompanies(text) {

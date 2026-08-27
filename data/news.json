@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-27T07:19:58.420Z",
+  "updatedAt": "2026-08-27T07:24:48.789Z",
   "items": [
+    {
+      "title": "温馨探索冒险游戏《卢湖采风》现已发售",
+      "link": "https://www.gcores.com/articles/218887",
+      "date": "2026-08-27T07:23:59.000Z",
+      "summary": "发行商 Megabit 与开发商 Tiny Roar 共同宣布 《卢湖采风》（Lou's Lagoon） 现已发售，是时候一起展翅腾飞、云端滑翔了！游戏同步登陆 PC、PlayStation 5、Nintendo Switch 1 和 2，以及 Xbox Series X|S 平台。游戏在 Steam 国区的定价为人民币 ￥88 。为庆祝游戏今日发售，所有平台现已限时推出 9 折/10%off 优",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox",
+        "valve"
+      ]
+    },
+    {
+      "title": "赛博朋克像素风肉鸽《霓虹深渊2》科隆展宣布秋季全平台上线",
+      "link": "https://www.gcores.com/articles/218886",
+      "date": "2026-08-27T07:20:31.000Z",
+      "summary": "在今年的 FGS Live From gamescom上，由 Veewo Games 开发、Kepler发行的赛博朋克像素风题材动作Roguelike续作《霓虹深渊2》正式宣布，游戏 1.0 正式版将于今年秋季登陆全平台，包含 Steam、Xbox、PS5、NS以及移动端（TapTap 渠道），XBOX平台首发加入XGP，所有平台内容同步更新。移动端则将采用免费下载、付费解锁的买断制模式，后续更新",
+      "source": "机核",
+      "companies": [
+        "sony",
+        "xbox",
+        "valve"
+      ]
+    },
     {
       "title": "【抽奖】国产本格推理游戏《山河旅探》现已登陆主机平台",
       "link": "https://www.gcores.com/articles/218885",
@@ -134,9 +159,7 @@
       "companies": [
         "nintendo",
         "sony"
-      ],
-      "titleZh": "法师们。宣布推出 PS5、Switch 版神秘悬疑视觉小说《Seeker Eye》",
-      "summaryZh": "法师们。已经宣布了《探索者之眼》，这是一部由工作人员创作的新的“非科学”神秘悬疑视觉小说……"
+      ]
     },
     {
       "title": "《碧蓝幻想Versus -RISING》NS2版将于9月17日发售",
@@ -159,9 +182,7 @@
       "companies": [
         "nintendo",
         "sony"
-      ],
-      "titleZh": "适用于 PS5、PS4 和 Switch 的 Aeruta 于 12 月 10 日推出",
-      "summaryZh": "地牢探索和面包店管理角色扮演游戏 Aeruta 将为 PlayStation 5、PlayStation 4 和……推出"
+      ]
     },
     {
       "title": "Xbox官宣光盘转数字版游戏功能，8月31日开启测试",
@@ -191,9 +212,7 @@
       "source": "Gematsu",
       "companies": [
         "valve"
-      ],
-      "titleZh": "RPG Maker U2U 主视觉曝光，Steam 页面打开",
-      "summaryZh": "Gotcha Gotcha Games 发布了主视觉图并开放了 RPG 的 Steam 页面……"
+      ]
     },
     {
       "title": "Xbox CEO Asha Sharma Opens Up on Future of Physical Games for Next Generation Console Project Helix",
@@ -2509,18 +2528,6 @@
       "summaryZh": "《South of Midnight》和《We Happy Few》的加拿大游戏开发商 Compulsion Games 已正式与微软分道扬镳。在微软确认 Compulsion 是五个 Xbox 工作室之一之后"
     },
     {
-      "title": "Nintendo’s War On Switch Emulators Continues With 400 More GitHub Takedowns",
-      "link": "https://www.gamespot.com/articles/nintendos-war-on-switch-emulators-continues-with-400-more-github-takedowns/",
-      "date": "2026-08-21T16:17:40.000Z",
-      "summary": "Nintendo is doing what Nintendo does: issuing DMCA takedown notices to anyone who illegally offers access to any of the company's games. That's exactly what happened earlier this week, as Nintendo wip",
-      "source": "GameSpot",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂对 Switch 模拟器的战争仍在继续，GitHub 下架事件已达 400 多个",
-      "summaryZh": "任天堂正在做任天堂所做的事情：向任何非法提供该公司任何游戏访问权限的人发出 DMCA 下架通知。这正是本周早些时候发生的事情，任天堂取消了"
-    },
-    {
       "title": "Shroom and Gloom launches in Early Access on September 10",
       "link": "https://www.gematsu.com/2026/08/shroom-and-gloom-launches-in-early-access-on-september-10",
       "date": "2026-08-21T16:05:41.000Z",
@@ -2555,18 +2562,6 @@
       ],
       "titleZh": "戴夫·巴蒂斯塔被确认为亚马逊战神系列的新奎托斯",
       "summaryZh": "戴夫·巴蒂斯塔被确认为亚马逊战神系列的新奎托斯。"
-    },
-    {
-      "title": "POSTAL 2 Redux launches in spring 2027 for PS5, PS VR2, PS4, PC, and Quest; later for additional platforms",
-      "link": "https://www.gematsu.com/2026/08/postal-2-redux-launches-in-spring-2027-for-ps5-ps-vr2-ps4-pc-and-quest-later-for-additional-platforms",
-      "date": "2026-08-21T15:00:21.000Z",
-      "summary": "POSTAL 2 Redux will launch for PlayStation 5 with PlayStation VR2 support, PlayStation 4, PC &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《POSTAL 2 Redux》将于 2027 年春季推出，适用于 PS5、PS VR2、PS4、PC 和 Quest；稍后用于其他平台",
-      "summaryZh": "POSTAL 2 Redux 将为 PlayStation 5 推出，支持 PlayStation VR2、PlayStation 4、PC……"
     },
     {
       "title": "Tails of Iron 2’s Free Blood and Brine Expansion Sets Sail Today",
