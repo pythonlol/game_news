@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-08-27T07:42:26.081Z",
+  "updatedAt": "2026-08-27T10:52:48.895Z",
   "items": [
+    {
+      "title": "《Persona Shell：灵壳 4 Revival》与和田和久：为当代重塑经典 | Xbox 官方播客",
+      "link": "https://news.17173.com/content/08272026/164223477.shtml",
+      "date": "2026-08-27T16:42:23.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《动物迷城 ～Back to the Dawn～》PlayStation®5版体验版即日起开放下载",
+      "link": "https://www.3dmgame.com/news/202608/3951641.html",
+      "date": "2026-08-27T10:52:46.918Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Xbox announces disc-to-digital feature that lets you digitise physical Xbox One and Series X games",
+      "link": "https://www.eurogamer.net/xbox-disc-to-digital-one-series-x-details",
+      "date": "2026-08-27T10:03:57.000Z",
+      "summary": "UPDATE 11.25AM BST : Xbox CEO Asha Sharma shed a little more light on the feature in a BBC interview. The gaming chief said 1,000 titles will be initially supported across Xbox One and Series X. The i",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Xbox 宣布推出光盘转数字功能，可将实体 Xbox One 和 Series X 游戏数字化。",
+      "summaryZh": "更新时间：英国夏令时上午 11:25：Xbox 首席执行官阿莎·夏尔马在 BBC 采访中进一步介绍了这一功能。这位游戏负责人表示，最初将支持 Xbox One 和 Series X 平台上的 1000 款游戏。"
+    },
+    {
+      "title": "江湖由你改变！《九阴真经：武侠》亮相科隆游戏展！实机PV正式发布",
+      "link": "https://www.yystv.cn/p/14330",
+      "date": "2026-08-27T09:55:00.000Z",
+      "summary": "8月26日，由蜗牛数字基于虚幻5引擎开发的开放世界武侠游戏《九阴真经：武侠》正式登陆德国科隆国际游戏展（gamescom），首部实机PV正式发布，Steam商店页同期上线。 即日起，玩家可前往Steam平台搜索“九阴真经：武侠”查看游戏详情，并将游戏加入愿望单。 点击前往Steam商店页 ——真环境、真物件、真功夫 实机PV展现全新江湖 《九阴真经：武侠》本次发布的实机PV包含开放世界实机场景展示",
+      "source": "游研社",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "土木人狂喜：《建筑模拟器：进化》公布全新拆除玩法",
+      "link": "https://www.gcores.com/articles/218900",
+      "date": "2026-08-27T09:26:03.000Z",
+      "summary": "astragon Entertainment与weltenbauer.今日正式公布《建筑模拟器：进化》（Construction Simulator: Evolution）的全新 拆除玩法 。与此同时，官方也对游戏的发行计划进行了调整： 本作将率先通过Steam在PC平台开启抢先体验，PlayStation 5及Xbox Series X|S版本则调整至稍晚时间推出。 <内嵌内容，请前往机核查看>",
+      "source": "机核",
+      "companies": [
+        "sony",
+        "xbox",
+        "valve"
+      ]
+    },
+    {
+      "title": "传奇再临，《潜龙谍影：大师合集 Vol.2》今日全球正式推出",
+      "link": "https://www.gcores.com/articles/218896",
+      "date": "2026-08-27T08:44:21.000Z",
+      "summary": "科乐美今日正式在 Nintendo Switch 2、Nintendo Switch、PlayStation 5、Xbox Series X|S 及 Steam 平台推出《潜龙谍影：大师合集 Vol.2》。玩家可体验备受喜爱的《潜龙谍影4：爱国者之枪》与《潜龙谍影：和平行者》强化版本，畅享战术谍报动作／作战的乐趣；此外还收录系列外传作品《潜龙谍影：幽灵通天塔》作为追加内容。 <内嵌内容，请前往机核",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox",
+        "valve"
+      ]
+    },
+    {
+      "title": "Persona 4 Revival with Kazuhisa Wada: Rebuilding a Classic for Today | Official XBOX Podcast",
+      "link": "https://news.xbox.com/en-us/2026/08/27/persona-4-revival-with-kazuhisa-wada-rebuilding-a-classic-for-today-official-xbox-podcast/",
+      "date": "2026-08-27T08:05:00.000Z",
+      "summary": "On this episode of the Official XBOX Podcast, we’re so excited to have Kazuhisa Wada in studio to talk about Persona 4 Revival! Wada-san discusses the history of the legendary franchise while diving i",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "和和田和久一起重温《女神异闻录4》：为当代重塑经典 | 官方 Xbox 播客",
+      "summaryZh": "在本期官方 Xbox 播客中，我们非常高兴邀请到和田和久来到演播室，与大家聊聊《女神异闻录4：复活》！和田先生回顾了这款传奇系列的历史，并深入探讨了相关话题。"
+    },
     {
       "title": "《黎明杀机》Steam版9月2日试用Denuvo反作弊",
       "link": "https://www.3dmgame.com/news/202608/3951615.html",
@@ -106,6 +185,16 @@
       "source": "3DM游戏网",
       "companies": [
         "netease"
+      ]
+    },
+    {
+      "title": "2026《影之刃零》微星游戏本选购攻略， RTX50显卡+分辨率+帧数全覆盖",
+      "link": "https://www.gcores.com/articles/218891",
+      "date": "2026-08-27T06:11:00.000Z",
+      "summary": "期待已久的武侠朋克大作《影之刃零》正式定档，将于2026年10月29日发售，登陆PC、PS5双平台。游戏搭载虚幻引擎5，支持光线追踪、路径追踪、DLSS 4.5多帧生成，画质拉满的同时对硬件门槛也相对更高。 图素来源：NVIDIA网站 很多玩家纠结： 什么配置能流畅玩？RTX50系列笔记本怎么选？1080P/2.5K/4K画质怎么调？ 这篇推文结合官方PC配置标准 + 2026微星全系游戏本参数，",
+      "source": "机核",
+      "companies": [
+        "sony"
       ]
     },
     {
@@ -2505,55 +2594,6 @@
       "summaryZh": "继《使命召唤：现代战争 4》的精彩展示之后，《使命召唤：Next》已经完结。从实时多人游戏玩法到有关模式、地图、移动、武器、战区等的新情报，《使命召唤：现代战争 4》"
     },
     {
-      "title": "Your Mortal Shell 2 Weapons Don’t Have To Get You Killed",
-      "link": "https://www.gamespot.com/articles/your-mortal-shell-2-weapons-dont-have-to-get-you-killed/",
-      "date": "2026-08-21T17:29:43.000Z",
-      "summary": "Cold Symmetry's Mortal Shell 2 is finally out on PC, PlayStation 5, and Xbox Series X|S. Maybe you've been bodying bosses while collecting shells and leveling up your character. Or maybe you've been g",
-      "source": "GameSpot",
-      "companies": [
-        "sony",
-        "xbox"
-      ],
-      "titleZh": "《致命躯壳 2》中的武器不一定会让你丧命",
-      "summaryZh": "Cold Symmetry 的《致命躯壳 2》终于在 PC、PlayStation 5 和 Xbox Series X|S 上推出。也许你在收集贝壳和升级你的角色的同时，还一直在对付老板。或者也许你已经"
-    },
-    {
-      "title": "Share of the Week: Katana",
-      "link": "https://blog.playstation.com/2026/08/21/share-of-the-week-katana/",
-      "date": "2026-08-21T17:00:01.000Z",
-      "summary": "Last week, we asked you to unsheathe katanas from your favorite games and share using #PSshare #PSBlog. Here are this week’s sharp highlights:  call_me_xavii shares Atsu drawing her katana as a duel b",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "本周分享：武士刀",
-      "summaryZh": "上周，我们要求您从您最喜欢的游戏中取出武士刀并使用#PSshare #PSBlog 进行分享。以下是本周的精彩亮点：call_me_xavii 分享 Atsu 绘制武士刀进行决斗"
-    },
-    {
-      "title": "Don't tell Nintendo, but I turned GTA 5 into Pokémon Go using a mod",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
-      "date": "2026-08-21T17:00:00.000Z",
-      "summary": "Also, probably don't tell Rockstar.",
-      "source": "PC Gamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "别告诉任天堂，我用 mod 将 GTA 5 变成了 Pokémon Go",
-      "summaryZh": "另外，可能不要告诉 Rockstar。"
-    },
-    {
-      "title": "Compulsion Games Is Now Officially An Ex-Xbox Studio",
-      "link": "https://www.gamespot.com/articles/compulsion-games-is-now-officially-an-ex-xbox-studio/",
-      "date": "2026-08-21T16:46:00.000Z",
-      "summary": "Compulsion Games, the Canadian game developer behind South of Midnight and We Happy Few, has officially parted ways with Microsoft. After Microsoft confirmed that Compulsion was one of five Xbox studi",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Compulsion Games 现已正式成为前 Xbox 工作室",
-      "summaryZh": "《South of Midnight》和《We Happy Few》的加拿大游戏开发商 Compulsion Games 已正式与微软分道扬镳。在微软确认 Compulsion 是五个 Xbox 工作室之一之后"
-    },
-    {
       "title": "Shroom and Gloom launches in Early Access on September 10",
       "link": "https://www.gematsu.com/2026/08/shroom-and-gloom-launches-in-early-access-on-september-10",
       "date": "2026-08-21T16:05:41.000Z",
@@ -2564,42 +2604,6 @@
       ],
       "titleZh": "Shroom 和 Gloom 将于 9 月 10 日推出抢先体验",
       "summaryZh": "第一人称双层牌组建造游戏 Shroom 和 Gloom 将通过 Steam 推出 PC 抢先体验版……"
-    },
-    {
-      "title": "Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today",
-      "link": "https://news.xbox.com/en-us/2026/08/21/pre-order-call-of-duty-modern-warfare-4-and-play-the-beta-today/",
-      "date": "2026-08-21T16:00:00.000Z",
-      "summary": "The post Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "预购《使命召唤：现代战争 4》并立即体验 Beta 版",
-      "summaryZh": "《使命召唤：现代战争 4》预购后并立即玩 Beta 版首先在 XBOX Wire 上出现。"
-    },
-    {
-      "title": "Dave Bautista is confirmed as the new Kratos for Amazon's God of War series",
-      "link": "https://www.pcgamer.com/movies-tv/dave-bautista-is-confirmed-as-the-new-kratos-for-amazons-god-of-war-series/",
-      "date": "2026-08-21T15:50:49.000Z",
-      "summary": "Dave Bautista is confirmed as the new Kratos for Amazon's God of War series.",
-      "source": "PC Gamer",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "戴夫·巴蒂斯塔被确认为亚马逊战神系列的新奎托斯",
-      "summaryZh": "戴夫·巴蒂斯塔被确认为亚马逊战神系列的新奎托斯。"
-    },
-    {
-      "title": "Tails of Iron 2’s Free Blood and Brine Expansion Sets Sail Today",
-      "link": "https://news.xbox.com/en-us/2026/08/21/tails-of-iron-2-blood-and-brine-out-now/",
-      "date": "2026-08-21T15:00:00.000Z",
-      "summary": "Peace has finally returned to the Ratdom, but it appears nobody remembered to tell the creatures lurking beneath its waters. Today, we’re launching Blood and Brine, the expansion for Tails of Iron 2: ",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《铁尾 2》的免费血液和盐水扩展包今天启航",
-      "summaryZh": "和平终于回到了拉多姆，但似乎没有人记得告诉潜伏在水下的生物。今天，我们推出《铁尾 2》的扩展包《血与盐水》："
     },
     {
       "title": "Someone has managed to run Zork on the Steam Controller's internal hardware, but it's risky business",
@@ -2849,16 +2853,6 @@
       "date": "2026-08-20T02:15:08.719Z",
       "summary": "",
       "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "Steam周销量排行榜:《影之刃零》登顶|2026年8月第2周",
-      "link": "https://www.gcores.com/articles/218562",
-      "date": "2026-08-20T01:15:00.000Z",
-      "summary": "V 社于今日公布了2026年8月最新一期的 Steam 全球销量排行榜。一如既往，榜单排除免费游戏常青树，从而带来更好的游戏及硬件选购参考。本周的排行榜中，《影之刃零》强势登顶，《绝地潜兵2》则依旧紧追其后。详情如下： 1.《影之刃零》 <内嵌内容，请前往机核查看> 2.《绝地潜兵2》 <内嵌内容，请前往机核查看> 3.《人间地狱：越南》 <内嵌内容，请前往机核查看> 4.《Big Walk》 <",
-      "source": "机核",
       "companies": [
         "valve"
       ]
