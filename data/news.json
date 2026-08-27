@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-27T07:19:04.701Z",
+  "updatedAt": "2026-08-27T07:19:58.420Z",
   "items": [
+    {
+      "title": "【抽奖】国产本格推理游戏《山河旅探》现已登陆主机平台",
+      "link": "https://www.gcores.com/articles/218885",
+      "date": "2026-08-27T07:19:03.000Z",
+      "summary": "由奥秘之家开发、NiuGamer发行的《山河旅探》，现已登陆任天堂Switch、PlayStation、XBOX以及Windows平台，同步支持PlayStation远程游玩和XBOX Play Anywhere功能，并将首次更新日本语言支持。 <内嵌内容，请前往机核查看> Switch介绍页： https://ec.nintendo.com/HK/zh/titles/70010000117445",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ]
+    },
     {
       "title": "曝索尼全新AI专利！复制喜欢的玩家来陪玩+代玩",
       "link": "https://www.3dmgame.com/news/202608/3951091.html",
@@ -2651,19 +2663,6 @@
       "summary": "由MeepMeep Games开发的高速FPS Roguelite游戏《星河盗贼》（Galactic Vault）宣布，Steam国区价格已经从76元永久降价至48元人民币，并开启25% off限时折扣，8月31日截止，36元便可入手！ Steam商店页面显示，此前购买过《星河盗贼》的玩家，可加入QQ群1064013956，由专人协助处理退差价事宜，登记时间从即日起持续2个月，至2026年10月1",
       "source": "机核",
       "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "【抽奖】怪诞肉鸽幸存者like游戏《废土幸存者：爆心英雄》现已登陆PC及主机平台",
-      "link": "https://www.gcores.com/articles/218628",
-      "date": "2026-08-21T06:17:22.000Z",
-      "summary": "由 Rowan Edmondson 开发，Acclaim, Inc. 与 Aurakenn Games 联合发行的怪诞肉鸽割草生存游戏《废土幸存者：爆心英雄》（Ground Zero Hero）现已正式发售，登陆 Steam、Nintendo Switch 2、Xbox Series X|S 及 PlayStation 5 平台。 <内嵌内容，请前往机核查看> 游戏发售期间同步开启首发优惠：主机版",
-      "source": "机核",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox",
         "valve"
       ]
     },
