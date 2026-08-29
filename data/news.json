@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-08-28T17:09:56.592Z",
+  "updatedAt": "2026-08-29T07:38:12.072Z",
   "items": [
+    {
+      "title": "宝可梦公司将智能设备联动视为未来发展目标",
+      "link": "https://news.17173.com/content/08292026/100751604.shtml",
+      "date": "2026-08-29T10:07:51.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Xbox 负责人表示 Project Helix 包含“系列设备”",
+      "link": "https://news.17173.com/content/08292026/090859674.shtml",
+      "date": "2026-08-29T09:08:59.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "糟糕的内存占用结束了 微软Win11原生应用将大改",
+      "link": "https://www.3dmgame.com/news/202608/3951789.html",
+      "date": "2026-08-29T07:38:09.300Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《阿利吉耶里之环》9月11日登陆PC/PS5 神秘解谜冒险",
+      "link": "https://www.3dmgame.com/news/202608/3951787.html",
+      "date": "2026-08-29T07:38:09.300Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "城市做主角：《无限大》在科隆现场放了哪些狠料？",
+      "link": "https://www.gcores.com/articles/218999",
+      "date": "2026-08-29T06:00:00.000Z",
+      "summary": "就在前两日的德国科隆游戏展开幕夜（Opening Night Live）直播中，来自网易的《无限大》公布了一个重磅消息——这款被无数玩家好奇的作品，终于正式官宣：明年 1 月 15 日上线。对于很多玩家来说，这次网易《无限大》在科隆现场带来的内容，无异于是一颗定心丸。 三年前画的饼，终于要吃到了 从 2023 年 8 月 24 日以「代号：无限大」的身份首次公开之日起，这个项目就总是因为自己那看上",
+      "source": "机核",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "Xbox周年纪念版主机在eBay上以数千美元高价售出，黄牛借X25之机大肆敛财。",
+      "link": "https://news.17173.com/content/08292026/021102344.shtml",
+      "date": "2026-08-29T02:11:02.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "The Pokémon Company Looks to Smart Device Integrations as Future Targets",
+      "link": "https://www.ign.com/articles/the-pokemon-company-looks-to-smart-device-integrations-as-future-targets",
+      "date": "2026-08-29T00:55:25.000Z",
+      "summary": "President and CEO of The Pokémon Company, Tsunekazu Ishihara, shared a small bit of insight about the company’s possible future plans with wearable technology during a panel discussion at the inaugura",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "宝可梦公司着眼于智能设备集成作为未来目标",
+      "summaryZh": "宝可梦公司总裁兼首席执行官石原恒和在一场启动仪式的小组讨论中，分享了公司关于可穿戴技术未来可能规划的一点见解。"
+    },
     {
       "title": "韩国PC动作肉鸽游戏《魔女庭院》正式版上线Steam",
       "link": "https://news.17173.com/content/08292026/000226284.shtml",
@@ -22,6 +94,18 @@
       ]
     },
     {
+      "title": "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
+      "link": "https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices",
+      "date": "2026-08-28T23:40:19.000Z",
+      "summary": "Xbox CEO Asha Sharma has suggested Project Helix will encompass more than one device, saying that Microsoft has been working on \"a great family of devices.\"",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Xbox首席执行官表示，“Project Helix”包含“一系列设备”。",
+      "summaryZh": "Xbox首席执行官阿莎·夏尔马暗示，“Project Helix”将涵盖不止一款设备，她指出微软一直在打造“一个出色的设备家族”。"
+    },
+    {
       "title": "下周Xbox新游戏阵容（8月31日至9月4日）",
       "link": "https://news.17173.com/content/08282026/224619006.shtml",
       "date": "2026-08-28T22:46:19.000Z",
@@ -30,6 +114,81 @@
       "companies": [
         "xbox"
       ]
+    },
+    {
+      "title": "Save $170 Off the Lenovo Legion Go S AMD Ryzen Z2 Go Handheld Gaming PC",
+      "link": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-august-2026",
+      "date": "2026-08-28T22:10:00.000Z",
+      "summary": "As this point we'd recommend getting a Legion Go S over a Steam Deck.",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "购买联想Legion Go S AMD Ryzen Z2 Go掌上游戏电脑，立减170美元",
+      "summaryZh": "在这一点上，我们建议购买Legion Go S，而不是Steam Deck。"
+    },
+    {
+      "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
+      "link": "https://www.pcgamer.com/games/action/nodusfall-isnt-elden-ring-monster-hunter-or-a-typical-hoyoverse-game-its-something-very-different/",
+      "date": "2026-08-28T19:46:24.000Z",
+      "summary": "Hands-on with the free-to-play boss-killer.",
+      "source": "PC Gamer",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "《Nodusfall》并非《艾尔登法环》、《怪物猎人》或典型的HoYoverse游戏——它是一种截然不同的体验。",
+      "summaryZh": "亲身体验这款免费游玩的Boss杀手游戏。"
+    },
+    {
+      "title": "Xbox’s Disc-To-Digital Program Means Microsoft Is Probably Done With Discs Too",
+      "link": "https://www.gamespot.com/articles/xboxs-disc-to-digital-program-means-microsoft-is-probably-done-with-discs-too/",
+      "date": "2026-08-28T19:40:26.000Z",
+      "summary": "Despite mixed messages when it comes to when we can expect the next PlayStation and Xbox, one aspect about the next generation seems to be clearer than ever: Discs are going away. Earlier this year, S",
+      "source": "GameSpot",
+      "companies": [
+        "sony",
+        "xbox"
+      ],
+      "titleZh": "Xbox的光盘转数字计划意味着微软可能也彻底告别光盘了。",
+      "summaryZh": "尽管关于下一代PlayStation和Xbox何时发布的消息不一，但有一点似乎比以往更加明确：光盘即将退出历史舞台。今年早些时候，S"
+    },
+    {
+      "title": "Save 56% Off a Like New Logitech G29 Racing Wheel and Pedal Set for Gran Turismo and Forza Horizon 6",
+      "link": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-august-2026",
+      "date": "2026-08-28T19:35:00.000Z",
+      "summary": "Your racing simulator just got more simulating.",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "现在购买近乎全新的罗技G29赛车方向盘与踏板套装，享受56%折扣，适用于《GT赛车》和《极限竞速：地平线6》。",
+      "summaryZh": "你的赛车模拟器现在变得更加真实了。"
+    },
+    {
+      "title": "12 Game, Movie, and TV Show Trailers You Might Have Missed This Week",
+      "link": "https://www.ign.com/articles/this-week-in-game-movie-tv-show-trailers-aug-22-aug-28",
+      "date": "2026-08-28T19:14:03.000Z",
+      "summary": "This week's trailer bounty included the extended look at Grand Theft Auto 6, tons of footage from gamescom, a first look at the new Pokémon stop-motion series coming to Disney+, a new Ali G movie, and",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "本周你可能错过的12个游戏、电影和电视剧预告片",
+      "summaryZh": "本周的预告片盛宴包括《侠盗猎车手6》的扩展版预告、科隆游戏展的海量片段、迪士尼+即将推出的全新宝可梦定格动画系列首曝、新《阿里G》电影等。"
+    },
+    {
+      "title": "Save 42% Off the PS Portal, the Only Way You'll Be Able to Play Grand Theft Auto 6 on a Handheld",
+      "link": "https://www.ign.com/articles/ps-portal-deal-august-2026",
+      "date": "2026-08-28T19:05:00.000Z",
+      "summary": "Forget the price hike.GTA 6 will only be available on PlayStation 5 and Xbox, to start out.",
+      "source": "IGN",
+      "companies": [
+        "sony",
+        "xbox",
+        "valve"
+      ],
+      "titleZh": "现在购买PS Portal，享受42%折扣，这是你唯一能在掌机上玩《侠盗猎车手6》的方式。",
+      "summaryZh": "别再纠结涨价了。《GTA 6》最初仅登陆PlayStation 5和Xbox平台。"
     },
     {
       "title": "《上古卷轴》《暗黑破坏神》影视化在望？微软正洽谈十多款游戏改编",
@@ -424,6 +583,18 @@
       "companies": [
         "mihoyo"
       ]
+    },
+    {
+      "title": "Pre-Order Grand Theft Auto VI Now. Coming to XBOX Series X|S November 19, 2026",
+      "link": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9NNZSNHLR63L#new_tab",
+      "date": "2026-08-28T04:06:35.000Z",
+      "summary": "The post Pre-Order Grand Theft Auto VI Now. Coming to XBOX Series X|S November 19, 2026 appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "立即预订《侠盗猎车手VI》。将于2026年11月19日登陆XBOX Series X|S。",
+      "summaryZh": "文章《立即预订《侠盗猎车手VI》。将于2026年11月19日登陆XBOX Series X|S》首次发表于XBOX Wire。"
     },
     {
       "title": "【抽奖】最多6人联机开超市！《百宜佳超市模拟器》限时八折优惠开启",
@@ -2048,54 +2219,6 @@
       "summaryZh": "对于一款在情感上如此引人注目的电子游戏来说，它所提供的内容值得一提，以至于我坐在大厅里花了几秒钟，敬畏地看着角色。我就是这样开始我的"
     },
     {
-      "title": "Gears of War: E-Day Campaign Hands-On Preview: To Quote Marcus Fenix, “Nice”",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-campaign-hands-on-preview-to-quote-marcus-fenix-nice",
-      "date": "2026-08-25T20:00:00.000Z",
-      "summary": "I’m now not only more fired up to finish Gears of War: E-Day’s prequel story than ever, but I’m also more confident than ever that, at least based on the small slice I’ve played so far, E-Day has stru",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 活动实践预览：引用马库斯·菲尼克斯的话“很好”",
-      "summaryZh": "我现在不仅比以往任何时候都更有动力完成《战争机器：E-Day》的前传故事，而且我也比以往任何时候都更有信心，至少根据我迄今为止玩过的一小部分，E-Day 已经"
-    },
-    {
-      "title": "Gears Of War: E-Day Seems To Miss The Point Of Prequels",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-seems-to-miss-the-point-of-prequels/",
-      "date": "2026-08-25T20:00:00.000Z",
-      "summary": "Having now played about two hours of Gears of War: E-Day 's story campaign, I'm not impressed. The upcoming third-person cover shooter handles fine and the demo I played through checked all the hits y",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 似乎错过了前传的重点",
-      "summaryZh": "现在玩了大约两个小时的《战争机器：E-Day》的故事战役后，我并没有留下深刻的印象。即将推出的第三人称掩护射击游戏处理得很好，我玩过的演示版检查了所有命中率"
-    },
-    {
-      "title": "Gears Of War: E-Day Seems To Miss The Point Of Prequels – Preview",
-      "link": "https://www.gamespot.com/videos/gears-of-war-e-day-seems-to-miss-the-point-of-prequels-preview/",
-      "date": "2026-08-25T20:00:00.000Z",
-      "summary": "Having now played about two hours of Gears of War: E-Day, I'm not impressed. The upcoming third-person cover shooter handles fine and the demo I played through checked all the hits you'd expect from t",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 似乎错过了前传的重点 – 预览",
-      "summaryZh": "现在玩了大约两个小时的《战争机器：E-Day》后，我并没有留下深刻的印象。即将推出的第三人称掩护射击游戏处理得很好，我玩过的演示版检查了您期望的所有命中率"
-    },
-    {
-      "title": "Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse",
-      "link": "https://www.eurogamer.net/gears-of-war-eday-preview",
-      "date": "2026-08-25T20:00:00.000Z",
-      "summary": "Marcus Fenix says something gruffly, his squad laughs, then a horde of Locust enemies rushes the team. The hulking figure of Marcus roadie-runs towards the nearest hip-high bit of cover, slams his mus",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 不知何故感觉就像是原始 Xbox 360 三部曲的直接延续，无论好坏",
-      "summaryZh": "马库斯·菲尼克斯粗声粗气地说了些什么，他的小队大笑起来，然后一群蝗虫敌人冲向了队伍。马库斯·路迪的魁梧身材——跑向最近的齐臀高的掩体，猛地猛地一击"
-    },
-    {
       "title": "The Witcher 3: Wild Hunt – Remastered announced for PS5, Xbox Series, Switch 2, and PC; expansion ‘Songs of the Past’ teaser trailer",
       "link": "https://www.gematsu.com/2026/08/the-witcher-3-wild-hunt-remastered-announced-for-ps5-xbox-series-switch-2-and-pc-expansion-songs-of-the-past-teaser-trailer",
       "date": "2026-08-25T19:58:54.000Z",
@@ -2203,18 +2326,6 @@
       "summaryZh": "开放世界 MMORPG AION 2 将于 10 月 5 日通过 Steam 和 PURPLE 推出 PC 版……"
     },
     {
-      "title": "Silver Palace confirmed for PS5, ‘House of Greed’ multiplayer mode teased",
-      "link": "https://www.gematsu.com/2026/08/silver-palace-confirmed-for-ps5-house-of-greed-multiplayer-mode-teased",
-      "date": "2026-08-25T18:56:25.000Z",
-      "summary": "Publisher Elementa and developer Silver Studio have released a new trailer for fantasy adventure open-world &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "Silver Palace 确认登陆 PS5，《贪婪之屋》多人模式预告",
-      "summaryZh": "发行商 Elementa 和开发商 Silver Studio 发布了奇幻冒险开放世界的新预告片……"
-    },
-    {
       "title": "The next game from Hoyoverse sure looks like someone put Elden Ring's clothes on Monster Hunter",
       "link": "https://www.pcgamer.com/games/action/the-next-game-from-hoyoverse-sure-looks-like-someone-put-elden-rings-clothes-on-monster-hunter/",
       "date": "2026-08-25T18:46:38.000Z",
@@ -2227,31 +2338,6 @@
       "summaryZh": "我们当中谁不喜欢砍断恐惧结节呢？"
     },
     {
-      "title": "Mass Effect-like Exodus gets a release date, while showcasing an octopus companion in a mech suit",
-      "link": "https://www.eurogamer.net/exodus-release-date-mass-effect",
-      "date": "2026-08-25T18:45:40.000Z",
-      "summary": "The excitingly Mass Effect -like sci-fi role-playing game Exodus has a proper release date: 7th April 2027. It's coming to PC (Steam and Epic), PlayStation 5, and Xbox Series X/S. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "sony",
-        "xbox",
-        "valve"
-      ],
-      "titleZh": "类似《质量效应》的《出埃及记》确定了发行日期，同时展示了穿着机甲套装的章鱼伙伴",
-      "summaryZh": "令人兴奋的类似质量效应的科幻角色扮演游戏 Exodus 的正式发布日期为：2027 年 4 月 7 日。它将登陆 PC（Steam 和 Epic）、PlayStation 5 和 Xbox Series X/S。阅读更多"
-    },
-    {
-      "title": "《共鸣：瘟疫传说传承》发售预告片于开幕夜直播秀盛大首映",
-      "link": "https://www.gcores.com/articles/218770",
-      "date": "2026-08-25T18:20:00.000Z",
-      "summary": "Focus Entertainment与Asobo Studio很高兴正式公布 《共鸣：瘟疫传说传承》 发售预告片。该预告片于 科隆游戏展开幕夜直播秀 盛大首映，距离游戏于8月27日登陆PlayStation 5、Xbox Series X|S及PC仅剩数日。预告片以 Depeche Mode经典歌曲《Enjoy the Silence》的全新演绎版本 为背景音乐，带领玩家最后一次深入《共鸣》的世",
-      "source": "机核",
-      "companies": [
-        "sony",
-        "xbox"
-      ]
-    },
-    {
       "title": "Rainbow Six Tactics transforms the demolition-driven Siege into a turn-based game while keeping the destructible environments, operators, and reconnaissance drones",
       "link": "https://www.rockpapershotgun.com/rainbow-six-tactics-transforms-the-demolition-driven-siege-into-a-turn-based-game-while-keeping-the-destructible-environments-operators-and-reconnaissance-drones",
       "date": "2026-08-25T18:15:17.000Z",
@@ -2262,18 +2348,6 @@
       ],
       "titleZh": "《彩虹六号：围攻》将爆破驱动的围攻游戏转变为回合制游戏，同时保留了可破坏的环境、操作员和侦察无人机",
       "summaryZh": "育碧做了明智的事情，将《彩虹六号》变成了一款回合制战术游戏。抓捕《彩虹六号：围攻》中拥有特殊能力的干员，并将他们投入《XCOM：奇美拉 S》"
-    },
-    {
-      "title": "Rainbow Six Tactics Revealed: Building a Turn-Based Tactical Experience",
-      "link": "https://news.xbox.com/en-us/2026/08/25/rainbow-six-tactics-revealed-building-a-turn-based-tactical-experience/",
-      "date": "2026-08-25T18:15:00.000Z",
-      "summary": "Rainbow Six Tactics is an upcoming turn-based tactical single-player game for XBOX Series X|S and XBOX on PC set in the Rainbow Six Universe. In the game – which was revealed during gamescom Opening N",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "彩虹六号战术揭秘：打造回合制战术体验",
-      "summaryZh": "《彩虹六号战略版》是一款即将推出的回合制战术单人游戏，适用于 XBOX 系列 X|S 和 PC 版 XBOX，以彩虹六号宇宙为背景。在游戏中——在科隆游戏展 Opening N 期间揭晓"
     },
     {
       "title": "Ubisoft is making the first singleplayer Rainbow Six in 19 years, and it's a tactics game in the style of XCOM",
@@ -2320,18 +2394,6 @@
       ],
       "titleZh": "“人们想要更快的移动速度，但不想这么快”——《使命召唤：现代战争 4》测试版玩家对幻灯片垃圾邮件发送者和游戏节奏的加快并不满意",
       "summaryZh": "经过五天的多人游戏活动，《使命召唤：现代战争 4》测试版的第一阶段即将结束。该测试版在 Steam 和其他地方看到了很高的玩家数量，尽管主要是可用的"
-    },
-    {
-      "title": "Introducing the Designed for XBOX 25th Anniversary Collection",
-      "link": "https://news.xbox.com/en-us/2026/08/25/designed-for-xbox-25th-annversary-accessories-hardware/",
-      "date": "2026-08-25T14:00:00.000Z",
-      "summary": "To help celebrate 25 years of XBOX, the Designed for XBOX 25th Anniversary Collection is now available for preorder. Inspired by the original console, this set pairs nostalgic translucent green with d",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "隆重推出专为 XBOX 25 周年纪念系列设计",
-      "summaryZh": "为了庆祝 XBOX 25 周年，Designed for XBOX 25 周年纪念系列现已开放预订。受原始控制台的启发，该套装将怀旧的半透明绿色与 d"
     },
     {
       "title": "Despite being a Switch 2 exclusive, The Duskbloods closed network test had more applications than Elden Ring Nightreign",
@@ -2503,46 +2565,6 @@
       ],
       "titleZh": "《异形品种》35 周年纪念合集宣布登陆 PS5、Xbox 系列、Switch 和 PC",
       "summaryZh": "发行商 Commodore 和开发商 Antstream 与 Team17 合作，宣布《Alien Breed》35 周年纪念日……"
-    },
-    {
-      "title": "Today’s Best Deals: Pokémon Pitch Black Booster Bundle, Apple AirTag, and Elgato Stream Deck XL",
-      "link": "https://www.ign.com/articles/best-deals-for-august-24-2026",
-      "date": "2026-08-24T19:05:00.000Z",
-      "summary": "Don’t miss savings on more Pokémon TCG, LEGO Minecraft, and more",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "今日超值优惠：Pokémon Pitch Black Booster Bundle、Apple AirTag 和 Elgato Stream Deck XL",
-      "summaryZh": "不要错过购买更多 Pokémon TCG、LEGO Minecraft 等的优惠"
-    },
-    {
-      "title": "Carrier Command 2 coming to PS5, Xbox Series, Switch 2, and Switch",
-      "link": "https://www.gematsu.com/2026/08/carrier-command-2-coming-to-ps5-xbox-series-switch-2-and-switch",
-      "date": "2026-08-24T18:51:52.000Z",
-      "summary": "Publisher Atari’s Infogrames label, in cooperation with original publisher MicroProse and developer Geometa, will release &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox"
-      ],
-      "titleZh": "《航母指挥 2》即将登陆 PS5、Xbox 系列、Switch 2 和 Switch",
-      "summaryZh": "出版商 Atari 的 Infogrames 标签与原始出版商 MicroProse 和开发商 Geometa 合作，将发布……"
-    },
-    {
-      "title": "Sanitarium Enhanced announced for PS5, Xbox Series, PS4, Switch, and PC",
-      "link": "https://www.gematsu.com/2026/08/sanitarium-enhanced-announced-for-ps5-xbox-series-ps4-switch-and-pc",
-      "date": "2026-08-24T18:35:34.000Z",
-      "summary": "Ziggurat Interactive ha announced Sanitarium Enhanced, a modernized and improved version of DreamForge Intertainment’s award-winning &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox"
-      ],
-      "titleZh": "《疗养院增强版》宣布适用于 PS5、Xbox 系列、PS4、Switch 和 PC",
-      "summaryZh": "Ziggurat Interactive 宣布推出 Sanitarium Enhanced，这是 DreamForge Intertainment 屡获殊荣的现代化和改进版本……"
     },
     {
       "title": "How to Fish is Steam's latest cursed co-op sensation, now updated with private lobbies, eight player support, and anti-griefer measures",
@@ -2922,16 +2944,6 @@
         "tencent",
         "sony",
         "xbox"
-      ]
-    },
-    {
-      "title": "《星河盗贼》国区永降至48元",
-      "link": "https://www.gcores.com/articles/218637",
-      "date": "2026-08-21T08:00:00.000Z",
-      "summary": "由MeepMeep Games开发的高速FPS Roguelite游戏《星河盗贼》（Galactic Vault）宣布，Steam国区价格已经从76元永久降价至48元人民币，并开启25% off限时折扣，8月31日截止，36元便可入手！ Steam商店页面显示，此前购买过《星河盗贼》的玩家，可加入QQ群1064013956，由专人协助处理退差价事宜，登记时间从即日起持续2个月，至2026年10月1",
-      "source": "机核",
-      "companies": [
-        "valve"
       ]
     },
     {
