@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-08-29T11:28:57.596Z",
+  "updatedAt": "2026-08-30T06:12:13.401Z",
   "items": [
+    {
+      "title": "The 宝可梦传说：阿尔宙斯 Company 回应 宝可梦传说：阿尔宙斯XP 抽签系统、排长队及工作坊名额受限问题",
+      "link": "https://news.17173.com/content/08302026/120842806.shtml",
+      "date": "2026-08-30T12:08:42.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《共鸣：瘟疫传说传承》Steam特别好评 优化很棒",
+      "link": "https://www.3dmgame.com/news/202608/3951815.html",
+      "date": "2026-08-30T06:12:10.854Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "微软带来Windows 11 26H2预览版 今年晚些时候发布",
+      "link": "https://www.3dmgame.com/news/202608/3951803.html",
+      "date": "2026-08-30T06:12:10.854Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "The Pokémon Company on PokémonXP's Lottery System, Long Lines, and Limited Access to Workshops",
+      "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
+      "date": "2026-08-30T02:42:39.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "宝可梦公司就PokémonXP的抽奖系统、长队现象以及工作坊的有限访问权限发表声明"
+    },
+    {
+      "title": "我们试玩了 腐烂国度2 3：尽管 Xbox 遭遇动荡，但游戏表现依然出色。",
+      "link": "https://news.17173.com/content/08302026/010811764.shtml",
+      "date": "2026-08-30T01:08:11.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "IGN评分最高的Nintendo Switch 2游戏",
+      "link": "https://news.17173.com/content/08292026/231007896.shtml",
+      "date": "2026-08-29T23:10:07.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'",
+      "link": "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/",
+      "date": "2026-08-29T21:51:34.000Z",
+      "summary": "The unofficial native port of the classic Nintendo platformer runs on modern hardware.",
+      "source": "PC Gamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "一款《大金刚64》的原生移植版终于可以在PC上流畅游玩了，这要归功于一支程序员团队，他们自豪地表示：“在整个开发过程中，我们完全没有使用任何生成式AI。”",
+      "summaryZh": "这款经典任天堂平台游戏的非官方原生移植版可在现代硬件上运行。"
+    },
+    {
+      "title": "The Best Deals Today: Tomodachi Life: Living the Dream, Jurassic Park 4K Collection, Nintendo Switch 2, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-august-29-2026",
+      "date": "2026-08-29T21:29:47.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "今日最佳优惠：《动物之森：实现梦想》、《侏罗纪公园4K合集》、任天堂Switch 2等多款好物火热促销中！"
+    },
+    {
+      "title": "专访《英灵神殿》团队：我们很欢迎社区的“破坏行为”",
+      "link": "https://www.gcores.com/articles/219026",
+      "date": "2026-08-29T21:06:55.000Z",
+      "summary": "作者：柏亚舟 2026年8月的科隆游戏展（Gamescom）现场，我们再次见到了《英灵神殿》的开发团队。 这款生存建造游戏在2021年2月以抢先体验（Early Access）形式登陆Steam并广受好评（目前Steam整体和简中均特别好评），销量也突破了500万——随着迷雾之地、灰烬之地等区域的陆续更新，这个由瑞典团队 Iron Gate 主导的项目，不知不觉间已经走过了七年的开发历程。 而现在",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
+      "link": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
+      "date": "2026-08-29T18:44:53.000Z",
+      "summary": "Yoshi said to expect the new big update by the end of September.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Valve向渴望下一次重大更新的《Deadlock》玩家保证，一旦更新准备就绪，他们会第一时间通知大家，“或者直接点一打披萨！”",
+      "summaryZh": "Yoshi表示，新大型更新预计将于9月底前推出。"
+    },
+    {
+      "title": "Modern gamers spoiled by Steam will never understand the joy of a MegaPak",
+      "link": "https://www.pcgamer.com/games/modern-gamers-spoiled-by-steam-will-never-understand-the-joy-of-a-megapak/",
+      "date": "2026-08-29T17:00:00.000Z",
+      "summary": "A requiem for the early days of budget PC gaming.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "被Steam宠坏的现代玩家永远无法体会MegaPak带来的乐趣。",
+      "summaryZh": "为预算PC游戏的早期时代献上一曲挽歌。"
+    },
+    {
+      "title": "We Played State of Decay 3 and It's in Good Shape Despite the Xbox Upheaval | gamescom 2026",
+      "link": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+      "date": "2026-08-29T15:57:55.000Z",
+      "summary": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early alpha build.",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "我们试玩了《State of Decay 3》，尽管Xbox近期风波不断，这款游戏的表现依然不错｜gamescom 2026",
+      "summaryZh": "在试玩了这款动作感十足的早期Alpha版本30分钟后，《State of Decay 3》似乎展现出不错的潜力。"
+    },
+    {
+      "title": "预告收费，重制免费，核周报 8.29",
+      "link": "https://www.gcores.com/radios/218677",
+      "date": "2026-08-29T15:00:00.000Z",
+      "summary": "本期时间轴制作： 佟和 本期要闻：《巫师3》免费重制、《FF7：启示》领衔数十款作品科隆开幕夜直播；《GTA 6》26分钟\"An Extended Look\"正式首播，Netflix 独家6小时；“行业寒冬中的聚会”成为科隆游戏展主题之一，2026年游戏业裁员统计再度上调：全年预测14666人；美国最高法院裁定关税违法后，任天堂3亿美元退款留存被诉等。",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Xbox Kept At Least One Big Promise In Its Most Tumultuous Year Ever",
+      "link": "https://www.gamespot.com/articles/xbox-kept-at-least-one-big-promise-in-its-most-tumultuous-year-ever/",
+      "date": "2026-08-29T14:00:00.000Z",
+      "summary": "When it drastically increased the price of Game Pass Ultimate on October 1, 2025, Xbox made a promise in a now-deleted Xbox Wire post: “Ultimate subscribers now get access to over 75 day-one releases ",
+      "source": "GameSpot",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Xbox在它史上最动荡的一年里至少兑现了一个重大承诺。",
+      "summaryZh": "当Xbox于2025年10月1日大幅上调Game Pass Ultimate价格时，曾在一条现已删除的Xbox Wire帖子中做出过承诺：“Ultimate订阅用户现在可免费畅玩超过75款首发当天的游戏。”"
+    },
+    {
+      "title": "IGN's Top-Reviewed Nintendo Switch 2 Games",
+      "link": "https://www.ign.com/articles/best-reviewed-nintendo-switch-2-games",
+      "date": "2026-08-29T13:15:00.000Z",
+      "summary": "Not all Nintendo games are created equal. Here are the 10 best Nintendo games we've played in the Switch 2 generation.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "IGN评分最高的任天堂Switch 2游戏推荐",
+      "summaryZh": "并非所有任天堂游戏都一样出色。以下是我们试玩过的Switch 2世代中排名前10的任天堂游戏。"
+    },
+    {
+      "title": "The Witcher 3: Songs of the Past Will Give Us a Unique Way to Revisit This Beloved World",
+      "link": "https://news.xbox.com/en-us/2026/08/29/the-witcher-3-songs-of-the-past-preview/",
+      "date": "2026-08-29T12:19:42.000Z",
+      "summary": "I’ve been in a lot of rooms to see a lot of games, but sitting in a theater to watch footage of The Witcher 3’s Songs of the Past expansion for the first time provided me with an experience I’ve not c",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《巫师3：过往之歌》将为我们提供一种独特的方式，重温这个备受喜爱的世界。",
+      "summaryZh": "我曾看过很多游戏的演示，但第一次坐在影院里观看《巫师3：过往之歌》扩展包的实机片段，却让我体验到了一种前所未有的感受。"
+    },
     {
       "title": "GTA6实机演示公布后PS5 Pro缺货 现货最高炒至1300美元",
       "link": "https://www.3dmgame.com/news/202608/3951801.html",
@@ -1951,18 +2127,6 @@
       "summaryZh": "Gamescom 即将来临，今年 Capcom 在《洛克人：双重超越》中对蓝色轰炸机进行超频，让事情变得更加激烈，然后又冒险进入冰冷而充满敌意的诺根 r 来让他们冷静下来。"
     },
     {
-      "title": "Fable: Find Out How Combat Works After Our First Hands-on",
-      "link": "https://news.xbox.com/en-us/2026/08/26/fable-combat-first-demo-explained/",
-      "date": "2026-08-26T12:00:00.000Z",
-      "summary": "We’ve seen the grand overview at Developer_Direct, a look at the story and cast in the trailers, and had a walkthrough of the Living Population – but at gamescom 2026, Playground Games gave us our big",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "寓言：在我们第一次上手后了解战斗是如何进行的",
-      "summaryZh": "我们已经在 Developer_Direct 上看到了总体概述，了解了预告片中的故事和演员阵容，并对活生生的人口进行了演练 - 但在 2026 年科隆游戏展上，Playground Games 给了我们很大的帮助"
-    },
-    {
       "title": "OLED gaming monitors have finally gotten so good that a Counter-Strike 2 tournament is using one",
       "link": "https://www.pcgamer.com/hardware/gaming-monitors/oled-gaming-monitors-have-finally-gotten-so-good-that-a-counter-strike-2-tournament-is-using-one/",
       "date": "2026-08-26T10:39:30.000Z",
@@ -1983,18 +2147,6 @@
       "companies": [
         "mihoyo"
       ]
-    },
-    {
-      "title": "XBOX and IKEA Make Room for Play with the New YXSTABY Collection",
-      "link": "https://news.xbox.com/en-us/2026/08/26/xbox-and-ikea-make-room-for-play-with-the-new-yxstaby-collection/",
-      "date": "2026-08-26T10:30:00.000Z",
-      "summary": "The post XBOX and IKEA Make Room for Play with the New YXSTABY Collection appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "XBOX 和 IKEA 推出全新 YXSTABY 系列，为游戏腾出空间",
-      "summaryZh": "XBOX 和宜家为全新 YXSTABY 系列腾出空间的帖子首先出现在 XBOX Wire 上。"
     },
     {
       "title": "The legendary Heroes of Might and Magic 3 is being remade by Ubisoft, and while it's visually redone, it's reportedly like-for-like in terms of gameplay",
@@ -2166,18 +2318,6 @@
       ]
     },
     {
-      "title": "Some Razer Gaming Gear Is Getting (Slightly Different) Translucent Green Options for Xbox's 25th Anniversary",
-      "link": "https://www.ign.com/articles/some-razer-gaming-gear-is-getting-slightly-different-translucent-green-options-for-xboxs-25th-anniversary",
-      "date": "2026-08-25T21:09:27.000Z",
-      "summary": "Shortly after Microsoft announced a translucent green Xbox Series X, Razer joined in on the fun with a collection of Xbox-themed gaming mice and keyboards.",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "一些 Razer 游戏装备为 Xbox 25 周年纪念日推出（略有不同）半透明绿色选项",
-      "summaryZh": "在微软推出半透明绿色 Xbox Series X 后不久，Razer 也加入了这一行列，推出了一系列 Xbox 主题游戏鼠标和键盘。"
-    },
-    {
       "title": "《Nidhogg》开发商动作肉鸽新作《地牢大出血》现已全平台发售",
       "link": "https://www.gcores.com/articles/218784",
       "date": "2026-08-25T20:59:28.000Z",
@@ -2201,30 +2341,6 @@
       ],
       "titleZh": "Tarae: The Unbound 是一款“东方黑暗奇幻”动作角色扮演游戏，我就是来玩 K-Diablo 的",
       "summaryZh": "以我最喜欢的 ARPG 类原型之一为特色：Guy With Gun。"
-    },
-    {
-      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered",
-      "link": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
-      "date": "2026-08-25T20:58:37.000Z",
-      "summary": "Over a decade ago, The Witcher 3: Wild Hunt launched and cemented its place as one of the most acclaimed RPGs of the generation. Ever since, players have been discovering — and returning — to this dar",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "杰洛特在《巫师 3：狂猎》中回归 — 过去之歌和重制版",
-      "summaryZh": "十多年前，《巫师 3：狂猎》推出并巩固了其作为当代最受好评的角色扮演游戏之一的地位。从那时起，玩家们就一直在探索并回归这个黑暗世界。"
-    },
-    {
-      "title": "I played two missions of Gears of War: E-Day's campaign: One rocked, but the other did not",
-      "link": "https://www.pcgamer.com/games/third-person-shooter/i-played-two-missions-of-gears-of-war-e-days-campaign-one-rocked-but-the-other-did-not/",
-      "date": "2026-08-25T20:39:04.000Z",
-      "summary": "Gears goes semi-open-world, again.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "我玩了《战争机器：E-Day》的两个任务：一个很震撼，但另一个则没有",
-      "summaryZh": "《战争机器》再次进入半开放世界。"
     },
     {
       "title": "Onimusha: Way of the Sword interview, demo update detailed, new trailer revealed",
@@ -2423,68 +2539,12 @@
       "summaryZh": "《暮色之血》看起来已经成为一款非常受欢迎的游戏。开发商FromSoftware透露，该游戏的网络测试已于昨天完成，吸引了更多玩家申请"
     },
     {
-      "title": "31 years later, beautiful SNES RPG Terranigma is finally coming to PC, and I must lay the ghost of my console warrior childhood to rest",
-      "link": "https://www.rockpapershotgun.com/31-years-later-beautiful-snes-rpg-terranigma-is-finally-coming-to-pc-and-i-must-lay-the-ghost-of-my-console-warrior-childhood-to-rest",
-      "date": "2026-08-25T10:37:23.000Z",
-      "summary": "Clear River Games Development and Limited Run are working on a PC re-release of Terranigma, Quintet's Super Nintendo Entertainment System action-RPG from 1995. I never played Terranigma, for I was rai",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "31 年后，精美的 SNES RPG Terranigma 终于登陆 PC，我必须安息我童年游戏机战士的幽灵",
-      "summaryZh": "Clear River Games Development 和 Limited Run 正在致力于将 Terranigma 重新发布到 PC 上，这是 Quintet 于 1995 年推出的超级任天堂娱乐系统动作角色扮演游戏。我从未玩过 Terranigma，因为我很喜欢"
-    },
-    {
       "title": "《影之刃零》Steam预售销量达《黑神话》同期73%，愿望单人数已突破200万",
       "link": "https://www.gcores.com/articles/218756",
       "date": "2026-08-25T08:32:54.000Z",
       "summary": "近日，根据行业数据分析机构Alinea Analytics的最新预估数据显示，国产武侠动作游戏《影之刃零》（Phantom Blade Zero）有望实现爆款首发。 根据Alinea的估算，开启预购一周内，《影之刃零》在Steam平台的预购销量， 已经带来约1450万美元营收，Alinea同时将本作和其他国产大作进行了对比，《影之刃零》的这份数据，已经达到《黑神话：悟空》同期惊人数据的73%，是《",
       "source": "机核",
       "companies": [
-        "valve"
-      ]
-    },
-    {
-      "title": "怪物收集RPG《流明物语：特雷的回忆》年内登陆Xbox Series及PS5",
-      "link": "https://www.gcores.com/articles/218757",
-      "date": "2026-08-25T08:30:00.000Z",
-      "summary": "Team17与开发商Beehive Studios近日宣布，怪物收集RPG 《流明物语：特雷的回忆》 将于今年晚些时候登陆 Xbox Series X|S和PlayStation 5 平台。 <内嵌内容，请前往机核查看> 游戏已于2026年5月率先登陆Steam及Nintendo Switch，将怪物收集与战斗、个性化定制、制作系统融入充满探索与发现的冒险故事之中。Nintendo Switch版",
-      "source": "机核",
-      "companies": [
-        "nintendo",
-        "sony",
-        "xbox",
-        "valve"
-      ]
-    },
-    {
-      "title": "这个 塞尔达传说：智慧的回响 烧脑谜题还原了 塞尔达传说：王国之泪 中最精彩的支线任务之一",
-      "link": "https://news.17173.com/content/08252026/060935172.shtml",
-      "date": "2026-08-25T06:09:35.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "宝可梦传说：阿尔宙斯 收藏家假扮买家展开“侠客”式诱捕行动，成功追回价值 4000 美元被盗卡牌",
-      "link": "https://news.17173.com/content/08252026/030853433.shtml",
-      "date": "2026-08-25T03:08:53.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Steam喜加一：49元类宝可梦RPG《Dokimon Quest》",
-      "link": "https://www.3dmgame.com/news/202608/3951334.html",
-      "date": "2026-08-25T02:16:39.428Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo",
         "valve"
       ]
     },
@@ -2519,29 +2579,6 @@
       ],
       "titleZh": "一位游戏开发者在荒野中花费了 40 天来制作这款新的 Steam 生存游戏",
       "summaryZh": "您能在 FMV 生存游戏《无言森林》中引导孤独的幸存者到达安全地带吗？"
-    },
-    {
-      "title": "This Legend of Zelda Brain Teaser Recreates One of the Best Side Quests From Tears of the Kingdom",
-      "link": "https://www.ign.com/articles/this-legend-of-zelda-brain-teaser-recreates-one-of-the-best-side-quests-from-tears-of-the-kingdom",
-      "date": "2026-08-24T20:18:30.000Z",
-      "summary": "",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "这款《塞尔达传说》脑筋急转弯游戏重现了《王国之泪》中最好的支线任务之一"
-    },
-    {
-      "title": "The Duskbloods Playtest Was Even More Popular Than Elden Ring Nightreign’s",
-      "link": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/",
-      "date": "2026-08-24T19:52:57.000Z",
-      "summary": "It sounds like fans were eager to learn everything they could about From Software's The Duskbloods , as one of the game's producers has revealed the Switch 2 exclusive saw higher playtest sign-ups com",
-      "source": "GameSpot",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《暮色之血》游戏测试比《Elden Ring Nightreign》更受欢迎",
-      "summaryZh": "听起来粉丝们都渴望了解来自 Software 的《暮色之血》的一切，该游戏的一位制作人透露，Switch 2 独占游戏的游戏测试注册人数更高。"
     },
     {
       "title": "Knuckle Jet launches September 1",
@@ -2805,16 +2842,6 @@
       ]
     },
     {
-      "title": "《致命躯壳2》Steam褒贬不一 被批是“DEMO诈骗”",
-      "link": "https://www.3dmgame.com/news/202608/3951157.html",
-      "date": "2026-08-22T02:14:00.678Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
       "title": "《生化危机9》《刺客信条：影》法国实体销量占一半",
       "link": "https://www.3dmgame.com/news/202608/3951155.html",
       "date": "2026-08-22T02:14:00.678Z",
@@ -2834,42 +2861,6 @@
         "ea",
         "valve"
       ]
-    },
-    {
-      "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers Under $50, and It's Less Than Half That Price",
-      "link": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-august-2026",
-      "date": "2026-08-21T20:35:00.000Z",
-      "summary": "Compatible with Windows PC, Android, and Steam Deck.",
-      "source": "IGN",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "八位堂 Ultimate 2C 是 50 美元以下最好的 PC 游戏控制器之一，而且价格还不到这个价格的一半",
-      "summaryZh": "与 Windows PC、Android 和 Steam Deck 兼容。"
-    },
-    {
-      "title": "2 Steam top sellers, 2 simultaneous betas, 2 very different shooters: It's Wardogs & Modern Warfare weekend",
-      "link": "https://www.pcgamer.com/games/fps/2-steam-top-sellers-2-simultaneous-betas-2-very-different-shooters-its-wardogs-and-modern-warfare-weekend/",
-      "date": "2026-08-21T19:55:52.000Z",
-      "summary": "Which one are you checking out this weekend?",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "2 个 Steam 畅销游戏、2 个同时测试版、2 个截然不同的射击游戏：《Wardogs》和《现代战争》周末到了",
-      "summaryZh": "这个周末你要去看哪一个？"
-    },
-    {
-      "title": "Shroom and Gloom launches in Early Access on September 10",
-      "link": "https://www.gematsu.com/2026/08/shroom-and-gloom-launches-in-early-access-on-september-10",
-      "date": "2026-08-21T16:05:41.000Z",
-      "summary": "First-person double deckbuilder Shroom and Gloom will launch in Early Access for PC via Steam &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Shroom 和 Gloom 将于 9 月 10 日推出抢先体验",
-      "summaryZh": "第一人称双层牌组建造游戏 Shroom 和 Gloom 将通过 Steam 推出 PC 抢先体验版……"
     },
     {
       "title": "第五人格IVL：MRC_Sprintzer四抓破冰，首战告捷挺进下一轮！",
