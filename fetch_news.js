@@ -10,6 +10,7 @@ const path = require("path");
 const ROOT = __dirname;
 const DATA_DIR = path.join(ROOT, "data");
 const DATA_FILE = path.join(DATA_DIR, "news.json");
+const HEALTH_FILE = path.join(DATA_DIR, "health.json"); // 各来源抓取健康状态
 const HTML_FILE = path.join(ROOT, "index.html");
 const TEMPLATE_FILE = path.join(ROOT, "template.html");
 const FEED_FILE = path.join(ROOT, "feed.xml");
@@ -24,22 +25,25 @@ const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
 
 // ---------- 10 家目标厂商及关键词 ----------
+// 关键词只保留"强词"(公司/子品牌/独占作品), 平台/商店词(Steam、Switch、PS5、Xbox、
+// Game Pass 等)一律剔除: 多平台发售新闻里这些词必然出现, 会把同一条资讯同时错归给
+// 任天堂/索尼/微软/Valve 四家。弱归属新闻宁可不收, 也不要错收。
 const COMPANIES = [
   { id: "tencent", name: "腾讯游戏", en: "Tencent Games", keywords: ["Tencent", "腾讯", "Level Infinite", "TiMi Studio", "天美", "光子工作室", "WeGame", "王者荣耀", "Honor of Kings", "和平精英", "英雄联盟", "League of Legends", "Valorant", "无畏契约", "穿越火线", "三角洲行动", "Riot Games", "拳头游戏"] },
   { id: "netease", name: "网易游戏", en: "NetEase Games", keywords: ["NetEase", "网易", "梦幻西游", "大话西游", "第五人格", "Identity V", "逆水寒", "永劫无间", "Naraka", "蛋仔派对", "Marvel Rivals", "漫威争锋", "率土之滨", "燕云十六声"] },
   { id: "mihoyo", name: "米哈游", en: "HoYoverse", keywords: ["miHoYo", "HoYoverse", "米哈游", "Genshin", "原神", "Honkai", "崩坏", "Zenless", "绝区零", "Star Rail", "星穹铁道"] },
-  { id: "nintendo", name: "任天堂", en: "Nintendo", keywords: ["Nintendo", "任天堂", "Switch 2", "Switch", "Zelda", "塞尔达", "Mario", "马力欧", "马里奥", "Pokémon", "宝可梦", "Metroid", "Kirby"] },
-  { id: "sony", name: "索尼 PlayStation", en: "PlayStation", keywords: ["PlayStation", "PS5", "PS4", "PS Plus", "PSVR", "索尼", "Sony Interactive", "Ghost of Tsushima", "God of War"] },
-  { id: "xbox", name: "微软 Xbox", en: "Xbox", keywords: ["Xbox", "微软", "Game Pass", "Halo", "光环", "Forza", "Gears of War", "Microsoft Gaming", "Phil Spencer"] },
+  { id: "nintendo", name: "任天堂", en: "Nintendo", keywords: ["Nintendo", "任天堂", "Zelda", "塞尔达", "Mario", "马力欧", "马里奥", "Pokémon", "宝可梦", "Metroid", "Kirby", "星之卡比", "Nintendo Direct", "直面会"] },
+  { id: "sony", name: "索尼 PlayStation", en: "PlayStation", keywords: ["PlayStation Studios", "State of Play", "索尼", "Sony Interactive", "Ghost of Tsushima", "对马岛之魂", "God of War", "战神"] },
+  { id: "xbox", name: "微软 Xbox", en: "Xbox", keywords: ["Xbox Game Studios", "微软", "Microsoft Gaming", "Phil Spencer", "Halo", "光环", "Forza", "极限竞速", "Gears of War", "战争机器"] },
   { id: "blizzard", name: "暴雪", en: "Blizzard", keywords: ["Blizzard", "暴雪", "Warcraft", "魔兽", "Diablo", "暗黑破坏神", "Overwatch", "守望先锋", "Hearthstone", "炉石传说", "StarCraft", "星际争霸"] },
   { id: "ea", name: "EA", en: "Electronic Arts", keywords: ["Electronic Arts", "EA Sports", "Apex Legends", "Battlefield", "战地", "The Sims", "模拟人生", "EA FC", "FIFA", "Need for Speed", "极品飞车"] },
   { id: "ubisoft", name: "育碧", en: "Ubisoft", keywords: ["Ubisoft", "育碧", "Assassin's Creed", "刺客信条", "Far Cry", "孤岛惊魂", "Rainbow Six", "彩虹六号", "The Division", "全境封锁"] },
-  { id: "valve", name: "Valve", en: "Valve", keywords: ["Valve", "Steam Deck", "Steam", "Half-Life", "半条命", "Dota", "Counter-Strike", "CS2", "反恐精英", "Portal", "传送门", "Team Fortress"] },
+  { id: "valve", name: "Valve", en: "Valve", keywords: ["Valve", "Steam Deck", "Half-Life", "半条命", "Dota", "Counter-Strike", "CS2", "反恐精英", "Portal", "传送门", "Team Fortress"] },
 ];
 
 // 常用英文单词类关键词强制大小写敏感, 避免把普通词误判为厂商
-// (如 "switch to PC" 命中任天堂、"steam rising" 命中 Valve、"ea" 出现在普通文本中)
-const CASE_SENSITIVE = new Set(["EA", "Steam", "Switch", "Portal"]);
+// (如 "ea" 出现在普通文本中、"portal" 指门户网站)
+const CASE_SENSITIVE = new Set(["EA", "Portal"]);
 
 // 匹配规则: 纯 ASCII 关键词加词边界(防 "Steam" 命中 "steampunk"、"CS2" 命中单词内部),
 // CASE_SENSITIVE 中的词额外要求大小写一致; 中文关键词保持子串匹配
@@ -59,10 +63,16 @@ const SOURCES = [
   { name: "PlayStation Blog", url: "https://blog.playstation.com/feed/", type: "official", companyId: "sony" },
   { name: "Xbox Wire", url: "https://news.xbox.com/en-us/feed/", type: "official", companyId: "xbox" },
   { name: "Steam 官方新闻", url: "https://store.steampowered.com/feeds/news.xml", type: "official", companyId: "valve" },
-  // 按公司检索的必应资讯 RSS(用于国内厂商, 中文媒体覆盖更稳定)
+  // 按公司检索的必应资讯 RSS(国内厂商官网无 RSS, 中文媒体覆盖更稳定;
+  // 公司级 + 产品级查询词混用, 产品级召回率明显更高)
   { name: "必应资讯·腾讯", url: "https://www.bing.com/search?q=" + encodeURIComponent("腾讯游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "tencent" },
+  { name: "必应资讯·王者荣耀", url: "https://www.bing.com/search?q=" + encodeURIComponent("王者荣耀 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "tencent" },
   { name: "必应资讯·网易", url: "https://www.bing.com/search?q=" + encodeURIComponent("网易游戏 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "netease" },
   { name: "必应资讯·米哈游", url: "https://www.bing.com/search?q=" + encodeURIComponent("米哈游 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "mihoyo" },
+  { name: "必应资讯·原神", url: "https://www.bing.com/search?q=" + encodeURIComponent("原神 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "mihoyo" },
+  // Xbox Wire 与暴雪官网 RSS 不稳定/已下线, 用必应检索兜底
+  { name: "必应资讯·Xbox", url: "https://www.bing.com/search?q=" + encodeURIComponent("Xbox 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "xbox" },
+  { name: "必应资讯·暴雪", url: "https://www.bing.com/search?q=" + encodeURIComponent("暴雪 新闻") + "&format=rss&setlang=zh-CN", type: "search", companyId: "blizzard" },
   // 游戏媒体
   { name: "IGN", url: "https://feeds.ign.com/ign/all", type: "media" },
   { name: "GameSpot", url: "https://www.gamespot.com/feeds/mashup/", type: "media" },
@@ -70,11 +80,12 @@ const SOURCES = [
   { name: "Gematsu", url: "https://www.gematsu.com/feed", type: "media" },
   { name: "PC Gamer", url: "https://www.pcgamer.com/rss/", type: "media" },
   { name: "Rock Paper Shotgun", url: "https://www.rockpapershotgun.com/feed", type: "media" },
+  { name: "Nintendo Life", url: "https://www.nintendolife.com/feeds/news", type: "media" },
   { name: "机核", url: "https://www.gcores.com/rss", type: "media" },
   { name: "游研社", url: "https://www.yystv.cn/rss/feed", type: "media" },
   // 无 RSS, 直接抓新闻列表页 HTML
   { name: "3DM游戏网", url: "https://www.3dmgame.com/news/", type: "media", format: "html3dm" },
-  { name: "3DM厂商新闻", url: "https://www.3dmgame.com/news_38_1/", type: "media", format: "html3dm" },
+  { name: "游民星空", url: "https://www.gamersky.com/news/", type: "media", format: "htmlgamersky" },
   { name: "17173", url: "https://news.17173.com/", type: "media", format: "html17173" },
 ];
 
@@ -171,17 +182,40 @@ function parseFeed(xml) {
 }
 
 // 3DM 新闻列表页抓取: 文章链接形如 /news/202607/3949168.html
+// 列表页无日期, 从 URL 的 YYYYMM 提取年月: 当月文章视为新文章(入库时取抓取时间),
+// 更早月份的取该月 1 号, 避免旧闻被兜底时间顶到"今日最新"
 function parse3dm(html) {
   const items = [];
   const seen = new Set();
-  const re = /<a\s+href="(https:\/\/www\.3dmgame\.com\/news\/\d{6}\/\d+\.html)"[^>]*>([\s\S]*?)<\/a>/g;
+  const re = /<a\s+href="(https:\/\/www\.3dmgame\.com\/news\/(\d{4})(\d{2})\/\d+\.html)"[^>]*>([\s\S]*?)<\/a>/g;
+  const nowYm = new Date().getUTCFullYear() * 100 + (new Date().getUTCMonth() + 1);
   let m;
   while ((m = re.exec(html)) !== null) {
     const link = m[1];
-    const title = decodeEntities(stripHtml(m[2])).trim();
+    const title = decodeEntities(stripHtml(m[4])).trim();
     if (seen.has(link) || title.length < 4) continue;
     seen.add(link);
-    items.push({ title, link, date: null, summary: "" });
+    const ym = Number(m[2]) * 100 + Number(m[3]);
+    const date = ym >= nowYm ? null : new Date(Date.UTC(Number(m[2]), Number(m[3]) - 1, 1)).toISOString();
+    items.push({ title, link, date, summary: "" });
+  }
+  return items;
+}
+
+// 游民星空新闻列表页抓取: 每条 <li> 内含 class="tt" 的标题链接和 <div class="time">2026-08-31 14:49</div>
+function parseGamersky(html) {
+  const items = [];
+  const seen = new Set();
+  const re = /<li>[\s\S]*?<a\s+class="tt"\s+href="(https:\/\/www\.gamersky\.com\/news\/\d{6}\/\d+\.shtml)"[^>]*\stitle="([^"]*)"[\s\S]*?<\/li>/g;
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    const link = m[1];
+    const title = decodeEntities(m[2]).trim();
+    if (seen.has(link) || title.length < 4) continue;
+    seen.add(link);
+    const timeM = m[0].match(/<div class="time">(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/);
+    const date = timeM ? new Date(`${timeM[1]}T${timeM[2]}:00+08:00`).toISOString() : null;
+    items.push({ title, link, date, summary: "" });
   }
   return items;
 }
@@ -223,6 +257,7 @@ async function fetchFeed(source) {
       if (!res.ok) throw new Error("HTTP " + res.status);
       const body = await res.text();
       if (source.format === "html3dm") return parse3dm(body);
+      if (source.format === "htmlgamersky") return parseGamersky(body);
       if (source.format === "html17173") return parse17173(body);
       return parseFeed(body);
     } catch (e) {
@@ -392,8 +427,12 @@ function loadData() {
 }
 
 function saveData(data) {
+  saveJson(DATA_FILE, data);
+}
+
+function saveJson(file, obj) {
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
-  fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2), "utf8");
+  fs.writeFileSync(file, JSON.stringify(obj, null, 2), "utf8");
 }
 
 // ---------- 同题去重 ----------
@@ -451,7 +490,8 @@ function groupByStory(items) {
 }
 
 // ---------- 生成网页 ----------
-function renderHtml(data) {
+// health: 本次抓取的来源健康状态(见 main), 失败来源在页脚标注, 避免来源静默失效
+function renderHtml(data, health) {
   const byCompany = {};
   for (const c of COMPANIES) byCompany[c.id] = [];
   for (const it of data.items) {
@@ -567,11 +607,18 @@ function renderHtml(data) {
     : "从未更新";
 
   // 动态内容注入 template.html 骨架; 函数式替换避免替换串中的 $& 等被解释
+  const failedSrc = (health || []).filter((h) => h.status !== "ok");
+  const healthNote = health && health.length
+    ? failedSrc.length
+      ? ` · 来源 ${health.length - failedSrc.length}/${health.length} 正常, 失败: ${failedSrc.map((h) => esc(h.name)).join("、")}`
+      : ` · 来源 ${health.length}/${health.length} 正常`
+    : "";
   return fs
     .readFileSync(TEMPLATE_FILE, "utf8")
     .replace("__UPDATED_ISO__", () => data.updatedAt || "")
     .replace("__UPDATED_TEXT__", () => updatedAt)
     .replace("__KEEP_DAYS__", () => String(KEEP_DAYS))
+    .replace("__SOURCE_HEALTH__", () => healthNote)
     .replace("__NAV__", () => nav)
     .replace("__MAIN__", () => todaySection + "\n" + sections);
 }
@@ -617,28 +664,44 @@ ${items}
 // ---------- 主流程 ----------
 async function main() {
   const data = loadData();
-  // 清理历史数据里搜索源混入的噪音(与新增条目同一套过滤规则)
+  // 清理历史数据里的噪音(与新增条目同一套过滤规则)
   const searchNames = new Set(SOURCES.filter((s) => s.type === "search").map((s) => s.name));
   searchNames.add("必应资讯"); // 兼容来源改名前的历史数据
+  const mediaNames = new Set(SOURCES.filter((s) => s.type === "media").map((s) => s.name));
+  mediaNames.add("3DM厂商新闻"); // 已下线来源的历史数据同样按媒体规则重算
   const beforeClean = data.items.length;
   data.items = data.items.filter((it) => {
     if (!isSafeLink(it.link)) return false;
-    if (!searchNames.has(it.source)) return true;
-    if (isGlobalJunk(it) || isJunkSearchResult(it)) return false;
-    return matchCompanies(it.title + " " + (it.summary || "")).some((cid) => it.companies.includes(cid));
+    if (searchNames.has(it.source)) {
+      if (isGlobalJunk(it) || isJunkSearchResult(it)) return false;
+      return matchCompanies(it.title + " " + (it.summary || "")).some((cid) => it.companies.includes(cid));
+    }
+    // 媒体来源: 关键词表调整后(剔除平台词)重算归属, 洗掉历史上"提到 Switch/PS5 就算
+    // 任天堂/索尼新闻"的错配; 重算后不属于任何厂商的条目直接删除
+    if (mediaNames.has(it.source)) {
+      if (isGlobalJunk(it)) return false;
+      const c = matchCompanies(it.title + " " + (it.summary || ""));
+      if (!c.length) return false;
+      it.companies = c;
+    }
+    return true;
   });
   if (data.items.length < beforeClean) console.log(`清理历史噪音 ${beforeClean - data.items.length} 条`);
   const existing = new Map(data.items.map((it) => [it.link, it]));
   let added = 0;
 
   // 并发抓取所有来源(上限 FETCH_CONCURRENCY), 再按来源顺序统一处理, 保证去重结果稳定
+  // health 记录每个来源的成败与条数, 落盘 data/health.json 并渲染到页脚, 来源失效不再静默
+  const health = [];
   const fetched = await mapLimit(SOURCES, FETCH_CONCURRENCY, async (src) => {
     try {
       const items = await fetchFeed(src);
       console.log(`[OK] ${src.name}: ${items.length} 条`);
+      health.push({ name: src.name, status: "ok", count: items.length });
       return { src, items };
     } catch (e) {
       console.log(`[FAIL] ${src.name}: ${e.message}`);
+      health.push({ name: src.name, status: "fail", error: e.message });
       return { src, items: [] };
     }
   });
@@ -684,10 +747,12 @@ async function main() {
   data.items = all;
   data.updatedAt = new Date().toISOString();
   saveData(data);
-  fs.writeFileSync(HTML_FILE, renderHtml(data), "utf8");
+  saveJson(HEALTH_FILE, { updatedAt: data.updatedAt, sources: health });
+  fs.writeFileSync(HTML_FILE, renderHtml(data, health), "utf8");
   fs.writeFileSync(FEED_FILE, renderRss(data), "utf8");
 
-  console.log(`新增 ${added} 条, 现有共 ${all.length} 条`);
+  const failed = health.filter((h) => h.status !== "ok");
+  console.log(`新增 ${added} 条, 现有共 ${all.length} 条; 来源 ${health.length - failed.length}/${health.length} 正常`);
   console.log(`已生成 ${HTML_FILE} 和 ${FEED_FILE}`);
 }
 

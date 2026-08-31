@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html data/news.json feed.xml
+          git add index.html data/news.json data/health.json feed.xml
           if git diff --cached --quiet; then
             echo "无变化, 跳过提交"
           else
