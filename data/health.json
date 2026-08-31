@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-31T07:41:22.220Z",
+  "updatedAt": "2026-08-31T07:43:21.001Z",
   "sources": [
+    {
+      "name": "Steam 官方新闻",
+      "status": "ok",
+      "count": 20
+    },
     {
       "name": "必应资讯·王者荣耀",
       "status": "ok",
@@ -12,7 +17,27 @@
       "count": 10
     },
     {
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
@@ -24,22 +49,7 @@
     {
       "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "Steam 官方新闻",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "必应资讯·暴雪",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·Xbox",
-      "status": "ok",
-      "count": 10
+      "count": 11
     },
     {
       "name": "GameSpot",
@@ -57,14 +67,24 @@
       "count": 100
     },
     {
-      "name": "Rock Paper Shotgun",
-      "status": "ok",
-      "count": 100
-    },
-    {
       "name": "Gematsu",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
+    },
+    {
+      "name": "Nintendo Life",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
     },
     {
       "name": "机核",
@@ -77,9 +97,9 @@
       "count": 12
     },
     {
-      "name": "PC Gamer",
+      "name": "游民星空",
       "status": "ok",
-      "count": 50
+      "count": 101
     },
     {
       "name": "3DM游戏网",
@@ -87,29 +107,9 @@
       "count": 35
     },
     {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 101
-    },
-    {
-      "name": "Xbox Wire",
-      "status": "fail",
-      "error": "HTTP 403"
-    },
-    {
       "name": "17173",
       "status": "ok",
       "count": 25
-    },
-    {
-      "name": "Nintendo Life",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
     }
   ]
 }
