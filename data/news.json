@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-01T05:59:37.199Z",
+  "updatedAt": "2026-09-01T09:45:31.220Z",
   "items": [
+    {
+      "title": "索尼CEO解释为何不再对PlayStation 5进行“激进营销”",
+      "link": "https://news.17173.com/content/09012026/172357065.shtml",
+      "date": "2026-09-01T17:23:57.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "因《舞力全开2025》泄露事件，育碧或意外曝光了下一次任天堂直面会的日期。",
+      "link": "https://news.17173.com/content/09012026/172151855.shtml",
+      "date": "2026-09-01T17:21:51.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo",
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "索尼公布 PS5 电视直播服务，今日起支持广告免费观看",
+      "link": "https://news.17173.com/content/09012026/172124303.shtml",
+      "date": "2026-09-01T17:21:24.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "网易10亿大作肘赢复活赛！盘点2026死而复生的老牌MMO",
       "link": "https://news.17173.com/content/09012026/132415296.shtml",
@@ -19,6 +50,77 @@
       "source": "17173",
       "companies": [
         "blizzard"
+      ]
+    },
+    {
+      "title": "《永劫无间》推出《炉石传说》联动，登录可免费领取鱼人头饰",
+      "link": "https://www.3dmgame.com/news/202609/3952071.html",
+      "date": "2026-09-01T09:45:31.201Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "netease",
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《战地6》1.4.2.5版本更新开放预载，9月1日正式推出",
+      "link": "https://www.3dmgame.com/news/202609/3952060.html",
+      "date": "2026-09-01T09:45:31.201Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "微软AI热潮推高自家主机价格 Xbox CEO称这是好事",
+      "link": "https://www.3dmgame.com/news/202609/3952048.html",
+      "date": "2026-09-01T09:45:31.201Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "玩家欲在PS3上重温《合金装备4》 却发现账号被索尼删除",
+      "link": "https://www.3dmgame.com/news/202609/3951968.html",
+      "date": "2026-09-01T09:45:31.201Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "游民专访《彩虹六号：战术行动》：当R6变成回合制",
+      "link": "https://www.gamersky.com/news/202609/2200670.shtml",
+      "date": "2026-09-01T09:09:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "索尼坦言不冲硬件销量了 要从用户身上薅羊毛？",
+      "link": "https://www.gamersky.com/news/202609/2200657.shtml",
+      "date": "2026-09-01T09:03:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "港版NS2今日涨价！“世界主宰”任天堂很无奈",
+      "link": "https://www.gamersky.com/news/202609/2200414.shtml",
+      "date": "2026-09-01T07:10:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
       ]
     },
     {
@@ -1879,16 +1981,6 @@
       ]
     },
     {
-      "title": "任天堂连下两城！继印度之后 Switch双主机宣布进军印尼",
-      "link": "https://www.3dmgame.com/news/202608/3950370.html",
-      "date": "2026-08-26T02:22:57.987Z",
-      "summary": "",
-      "source": "3DM厂商新闻",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "因报道\"实体光盘消亡\" 多家媒体遭索尼PS印度分部封杀",
       "link": "https://www.3dmgame.com/news/202608/3951450.html",
       "date": "2026-08-26T02:22:57.986Z",
@@ -1926,16 +2018,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "《Nidhogg》开发商动作肉鸽新作《地牢大出血》现已全平台发售",
-      "link": "https://www.gcores.com/articles/218784",
-      "date": "2026-08-25T20:59:28.000Z",
-      "summary": "曾打造《Nidhogg》《Wheel World》的独立游戏工作室 Messhof 宣布，旗下动作类 Roguelike 新作 《地牢大出血》（Blood Dungeon）现已正式发售！支持中文。 <内嵌内容，请前往机核查看> 游戏现已登陆 Nintendo Switch、Nintendo Switch 2、Steam、PlayStation 5 及 Xbox Series X|S 平台，售价42",
-      "source": "机核",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2416,18 +2498,6 @@
       ],
       "titleZh": "《现代战争 4》公开测试版：您需要了解的一切",
       "summaryZh": "《现代战争 4》公开测试版后：您需要知道的一切首先出现在 XBOX Wire 上。"
-    },
-    {
-      "title": "Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, & Maps",
-      "link": "https://news.xbox.com/en-us/2026/08/21/modern-warfare-4-multiplayer-movement-gunplay-modes-maps/",
-      "date": "2026-08-21T18:01:36.000Z",
-      "summary": "The post Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, & Maps appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "现代战争 4 多人游戏：移动、枪战、模式和地图",
-      "summaryZh": "后现代战争 4 多人游戏：移动、枪战、模式和地图首先出现在 XBOX Wire 上。"
     },
     {
       "title": "Call of Duty: Modern Warfare 4 – New Multiplayer and Early Access Beta details",
@@ -4711,18 +4781,6 @@
       ]
     },
     {
-      "title": "Assassin's Creed Black Flag Resynced has already sold over 3.5 million copies, \"exceeding annual expectations within its first 14 days\"",
-      "link": "https://www.eurogamer.net/assassins-creed-black-flag-sales-exceed-annual-expectations",
-      "date": "2026-07-24T08:46:13.000Z",
-      "summary": "Assassin's Creed Black Flag is going from strength-to-strength for Ubisoft. After netting 2m sales in its opening few days (and then ascending to 3m within a week ), Ubisoft has just announced that th",
-      "source": "Eurogamer",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "《刺客信条：黑旗》重新同步版已售出超过 350 万份，“在发行的前 14 天内就超出了年度预期”",
-      "summaryZh": "育碧的《刺客信条黑旗》正在不断壮大。在开业几天内净销售额达到 200 万份（然后在一周内升至 300 万份）后，育碧刚刚宣布"
-    },
-    {
       "title": "新闻 | HoYoverse",
       "link": "https://www.hoyoverse.com/zh-cn/news",
       "date": "2026-07-24T07:42:00.000Z",
@@ -4763,18 +4821,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "Battlefield 6's newest and largest map is good, but I worry it will end up being nothing more than a curiosity",
-      "link": "https://www.eurogamer.net/battlefield-6-season-4-tsuru-reef-preview",
-      "date": "2026-07-20T16:00:00.000Z",
-      "summary": "There's been one thought I haven't been able to shake during my time with Battlefield 6 's upcoming Tsuru Reef map - the game's biggest yet, which arrives tomorrow with Season 4 . Tsuru Reef is the it",
-      "source": "Eurogamer",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "《战地 6》最新最大的地图不错，但我担心它最终会成为一种好奇",
-      "summaryZh": "在玩《战地 6》即将推出的鹤礁地图时，我始终无法动摇一个想法——该地图是游戏迄今为止最大的地图，将于明天随第四季一起发布。鹤礁就是它"
     },
     {
       "title": "米哈游就 “不正当竞争纠纷” 为案由，向B站提起诉讼；该案将 ...",
