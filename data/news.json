@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-02T05:25:21.655Z",
+  "updatedAt": "2026-09-02T09:18:36.132Z",
   "items": [
+    {
+      "title": "马里奥赛车8豪华版 新增八人分屏模式",
+      "link": "https://news.17173.com/content/09022026/170736908.shtml",
+      "date": "2026-09-02T17:07:36.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "暴雪嘉年华《魔兽世界》13.0资料片官宣在即！怀旧服Plus将至",
+      "link": "https://news.17173.com/content/09022026/133250156.shtml",
+      "date": "2026-09-02T13:32:50.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "韩国Nexon拟从暴雪手中收购《星际争霸》续作开发权",
+      "link": "https://www.3dmgame.com/news/202609/3952187.html",
+      "date": "2026-09-02T09:18:33.681Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "索尼音乐娱乐收购《仙境传说》开发商GungHo最大股权",
+      "link": "https://www.3dmgame.com/news/202609/3952163.html",
+      "date": "2026-09-02T09:18:33.681Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "KT不敌Gen.G，HLE、Gen.G与T1锁定《英雄联盟》全球总决赛席位",
+      "link": "https://www.3dmgame.com/news/202609/3952160.html",
+      "date": "2026-09-02T09:18:33.681Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
     {
       "title": "据传《GTA6》道德值系统将引入“崩坏”机制，过度制造混乱将导致角色无法被救赎",
       "link": "https://news.17173.com/content/09022026/091055745.shtml",
@@ -10,6 +60,70 @@
       "companies": [
         "mihoyo"
       ]
+    },
+    {
+      "title": "ONTOS: This Horrifying, Tantalizing Thriller Feels Like an Immersive Sim for Puzzle Gaming",
+      "link": "https://news.xbox.com/en-us/2026/09/02/ontos-preview-details-demo/",
+      "date": "2026-09-02T09:00:00.000Z",
+      "summary": "ONTOS is the kind of game you don’t stop thinking about, even after you’ve turned it off. And not just because it offers you the horrifying reality of the question: “What if a man’s consciousness was ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "ONTOS：这款令人毛骨悚然又引人入胜的惊悚游戏，仿佛是一款沉浸式解谜模拟游戏。",
+      "summaryZh": "ONTOS 是一款你即使关掉游戏后仍会不断回味的游戏。这不仅仅是因为它让你直面这样一个令人毛骨悚然的现实问题：“如果一个人的意识被……”"
+    },
+    {
+      "title": "杀青就撞上索尼发布会！顽皮狗《星际：异端先知》要有新消息了？",
+      "link": "https://www.gamersky.com/news/202609/2201616.shtml",
+      "date": "2026-09-02T08:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《战神4》奎爷祝福影视新奎爷 本人放弃出演机会",
+      "link": "https://www.gamersky.com/news/202609/2201602.shtml",
+      "date": "2026-09-02T08:46:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "新《战神》奎爷演员近照曝光！又高又壮 开蓄胡须",
+      "link": "https://www.gamersky.com/news/202609/2201565.shtml",
+      "date": "2026-09-02T08:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "曝《星际争霸3》可能要来了！暴雪或将IP卖给韩国人",
+      "link": "https://www.gamersky.com/news/202609/2201512.shtml",
+      "date": "2026-09-02T08:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe",
+      "link": "https://www.ign.com/articles/eight-player-splitscreen-added-to-mario-kart-8-deluxe",
+      "date": "2026-09-02T07:33:30.000Z",
+      "summary": "Nintendo has conjured up an eight-player splitscreen mode for Mario Kart 8 Deluxe, available now in a free update on Switch 2.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《马里奥卡丁车8 豪华版》新增八人分屏模式",
+      "summaryZh": "任天堂为《马里奥卡丁车8 豪华版》打造了八人分屏模式，现已通过免费更新在Switch 2上推出。"
     },
     {
       "title": "把AI塞满Windows！微软高管终于反思了",
@@ -96,6 +210,16 @@
       "summaryZh": "日本FC游戏库也迎来更新。Switch Online的NES经典游戏库今日新增三款游戏，作为2026年9月的游戏更新内容。此次新增的游戏包括《Tecm"
     },
     {
+      "title": "吴彦祖惊喜回归腾讯《三角洲行动》！",
+      "link": "https://www.gamersky.com/news/202609/2201068.shtml",
+      "date": "2026-09-02T01:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
       "title": "Mario Kart 8 Deluxe version 4.0.0 update now available, adds Switch 2 enhancements",
       "link": "https://www.gematsu.com/2026/09/mario-kart-8-deluxe-version-4-0-0-update-now-available-adds-switch-2-enhancements",
       "date": "2026-09-02T01:17:04.000Z",
@@ -176,6 +300,16 @@
       ],
       "titleZh": "《魔兽世界》房屋建造者分享的5个打造惊艳杰作的顶级技巧",
       "summaryZh": "向一些最优秀的《魔兽世界》房屋设计师学习，提升你的房屋建造水平。"
+    },
+    {
+      "title": "腾讯视频",
+      "link": "https://v.qq.com/x/search",
+      "date": "2026-09-01T22:48:00.000Z",
+      "summary": "腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、24小时多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求。",
+      "source": "必应资讯·腾讯",
+      "companies": [
+        "tencent"
+      ]
     },
     {
       "title": "Marvel’s Wolverine Inside Insomniac Games’ location-scanning trip to Japan",
@@ -1451,30 +1585,6 @@
       ]
     },
     {
-      "title": "Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer",
-      "link": "https://www.eurogamer.net/pokemon-tales-sirfetchd-pichu-trailer-disney-plus",
-      "date": "2026-08-29T09:55:50.000Z",
-      "summary": "The Pok&eacute;mon Company International and Aardman have released the first teaser trailer for Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu, a new stop-motion series set in the Galar",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《宝可梦故事：Sirfetch’d 与皮丘的历险记》发布首支预告片。",
-      "summaryZh": "宝可梦公司国际部与 Aardman 公司发布了《宝可梦故事：Sirfetch’d 与皮丘的历险记》的首支预告片，这是一部全新的定格动画系列，故事背景设定在伽勒尔地区。"
-    },
-    {
-      "title": "Talking Point: What Are You Playing This Weekend? (29th August)",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-29th-august",
-      "date": "2026-08-29T09:00:00.000Z",
-      "summary": "Kept you waiting, huh? Well folks, the weekend is here, which means it's time to kick back, forget the stress of the working week, and play some games. It's been quite the week for Nintendo fans. Game",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "谈话点：这个周末你都在玩什么？（8 月 29 日）",
-      "summaryZh": "让你们久等了，是吧？好了，各位，周末到了，这意味着是时候放松一下，忘掉工作周的压力，好好玩玩游戏了。对任天堂粉丝来说，这真是个不平凡的一周。游戏"
-    },
-    {
       "title": "Rayman Legends Retold Wins Best Switch 2 Game Award At Gamescom 2026",
       "link": "https://www.nintendolife.com/news/2026/08/rayman-legends-retold-wins-best-switch-2-game-award-at-gamescom-2026",
       "date": "2026-08-29T08:30:00.000Z",
@@ -2479,16 +2589,6 @@
       ]
     },
     {
-      "title": "索尼克来上海开了一场粉丝见面会：一个35年IP的变与不变",
-      "link": "https://www.yystv.cn/p/14323",
-      "date": "2026-08-25T16:00:00.000Z",
-      "summary": "1991年，初代《刺猬索尼克》登陆世嘉Mega Drive主机，很快成为那个时代最具代表性的角色之一。如今35年过去，这只蓝色刺猬已经跨越数个主机世代，从游戏一路走进了动画、电影等更广阔的世界。 上周末，在系列迎来35周年之际，索尼克团队也来到上海举办了粉丝见面会，创意总监星野一幸与音效总监大谷智哉一同到场，揭晓了上海限定海报，海报背景是东方明珠，索尼克则正捧着大闸蟹大快朵颐，颇具本地特色。 说实",
-      "source": "游研社",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "拳头新爆款背后，一家中国实体企业，打入一门曾被“日美垄断”的生意",
       "link": "https://www.yystv.cn/p/14322",
       "date": "2026-08-25T16:00:00.000Z",
@@ -2536,30 +2636,6 @@
       "summaryZh": "《使命召唤：现代战争 4》在 Steam 上的销量已接近 40 万份，远远领先于去年 Valve 平台上发布的《黑色行动 7》。这是根据里斯·艾尔的说法"
     },
     {
-      "title": "Resonance: A Plague Tale Legacy – A New Chapter with Action and… a Minotaur? | Official XBOX Podcast",
-      "link": "https://news.xbox.com/en-us/2026/08/24/resonance-a-plague-tale-legacy-a-new-chapter-with-action-and-a-minotaur-official-xbox-podcast/",
-      "date": "2026-08-24T17:05:00.000Z",
-      "summary": "On this episode of the Official XBOX Podcast, we’re sitting down with the team behind the upcoming Resonance: A Plague Tale Legacy to discuss the setting, the story, the combat, and how the team was a",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "共鸣：瘟疫传说遗产——行动新篇章和……牛头怪？ |官方 XBOX 播客",
-      "summaryZh": "在本期 XBOX 官方播客中，我们将与即将推出的《共鸣：瘟疫传说遗产》的幕后团队坐下来讨论背景、故事、战斗以及团队如何成为一名"
-    },
-    {
-      "title": "VR shooter Into the Radius 2 hits PS VR2 September 24",
-      "link": "https://blog.playstation.com/2026/08/24/vr-shooter-into-the-radius-2-hits-ps-vr2-september-24/",
-      "date": "2026-08-24T13:00:03.000Z",
-      "summary": "If you’ve stepped into the Pechorsk Anomaly before, you know that survival here isn’t about rushing in guns blazing. It’s about preparation, tactical patience, and respecting the unknown. On September",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "VR 射击游戏《Into the Radius 2》将于 9 月 24 日登陆 PS VR2",
-      "summaryZh": "如果你曾经踏入过佩乔尔斯克异常区，你就会知道这里的生存并不是冲进枪林弹雨。这关乎准备、战术耐心和尊重未知。九月"
-    },
-    {
       "title": "Animula Nook ‘Shrink at Gamescom 2026!’ trailer",
       "link": "https://www.gematsu.com/2026/08/animula-nook-shrink-at-gamescom-2026-trailer",
       "date": "2026-08-24T12:13:30.000Z",
@@ -2592,16 +2668,6 @@
       ]
     },
     {
-      "title": "对标Hello Kitty！索尼花重金打造新吉祥物IP",
-      "link": "https://www.3dmgame.com/news/202608/3950739.html",
-      "date": "2026-08-24T02:21:02.993Z",
-      "summary": "",
-      "source": "3DM厂商新闻",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "ONSIDE与T1晋级以韩国队伍为主的无畏契约第二阶段季后赛",
       "link": "https://news.17173.com/content/08232026/213745300.shtml",
       "date": "2026-08-23T21:37:45.000Z",
@@ -2629,16 +2695,6 @@
       "source": "17173",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "爆料称索尼PS6掌机定价低于600美元“绝无可能”",
-      "link": "https://www.3dmgame.com/news/202608/3951204.html",
-      "date": "2026-08-23T02:22:17.436Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3680,16 +3736,6 @@
       "summaryZh": "Lightspeed LA 表示将“改变 Last Sentinel 的创意和开发方向”。"
     },
     {
-      "title": "腾讯公司 - Tencent 腾讯",
-      "link": "https://www.tencent.com/index.php/zh-cn/about.html",
-      "date": "2026-08-07T22:20:00.000Z",
-      "summary": "腾讯于1998年11月成立，是一家互联网公司，通过技术丰富互联网用户的生活，助力企业数字化升级。 我们的使命是“用户为本 科技向善”。 Founded in 1998, Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the",
-      "source": "必应资讯·腾讯",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "《守望先锋》公布“D.Mon”英雄游戏预览",
       "link": "https://www.gcores.com/articles/218113",
       "date": "2026-08-07T16:25:53.000Z",
@@ -3732,27 +3778,6 @@
       ],
       "titleZh": "“可靠的军事故事讲述” ：育碧宣布全新《幽灵行动》游戏的播放测试，以及可观的《荒野》更新和《未来士兵》赠品",
       "summaryZh": "就像中央情报局在一场厚颜无耻的小政权更迭之前传播错误信息一样，育碧已经开始谈论他们的下一个适当的幽灵侦察游戏。根据现场制片人Irina-Gabriela Popa的说法，"
-    },
-    {
-      "title": "传说皮肤免费送！腾讯《逆战：未来》联动福利公开",
-      "link": "https://news.17173.com/content/08072026/111336881.shtml",
-      "date": "2026-08-07T11:13:36.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "游戏早报：网易《诡影藏锋》腾讯《怪猎》开测，多款新游将落地",
-      "link": "https://news.17173.com/content/08072026/093204413.shtml",
-      "date": "2026-08-07T09:32:04.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent",
-        "netease"
-      ]
     },
     {
       "title": "《彩虹六号：围攻》“炼狱”活动现已正式回归",
@@ -4807,30 +4832,6 @@
       "summaryZh": "迷倒互联网的短刺浣熊吉莫西即将来到《魔兽世界》。在过去的几周里，浣熊吉莫西（Jimothy）迅速走红，因为西雅图当地人"
     },
     {
-      "title": "Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW",
-      "link": "https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/",
-      "date": "2026-07-24T18:27:31.000Z",
-      "summary": "A Blizzard employee who used developer tools to allegedly help a group of friends complete a challenging Mythic+ dungeon in World of Warcraft is no longer with the company, Blizzard has confirmed. Ear",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪员工因涉嫌帮助朋友在《魔兽世界》中作弊而失业",
-      "summaryZh": "暴雪证实，一名暴雪员工据称使用开发者工具帮助一群朋友完成《魔兽世界》中具有挑战性的神话+地下城，该员工已不再在公司工作。耳朵"
-    },
-    {
-      "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run",
-      "link": "https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run",
-      "date": "2026-07-24T16:08:17.000Z",
-      "summary": "World of Warcraft studio Blizzard have announced that they've fired a developer after development-only spells were used to insta-kill some Mythic+ dungeon bosses for a party of non-dev adventurers. Th",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪解雇了《魔兽世界》开发商，原因是他们在地下城闯关期间使用禁止魔法为普通玩家秒杀头目",
-      "summaryZh": "魔兽世界工作室暴雪宣布，他们解雇了一名开发人员，原因是一群非开发冒险家使用仅限开发的咒语秒杀了一些神话+地下城的首领。钍"
-    },
-    {
       "title": "网易最离谱的新品，《遗忘之海》吓到我了",
       "link": "https://www.yystv.cn/p/14196",
       "date": "2026-07-24T16:00:00.000Z",
@@ -4873,16 +4874,6 @@
       ],
       "titleZh": "EA Sports FC 27 推出 150 美元新版，因为终极版还不够终极版",
       "summaryZh": "EA 的目标似乎是从消费者那里获取额外的现金，因为该公司不仅将提供 70 美元的标准版和 100 美元的“终极”版足球游戏 EA Sports FC 27，还将推出"
-    },
-    {
-      "title": "《魔兽世界》员工后台秒BOSS，只为带飞大雷美女主播",
-      "link": "https://news.17173.com/content/07242026/170844240.shtml",
-      "date": "2026-07-24T09:08:44.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "新闻 | HoYoverse",
