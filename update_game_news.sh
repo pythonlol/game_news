@@ -1,7 +1,8 @@
 #!/bin/bash
 # 每日从 GitHub 拉取最新生成的 index.html / feed.xml 到 /opt/game-news/
-# GitHub Actions 每天北京时间 09:00 / 13:00 两次触发(互为备份, 09:00 可能被 GitHub 跳过),
-# 建议本脚本的计划任务安排在 14:10 之后, 确保总能拉到当天数据; 也可 11:10 / 14:10 各跑一次
+# GitHub Actions 每天北京时间 09:00 / 13:00 两次触发, 但 GitHub 排队延迟约 4h,
+# 实际完成在 13:26 / 17:28 左右; cron 设为 10 14,19,22 * * * (北京时间 14:10/19:10/22:10),
+# 在两次 CI 完成后各拉一次, 22:10 兜底, 确保数据延迟不超过 5 小时
 set -u
 DEST_DIR=/opt/game-news
 LOG=$DEST_DIR/update.log
