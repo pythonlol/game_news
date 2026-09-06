@@ -1,6 +1,167 @@
 {
-  "updatedAt": "2026-09-05T08:49:36.451Z",
+  "updatedAt": "2026-09-06T05:28:30.829Z",
   "items": [
+    {
+      "title": "如何收看2026年9月任天堂直面会及Zelda 40周年直面会",
+      "link": "https://news.17173.com/content/09062026/090740524.shtml",
+      "date": "2026-09-06T09:07:40.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《求生之路 2》开发者承认，在遭 ESRB 拦截后，Valve 曾故意泄露自家预告片。",
+      "link": "https://news.17173.com/content/09062026/080821822.shtml",
+      "date": "2026-09-06T08:08:21.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "索尼澄清：PlayStation光盘产能将在2028年下降10%，而不是降到10%",
+      "link": "https://www.3dmgame.com/news/202609/3952501.html",
+      "date": "2026-09-06T05:28:28.191Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Xbox云游戏新时长上限据称恰好设为微软盈亏平衡点",
+      "link": "https://www.3dmgame.com/news/202609/3952499.html",
+      "date": "2026-09-06T05:28:28.191Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "任天堂官方授权NS2 microSD Ex推出512GB新品 10月1日上市",
+      "link": "https://www.3dmgame.com/news/202609/3952490.html",
+      "date": "2026-09-06T05:28:28.191Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "育碧星战3A首次被破解！黑客V38又出手",
+      "link": "https://www.gamersky.com/news/202609/2204018.shtml",
+      "date": "2026-09-06T03:04:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "曝《美末》艾莉故事或将继续 还有战神汤米衍生作！",
+      "link": "https://www.gamersky.com/news/202609/2204009.shtml",
+      "date": "2026-09-06T02:03:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
+      "link": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
+      "date": "2026-09-06T00:04:16.000Z",
+      "summary": "Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "如何观看2026年9月任天堂Direct及塞尔达40周年纪念Direct",
+      "summaryZh": "任天堂将于今年9月大手笔推出两场任天堂Direct直播，连续两天播出。以下是您需要了解的一切。"
+    },
+    {
+      "title": "运营时长两年半，团战神作退场！又一款韩国MMO台服官宣停运",
+      "link": "https://news.17173.com/content/09062026/000000351.shtml",
+      "date": "2026-09-06T00:00:00.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release",
+      "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
+      "date": "2026-09-05T23:03:05.000Z",
+      "summary": "Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer.",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《左4死2》开发团队承认，Valve故意泄露了自己的预告片，此前ESRB曾阻止其发布。",
+      "summaryZh": "前Valve编剧切特·法利塞克有个秘密要坦白：Valve故意泄露了自家的《左4死2》预告片。"
+    },
+    {
+      "title": "Maneater Sequel Now In Development For Switch 2, Surfacing 2027",
+      "link": "https://www.nintendolife.com/news/2026/09/maneater-sequel-now-in-development-for-switch-2-surfacing-2027",
+      "date": "2026-09-05T21:00:00.000Z",
+      "summary": "\"The ultimate apex predator is back\". During the PlayStation 'State of Play' broadcast this week, Tripwire Interactive and Demiurge Studios made a splash with Maneater 2 . This \"open-water action-RPG\"",
+      "source": "Nintendo Life",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "《食人鱼》续作现已进入Switch 2开发阶段，预计2027年面世。",
+      "summaryZh": "“终极顶级掠食者回归了。”在本周的PlayStation“状态播放”直播中，Tripwire Interactive与Demiurge Studios凭借《食人鱼2》掀起了一波热潮。这是一款“开放水域动作RPG”。"
+    },
+    {
+      "title": "The ESRB wouldn't let Valve release the cinematic trailer for Left 4 Dead 2, so what did they do? They \"leaked\" it, obviously",
+      "link": "https://www.rockpapershotgun.com/the-esrb-wouldnt-let-valve-release-the-cinematic-trailer-for-left-4-dead-2-so-what-did-they-do-they-leaked-it-obviously",
+      "date": "2026-09-05T18:08:03.000Z",
+      "summary": "My only experience of Left 4 Dead 2 is a handful of sessions in my youth where a friend handed me a controller (me, a person whose shooter experience extended to Ratchet and Clank at the time), told m",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "ESRB不许Valve发布《左4死2》的电影级预告片，那他们怎么办？显然，他们“泄露”了。",
+      "summaryZh": "我对《左4死2》的唯一体验，就是年轻时和朋友一起玩了几局——当时我是个射击游戏经验仅限于《瑞奇与叮当》的人，朋友递给我一个手柄，然后告诉我……"
+    },
+    {
+      "title": "The Best Deals Today: Nintendo Switch 2 Consoles, Granblue Fantasy: Relink, Fire Emblem: Fortune's Weave, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-september-5-2026",
+      "date": "2026-09-05T15:45:43.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "今日最佳优惠：任天堂Switch 2主机、《碧蓝幻想：重联》、《火焰纹章：命运之绊》等多款好物。"
+    },
+    {
+      "title": "无影无踪，核周报9.5",
+      "link": "https://www.gcores.com/radios/218978",
+      "date": "2026-09-05T15:00:00.000Z",
+      "summary": "本期时间轴制作：西楼 本周要闻：《最终幻想7 启示录》领衔索尼双场 State of Play公布众多游戏消息；Valve 遭遇史上最大规模游戏泄露；GTA 6 Netflix 首播 4 天狂揽 3110 万观看；Steam 单周上架 720 款新游戏创历史纪录；中国游戏斩获科隆展两项大奖，《燕云十六声》全球玩家破亿；光线传媒确认首款 3A 游戏制作中等。",
+      "source": "机核",
+      "companies": [
+        "netease",
+        "sony",
+        "valve"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛》主题Cos视频 多套角色造型亮相",
+      "link": "https://www.gamersky.com/news/202609/2203981.shtml",
+      "date": "2026-09-05T14:02:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "100 Thieves 锁定 无畏契约 全球冠军赛席位，LOUD 击败 G2",
       "link": "https://news.17173.com/content/09052026/113719549.shtml",
@@ -12,6 +173,28 @@
       ]
     },
     {
+      "title": "Left 4 Dead 2 writer says Valve intentionally 'leaked' its cinematic trailer to get around ESRB rules: 'I think we can't get trouble for that now'",
+      "link": "https://www.pcgamer.com/games/fps/left-4-dead-2-writer-says-valve-intentionally-leaked-its-cinematic-trailer-to-get-around-esrb-rules-i-think-we-cant-get-trouble-for-that-now/",
+      "date": "2026-09-05T10:40:07.000Z",
+      "summary": "Chet Faliszek says the ESRB \"wouldn't let\" Valve release the trailer.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《左4死2》编剧称，Valve故意“泄露”其电影级预告片以绕过ESRB规定：“我觉得现在我们不会因此惹上麻烦了。”",
+      "summaryZh": "切特·法利塞克表示，ESRB“不许”Valve发布该预告片。"
+    },
+    {
+      "title": "1249元的512GB存储卡！任天堂官方认证 质量有保障",
+      "link": "https://www.gamersky.com/news/202609/2203895.shtml",
+      "date": "2026-09-05T09:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
       "title": "2026年9月任天堂直面会与塞尔达40周年直面会的14个预测",
       "link": "https://news.17173.com/content/09052026/090811608.shtml",
       "date": "2026-09-05T09:08:11.000Z",
@@ -20,6 +203,18 @@
       "companies": [
         "nintendo"
       ]
+    },
+    {
+      "title": "Talking Point: What Are You Playing This Weekend? (5th September)",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-5th-september",
+      "date": "2026-09-05T09:00:00.000Z",
+      "summary": "The one and Oni. Ah, the weekend! With the working week behind us, it's finally time to put our feet up and tuck into some games. It was a reasonably quiet one in the world of Nintendo this week, but ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "讨论话题：这个周末你都在玩什么？（9月5日）",
+      "summaryZh": "一个是《Oni》，另一个是周末！工作周终于结束了，终于可以放松一下，好好享受游戏时光了。本周任天堂圈相对平静，但……"
     },
     {
       "title": "法国零售商疑似泄露《塞尔达时之笛》重制版Switch2主机配件",
@@ -1436,26 +1631,6 @@
       ]
     },
     {
-      "title": "双人太空冒险游戏《轨道双子星》现已登陆 Nintendo Switch™ 2",
-      "link": "https://www.3dmgame.com/news/202609/3952278.html",
-      "date": "2026-09-03T05:26:43.229Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《爱氏物语》NS版确定于2026年9月17日发售",
-      "link": "https://www.gcores.com/articles/219184",
-      "date": "2026-09-03T05:19:56.000Z",
-      "summary": "株式会社Happinet宣布，由旗下从世界各地精选并发行优秀独立游戏的游戏品牌“Happinet Indie Collection”推出的《爱氏物语》，Nintendo Switch实体版/下载版，将于2026年9月17日（星期四）正式发售。 <内嵌内容，请前往机核查看> 此外，下载版将于今日起在Nintendo Store开启预购。 本作曾在2026年5月22日起举办的“BitSummit PU",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "PlayStation State Of Play September 2026: Start Time, How To Watch, And What To Expect",
       "link": "https://www.gamespot.com/articles/playstation-state-of-play-september-2026-start-time-how-to-watch-and-what-to-expect/",
       "date": "2026-09-03T04:00:00.000Z",
@@ -1468,38 +1643,6 @@
       "summaryZh": "就在你以为游戏展后视频游戏直播会迎来一段休整期时，索尼突然宣布“状态直播”将回归，并带来两场连续播出的节目。正如"
     },
     {
-      "title": "任天堂官宣实用更新！功能全面进化 更惊艳",
-      "link": "https://www.gamersky.com/news/202609/2202172.shtml",
-      "date": "2026-09-03T02:59:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Nintendo Switch App Update Adds Some Handy New Features",
-      "link": "https://www.nintendolife.com/news/2026/09/nintendo-switch-app-update-adds-some-handy-new-features",
-      "date": "2026-09-03T02:55:00.000Z",
-      "summary": "Download it today. Nintendo has already released multiple game updates this week, and it's now rolled out a new software update for its Nintendo Switch App on mobile devices. This is the first update ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂Switch应用更新新增多项实用功能",
-      "summaryZh": "立即下载吧！任天堂本周已发布了多款游戏更新，现在又为移动设备上的任天堂Switch应用推出了全新软件更新。这是首次更新"
-    },
-    {
-      "title": "《异度之刃》团队开发！《塞尔达传说：时之笛 重制版》新爆料",
-      "link": "https://www.gamersky.com/news/202609/2202133.shtml",
-      "date": "2026-09-03T02:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Xbox网络再度中断7小时，微软深表歉意",
       "link": "https://www.gcores.com/articles/219167",
       "date": "2026-09-03T02:03:47.000Z",
@@ -1507,26 +1650,6 @@
       "source": "机核",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "指令战斗式RPG《Another Eden Begins》现已上线试玩版",
-      "link": "https://www.gcores.com/articles/219173",
-      "date": "2026-09-03T02:01:00.000Z",
-      "summary": "Wright Flyer Studios宣布，预计于2026年9月17日（周四）登陆Nintendo Switch 2 ／Nintendo Switch ／Steam 平台的时间旅行RPG《Another Eden Begins》，其免费试玩版已于2026年9月2日（星期三）23:00起正式上线。在试玩版中，玩家可从游戏开篇体验至主线剧情第6章。此外，在试玩版中创建的存档数据可继承至正式版。 <内",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "双人太空冒险游戏《轨道双子星》现已登陆 Nintendo Switch 2",
-      "link": "https://www.gcores.com/articles/219166",
-      "date": "2026-09-03T01:54:06.000Z",
-      "summary": "由东京开发商 Shapefarm制作，游戏发行商兼创意工作室 Kepler Interactive 发行的复古动漫风格合作游戏《轨道双子星》今日在 Nintendo Switch 2 正式发售。 <内嵌内容，请前往机核查看> 在《轨道双子星》中，玩家将携手扮演真希与尾村这对形影不离的探险搭档，共同面对宇宙的重重险境，拯救日渐崩毁的太空站家园。游戏以80、90年代经典动画为灵感，打造了精美的太空世界",
-      "source": "机核",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1600,40 +1723,6 @@
       "summaryZh": "每周三，深入探索独立精选中心——这是你通往新鲜、精选独立游戏库的大门，每周还有四个主题聚焦轮番登场！你总能在XBOX上找到这个精选中心"
     },
     {
-      "title": "Players’ Choice: Vote for August’s best new game",
-      "link": "https://blog.playstation.com/2026/09/02/players-choice-vote-for-augusts-best-new-game-3/",
-      "date": "2026-09-02T15:30:32.000Z",
-      "summary": "Last month was filled with superhero spectacles, bonding with friends, and a few heavy hitters! Some big new releases included MARVEL Tōkon: Fighting Souls, Big Walk, Beast of Reincarnation, and Madde",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "玩家之选：投票选出8月最佳新游",
-      "summaryZh": "上个月充满了超级英雄大片、与朋友欢聚的时光，还有几款重量级作品！一些重磅新作包括《MARVEL斗魂：战斗灵魂》、《大步行》、《轮回兽》和《Madde》"
-    },
-    {
-      "title": "曝索尼施压《GTA6》优化 PS5 Pro版或解锁更高帧率",
-      "link": "https://www.gamersky.com/news/202609/2202038.shtml",
-      "date": "2026-09-02T15:30:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "Spooky cute puzzler Fangtopia launches on PS5 October 26",
-      "link": "https://blog.playstation.com/2026/09/02/spooky-cute-puzzler-fangtopia-launches-on-ps5-october-26/",
-      "date": "2026-09-02T14:00:02.000Z",
-      "summary": "It’s nearly time to rise from the crypt and build your kingdom! Our upcoming cozy puzzle game Fangtopia has been lurking in the shadows and is ready to creepy-crawl onto PlayStation 5 on October 26 – ",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "可爱又惊悚的解谜游戏《方托皮亚》将于10月26日登陆PS5",
-      "summaryZh": "几乎要从墓穴中爬出来了，准备建造你的王国啦！我们即将推出的温馨解谜游戏《方托皮亚》一直潜伏在暗处，现已蓄势待发，将于10月26日 creepy-crawl 地登陆PlayStation 5——"
-    },
-    {
       "title": "RuneScape Arrives on XBOX for the First Time in 25 Years with Survival Adventure RuneScape: Dragonwilds!",
       "link": "https://news.xbox.com/en-us/2026/09/02/runescape-dragonwilds-release-date/",
       "date": "2026-09-02T14:00:00.000Z",
@@ -1678,16 +1767,6 @@
       ],
       "titleZh": "3万款游戏已通过Steam Deck验证，或至少在Valve的掌机上“可玩”。",
       "summaryZh": "实际体验，随时随地。"
-    },
-    {
-      "title": "《Fate/Extra 重制版》重大变动：索尼发行！",
-      "link": "https://www.gamersky.com/news/202609/2201900.shtml",
-      "date": "2026-09-02T12:16:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
     },
     {
       "title": "The next StarCraft may not be made by Blizzard, according to a new report",
@@ -2678,16 +2757,6 @@
       "source": "17173",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "Xbox官宣光盘转数字版游戏功能，8月31日开启测试",
-      "link": "https://www.gcores.com/articles/218846",
-      "date": "2026-08-27T01:30:00.000Z",
-      "summary": "微软于日前宣布，Xbox 即将允许玩家将实体光盘转化为数字版游戏的授权许可。据悉，玩家只需将受支持的实体光盘插入Xbox One 或 Xbox Series X 主机并启动游戏，即可领取数字版授权。Xbox Insider 测试人员可在8月31日开始参与测试。 获得授权后，玩家能够享有 Xbox Play Anywhere 和 Xbox 云游戏等数字版权益。与此同时，实体光盘依然可以照常使用。官方",
-      "source": "机核",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -4820,18 +4889,6 @@
       ],
       "titleZh": "EA CEO大幅加薪，公司裁员开发者",
       "summaryZh": "当沙特对艺电的杠杆收购最终完成后，这家新成立的私有公司将无需向公众披露任何财务文件。与此同时，EA最新的财经光盘"
-    },
-    {
-      "title": "Shrek Comes To Ubisoft’s Popular Fighting Game",
-      "link": "https://www.gamespot.com/articles/shrek-comes-to-ubisofts-popular-fighting-game/",
-      "date": "2026-07-29T18:04:21.000Z",
-      "summary": "After Shrek was added to a popular soccer game , everyone's favorite green ogre is now in Ubisoft's fighting game Brawlhalla. Shrek is popping up all over the place this year to help celebrate the 25t",
-      "source": "GameSpot",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "《怪物史莱克》登陆育碧热门格斗游戏",
-      "summaryZh": "在《史莱克》被加入一款热门足球游戏后，大家最喜欢的绿色食人魔现在出现在育碧的格斗游戏《乱斗》中。今年《怪物史莱克》在各地不断出现，以庆祝25吨的庆祝"
     },
     {
       "title": "After laying off Battlefield 6 developers, EA pays its CEO $38 million because Battlefield 6 did so well",
