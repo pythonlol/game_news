@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:09:37.237Z",
+  "updatedAt": "2026-09-07T05:38:54.212Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -8,11 +8,6 @@
     },
     {
       "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -27,12 +22,12 @@
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -42,9 +37,9 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
+      "name": "必应资讯·原神",
       "status": "ok",
-      "count": 10
+      "count": 7
     },
     {
       "name": "必应资讯·暴雪",
@@ -57,9 +52,9 @@
       "count": 15
     },
     {
-      "name": "Gematsu",
+      "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "name": "Eurogamer",
@@ -68,6 +63,11 @@
     },
     {
       "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "Gematsu",
       "status": "ok",
       "count": 20
     },
@@ -89,7 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 100
+      "count": 97
     },
     {
       "name": "游研社",
@@ -104,12 +104,12 @@
     {
       "name": "17173",
       "status": "ok",
-      "count": 25
+      "count": 24
     },
     {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 35
+      "count": 34
     }
   ]
 }
