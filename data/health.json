@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:57:30.890Z",
+  "updatedAt": "2026-09-08T05:35:05.442Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -7,12 +7,7 @@
       "count": 20
     },
     {
-      "name": "必应资讯·王者荣耀",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·腾讯",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -22,17 +17,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·网易",
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·原神",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -42,14 +32,24 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
+      "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
     {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 7
+      "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -67,14 +67,14 @@
       "count": 20
     },
     {
-      "name": "Gematsu",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
+    },
+    {
+      "name": "Gematsu",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "Rock Paper Shotgun",
@@ -102,14 +102,14 @@
       "count": 20
     },
     {
-      "name": "17173",
-      "status": "ok",
-      "count": 24
-    },
-    {
       "name": "3DM游戏网",
       "status": "ok",
       "count": 34
+    },
+    {
+      "name": "17173",
+      "status": "fail",
+      "error": "fetch failed"
     }
   ]
 }
