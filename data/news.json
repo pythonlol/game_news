@@ -1,6 +1,666 @@
 {
-  "updatedAt": "2026-09-08T09:22:53.415Z",
+  "updatedAt": "2026-09-09T05:41:48.660Z",
   "items": [
+    {
+      "title": "我们在《塞尔达传说：时之笛 3D Remake》实机演示中发现的40处改动",
+      "link": "https://news.17173.com/content/09092026/073215310.shtml",
+      "date": "2026-09-09T07:32:15.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达王国之泪》新NS2手柄公开 破败大师剑主题",
+      "link": "https://www.3dmgame.com/news/202609/3952757.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《战地风云》禁区冲突公布全新急速大逃杀模式、引入近距离语音聊天、加入现金杯、公开系列赛以及精英赛事回",
+      "link": "https://www.3dmgame.com/news/202609/3952750.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "为了原汁原味 《塞尔达传说：时之笛 重制版》故意加入加载画面",
+      "link": "https://www.3dmgame.com/news/202609/3952744.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "XBOX\"光盘转数字\"受阻 育碧、SE等大厂游戏暂不支持兑换",
+      "link": "https://www.3dmgame.com/news/202609/3952742.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "《漫威争锋》第10赛季9月11日上线，屠神者格尔登场，洛基阵亡",
+      "link": "https://www.3dmgame.com/news/202609/3952741.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "曝《星际争霸》FPS新作非命运式 玩法接近星际战士2",
+      "link": "https://www.3dmgame.com/news/202609/3952604.html",
+      "date": "2026-09-09T05:41:41.651Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database",
+      "link": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
+      "date": "2026-09-09T04:55:00.000Z",
+      "summary": "New Zelda amiibo were announced yesterday. We're just hours out from today's Nintendo Direct , and GameStop's internal database has reportedly been updated with a \"ton of new unnamed amiibo\". Read the",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "多款 amiibo 商品似乎已在 GameStop 的内部数据库中被发现。",
+      "summaryZh": "新款塞尔达 amiibo 昨日已宣布。距离今天的任天堂 Direct 活动仅剩几个小时，据称 GameStop 的内部数据库已更新，新增了“大量未命名的 amiibo”。阅读全文"
+    },
+    {
+      "title": "奎爷演员称《战神：劳菲》很炸裂！玩家将被彻底震撼",
+      "link": "https://www.gamersky.com/news/202609/2206053.shtml",
+      "date": "2026-09-09T04:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "国产《未眠野》开启预约！塞尔达粉:这是谁的部将？",
+      "link": "https://www.gamersky.com/news/202609/2206046.shtml",
+      "date": "2026-09-09T04:15:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》角色模型汇总！大小林克 小塞尔达 加侬等",
+      "link": "https://www.gamersky.com/news/202609/2206016.shtml",
+      "date": "2026-09-09T03:49:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "国产新游《未眠野》首曝PV！玩法类似《塞尔达传说》",
+      "link": "https://www.gamersky.com/news/202609/2206014.shtml",
+      "date": "2026-09-09T03:46:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "ICYMI: Ocarina Of Time On Switch 2 Enhances Link's Adventure With Jump And Dash Controls",
+      "link": "https://www.nintendolife.com/news/2026/09/icymi-ocarina-of-time-on-switch-2-enhances-links-adventure-with-jump-and-dash-controls",
+      "date": "2026-09-09T03:45:00.000Z",
+      "summary": "\"Modern camera movements\" have also been added. Yesterday, Nintendo gave us our first proper look at The Legend of Zelda: Ocarina of Time , revealing an updated version of Link and \"overhauled\" visual",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "如果你错过了：Switch 2 上的《时之笛》为林克的冒险增添了跳跃与冲刺操控功能。",
+      "summaryZh": "此外还加入了“现代镜头运动”。昨日，任天堂首次正式展示了《塞尔达传说：时之笛》，揭示了升级版的林克以及“全面翻新的”视觉效果。"
+    },
+    {
+      "title": "《时之笛》三代同框！林克塞尔达德库树对比 变化太明显",
+      "link": "https://www.gamersky.com/news/202609/2206012.shtml",
+      "date": "2026-09-09T03:43:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》全新6分钟实机！直面会上未公布内容",
+      "link": "https://www.gamersky.com/news/202609/2206004.shtml",
+      "date": "2026-09-09T03:33:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版[》重大改动！完整配音剧情加强沉浸感",
+      "link": "https://www.gamersky.com/news/202609/2206002.shtml",
+      "date": "2026-09-09T03:32:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "恶心！《塞尔达传说 时之笛 重制版》玩家预判黄牛操作:套盒送PSA评级",
+      "link": "https://www.gamersky.com/news/202609/2206001.shtml",
+      "date": "2026-09-09T03:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达》NS2限定机售价公开！美版逼近3500元",
+      "link": "https://www.gamersky.com/news/202609/2205993.shtml",
+      "date": "2026-09-09T03:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》48张实机截图！战斗解谜剧情场景等",
+      "link": "https://www.gamersky.com/news/202609/2205983.shtml",
+      "date": "2026-09-09T03:08:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "索尼|微软|任天堂统一战线！玩家自愿的不欠玩家",
+      "link": "https://www.gamersky.com/news/202609/2205971.shtml",
+      "date": "2026-09-09T02:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ]
+    },
+    {
+      "title": "《潜水员戴夫》全球累计销量突破1000万套",
+      "link": "https://www.gcores.com/articles/219447",
+      "date": "2026-09-09T02:48:23.000Z",
+      "summary": "韩国游戏公司MINTROCKET今日正式宣布，旗下作品《潜水员戴夫》自2022年10月开启抢先体验以来，在PC、PlayStation 4、PlayStation 5、Xbox、Nintendo Switch／Nintendo Switch 2以及移动平台的全球本体累计销量已突破1000万套。 这一里程碑恰好在《潜水员戴夫》手游版（Android、iOS）9月17日全球上线前夕达成。此前，由心动网",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Zelda's Limited-Edition Switch 2 And Other 40th Anniversary Items Are Already Selling Out, Unsurprisingly",
+      "link": "https://www.nintendolife.com/news/2026/09/zeldas-limited-edition-switch-2-and-other-40th-anniversary-items-are-already-selling-out-unsurprisingly",
+      "date": "2026-09-09T02:45:00.000Z",
+      "summary": "Scalpers aren't helping the situation, either. Nintendo has only just revealed its new Zelda -themed Switch 2, Pro Controller and Ocarina of Time amiibo, but it seems stock is already running dry in c",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "塞尔达主题 Switch 2 及其他 40 周年纪念商品早已开始热销，这并不令人意外。",
+      "summaryZh": "黄牛党也加剧了这一局面。任天堂刚刚公布了全新的塞尔达主题 Switch 2、Pro 控制器和《时之笛》amiibo，但似乎库存已经所剩无几。"
+    },
+    {
+      "title": "《英雄联盟》海克斯大乱斗官宣大更新！开局得看剧 能骑大火箭",
+      "link": "https://www.gamersky.com/news/202609/2205961.shtml",
+      "date": "2026-09-09T02:41:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Polygon直言新版塞尔达拉完了！《塞尔达传说：时之笛 重制版》毁原作 精灵像地精",
+      "link": "https://www.gamersky.com/news/202609/2205945.shtml",
+      "date": "2026-09-09T02:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》对比原版 架构基本保留 画面极致进化",
+      "link": "https://www.gamersky.com/news/202609/2205926.shtml",
+      "date": "2026-09-09T02:09:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Nintendo Direct September 2026: Start Time, How To Watch, And What To Expect",
+      "link": "https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/",
+      "date": "2026-09-09T02:00:00.000Z",
+      "summary": "With yesterday's Legend of Zelda Direct in the bag, it's time to take a broader look at what's coming to Switch consoles with the September Nintendo Direct. Yesterday's broadcast was mostly focused on",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "2026 年 9 月任天堂 Direct：直播时间、观看方式及期待内容",
+      "summaryZh": "随着昨日的《塞尔达传说》Direct 活动圆满结束，现在是时候更广泛地展望 9 月任天堂 Direct 将为 Switch 主机带来哪些新内容了。昨日的直播主要聚焦于……"
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》评价两极 混搭被玩家骂太丑了",
+      "link": "https://www.gamersky.com/news/202609/2205921.shtml",
+      "date": "2026-09-09T01:59:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "社恐玩家NS2麦克风有用了！适配《塞尔达传说：时之笛 重制版》",
+      "link": "https://www.gamersky.com/news/202609/2205914.shtml",
+      "date": "2026-09-09T01:51:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "神作翻新遭痛批！《塞尔达时之笛》画风被吐槽",
+      "link": "https://www.gamersky.com/news/202609/2205903.shtml",
+      "date": "2026-09-09T01:35:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
+      "link": "https://www.nintendolife.com/news/2026/09/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
+      "date": "2026-09-09T01:30:00.000Z",
+      "summary": "Look! The digital listing for the Switch 2 version of The Legend of Zelda: Ocarina of Time is now live on the eShop and it includes the game's estimated file size. According to Nintendo's official sto",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说：时之笛 Switch 2》预计文件大小曝光",
+      "summaryZh": "看！《塞尔达传说：时之笛 Switch 2》版本的数字商城页面现已上线，其中包含了游戏的预计文件大小。根据任天堂官方商店的信息……"
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》故意保留加载画面！任天堂：原版游戏的精髓",
+      "link": "https://www.gamersky.com/news/202609/2205895.shtml",
+      "date": "2026-09-09T01:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》不是钥匙卡！首批预购还免费送精美外盒",
+      "link": "https://www.gamersky.com/news/202609/2205887.shtml",
+      "date": "2026-09-09T01:06:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》引发口水战！DLSS 5风格 像虚幻4同人？",
+      "link": "https://www.gamersky.com/news/202609/2205886.shtml",
+      "date": "2026-09-09T00:48:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Zelda: Master Collection Trading Cards Are On The Way",
+      "link": "https://www.nintendolife.com/news/2026/09/zelda-master-collection-trading-cards-are-on-the-way",
+      "date": "2026-09-09T00:45:00.000Z",
+      "summary": "Celebrating 40 years of Link. Nintendo has announced all sorts of merch for The Legend of Zelda 's 40th anniversary, but one item you might have missed is the new trading card series. Read the full ar",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "塞尔达：大师合集交易卡即将推出",
+      "summaryZh": "庆祝林克诞生 40 周年。任天堂为《塞尔达传说》40 周年推出了各种周边商品，不过有一项你可能没注意到——那就是全新的交易卡系列。阅读全文"
+    },
+    {
+      "title": "《塞尔达传说》电影没有副标题！宫本茂解释：40年历史融合",
+      "link": "https://www.gamersky.com/news/202609/2205885.shtml",
+      "date": "2026-09-09T00:20:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "6 Minutes Of Extra Ocarina Of Time Remake Gameplay",
+      "link": "https://www.gamespot.com/videos/6-minutes-of-extra-ocarina-of-time-remake-gameplay/",
+      "date": "2026-09-09T00:00:00.000Z",
+      "summary": "Nintendo gave us a decent slice of gameplay during the 40th anniversary Zelda direct. But they did not show everything, on their website lies tons of additional footage that was not shown during the s",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《时之笛》重制版额外 6 分钟游戏实况",
+      "summaryZh": "任天堂在 40 周年塞尔达 Direct 中为我们呈现了一段相当精彩的实况片段。但他们并未展示全部内容，官网还隐藏着大量未在直播中播放的额外画面。"
+    },
+    {
+      "title": "Every Legend of Zelda Game on the Nintendo Switch and Switch 2 in 2026",
+      "link": "https://www.ign.com/articles/all-zelda-games-on-nintendo-switch",
+      "date": "2026-09-08T21:47:00.000Z",
+      "summary": "Every Zelda game you can check out on the Nintendo Switch, plus the new upgrades, games, and features coming to the Switch 2.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "2026 年任天堂 Switch 和 Switch 2 上的所有《塞尔达传说》游戏",
+      "summaryZh": "所有你能在 Nintendo Switch 上体验的塞尔达游戏，以及 Switch 2 即将推出的全新升级、游戏和功能。"
+    },
+    {
+      "title": "40 Changes We Noticed in the Zelda: Ocarina of Time Remake Gameplay Footage",
+      "link": "https://www.ign.com/articles/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-gameplay-footage",
+      "date": "2026-09-08T21:44:55.000Z",
+      "summary": "Here are 40 changes we saw when comparing Ocarina of Time on Switch 2 to the N64 version, from things as large as the art style all the way to small menu changes and UI differences.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "我们在《塞尔达传说：时之笛》重制版实况片段中注意到的 40 处变化",
+      "summaryZh": "以下是我们在对比 Switch 2 上的《时之笛》与 N64 版本时发现的 40 处变化，从美术风格这样宏大的改动，到细微的菜单调整和 UI 差异，应有尽有。"
+    },
+    {
+      "title": "Get the Lowest Price on a Memory Card for Your New Legend of Zelda Nintendo Switch 2 Console",
+      "link": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-with-your-nintendo-switch-2-zelda-preorder",
+      "date": "2026-09-08T21:30:00.000Z",
+      "summary": "The upcoming Ocarina of Time and Fire Emblem: Fortune's Weave games will take up nearly 30GB each.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "为你的全新《塞尔达传说》Nintendo Switch 2 主机选购最优惠的内存卡",
+      "summaryZh": "即将推出的《时之笛》和《火焰纹章：命运的编织》游戏每款都将占用近 30GB 的存储空间。"
+    },
+    {
+      "title": "Why Is Link The Worst-Looking Character In The Ocarina Of Time Remake?",
+      "link": "https://www.gamespot.com/articles/why-is-link-the-worst-looking-character-in-the-ocarina-of-time-remake/",
+      "date": "2026-09-08T19:18:26.000Z",
+      "summary": "The Legend of Zelda: Ocarina of Time remake was always going to prove divisive. Whether it strove to be a faithful retelling or a bold reimagining like Final Fantasy 7 Remake , Zelda’s 3D debut is so ",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "为什么林克是《时之笛》重制版中长相最差的角色？",
+      "summaryZh": "《塞尔达传说：时之笛》重制版注定会引发争议。无论它力求忠实还原，还是像《最终幻想7重制版》那样大胆重塑，《塞尔达》的3D首秀都如此……"
+    },
+    {
+      "title": "The Internet Reacts To Zelda: Ocarina Of Time’s Changes",
+      "link": "https://www.gamespot.com/articles/the-internet-reacts-to-zelda-ocarina-of-times-changes/",
+      "date": "2026-09-08T18:50:28.000Z",
+      "summary": "Following the reveal of The Legend of Zelda: Ocarina of Time's remake earlier this year, Nintendo shared an extended look at the game during the company's latest Direct . Naturally, players have been ",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "网络对《塞尔达传说：时之笛》的改动做出反应",
+      "summaryZh": "在今年早些时候《塞尔达传说：时之笛》重制版公布后，任天堂在公司最新的Direct直播中分享了游戏的更多内容。自然而然，玩家们一直……"
+    },
+    {
+      "title": "Is The Zelda: Ocarina Of Time Remake Even Bothering With Its Big Twist?",
+      "link": "https://www.gamespot.com/articles/is-the-zelda-ocarina-of-time-remake-even-bothering-with-its-big-twist/",
+      "date": "2026-09-08T18:45:44.000Z",
+      "summary": "The Legend of Zelda: Ocarina of Time for Switch 2 looks to be a faithful remake in a lot of ways, with some light modernization touches here and there. The story as we've seen it also looks very faith",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说：时之笛》重制版甚至还在纠结它的大反转吗？",
+      "summaryZh": "任天堂Switch 2版的《塞尔达传说：时之笛》在很多方面都堪称忠实重制，只在一些细节上稍作现代化处理。我们所看到的故事也看起来非常忠实……"
+    },
+    {
+      "title": "Call of Duty: Black Ops 7 and Warzone Season 06 launches The Haunting September 17",
+      "link": "https://blog.playstation.com/2026/09/08/call-of-duty-black-ops-7-and-warzone-season-06-launches-the-haunting-september-17/",
+      "date": "2026-09-08T18:43:44.000Z",
+      "summary": "The Haunting is spreading its evil throughout Season 06 with a supernatural update launching new maps, modes, weapons, events, and more across Call of Duty: Black Ops 7 and Call of Duty: Warzone, arri",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "《使命召唤：黑色行动7》与《战区》第06赛季将于9月17日推出“幽灵之夜”",
+      "summaryZh": "“幽灵之夜”正以超自然更新席卷第06赛季，为《使命召唤：黑色行动7》和《使命召唤：战区》带来全新地图、模式、武器、活动等等，……"
+    },
+    {
+      "title": "We Need To See How Messed Up Majora’s Mask’s Moon Will Be In Ocarina of Time’s New Art Style",
+      "link": "https://www.gamespot.com/articles/we-need-to-see-how-messed-up-majoras-masks-will-be-in-ocarina-of-times-new-art-style/",
+      "date": "2026-09-08T18:42:34.000Z",
+      "summary": "There's no denying that The Legend of Zelda: Ocarina of Time remake looks weird. Whether you think it skews too far into the direction of realism or you're bawling your eyes out over how good Hyrule l",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "我们需要看看《时之笛》新美术风格下，马里奥的面具之月会变得多么疯狂！",
+      "summaryZh": "不可否认，《塞尔达传说：时之笛》重制版看起来确实很奇怪。不管你认为它过度走向写实主义，还是被海拉鲁的美丽深深打动，……"
+    },
+    {
+      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Comparison, Switch 2 Vs. N64",
+      "link": "https://www.nintendolife.com/news/2026/09/video-zelda-ocarina-of-time-side-by-side-comparison-switch-2-vs-n64",
+      "date": "2026-09-08T18:15:00.000Z",
+      "summary": "A link between games. Hopefully by now you've seen Zelda: Ocarina of Time in action on the Switch 2, and if you're anything like us, you were quite simply blown away by the sheer leap in visual qualit",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "视频：《塞尔达传说：时之笛》对比：Switch 2版 vs. N64版",
+      "summaryZh": "游戏之间的联系。希望你现在已经看过Switch 2版的《塞尔达传说：时之笛》，如果你和我们一样，一定会被画面质量的巨大飞跃彻底震撼！"
+    },
+    {
+      "title": "Ocarina Of Time Remake’s Map And Level Design Looks Quite Similar To The Original So Far",
+      "link": "https://www.gamespot.com/articles/ocarina-of-time-remakes-map-and-level-design-looks-quite-similar-to-the-original-so-far/",
+      "date": "2026-09-08T17:33:26.000Z",
+      "summary": "Nintendo's Zelda 40th Anniversary Direct has given us the first gameplay deep dive, showing how the 1998 N64 classic has been updated for Nintendo Switch 2, from a new detailed art style to new contro",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "到目前为止，《时之笛》重制版的地图与关卡设计看起来和原版相当相似",
+      "summaryZh": "任天堂《塞尔达40周年纪念》Direct直播为我们带来了首次深度游戏实机演示，展示了1998年N64经典如何为Nintendo Switch 2进行升级——从全新的精细美术风格到全新操控方式……"
+    },
+    {
+      "title": "Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 06 Content Drop: The Haunting",
+      "link": "https://news.xbox.com/en-us/2026/09/08/call-of-duty-black-ops-7-and-call-of-duty-warzone-season-06-content-drop-the-haunting/",
+      "date": "2026-09-08T17:30:00.000Z",
+      "summary": "The post Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 06 Content Drop: The Haunting appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《使命召唤：黑色行动7》与《战区》第06赛季内容爆料：“幽灵之夜”",
+      "summaryZh": "文章《《使命召唤：黑色行动7》与《战区》第06赛季内容爆料：“幽灵之夜”》首发于XBOX Wire。"
+    },
+    {
+      "title": "Guide: All Confirmed Legend of Zelda 40th Anniversary Concert Tour Dates In UK, Europe, North America, Japan & Australia",
+      "link": "https://www.nintendolife.com/guides/zelda-40th-anniversary-concert-tour-dates-locations-sale",
+      "date": "2026-09-08T17:30:00.000Z",
+      "summary": "Dates in Edinburgh, Glasgow, Stockholm, San Francisco and more already revealed. The Legend of Zelda 40th Anniversary Concer t will tour the globe starting in January 2027. It'll feature music from th",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "指南：英国、欧洲、北美、日本与澳大利亚所有确认的《塞尔达传说》40周年纪念音乐会巡演日期",
+      "summaryZh": "爱丁堡、格拉斯哥、斯德哥尔摩、旧金山等地的日期已公布。《塞尔达传说》40周年纪念音乐会将于2027年1月起在全球巡演，届时将呈现来自……"
+    },
+    {
+      "title": "[283]老豆闲谈-聊聊WOW2的谣言",
+      "link": "https://www.gcores.com/radios/219452",
+      "date": "2026-09-08T17:25:27.000Z",
+      "summary": "本期又是豆豆的恶臭老登话题。这种话题确实找不到小登和豆豆一起聊。 如果你是老登且关注魔兽世界和暴雪的话，肯定会刷到一些视频，关键词有： plus2、卡美洛特、WOW2、WOW永恒 等等吧，反正就是一些关于暴雪嘉年华和魔兽世界的传闻。 这期的单口，就是豆豆说说这些事。",
+      "source": "机核",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Gallery: Here's A Closer Look At Zelda: Ocarina Of Time On Switch 2",
+      "link": "https://www.nintendolife.com/features/gallery-heres-a-closer-look-at-zelda-ocarina-of-time-on-switch-2",
+      "date": "2026-09-08T16:45:00.000Z",
+      "summary": "Open your eyes... and look at these screens! Well, that sure was a lot! As a part of today's Zelda 40th Anniversary Direct , we got our first extended look at The Legend of Zelda: Ocarina of Time for ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "图库：近距离欣赏Switch 2版的《塞尔达传说：时之笛》",
+      "summaryZh": "打开你的眼睛……看看这些画面吧！哇，这可真是不少东西啊！作为今天《塞尔达40周年纪念》Direct的一部分，我们首次看到了《塞尔达传说：时之笛》的详细展示，……"
+    },
+    {
+      "title": "三代《时之笛》塞尔达形象对比：从多边形变精致美女",
+      "link": "https://www.gamersky.com/news/202609/2205883.shtml",
+      "date": "2026-09-08T16:36:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "IGN:《塞尔达时之笛》是真敢冒险！和GTA6只差两周",
+      "link": "https://www.gamersky.com/news/202609/2205881.shtml",
+      "date": "2026-09-08T16:16:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Fear The Timeloop Brings a Deadly 15 Minute Loop to XBOX",
+      "link": "https://news.xbox.com/en-us/2026/09/08/fear-the-timeloop/",
+      "date": "2026-09-08T16:00:00.000Z",
+      "summary": "When I began working on Fear The Timeloop, I wanted to make time feel physically important. It could not be a timer that simply sits in the corner of the screen. Every minute needed to be something yo",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《恐惧：时间循环》为XBOX带来致命的15分钟循环",
+      "summaryZh": "当我开始制作《恐惧：时间循环》时，我希望让时间感变得切实可感。它不能仅仅是一个静静待在屏幕角落的计时器。每一分钟都必须成为某种特别的存在。"
+    },
+    {
+      "title": "Guide: Zelda 40th Anniversary Direct - Every Announcement and Trailer",
+      "link": "https://www.nintendolife.com/guides/zelda-40th-anniversary-direct-every-announcement-and-trailer",
+      "date": "2026-09-08T16:00:00.000Z",
+      "summary": "How would you rate it? Well folks, the first of two Direct showcases for this week is over, and boy was it a doozy. It was a full 30 minutes' worth of delicious Zelda news, including the final release",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "指南：塞尔达40周年直面会——所有公告与预告片",
+      "summaryZh": "你会如何评价它呢？各位朋友，本周两场直面会中的第一场已经结束，不得不说，这真是一场精彩绝伦的盛会！整整30分钟满满的塞尔达新消息，包括最终发售信息。"
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》质量太强：必须要买NS2了！",
+      "link": "https://www.gamersky.com/news/202609/2205880.shtml",
+      "date": "2026-09-08T16:00:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达：时之笛 重制版》大小约27GB 低于预估",
+      "link": "https://www.gamersky.com/news/202609/2205879.shtml",
+      "date": "2026-09-08T15:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达》40周年汇总:电影|时之笛|限定主机|周边等",
+      "link": "https://www.gamersky.com/news/202609/2205870.shtml",
+      "date": "2026-09-08T15:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "\"Dawg it's Unreal Engine Zelda\" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal",
+      "link": "https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals",
+      "date": "2026-09-08T15:45:42.000Z",
+      "summary": "With the gameplay reveal of The Legend of Zelda: Ocarina of Time remake happening earlier today, thousands of people from around of the world have taken their first look at the latest entry in the bel",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "“天哪，这是虚幻引擎版的塞尔达！”——《塞尔达传说：时之笛》重制版的新外观在公开后引发网友褒贬不一的反响",
+      "summaryZh": "随着今天早些时候《塞尔达传说：时之笛》重制版的游戏玩法曝光，来自世界各地的数千名玩家首次见识到了这款经典作品的最新面貌。"
+    },
+    {
+      "title": "《塞尔达》限定NS2日本售价约2700元 手柄570元",
+      "link": "https://www.gamersky.com/news/202609/2205878.shtml",
+      "date": "2026-09-08T15:43:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达》限定NS2细节太多 pro手柄还多个支架",
+      "link": "https://www.gamersky.com/news/202609/2205877.shtml",
+      "date": "2026-09-08T15:36:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Battlefield 6 Redsec is borrowing yet another mode from Call of Duty: Warzone - Resurgence",
+      "link": "https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale",
+      "date": "2026-09-08T15:00:00.000Z",
+      "summary": "It's been argued that Battlefield 6 's Redsec battle royale off-shoot is a response to Call of Duty's popular Warzone mode, and today's news is another indication of that. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "《战地6》Redsec又从《使命召唤：战区》中借鉴了一种模式——“复兴”",
+      "summaryZh": "有人认为，《战地6》的Redsec大逃杀衍生模式是对《使命召唤》热门模式《战区》的回应，而今天的新闻再次印证了这一点。阅读更多"
+    },
     {
       "title": "700万以内最好的坐骑！《魔兽世界》官方玩梗“雷菌”",
       "link": "https://news.17173.com/content/09082026/102939437.shtml",
@@ -12,24 +672,25 @@
       ]
     },
     {
-      "title": "再加一场 任天堂综合直面会结束后还有Treehouse实机直播",
-      "link": "https://www.3dmgame.com/news/202609/3952679.html",
-      "date": "2026-09-08T09:22:51.672Z",
-      "summary": "",
-      "source": "3DM游戏网",
+      "title": "Valve appears to implementing a reservation system for the Steam Frame, suggesting it expects demand will outstrip supply at launch",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-appears-to-implementing-a-reservation-system-for-the-steam-frame-and-we-all-know-how-well-that-worked-last-time/",
+      "date": "2026-09-08T10:26:04.000Z",
+      "summary": "Closer than you think.",
+      "source": "PC Gamer",
       "companies": [
-        "nintendo"
-      ]
+        "valve"
+      ],
+      "titleZh": "Valve似乎正在为Steam Frame实施预约制度，暗示其预计首发时的需求将超过供应。",
+      "summaryZh": "比你想象的更近。"
     },
     {
-      "title": "预告即将到来？索尼拿下《塞尔达传说》电影官网域名",
-      "link": "https://www.3dmgame.com/news/202609/3952669.html",
-      "date": "2026-09-08T09:22:51.672Z",
-      "summary": "",
-      "source": "3DM游戏网",
+      "title": "Vol.264 盖塔泛宇宙后篇：《真说魔兽战线》&《百亿昼千亿夜》",
+      "link": "https://www.gcores.com/radios/219451",
+      "date": "2026-09-08T09:40:00.000Z",
+      "summary": "历时两年半多，由Biugay主导的石川贤与盖塔IP系列关联作品今天迎来最后一期。盖塔泛宇宙后篇，再再再再次堂堂完结！",
+      "source": "机核",
       "companies": [
-        "nintendo",
-        "sony"
+        "blizzard"
       ]
     },
     {
@@ -43,16 +704,6 @@
       ]
     },
     {
-      "title": "任天堂港服商店崩溃！发布会来袭 重磅内容要来？",
-      "link": "https://www.gamersky.com/news/202609/2205686.shtml",
-      "date": "2026-09-08T09:11:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "索尼PSN真的要降价了？第一方新作《直到黎明2》港服仅需278港币",
       "link": "https://www.gamersky.com/news/202609/2205656.shtml",
       "date": "2026-09-08T08:56:00.000Z",
@@ -60,16 +711,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "《塞尔达》直面会今晚开播！除了时之笛还有辣货吗？",
-      "link": "https://www.gamersky.com/news/202609/2205628.shtml",
-      "date": "2026-09-08T08:38:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -95,16 +736,6 @@
       "summaryZh": "《极限竞速：地平线6》的开发商Playground Games已辟谣有关该游戏备受期待的PlayStation 5版已被推迟的传闻。尽管这一确认信息十分简短，但距离上次报道仅过去了一周多一点。"
     },
     {
-      "title": "9月29日治愈系平台冒险游戏《小黑鹂》正式发售",
-      "link": "https://www.gcores.com/articles/219358",
-      "date": "2026-09-08T08:00:00.000Z",
-      "summary": "各位玩家朋友，大家好！我们非常高兴地宣布：治愈系平台冒险游戏《小黑鹂》（The Merlies）将于 9月29日 在 Steam 平台发售！此外，Nintendo Switch 版紧随其后，于 10月1日正式上线。准备好开启这段温暖的旅程了吗？ 《小黑鹂》由《迷宫大侦探》的制作组 Darjeeling 研发，ARTE France 全球发行，GCORES PUBLISHING（机核发行）负责 PC",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "B站百大暗示索尼真的有大的！PSN可能要降价？",
       "link": "https://www.gamersky.com/news/202609/2205523.shtml",
       "date": "2026-09-08T07:26:00.000Z",
@@ -123,40 +754,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》售价疑泄露！港服或定价399港币",
-      "link": "https://www.gamersky.com/news/202609/2205439.shtml",
-      "date": "2026-09-08T06:26:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Guide: Nintendo Direct September 2026 And Zelda: 40th Anniversary - Time, Date, How To Watch",
-      "link": "https://www.nintendolife.com/news/2026/09/nintendo-direct-september-2026-and-zelda-40th-anniversary-time-date-how-to-watch",
-      "date": "2026-09-08T06:00:00.000Z",
-      "summary": "Zelda news, anyone? Is everybody ready for a Direct? The first of this week's two showcases kicks off today! We've got all the info you'll need to watch along in the following guide. Nintendo recently",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "指南：任天堂直面会2026年9月及《塞尔达传说：40周年纪念》——时间、日期与观看方式",
-      "summaryZh": "塞尔达新闻，有人关注吗？大家准备好迎接直面会了吗？本周两场展示活动中的第一场今天就将拉开帷幕！以下指南为你整理了所有你需要了解的观赛信息。任天堂最近"
-    },
-    {
-      "title": "Pokémon Champions Director Wants To Keep The Game's Focus On PvP",
-      "link": "https://www.nintendolife.com/news/2026/09/pokemon-champions-director-wants-to-keep-the-games-focus-on-pvp",
-      "date": "2026-09-08T05:30:00.000Z",
-      "summary": "\"At least while more people are increasingly playing\". Although Pokémon Champions is now the main competitive title for the video game, some trainers are still apparently calling for single-player con",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦冠军导演希望游戏继续聚焦PvP模式",
-      "summaryZh": "“至少在更多人逐渐开始玩的时候。”尽管《宝可梦冠军》如今已成为该视频游戏的主要竞技作品，但一些训练家似乎仍在呼吁回归单人游玩模式。"
     },
     {
       "title": "Playground表示Forza Horizon 6的PS5版本仍计划于2026年发售",
@@ -179,18 +776,6 @@
       ]
     },
     {
-      "title": "Zelda: Ocarina Of Time Remake Price Seemingly Revealed",
-      "link": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-remake-price-seemingly-revealed",
-      "date": "2026-09-08T02:30:00.000Z",
-      "summary": "Courtesy of Nintendo's official website. Nintendo's Zelda 40th Anniversary Direct is taking place later today. and it appears more information has surfaced ahead of schedule. Read the full article on ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "塞尔达：时光之笛重制版价格似乎已曝光",
-      "summaryZh": "感谢任天堂官方网站提供。任天堂塞尔达40周年特别直播将于今天晚些时候举行，而且似乎已有更多消息提前浮出水面。请阅读全文："
-    },
-    {
       "title": "Vol.083 索尼蜜汁操作，老任人间清醒？再聊Swtich2",
       "link": "https://www.gcores.com/radios/219398",
       "date": "2026-09-08T02:13:49.000Z",
@@ -201,47 +786,13 @@
       ]
     },
     {
-      "title": "The Legend of Zelda 40th Anniversary Direct: Start Time, How To Watch, And What To Expect",
-      "link": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-start-time-how-to-watch-and-what-to-expect/",
-      "date": "2026-09-08T02:00:00.000Z",
-      "summary": "Can you believe that The Legend of Zelda franchise turned 40 this year? It's true, and it's the main focus of today's new Nintendo Direct. The series is in the spotlight, and Nintendo says it'll celeb",
-      "source": "GameSpot",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《塞尔达传说》40周年特别直播：开播时间、观看方式及看点",
-      "summaryZh": "你敢相信吗？《塞尔达传说》系列今年迎来了40周年！这确实是真的，也是今天任天堂新一期直面会的焦点。该系列备受瞩目，任天堂表示将隆重庆祝这一里程碑。"
-    },
-    {
-      "title": "Pokémon Pokopia Updated To Version 2.0.1, Here Are The Full Patch Notes",
-      "link": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-updated-to-version-2-0-1-here-are-the-full-patch-notes",
-      "date": "2026-09-08T01:30:00.000Z",
-      "summary": "Includes a handful of fixes. Following the big 2.0.0 update in August, Pokémon Pokopia has this week been updated to Version 2.0.1 . At the moment, the English patch notes have not gone live just yet,",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦Pokopia更新至2.0.1版本，完整补丁说明如下",
-      "summaryZh": "包含多项修复内容。继8月的重大2.0.0版本更新后，宝可梦Pokopia本周已更新至2.0.1版本。目前，英文补丁说明尚未正式发布。"
-    },
-    {
-      "title": "《塞尔达时之笛》定价曝光！基本确认60美元价位",
-      "link": "https://www.gamersky.com/news/202609/2205150.shtml",
-      "date": "2026-09-08T01:30:00.000Z",
+      "title": "暴雪放出《星际争霸》新情报！暗示凯瑞甘即将回归",
+      "link": "https://www.gamersky.com/news/202609/2205158.shtml",
+      "date": "2026-09-08T01:40:00.000Z",
       "summary": "",
       "source": "游民星空",
       "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "狮子大战霸王龙：《最强王图鉴：爆裂对战王》将于11月26日在NS2发售",
-      "link": "https://www.gcores.com/articles/219381",
-      "date": "2026-09-08T01:25:00.000Z",
-      "summary": "汇集昆虫、现生动物、灭绝动物、恐龙，甚至连传说中的龙都会登场，奇想天外的大乱斗动作游戏《最强王图鉴：爆裂对战王》将于11月26日在NS2发售。本作是一款以深受儿童喜爱的动画及图书《最强王图鉴》为主题，专为 Nintendo Switch 2 打造的竞技场对战动作游戏。 官方表示，将「 如果狮子和霸王龙战斗，究竟谁比较强？ 」这种幻想世界，在游戏之中划时代实现。玩家可以将自己喜爱的生物设为「我的角色",
-      "source": "机核",
-      "companies": [
-        "nintendo"
+        "blizzard"
       ]
     },
     {
@@ -255,30 +806,6 @@
       ]
     },
     {
-      "title": "Pokémon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price",
-      "link": "https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-amazon-restock",
-      "date": "2026-09-08T01:00:00.000Z",
-      "summary": "Amazon has restocked the rare Pokémon TCG Destined Rivals Elite Trainer Box for under market price.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦TCG“命运对决”ETB已在亚马逊上架，售价低于市场价",
-      "summaryZh": "亚马逊已重新上架稀有的宝可梦TCG“命运对决”精英训练盒，售价低于市场价。"
-    },
-    {
-      "title": "Nintendo Reveals What To Expect From The Zelda 40th Anniversary Direct",
-      "link": "https://www.nintendolife.com/news/2026/09/nintendo-reveals-what-to-expect-from-the-zelda-40th-anniversary-direct",
-      "date": "2026-09-08T00:30:00.000Z",
-      "summary": "You probably already know. The Legend of Zelda 40th Anniversary Direct is just hours out, and Nintendo has shared a small update. Ahead of this broadcast (and celebration) of the series, the company's",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂揭晓《塞尔达》40周年特别直播的亮点内容",
-      "summaryZh": "你可能已经知道了，《塞尔达传说》40周年特别直播仅剩数小时，任天堂也分享了一则小更新。在此次直播（以及系列庆典）前夕，公司发布了……"
-    },
-    {
       "title": "NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says",
       "link": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says",
       "date": "2026-09-07T22:25:49.000Z",
@@ -289,18 +816,6 @@
       ],
       "titleZh": "NHL 27将采用AI生成的解说配音，资深体育评论员约翰·布奇格罗斯透露",
       "summaryZh": "根据资深体育评论员约翰·布奇格罗斯透露，EA Sports正在使用生成式AI为NHL 27的游戏解说员制作配音。"
-    },
-    {
-      "title": "Pokémon TCG Prismatic Evolutions Super-Premium Collection Restocked at Amazon",
-      "link": "https://www.ign.com/articles/pokemon-tcg-prismatic-evolutions-super-premium-amazon-restock",
-      "date": "2026-09-07T22:00:00.000Z",
-      "summary": "Amazon has restocked the rare Pokémon TCG Prismatic Evolutions Super-Premium Collection featuring 15 booster packs and promo cards.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦TCG“棱镜进化”超级珍藏版已在亚马逊重新上架",
-      "summaryZh": "亚马逊已重新上架稀有的宝可梦TCG“棱镜进化”超级珍藏版，包含15包补充卡和促销卡。"
     },
     {
       "title": "Survive Together in the Strange Worlds: Once Human (F2P) Is Available Now on XBOX Series X|S With Game Pass!",
@@ -327,30 +842,6 @@
       "summaryZh": "尽管《极限竞速：地平线6》尚未确定具体发售日期，但其PS5版仍计划于今年推出。"
     },
     {
-      "title": "New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker",
-      "link": "https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker",
-      "date": "2026-09-07T17:14:35.000Z",
-      "summary": "A prominent Nintendo leaker has spilled even more information about the console maker's potential plans, which include the long-awaited return of Nintendogs and an all-new Super Smash Bros. game ( not",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "据知名任天堂爆料者透露，全新《任天堂明星大乱斗》和《尼特狗狗》游戏即将问世",
-      "summaryZh": "一位知名任天堂爆料者又曝出了更多关于这家游戏机厂商潜在计划的消息，其中包括期待已久的《尼特狗狗》回归，以及一款全新的《任天堂明星大乱斗》游戏（未公开）。"
-    },
-    {
-      "title": "Walmart’s Bricktember Sale Includes the LEGO Mario Kart Luigi & Mach 8 Set at Its Lowest Price Yet",
-      "link": "https://www.ign.com/articles/walmarts-bricktember-sale-includes-the-lego-mario-kart-luigi-mach-8-set-at-its-lowest-price-yet",
-      "date": "2026-09-07T17:00:00.000Z",
-      "summary": "LEGO’s Mario Kart Luigi & Mach 8 set has hit its lowest price yet at Walmart during its Bricktember sale event, with the retailer knocking $29.99 off it down to $150.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "沃尔玛的Bricktember促销活动推出乐高马里奥卡丁车路易吉与Mach 8套装，价格创下历史新低。",
-      "summaryZh": "乐高马里奥卡丁车路易吉与Mach 8套装在沃尔玛的Bricktember促销活动中创下历史新低，该零售商将原价下调29.99美元，降至150美元。"
-    },
-    {
       "title": "Patrice Désilets vows to make a sequel to Ancestors: The Humankind Odyssey",
       "link": "https://www.eurogamer.net/ancestors-humankind-odyssey-sequel-patrice-desilets",
       "date": "2026-09-07T16:12:13.000Z",
@@ -361,19 +852,6 @@
       ],
       "titleZh": "帕特里斯·德西莱茨誓言将打造《祖先：人类奥德赛》的续作。",
       "summaryZh": "《刺客信条》系列的创作者、1666：阿姆斯特丹的导演帕特里斯·德西莱茨表示，他将推出开放世界人类进化生存游戏《祖先：人类奥德赛》的续作。"
-    },
-    {
-      "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece",
-      "link": "https://www.ign.com/articles/best-usb-cable-deals-september-2026",
-      "date": "2026-09-07T15:55:00.000Z",
-      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.",
-      "source": "IGN",
-      "companies": [
-        "nintendo",
-        "valve"
-      ],
-      "titleZh": "以不到3美元的价格入手6.6英尺长、240瓦的USB Type-C数据线！",
-      "summaryZh": "这些通用数据线非常适合你的任天堂Switch 2、Steam Deck、iPhone 17或笔记本电脑。"
     },
     {
       "title": "Five Reasons to Race into HOT WHEELS Infinite Rush, Out in Early Access Today",
@@ -398,18 +876,6 @@
       ]
     },
     {
-      "title": "Video: Here's What Nintendo's Revised Switch 2 Console Looks Like",
-      "link": "https://www.nintendolife.com/news/2026/09/video-heres-what-nintendos-revised-switch-2-console-looks-like",
-      "date": "2026-09-07T14:15:00.000Z",
-      "summary": "Spoiler: It's really similar. You'll no doubt be aware by now that Nintendo was recently forced to update the Switch 2 hardware in Europe to comply with new rules around replacement batteries. Well, t",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "视频：任天堂修订版Switch 2主机外观曝光！",
-      "summaryZh": "提示：它和之前版本真的很像。你可能已经知道，任天堂最近被迫对欧洲地区的Switch 2硬件进行升级，以符合有关更换电池的新规定。嗯，"
-    },
-    {
       "title": "一只小狗卖出130万！《魔兽世界》鲁弗斯慈善礼包收官",
       "link": "https://news.17173.com/content/09072026/134059004.shtml",
       "date": "2026-09-07T13:40:59.000Z",
@@ -417,16 +883,6 @@
       "source": "17173",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "任天堂发布会重磅新游消息疑泄露 你最期待哪款？",
-      "link": "https://www.gamersky.com/news/202609/2205124.shtml",
-      "date": "2026-09-07T13:24:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -443,18 +899,6 @@
       "summaryZh": "如果你是Valve，2026年对你的银行账户来说真是个丰收年，这一切都要归功于Steam带来的巨额收入。根据最新分析，这家PC游戏平台今年已赚取了150亿美元（约合111亿英镑）。"
     },
     {
-      "title": "Rumour: Leaker Claims A Brand New Super Smash Bros. Game Is In The Works",
-      "link": "https://www.nintendolife.com/news/2026/09/rumour-leaker-claims-a-brand-new-super-smash-bros-game-is-in-the-works",
-      "date": "2026-09-07T12:45:00.000Z",
-      "summary": "Plus Nintendogs, Metroid, 3D Mario, and more. So called leakers have to prove themselves before folks start taking them seriously, but a YouTube user by the name of 'malo392' is causing quite a stir i",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "传闻：爆料者称一款全新的《任天堂明星大乱斗》游戏正在开发中！",
-      "summaryZh": "此外还有《狗狗乐园》、《银河战士》、《3D马里奥》等等。所谓爆料者必须先证明自己，才能赢得大家的重视，但一位名叫‘malo392’的YouTube用户却引发了不小的轰动。"
-    },
-    {
       "title": "Don't count on the rumoured StarCraft game being a Destiny-like, says Jason Schreier",
       "link": "https://www.eurogamer.net/starcraft-shooter-destiny-blizzard-mystery",
       "date": "2026-09-07T12:19:32.000Z",
@@ -465,16 +909,6 @@
       ],
       "titleZh": "杰森·施赖尔表示，别指望传闻中的《星际争霸》游戏会是类似《命运》那样的作品。",
       "summaryZh": "关于下一部《星际争霸》游戏的传言越来越响亮。继近期有报道称韩国开发商兼发行商Nexon已获得该科幻系列续作的开发权后，"
-    },
-    {
-      "title": "两张《宝可梦集换式卡牌游戏》初版卡同场拍出69.6万美元",
-      "link": "https://www.3dmgame.com/news/202609/3952588.html",
-      "date": "2026-09-07T09:57:28.247Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
     },
     {
       "title": "暴雪RTS新作曝光！《星际争霸》或迎多项目并行开发",
@@ -519,16 +953,6 @@
       ]
     },
     {
-      "title": "热点预告：塞尔达传说直面会即将到来！《王者万象棋》9月10日正式上线",
-      "link": "https://news.17173.com/content/09072026/092519154.shtml",
-      "date": "2026-09-07T09:25:19.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "一座连结游戏的中转站：科隆 Gamescom 2026 游记",
       "link": "https://www.gcores.com/articles/219348",
       "date": "2026-09-07T09:00:00.000Z",
@@ -551,26 +975,6 @@
       "summaryZh": "最近，《战神》的粉丝们在等待该剧改编版上线的过程中可谓经历了一场过山车般的体验。亚马逊最初选中了瑞安·赫斯特出演该角色，但随后却不得不另寻他人。"
     },
     {
-      "title": "宝可梦公司最新决算公布：营收5314亿日元创新高 5年增长约4.4倍",
-      "link": "https://www.gamersky.com/news/202609/2204720.shtml",
-      "date": "2026-09-07T08:01:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "任天堂介绍《塞尔达传说》直面会：30分钟 游戏与非游戏都有",
-      "link": "https://www.gamersky.com/news/202609/2204579.shtml",
-      "date": "2026-09-07T07:07:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《魔兽世界2》疑泄露！当年的兄弟还能凑齐一队吗？",
       "link": "https://www.gamersky.com/news/202609/2204513.shtml",
       "date": "2026-09-07T06:19:00.000Z",
@@ -578,16 +982,6 @@
       "source": "游民星空",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "林克与塞尔达是不是恋人？系列不同作品给出不同程度的感情暗示",
-      "link": "https://www.3dmgame.com/news/202609/3952559.html",
-      "date": "2026-09-07T05:38:51.695Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -601,26 +995,6 @@
       ]
     },
     {
-      "title": "舅舅党曝光任天堂正在开发多款续作 全新《任天堂明星大乱斗》将登场！",
-      "link": "https://www.3dmgame.com/news/202609/3952554.html",
-      "date": "2026-09-07T05:38:51.695Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "大批Switch2遭禁后突然解封 任天堂致歉称服务器错误",
-      "link": "https://www.3dmgame.com/news/202609/3952551.html",
-      "date": "2026-09-07T05:38:51.695Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《孤岛惊魂5》惨遭原生破解！D加密危机越来越严重",
       "link": "https://www.gamersky.com/news/202609/2204488.shtml",
       "date": "2026-09-07T04:29:00.000Z",
@@ -631,16 +1005,6 @@
       ]
     },
     {
-      "title": "任天堂多款大作发售时间疑似泄露！时之笛RE|黄昏血族|银河战士|马里奥等",
-      "link": "https://www.gamersky.com/news/202609/2204464.shtml",
-      "date": "2026-09-07T04:24:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "索尼新发布会观众峰值数逼近百万 较6月下降三分之二",
       "link": "https://www.gamersky.com/news/202609/2204368.shtml",
       "date": "2026-09-07T03:15:00.000Z",
@@ -648,26 +1012,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "任天堂香港求原谅！回应NS2误封风波：请重启主机",
-      "link": "https://www.gamersky.com/news/202609/2204358.shtml",
-      "date": "2026-09-07T03:11:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《鬼武者：剑之道》动作灵感来源《超级马里奥：奥德赛》！角色灵感《高达Versus》",
-      "link": "https://www.gamersky.com/news/202609/2204322.shtml",
-      "date": "2026-09-07T02:48:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -688,37 +1032,6 @@
       "source": "游民星空",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "大量玩家Switch 2被封禁！任天堂回应来了",
-      "link": "https://www.gamersky.com/news/202609/2204234.shtml",
-      "date": "2026-09-07T01:40:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "索尼注册《塞尔达》电影域名 任天堂本周放大招？",
-      "link": "https://www.gamersky.com/news/202609/2204222.shtml",
-      "date": "2026-09-07T01:21:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo",
-        "sony"
-      ]
-    },
-    {
-      "title": "大批遭误封NS2现已解封 这次真是任天堂的锅！",
-      "link": "https://www.gamersky.com/news/202609/2204215.shtml",
-      "date": "2026-09-07T01:12:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -766,16 +1079,6 @@
       ]
     },
     {
-      "title": "如何收看2026年9月任天堂直面会及Zelda 40周年直面会",
-      "link": "https://news.17173.com/content/09062026/090740524.shtml",
-      "date": "2026-09-06T09:07:40.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《求生之路 2》开发者承认，在遭 ESRB 拦截后，Valve 曾故意泄露自家预告片。",
       "link": "https://news.17173.com/content/09062026/080821822.shtml",
       "date": "2026-09-06T08:08:21.000Z",
@@ -806,16 +1109,6 @@
       ]
     },
     {
-      "title": "任天堂官方授权NS2 microSD Ex推出512GB新品 10月1日上市",
-      "link": "https://www.3dmgame.com/news/202609/3952490.html",
-      "date": "2026-09-06T05:28:28.191Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "育碧星战3A首次被破解！黑客V38又出手",
       "link": "https://www.gamersky.com/news/202609/2204018.shtml",
       "date": "2026-09-06T03:04:00.000Z",
@@ -834,18 +1127,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
-      "link": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
-      "date": "2026-09-06T00:04:16.000Z",
-      "summary": "Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "如何观看2026年9月任天堂Direct及塞尔达40周年纪念Direct",
-      "summaryZh": "任天堂将于今年9月大手笔推出两场任天堂Direct直播，连续两天播出。以下是您需要了解的一切。"
     },
     {
       "title": "运营时长两年半，团战神作退场！又一款韩国MMO台服官宣停运",
@@ -894,17 +1175,6 @@
       "summaryZh": "我对《左4死2》的唯一体验，就是年轻时和朋友一起玩了几局——当时我是个射击游戏经验仅限于《瑞奇与叮当》的人，朋友递给我一个手柄，然后告诉我……"
     },
     {
-      "title": "The Best Deals Today: Nintendo Switch 2 Consoles, Granblue Fantasy: Relink, Fire Emblem: Fortune's Weave, and More",
-      "link": "https://www.ign.com/articles/best-deals-for-september-5-2026",
-      "date": "2026-09-05T15:45:43.000Z",
-      "summary": "",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "今日最佳优惠：任天堂Switch 2主机、《碧蓝幻想：重联》、《火焰纹章：命运之绊》等多款好物。"
-    },
-    {
       "title": "无影无踪，核周报9.5",
       "link": "https://www.gcores.com/radios/218978",
       "date": "2026-09-05T15:00:00.000Z",
@@ -914,16 +1184,6 @@
         "netease",
         "sony",
         "valve"
-      ]
-    },
-    {
-      "title": "《塞尔达传说：时之笛》主题Cos视频 多套角色造型亮相",
-      "link": "https://www.gamersky.com/news/202609/2203981.shtml",
-      "date": "2026-09-05T14:02:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -949,48 +1209,6 @@
       "summaryZh": "切特·法利塞克表示，ESRB“不许”Valve发布该预告片。"
     },
     {
-      "title": "1249元的512GB存储卡！任天堂官方认证 质量有保障",
-      "link": "https://www.gamersky.com/news/202609/2203895.shtml",
-      "date": "2026-09-05T09:30:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "2026年9月任天堂直面会与塞尔达40周年直面会的14个预测",
-      "link": "https://news.17173.com/content/09052026/090811608.shtml",
-      "date": "2026-09-05T09:08:11.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Talking Point: What Are You Playing This Weekend? (5th September)",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-5th-september",
-      "date": "2026-09-05T09:00:00.000Z",
-      "summary": "The one and Oni. Ah, the weekend! With the working week behind us, it's finally time to put our feet up and tuck into some games. It was a reasonably quiet one in the world of Nintendo this week, but ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "讨论话题：这个周末你都在玩什么？（9月5日）",
-      "summaryZh": "一个是《Oni》，另一个是周末！工作周终于结束了，终于可以放松一下，好好享受游戏时光了。本周任天堂圈相对平静，但……"
-    },
-    {
-      "title": "法国零售商疑似泄露《塞尔达时之笛》重制版Switch2主机配件",
-      "link": "https://www.3dmgame.com/news/202609/3952481.html",
-      "date": "2026-09-05T08:49:36.436Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《艾尔登法环》NS2与Steam Deck掌机画面对比：NS2锁30帧更稳 清晰度占优",
       "link": "https://www.gamersky.com/news/202609/2203852.shtml",
       "date": "2026-09-05T08:21:00.000Z",
@@ -1011,16 +1229,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛 重制版》零售商爆料：11月12日发售！",
-      "link": "https://www.gamersky.com/news/202609/2203843.shtml",
-      "date": "2026-09-05T07:52:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "索尼棒鸡风光不再 21万平方英尺总部如今都要转租",
       "link": "https://www.gamersky.com/news/202609/2203842.shtml",
       "date": "2026-09-05T07:47:00.000Z",
@@ -1028,26 +1236,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "任天堂的漫威游戏对比《漫威金刚狼》魔形女：老任赢太多",
-      "link": "https://www.gamersky.com/news/202609/2203839.shtml",
-      "date": "2026-09-05T07:39:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《塞尔达传说：时之笛》重制版或11月发售 爆料称可能撞上《GTA6》同期",
-      "link": "https://www.gamersky.com/news/202609/2203835.shtml",
-      "date": "2026-09-05T07:32:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1068,16 +1256,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "《塞尔达传说》40周年纪念 任天堂将举办两场直面会",
-      "link": "https://www.3dmgame.com/news/202609/3952457.html",
-      "date": "2026-09-05T05:14:03.100Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1111,16 +1289,6 @@
       ]
     },
     {
-      "title": "任天堂发布会到来！舅舅党大胆",
-      "link": "https://www.gamersky.com/news/202609/2203777.shtml",
-      "date": "2026-09-05T02:58:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《刺客信条：影》DLSS 5狂加细节 女主长出黑眼圈",
       "link": "https://www.gamersky.com/news/202609/2203770.shtml",
       "date": "2026-09-05T02:44:00.000Z",
@@ -1128,16 +1296,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》新作细节爆料：画面投入对标《恶魔之魂：重制版》",
-      "link": "https://www.gamersky.com/news/202609/2203766.shtml",
-      "date": "2026-09-05T02:33:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1797,30 +1955,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "Until Dawn 2 launches January 28",
-      "link": "https://blog.playstation.com/2026/09/03/until-dawn-2-launches-january-28/",
-      "date": "2026-09-03T13:42:04.000Z",
-      "summary": "Hi everyone! I’m Stu Tilley from Firesprite, and I’m thrilled to say it: Until Dawn 2 launches on PS5 on January 28, 2027. Get ready, because every choice you make is going to matter. Will you guide a",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《直到黎明2》将于1月28日发售。",
-      "summaryZh": "大家好！我是Firesprite的斯图·蒂利，我很激动地告诉大家：《直到黎明2》将于2027年1月28日登陆PS5。准备好了吗？因为你做的每一个选择都将至关重要。你会引导一"
-    },
-    {
-      "title": "Gran Turismo 7 Spec IV update launching in two parts later this year",
-      "link": "https://blog.playstation.com/2026/09/03/gran-turismo-7-spec-iv-update-launching-in-two-parts-later-this-year/",
-      "date": "2026-09-03T13:39:54.000Z",
-      "summary": "As we look ahead to the 30th anniversary of the original release of Gran Turismo in 2027, we are preparing a free Spec IV update for Gran Turismo 7 to kick off the celebrations with our players. Due t",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《跑车浪漫曲7》Spec IV更新将于今年分两部分推出。",
-      "summaryZh": "展望2027年《跑车浪漫曲》原版发行30周年之际，我们正为《跑车浪漫曲7》准备免费的Spec IV更新，以与玩家们共同开启庆祝活动。由于"
     },
     {
       "title": "JOIN US Continues Indoctrinating Us with a Good Time",
@@ -2809,30 +2943,6 @@
       "summaryZh": "如果你没能参加今年的 2026 年科隆游戏展——因此也没能亲眼看到 Playground Games 展示的《Fable》全新任务实机演示——别担心。在上方，你可以观看完整的实机演示。"
     },
     {
-      "title": "Fable Gamescom 2026 ‘Combat’ gameplay",
-      "link": "https://www.gematsu.com/2026/08/fable-gamescom-2026-combat-gameplay",
-      "date": "2026-08-28T15:04:53.000Z",
-      "summary": "Publisher Xbox Game Studios and developer Playground Games have released a 16-minute combat gameplay video &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Fable Gamescom 2026“战斗”玩法",
-      "summaryZh": "发行商Xbox Game Studios与开发商Playground Games发布了一段长达16分钟的战斗游戏实机视频……"
-    },
-    {
-      "title": "Next Week on XBOX: New Games for August 31 to September 4",
-      "link": "https://news.xbox.com/en-us/2026/08/28/next-week-on-xbox-new-games-for-august-31-to-september-4/",
-      "date": "2026-08-28T14:00:00.000Z",
-      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and clic",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "下周XBOX：8月31日至9月4日新游预告",
-      "summaryZh": "欢迎收看“下周XBOX”！在这期每周专题中，我们将为你介绍即将登陆XBOX Series X|S、XBOX One、XBOX PC以及Game Pass的所有新游！点击下方了解更多详情并开始预约……"
-    },
-    {
       "title": "id Software's former co-owner says they absolutely would've used gen AI back in the day: 'John Carmack would be like making Skynet or something'",
       "link": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
       "date": "2026-08-28T13:53:23.000Z",
@@ -3729,16 +3839,6 @@
       ]
     },
     {
-      "title": "Team Liquid将GSR提拔至《无畏契约》主阵容担任替补",
-      "link": "https://news.17173.com/content/08162026/033636119.shtml",
-      "date": "2026-08-16T03:36:36.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "网易游戏资讯社",
       "link": "https://www.163.com/dy/media/T1468579868243.html",
       "date": "2026-08-15T21:14:00.000Z",
@@ -4420,18 +4520,6 @@
       "summaryZh": "刺客信条瓦尔哈拉、黑旗和起源总监已返回育碧，负责未来刺客信条游戏的开发。阅读更多"
     },
     {
-      "title": "Diablo 4 players have long wanted to bring their Eternal characters into the Seasonal realm, and now they're getting their wish, sort of",
-      "link": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
-      "date": "2026-08-05T12:40:20.000Z",
-      "summary": "Blizzard is introducing a long asked-for feature in Diablo 4 in the game's next update, which is already on the Public Test Realm for testing. The feature is called Rebirth and it finally allows you t",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暗黑破坏神4玩家长期以来一直想将他们的永恒角色带入赛季领域，现在他们正在实现他们的愿望，",
-      "summaryZh": "暴雪将在游戏的下一次更新中在暗黑破坏神4中引入一个长期要求的功能，该功能已经在公共测试领域进行测试。该功能被称为重生，它最终允许您"
-    },
-    {
       "title": "Marvel Rivals' next update drastically reduces the game's install size on PC and console",
       "link": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
       "date": "2026-08-05T11:28:58.000Z",
@@ -4442,16 +4530,6 @@
       ],
       "summaryZh": "在存储和RAM成本不断增加的世界中，很高兴看到游戏认真努力减少其在SSD上的占用空间。提示漫威对手。在PS5和Xbox上，您将看到",
       "titleZh": "Marvel Rivals的下一次更新大幅降低了游戏在PC和游戏机上的安装规模"
-    },
-    {
-      "title": "10大坐骑免费送！《魔兽世界》国服21周年庆典明日开启",
-      "link": "https://news.17173.com/content/08052026/110922260.shtml",
-      "date": "2026-08-05T11:09:22.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "保底才到手！《梦幻西游》七夕祥瑞遭玩家吐槽减量不减价",
@@ -4629,16 +4707,6 @@
       ]
     },
     {
-      "title": "再不领就没了！国服原价128元《暗黑破坏神4》免费领最后一天",
-      "link": "https://news.17173.com/content/08042026/093533676.shtml",
-      "date": "2026-08-04T09:35:33.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "意外的选择！ voices38攻破育碧23年发行大作",
       "link": "https://www.3dmgame.com/news/202608/3949843.html",
       "date": "2026-08-04T04:10:43.584Z",
@@ -4656,16 +4724,6 @@
       "source": "机核",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "版权问题随时下架？玩家自制虚幻5《魔兽世界》8月15日上线",
-      "link": "https://news.17173.com/content/08032026/110746168.shtml",
-      "date": "2026-08-03T11:07:46.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -4763,16 +4821,6 @@
     {
       "title": "EA私有化后债务十倍于育碧！负债200亿竟要员工买单",
       "link": "https://www.3dmgame.com/news/202608/3949920.html",
-      "date": "2026-07-31T16:00:00.000Z",
-      "summary": "",
-      "source": "3DM厂商新闻",
-      "companies": [
-        "ubisoft"
-      ]
-    },
-    {
-      "title": "曝16年《刺客信条》老将重返育碧！曾执导《英灵殿》等",
-      "link": "https://www.3dmgame.com/news/202608/3949911.html",
       "date": "2026-07-31T16:00:00.000Z",
       "summary": "",
       "source": "3DM厂商新闻",
@@ -4951,18 +4999,6 @@
       "summaryZh": "这比2025年筹集了800万美元。"
     },
     {
-      "title": "After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across \"all milestones\"",
-      "link": "https://www.eurogamer.net/ea-boss-38-million-bonus-battlefield-6-layoffs",
-      "date": "2026-07-29T09:14:10.000Z",
-      "summary": "Electronic Arts CEO Andrew Wilson took home a $38.7m bonus for the 2026 financial year, as the company's games such as Battlefield 6 performed well, met \"all milestones\", and a new AI strategy was exe",
-      "source": "Eurogamer",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "在裁掉《战地6》开发者之后， EA老板安德鲁·威尔逊的奖金去年增加了800万美元，达到3800万美元，这要归功于游戏在“所有里程碑”上的成功",
-      "summaryZh": "电子艺界首席执行官安德鲁·威尔逊（ Andrew Wilson ）在2026财年获得了3870万美元的奖金，因为该公司的《战地6》等游戏表现出色，达到了“所有里程碑” ，并且执行了新的人工智能战略"
-    },
-    {
       "title": "Honkai Star Rail Limited Edition Power Banks and Chargers Are on Sale at Amazon",
       "link": "https://www.ign.com/articles/honkai-star-rail-limited-edition-power-banks-and-chargers-are-on-sale-at-amazon",
       "date": "2026-07-28T23:45:00.000Z",
@@ -4973,18 +5009,6 @@
       ],
       "titleZh": "崩坏星穹铁道限量版充电宝和充电器在亚马逊上有售",
       "summaryZh": "全体登上星际列车。"
-    },
-    {
-      "title": "\"I wish I could do that\": A developer on The Sims has been eyeing up Paralives' characters' asymmetric shoes and their wider possibilities",
-      "link": "https://www.rockpapershotgun.com/i-wish-i-could-do-that-a-developer-on-the-sims-has-been-eyeing-up-paralives-characters-asymmetric-shoes-and-their-wider-possibilities",
-      "date": "2026-07-28T12:24:11.000Z",
-      "summary": "Asymmetric shoes may not seem like a big deal. I mean, if we look past the cultural mountain that was climbed to turn the faux pas of odd socks into a proud fashion statement of mismatched shoes, asym",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "“我希望我能做到这一点”：《模拟人生》的一位开发者一直在关注《Paralives》角色的不对称鞋子及其更广泛的可能性",
-      "summaryZh": "不对称的鞋子可能看起来没什么大不了的。我的意思是，如果我们超越文化之山，将奇怪的袜子的失礼行为转变为不匹配鞋子的骄傲时尚宣言，asym"
     },
     {
       "title": "玩家当月老？《燕云十六声》官宣联动《新白娘子传奇》",
