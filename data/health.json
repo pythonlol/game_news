@@ -1,13 +1,8 @@
 {
-  "updatedAt": "2026-09-10T05:33:45.587Z",
+  "updatedAt": "2026-09-10T09:23:42.524Z",
   "sources": [
     {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·王者荣耀",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -17,7 +12,12 @@
       "count": 20
     },
     {
-      "name": "必应资讯·腾讯",
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -32,22 +32,17 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·Xbox",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·暴雪",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
@@ -62,14 +57,19 @@
       "count": 100
     },
     {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "必应资讯·腾讯",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
-    },
-    {
-      "name": "Rock Paper Shotgun",
-      "status": "ok",
-      "count": 100
     },
     {
       "name": "Gematsu",
@@ -77,9 +77,9 @@
       "count": 20
     },
     {
-      "name": "IGN",
+      "name": "Rock Paper Shotgun",
       "status": "ok",
-      "count": 20
+      "count": 100
     },
     {
       "name": "Nintendo Life",
@@ -89,7 +89,12 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 94
+      "count": 103
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 24
     },
     {
       "name": "游研社",
@@ -97,19 +102,14 @@
       "count": 12
     },
     {
-      "name": "机核",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "3DM游戏网",
       "status": "ok",
       "count": 35
     },
     {
-      "name": "17173",
+      "name": "机核",
       "status": "ok",
-      "count": 25
+      "count": 20
     }
   ]
 }
