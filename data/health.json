@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:35:55.398Z",
+  "updatedAt": "2026-09-11T09:22:10.655Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -7,12 +7,7 @@
       "count": 20
     },
     {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·腾讯",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -22,12 +17,17 @@
       "count": 10
     },
     {
-      "name": "必应资讯·网易",
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
@@ -42,19 +42,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·暴雪",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·Xbox",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "Eurogamer",
+      "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 100
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -62,7 +57,22 @@
       "count": 15
     },
     {
+      "name": "Eurogamer",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
+    },
+    {
       "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "Gematsu",
       "status": "ok",
       "count": 20
     },
@@ -72,19 +82,14 @@
       "count": 100
     },
     {
-      "name": "Gematsu",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "PC Gamer",
-      "status": "ok",
-      "count": 50
-    },
-    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 105
     },
     {
       "name": "游研社",
@@ -100,11 +105,6 @@
       "name": "3DM游戏网",
       "status": "ok",
       "count": 36
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 102
     },
     {
       "name": "17173",
