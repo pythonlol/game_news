@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-12T05:22:22.674Z",
+  "updatedAt": "2026-09-12T09:01:44.698Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "必应资讯·腾讯",
@@ -27,19 +27,19 @@
       "count": 10
     },
     {
+      "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·原神",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·网易",
-      "status": "ok",
-      "count": 7
-    },
-    {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "必应资讯·暴雪",
@@ -52,11 +52,6 @@
       "count": 100
     },
     {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "GameSpot",
       "status": "ok",
       "count": 15
@@ -65,6 +60,11 @@
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "Rock Paper Shotgun",
@@ -77,9 +77,19 @@
       "count": 20
     },
     {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 105
     },
     {
       "name": "机核",
@@ -87,19 +97,9 @@
       "count": 20
     },
     {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 37
-    },
-    {
       "name": "游研社",
       "status": "ok",
       "count": 12
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 98
     },
     {
       "name": "17173",
@@ -107,9 +107,9 @@
       "count": 25
     },
     {
-      "name": "PlayStation Blog",
+      "name": "3DM游戏网",
       "status": "ok",
-      "count": 10
+      "count": 37
     }
   ]
 }
