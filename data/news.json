@@ -1,6 +1,665 @@
 {
-  "updatedAt": "2026-09-12T09:01:44.698Z",
+  "updatedAt": "2026-09-13T05:38:00.619Z",
   "items": [
+    {
+      "title": "星际争霸 开发团队承诺新作定于 2030 年发布",
+      "link": "https://news.17173.com/content/09132026/080736283.shtml",
+      "date": "2026-09-13T08:07:36.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《Overwatch》公开新智械英雄首个外观，将于今年晚些时候上线",
+      "link": "https://news.17173.com/content/09132026/060855887.shtml",
+      "date": "2026-09-13T06:08:55.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽争霸3：重制版 Reforged: Forsaken Kingdom》目前评测",
+      "link": "https://news.17173.com/content/09132026/060801185.shtml",
+      "date": "2026-09-13T06:08:01.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《星际争霸》新作将打造真实感世界 但也会对新手玩家友好",
+      "link": "https://www.3dmgame.com/news/202609/3953120.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《星际争霸》新作由《孤岛惊魂》负责人掌舵 有信心2030年发售",
+      "link": "https://www.3dmgame.com/news/202609/3953119.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard",
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "《守望先锋》公布吸血鬼风格辅助英雄血律 黑影将转为辅助",
+      "link": "https://www.3dmgame.com/news/202609/3953118.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神》动画剧集确认开发 将登陆Netflix平台",
+      "link": "https://www.3dmgame.com/news/202609/3953116.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》首批细节：程序生成地下城、套装系统回归",
+      "link": "https://www.3dmgame.com/news/202609/3953115.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《炉石传说》四年来首个新职业武僧将于明年春季上线",
+      "link": "https://www.3dmgame.com/news/202609/3953114.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽世界》新资料片《最后的泰坦》将于明年上线",
+      "link": "https://www.3dmgame.com/news/202609/3953113.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神4》公布新职业亚马逊 2027年上半年上线",
+      "link": "https://www.3dmgame.com/news/202609/3953112.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》首发职业将是历代以来最多 瘟疫骑士首次登场",
+      "link": "https://www.3dmgame.com/news/202609/3953111.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》公布：9月17日开测、11月5日上线",
+      "link": "https://www.3dmgame.com/news/202609/3953110.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽争霸3：重铸版》新战役上线 总时长超30小时",
+      "link": "https://www.3dmgame.com/news/202609/3953109.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "暴雪正式公布《星际争霸》射击新作 2030年推出",
+      "link": "https://www.3dmgame.com/news/202609/3953108.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "暴雪正式公布《暗黑破坏神5》 2029年春季发售",
+      "link": "https://www.3dmgame.com/news/202609/3953107.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "传索尼放弃《PHYSINT》后小岛工作室或失去Decima引擎使用权",
+      "link": "https://www.3dmgame.com/news/202609/3953105.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "外媒评10款至今仍值得从头玩一遍的NES游戏 《超级马里奥兄弟3》居首",
+      "link": "https://www.3dmgame.com/news/202609/3953103.html",
+      "date": "2026-09-13T05:37:54.662Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "临时工？《马力欧卡丁车8豪华版》实体版仅117元",
+      "link": "https://www.gamersky.com/news/202609/2208602.shtml",
+      "date": "2026-09-13T05:15:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Diablo 5 铸就新纪元座谈会：公告全览（实时更新中）",
+      "link": "https://news.17173.com/content/09132026/050804494.shtml",
+      "date": "2026-09-13T05:08:04.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Overwatch公开2026年暴雪嘉年华新智械英雄首秀",
+      "link": "https://news.17173.com/content/09132026/050737044.shtml",
+      "date": "2026-09-13T05:07:37.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "暴雪在 2026 暴雪嘉年华上突击发布《魔兽争霸3：重制版》全新战役",
+      "link": "https://news.17173.com/content/09132026/040745680.shtml",
+      "date": "2026-09-13T04:07:45.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "暴雪2026年暴雪嘉年华开幕式重磅炸弹：小小魔兽 Forever",
+      "link": "https://news.17173.com/content/09132026/040723375.shtml",
+      "date": "2026-09-13T04:07:23.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "BlizzCon 2026 开幕式：Starcraft 回归，Diablo V 正式公布，Warcraft 系列动态及更多资讯",
+      "link": "https://news.17173.com/content/09132026/034222743.shtml",
+      "date": "2026-09-13T03:42:22.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "卖爆了！《暗黑破坏神》官宣系列玩家达1.3亿",
+      "link": "https://www.gamersky.com/news/202609/2208589.shtml",
+      "date": "2026-09-13T03:35:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Why is Blizzard still announcing games years ahead of release? 'We want to convey confidence in some of our biggest bets coming forward'",
+      "link": "https://www.pcgamer.com/games/rts/why-is-blizzard-still-announcing-games-years-ahead-of-release-we-want-to-convey-confidence-in-some-of-our-biggest-bets-coming-forward/",
+      "date": "2026-09-13T03:11:23.000Z",
+      "summary": "Maybe it's the fact it sounds like a year from the opening crawl of a sci-fi movie, but 2030 sure feels a long way off.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "为什么暴雪仍然会在游戏正式发售前几年就公布新作？“我们希望向大家传递出对我们一些最大手笔项目的信心。”",
+      "summaryZh": "或许是因为它听起来像是科幻电影开场字幕里的年份，但2030年确实感觉还很遥远。"
+    },
+    {
+      "title": "《星际争霸》新作在 BlizzCon 官宣为开放世界射击游戏，但预计 2030 年才会面世",
+      "link": "https://news.17173.com/content/09132026/030855067.shtml",
+      "date": "2026-09-13T03:08:55.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《Overwatch 2》迎来新吸血鬼风格支援英雄、地图及重大英雄重做",
+      "link": "https://news.17173.com/content/09132026/030812171.shtml",
+      "date": "2026-09-13T03:08:12.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《Diablo 5》正式公布",
+      "link": "https://news.17173.com/content/09132026/030734483.shtml",
+      "date": "2026-09-13T03:07:34.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》物品装备更像《暗黑2》 对味了",
+      "link": "https://www.gamersky.com/news/202609/2208569.shtml",
+      "date": "2026-09-13T02:24:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽世界》要登主机平台？现已支持手柄游玩",
+      "link": "https://www.gamersky.com/news/202609/2208568.shtml",
+      "date": "2026-09-13T02:13:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神4》不会再有DLC！用剧情铺垫《暗黑5》",
+      "link": "https://www.gamersky.com/news/202609/2208565.shtml",
+      "date": "2026-09-13T02:08:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《星际争霸》新作承诺4年后发售 开放世界是重要内容",
+      "link": "https://www.gamersky.com/news/202609/2208562.shtml",
+      "date": "2026-09-13T02:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "ICYMI: Dragon Quest Monsters: The Withered World Demo Out Now On eShop",
+      "link": "https://www.nintendolife.com/news/2026/09/icymi-dragon-quest-monsters-the-withered-world-demo-out-now-on-eshop",
+      "date": "2026-09-13T02:00:00.000Z",
+      "summary": "Transfer \"up to 8 monsters\" to the full game. During a sizzle reel in the Nintendo Direct earlier this week, Square Enix gave fans another look at the upcoming release Dragon Quest Monsters: The Withe",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "提醒一下：《勇者斗恶龙怪物战斗》：枯萎世界试玩版现已在eShop上线！",
+      "summaryZh": "可将“最多8只怪物”转移到完整版游戏中。本周早些时候的任天堂直面会上，Square Enix为粉丝们带来了即将推出的《勇者斗恶龙怪物战斗：枯萎》的最新预告片。"
+    },
+    {
+      "title": "《星际争霸》新作是射击游戏 老粉不甘心：还我RTS！",
+      "link": "https://www.gamersky.com/news/202609/2208561.shtml",
+      "date": "2026-09-13T02:00:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《星际争霸》完全新作惊喜官宣！不做RTS你接受吗",
+      "link": "https://www.gamersky.com/news/202609/2208560.shtml",
+      "date": "2026-09-13T01:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Diablo 4 Season 15 Belial, Mephisto, Diablo, Baal and Moophisto Gameplay",
+      "link": "https://www.gamespot.com/videos/diablo-4-season-15-belial-mephisto-diablo-baal-and-moophisto-gameplay/",
+      "date": "2026-09-13T01:30:00.000Z",
+      "summary": "We got our hand on Season 15 of Diablo 4 early and take on the 3 prime evils as well as a new Moophisto boss!",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《暗黑破坏神4》第15赛季：贝利亚尔、墨菲斯托、迪亚波罗、巴尔与莫菲斯托玩法解析",
+      "summaryZh": "我们提前拿到了《暗黑破坏神4》第15赛季的试玩版，并挑战了三大邪恶BOSS以及全新的莫菲斯托BOSS！"
+    },
+    {
+      "title": "BlizzCon 2026 开幕式图文直播：守卫魔兽-Guardian of Warcraft 与 暗黑破坏岛 未来展望即将揭晓，星际争霸…",
+      "link": "https://news.17173.com/content/09132026/010903388.shtml",
+      "date": "2026-09-13T01:09:03.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "IGN评《魔兽争霸3》新DLC：加入MOBA和RPG玩法",
+      "link": "https://www.gamersky.com/news/202609/2208545.shtml",
+      "date": "2026-09-13T01:06:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽争霸3重制版》新DLC获盛赞 暴雪终于又做RTS",
+      "link": "https://www.gamersky.com/news/202609/2208544.shtml",
+      "date": "2026-09-13T00:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》全新职业瘟疫骑士 猎魔人和武僧回归",
+      "link": "https://www.gamersky.com/news/202609/2208542.shtml",
+      "date": "2026-09-13T00:26:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
+      "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
+      "date": "2026-09-12T23:08:08.000Z",
+      "summary": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《星际争霸》开发团队承诺，新作一定会在2030年发布。",
+      "summaryZh": "我们有机会与新《星际争霸》的开发团队进行了交流，他们解释了为何选择如此遥远的发售日期，甚至还透露了一些潜在的游戏内容。"
+    },
+    {
+      "title": "Diablo 5 gameplay details from BlizzCon: More classes than ever before, procedurally-generated dungeons, and Diablo 2-style loot",
+      "link": "https://www.pcgamer.com/games/rpg/diablo-5-gameplay-details-from-blizzcon-more-classes-than-ever-before-procedurally-generated-dungeons-and-diablo-2-style-loot/",
+      "date": "2026-09-12T23:07:01.000Z",
+      "summary": "Blizzard has offered up a surprising amount of detail about the action RPG sequel, which won't be out until 2029.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "暗黑破坏神5游戏细节曝光：比以往更多的职业、程序生成的地牢，以及《暗黑破坏神2》风格的战利品",
+      "summaryZh": "暴雪公布了这款动作RPG续作的大量细节，这款游戏要到2029年才会正式推出。"
+    },
+    {
+      "title": "No more Diablo 4 expansions are planned, but there's 'a lot of room' for more storytelling in the lead-up to Diablo 5",
+      "link": "https://www.pcgamer.com/games/rpg/no-more-diablo-4-expansions-are-planned-but-theres-a-lot-of-room-for-more-storytelling-in-the-leadup-to-diablo-5/",
+      "date": "2026-09-12T21:56:55.000Z",
+      "summary": "The Diablo team is \"all focused on seasons and getting to Diablo 5,\" support for Diablo 4 will continue \"for a very long time,\" says Blizzard.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "目前不再计划推出《暗黑破坏神4》的扩展包，但在《暗黑破坏神5》到来之前，“还有很多空间”可以展开更多故事。",
+      "summaryZh": "《暗黑破坏神》团队“目前全都专注于赛季和迈向《暗黑破坏神5》”，暴雪表示，《暗黑破坏神4》的支持将会持续“很长一段时间”。"
+    },
+    {
+      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
+      "link": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
+      "date": "2026-09-12T21:05:26.000Z",
+      "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽争霸3：重铸版》：已发布的“被遗弃的王国”评测",
+      "summaryZh": "一款令人惊喜的单人战役，既保留了经典《魔兽争霸3》的氛围，又融入了一些全新创意。"
+    },
+    {
+      "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
+      "link": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
+      "date": "2026-09-12T20:28:58.000Z",
+      "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《守望先锋》首次公开今年晚些时候登场的新全能英雄",
+      "summaryZh": "暴雪刚刚揭晓“教义”后，又预告了一位全新的《守望先锋》英雄。"
+    },
+    {
+      "title": "风暴要火！《风暴英雄》新英雄“萨拉塔斯”正式揭晓",
+      "link": "https://www.gcores.com/articles/219635",
+      "date": "2026-09-12T20:06:25.000Z",
+      "summary": "在暴雪嘉年华现场，《风暴英雄》新英雄“萨拉塔斯”正式揭晓。暴雪表示，她离开艾泽拉斯，前往万象界域，同时带来远古计谋及虚无的腐化力量。萨拉塔斯使用黑暗之心掌控战场，以虚无之力不断施加压力，并且随着战斗进行变得更加致命。 <内嵌内容，请前往机核查看> 在国际服预购《风暴英雄》暴雪嘉年华组合包，待她踏足万象界域后，即可获得夺心者造型与暮光造型，以及辛多雷凤凰坐骑。",
+      "source": "机核",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Diablo 5 Forging the Next Era Panel: Everything Announced",
+      "link": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
+      "date": "2026-09-12T19:56:50.000Z",
+      "summary": "Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCon 2026.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《暗黑破坏神5》锻造新时代专题：所有公布内容一览",
+      "summaryZh": "暴雪在2026年暴雪嘉年华上公布了《暗黑破坏神5》的三个职业、UI的首秀，以及更多相关内容。"
+    },
+    {
+      "title": "《魔兽世界：无限》正式官宣：《魔兽世界》暴雪嘉年华消息汇总",
+      "link": "https://www.gcores.com/articles/219633",
+      "date": "2026-09-12T19:20:47.000Z",
+      "summary": "在暴雪嘉年华现场，《魔兽世界：无限》正式官宣。本次的内容将在永久原版60级内容中持续拓展，包括全新区域、地牢和副本！官方表示，本次的内容不是简单的老版本重放，而是基于经典60级艾泽拉斯的基石，分叉出一条全新的正统平行世界线。国际服将于9月17日开启测试。 <内嵌内容，请前往机核查看> 国服确认与将于2026年11月5日全球同步上线，准备好踏上艾泽拉斯未曾有人涉足的土地，开启新的冒险。预购天裔史诗礼",
+      "source": "机核",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "BlizzCon 2026 Opening Ceremony: Starcraft Returns, Diablo V Announced, Warcraft news and more",
+      "link": "https://news.xbox.com/en-us/2026/09/12/blizzcon-2026-opening-ceremony/",
+      "date": "2026-09-12T19:20:04.000Z",
+      "summary": "I’ve been at Blizzard a long time, and I’ve got a bunch of BlizzCons under my belt. Do you know how hard all these announcements were to hold in as we prepared for BlizzCon 2026? I can’t even believe ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "2026年暴雪嘉年华开幕式：《星际争霸》回归、《暗黑破坏神5》公布、《魔兽争霸》最新消息等",
+      "summaryZh": "我在暴雪工作很久了，参加过不少次暴雪嘉年华。你知道吗，在准备2026年暴雪嘉年华时，这些重磅消息我们憋得有多难受？我简直不敢相信……"
+    },
+    {
+      "title": "WoW Forever Will Add All-New Content To Classic Azeroth This November",
+      "link": "https://www.gamespot.com/articles/wow-forever-will-add-all-new-content-to-classic-azeroth-this-november/",
+      "date": "2026-09-12T19:04:08.000Z",
+      "summary": "World of Warcraft Forever is Blizzard's next iteration on WoW Classic, one that will add new content in the form of zones, quests, dungeons, raids, and even a new playable race while keeping the old-s",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界：永恒》将于今年11月为经典艾泽拉斯新增内容",
+      "summaryZh": "《魔兽世界：永恒》是暴雪对《魔兽世界：经典版》的下一次迭代，它将以区域、任务、地下城、团队副本甚至全新可玩种族的形式加入新内容，同时保留旧有的特色。"
+    },
+    {
+      "title": "The WoW 'Classic+' rumors were true: World of Warcraft: Forever promises to be another timeline's version of the MMO",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/the-wow-classic-rumors-were-true-world-of-warcraft-forever-promises-to-be-another-timelines-bizzarro-version-of-the-mmo/",
+      "date": "2026-09-12T18:58:04.000Z",
+      "summary": "It's out soon, too, with a beta starting this week.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "关于《魔兽世界：经典+》的传闻属实：《魔兽世界：永恒》将带来另一个时间线版本的这款MMO游戏。",
+      "summaryZh": "它也即将上线，本周便开启测试版。"
+    },
+    {
+      "title": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
+      "link": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever",
+      "date": "2026-09-12T18:57:39.000Z",
+      "summary": "Blizzard ended its BlizzCon 2026 Opening Ceremony with the announcement of World of Warcraft Forever.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "暴雪在2026年BlizzCon开幕式上的重磅彩蛋——《魔兽世界：永恒》震撼登场！",
+      "summaryZh": "暴雪以《魔兽世界：永恒》的发布，为2026年BlizzCon开幕式画上了圆满句号。"
+    },
+    {
+      "title": "Overwatch's newest hero is a robo-vampire, and reworks are on the way for Roadhog and Sombra",
+      "link": "https://www.pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra/",
+      "date": "2026-09-12T18:55:21.000Z",
+      "summary": "Triple threat.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《守望先锋》最新英雄是一名机器人吸血鬼，而路霸和索姆布拉的重制版也即将推出。",
+      "summaryZh": "三重威胁。"
+    },
+    {
+      "title": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
+      "link": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/",
+      "date": "2026-09-12T18:51:39.000Z",
+      "summary": "The year of the surprise old game expansion.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "暴雪刚刚发布了全新的《魔兽争霸3》战役，这是23年来首次推出的新战役。",
+      "summaryZh": "惊喜老游戏扩展包的元年。"
+    },
+    {
+      "title": "[284]游戏回_鬼武者可以是满分吗！",
+      "link": "https://www.gcores.com/radios/219648",
+      "date": "2026-09-12T17:04:45.000Z",
+      "summary": "新闻 1、《地城拓荒》 2、《塞尔达传说：时之笛》重制版 3、《高达 异轨征途》 4、第三人称射击游戏《流浪地球：望日》 5、索尼宣布不再与小岛工作室合作打造IP谍报动作游戏《PHYSINT》 6、任天堂9月直面会 本期主题 80:20鬼武者，到底好不好玩！ 番外：如何评价索尼SOP 开始电影宣传片一出来，我就知道这次稳了，中间乐高的PS1也太夯了，最后GTA6的限定手柄直接封神，PS5世代真的牛",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "sony"
+      ]
+    },
+    {
+      "title": "索尼退出 美女演员向Xbox打招呼!岛哥哥新作阵容表态",
+      "link": "https://www.gamersky.com/news/202609/2207825.shtml",
+      "date": "2026-09-12T16:13:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Scalpers are already reselling the sold-out Zelda 40th Anniversary Switch 2 for £700+",
+      "link": "https://www.eurogamer.net/zelda-40th-anniversary-switch-2-scalpers-ebay-resale",
+      "date": "2026-09-12T15:14:54.000Z",
+      "summary": "Nintendo's new Legend of Zelda 40th anniversary Switch 2 sold out within hours of preorders opening, and scalpers are already scalping, with dozens of orders popping up on eBay for close to double its",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "黄牛党已经开始以700英镑以上的价格转售已售罄的《塞尔达》40周年Switch 2版。",
+      "summaryZh": "任天堂新款《塞尔达传说》40周年Switch 2版在预售开启后数小时内即告售罄，黄牛党已开始高价倒卖，eBay上已有数十个订单，价格接近原价的两倍。"
+    },
+    {
+      "title": "你怎么绿了？核周报 9.12",
+      "link": "https://www.gcores.com/radios/219272",
+      "date": "2026-09-12T15:00:00.000Z",
+      "summary": "本期时间轴制作： 佟和 本期要闻：塞尔达 40 周年直面会官宣《塞尔达传说 时之笛 重制版》11月5日发售；任天堂9月直面会《密特罗德 绝境嗜生》、《星之卡比 跃然世界》等游戏公布；跨平台成就追踪站突然出现大量尚未发售游戏的成就数据；PlayStation Studios 终止与小岛工作室在《PHYSINT》项目上的合作，改由 Xbox 负责发行；DLSS 5 正式发布：3D 引导神经渲染登陆《N",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "sony"
+      ]
+    },
+    {
+      "title": "Genshin Impact Version version 7.1 update ‘A Rekviem for the Underworld’ launches September 23",
+      "link": "https://www.gematsu.com/2026/09/genshin-impact-version-version-7-1-update-a-rekviem-for-the-underworld-launches-september-23",
+      "date": "2026-09-12T13:38:31.000Z",
+      "summary": "The version 7.1 update for Genshin Impact, dubbed “A Rekviem for the Underworld,” will launch &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "《原神》7.1版本更新“冥界安魂曲”将于9月23日上线。",
+      "summaryZh": "《原神》7.1版本更新，名为“冥界安魂曲”，将于……上线。"
+    },
+    {
+      "title": "All Genshin Impact 7.1 livestream codes",
+      "link": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/",
+      "date": "2026-09-12T12:04:33.000Z",
+      "summary": "Claim the Primogems from the latest special program.",
+      "source": "PC Gamer",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "所有《原神》7.1直播活动代码。",
+      "summaryZh": "领取最新特别活动中的原石奖励。"
+    },
+    {
+      "title": "中国的环球影城，终于“上道”了：“惊彩”环球秋季主题活动小记",
+      "link": "https://www.gcores.com/articles/219610",
+      "date": "2026-09-12T11:22:35.000Z",
+      "summary": "终于上道了！——这是我体验完今年“惊彩”环球后最直接的感受。 2026年9月4日到11月1日，北京环球影城“惊彩”环球秋季主题活动正式回归。整个园区将在这近两个月里切换成另一种状态——充满着惊吓、尖叫，以及截然不同的快乐。上周，我完整体验了这次秋季活动的核心内容，包括《第五人格》“逃离白沙街”、《盗墓笔记》惊吓空间、《寂静之地》惊吓空间，以及返场的“画皮幽宅”和“环球怪物：地下秘穴”五个项目。 走",
+      "source": "机核",
+      "companies": [
+        "netease"
+      ]
+    },
     {
       "title": "《宝可梦集换式卡牌游戏》30周年超梦促销卡10月在美国发放",
       "link": "https://www.3dmgame.com/news/202609/3953092.html",
@@ -20,6 +679,18 @@
       "companies": [
         "nintendo"
       ]
+    },
+    {
+      "title": "Talking Point: What Are You Playing This Weekend? (12th September)",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-12th-september",
+      "date": "2026-09-12T09:00:00.000Z",
+      "summary": "The calm after the storm. Hey y'all. What a week, huh? What a week . The big highlights, of course, were the two Nintendo Directs. First up, Nintendo treated us to a substantial glimpse at The Legend ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "谈话话题：这个周末你在玩什么？（9月12日）",
+      "summaryZh": "风雨过后见平静。嘿，各位！这周真是精彩啊，对吧？最引人注目的当然是两场任天堂直面会。首先，任天堂为我们带来了《塞尔达传说》的大量新情报。"
     },
     {
       "title": "索尼PS新品被喷虚假宣传！玩家乐了：PS5包装还8K",
@@ -90,28 +761,6 @@
       "companies": [
         "nintendo"
       ]
-    },
-    {
-      "title": "2026暴雪嘉年华本周末开幕 魔兽、暗黑、星际、守望重磅前瞻来袭",
-      "link": "https://www.gamersky.com/news/202609/2208376.shtml",
-      "date": "2026-09-12T06:17:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "BlizzCon 2026 Opening Ceremony: Start Time, How To Watch, And What To Expect",
-      "link": "https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-start-time-how-to-watch-and-what-to-expect/",
-      "date": "2026-09-12T05:30:00.000Z",
-      "summary": "It's almost time for the first BlizzCon event in two years, as Blizzard prepares to celebrate its past, present, and future with its traditional opening ceremony. This leads into two days of panels an",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "2026年暴雪嘉年华开幕式：开始时间、观看方式及期待内容",
-      "summaryZh": "距离两年来首次举办的暴雪嘉年华活动已指日可待，暴雪正准备以传统的开幕式，回顾过去、畅谈现在、展望未来。随后将进入为期两天的专题讨论环节……"
     },
     {
       "title": "Nintendo Confirms Zelda 40th Anniversary Collection Restocks",
@@ -574,16 +1223,6 @@
       ]
     },
     {
-      "title": "《暗黑破坏神4》Steam迎2.5折新史低 9月25日截止！",
-      "link": "https://www.3dmgame.com/news/202609/3952964.html",
-      "date": "2026-09-11T09:22:08.433Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "微信零钱通不能用于支付了？腾讯官方回应",
       "link": "https://www.gamersky.com/news/202609/2207956.shtml",
       "date": "2026-09-11T09:03:00.000Z",
@@ -604,26 +1243,6 @@
       ]
     },
     {
-      "title": "海外爆料！《魔兽争霸3》3.0要来了？重制高清模型引热议",
-      "link": "https://news.17173.com/content/09112026/082832071.shtml",
-      "date": "2026-09-11T08:28:32.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "单机“魔兽”上班玩！当会长带队下本，神装满地爆《公会创世纪》即将发售",
-      "link": "https://www.gamersky.com/news/202609/2207830.shtml",
-      "date": "2026-09-11T08:22:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "124亿天价分手费！《穿越火线》开发商老板离婚刷新韩国纪录",
       "link": "https://news.17173.com/content/09112026/074531886.shtml",
       "date": "2026-09-11T07:45:31.000Z",
@@ -641,16 +1260,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "20年设定首改动？《魔兽世界》怀旧服或将告别传统资料片更新",
-      "link": "https://news.17173.com/content/09112026/070602982.shtml",
-      "date": "2026-09-11T07:06:02.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -681,16 +1290,6 @@
       "source": "3DM游戏网",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "暴雪嘉年华TED vs TOD传奇对决！看完手痒？来《KK官方对战平台》开一局",
-      "link": "https://www.3dmgame.com/news/202609/3952995.html",
-      "date": "2026-09-11T05:35:46.662Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -1100,16 +1699,6 @@
       "summaryZh": "育碧出人意料地宣布，将取消每次在Steam上启动游戏时都必须运行Ubisoft Connect的必要。Ubisoft Connect此前名为Uplay，是一个…"
     },
     {
-      "title": "《塞尔达》新作amiibo开卖：少年林克、塞尔达",
-      "link": "https://www.gamersky.com/news/202609/2207481.shtml",
-      "date": "2026-09-10T14:38:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Microsoft Flight Simulator Introduces One of the World’s First Business Jets into the Marketplace",
       "link": "https://news.xbox.com/en-us/2026/09/10/microsoft-flight-simulator-introduces-one-of-the-worlds-first-business-jets-into-the-marketplace/",
       "date": "2026-09-10T14:00:00.000Z",
@@ -1120,28 +1709,6 @@
       ],
       "titleZh": "微软飞行模拟器推出全球首批公务机之一进入市场",
       "summaryZh": "文章《微软飞行模拟器推出全球首批公务机之一进入市场》首次发表于XBOX Wire。"
-    },
-    {
-      "title": "Hyrule Warriors: Age Of Calamity Is Getting Definitive Edition On Switch 2 Next February",
-      "link": "https://www.nintendolife.com/news/2026/09/hyrule-warriors-age-of-calamity-is-getting-definitive-edition-on-switch-2-next-february",
-      "date": "2026-09-10T13:45:00.000Z",
-      "summary": "Update: Physical release is a Game-Key Card. Koei Tecmo's Zelda spin-off Hyrule Warriors Age of Calamity is coming to Switch 2 on 27th February 2027 in Definitive Edition form. As revealed in today's ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《塞尔达传说：灾厄启示录》将于明年二月在Switch上推出终极版",
-      "summaryZh": "更新：实体版为游戏密钥卡。光荣特库摩的《塞尔达传说》衍生作《塞尔达传说：灾厄启示录》将于2027年2月27日以终极版形式登陆Switch 2。正如今天所公布的那样，"
-    },
-    {
-      "title": "关税退款不独吞 老任回馈玩家！任天堂美国大促来了",
-      "link": "https://www.gamersky.com/news/202609/2207427.shtml",
-      "date": "2026-09-10T13:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
     },
     {
       "title": "刘慈欣监制打造！腾讯投资团队科幻新游《流浪地球：望日》首曝",
@@ -1198,16 +1765,6 @@
       "summaryZh": "今天，《战争机器》正式启动我们“永不孤军奋战”活动的第五年，这是一项持续性的承诺，旨在携手危机短信热线及英国插画家卢克·普里斯，共同助力预防自杀。"
     },
     {
-      "title": "《塞尔达》限定NS2遭黄牛围猎 玩家怒斥是行业毒瘤",
-      "link": "https://www.gamersky.com/news/202609/2207341.shtml",
-      "date": "2026-09-10T12:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Play your way with Control Resonant’s expanded Assist Mode",
       "link": "https://blog.playstation.com/2026/09/10/play-your-way-with-control-resonants-expanded-assist-mode/",
       "date": "2026-09-10T12:00:17.000Z",
@@ -1244,28 +1801,6 @@
       "summaryZh": "你好，PlayStation玩家们！今天我们宣布，由Vanillaware与Marvelous联手打造的这款极具日本风情的动作RPG游戏《村田枪刃：复仇之刃》将于2027年2月4日上市。同时，这款游戏还将…"
     },
     {
-      "title": "Blizzard must now 'discuss, evaluate, and bargain' its AI usage with its developers",
-      "link": "https://www.pcgamer.com/gaming-industry/blizzard-must-now-discuss-evaluate-and-bargain-its-ai-usage-with-its-developers/",
-      "date": "2026-09-10T11:16:28.000Z",
-      "summary": "\"When we fight together, we win together.\"",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪现在必须与其开发者“讨论、评估并协商”其AI的使用问题",
-      "summaryZh": "“当我们团结一致战斗时，我们就能一起获胜。”"
-    },
-    {
-      "title": "马里奥呢？怎么全是移植？任天堂直面会吵翻了！",
-      "link": "https://www.gamersky.com/news/202609/2207289.shtml",
-      "date": "2026-09-10T11:15:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "VR headset shipments are down 18% compared to this time last year, and that may not be great news for Valve",
       "link": "https://www.pcgamer.com/hardware/vr-hardware/vr-headset-shipments-are-down-18-percent-compared-to-this-time-last-year-and-that-may-not-be-great-news-for-valve/",
       "date": "2026-09-10T10:51:30.000Z",
@@ -1288,28 +1823,6 @@
       ]
     },
     {
-      "title": "I'm trying to untangle my response to how the Ocarina of Time remake looks",
-      "link": "https://www.eurogamer.net/untangling-my-response-to-how-ocarina-of-time-remake-looks",
-      "date": "2026-09-10T10:03:50.000Z",
-      "summary": "My first thought about the new art for The Legend of Zelda: Ocarina of Time remake was: Oh, we're seeing too much. That was my first thought, but not my first reaction. My first reaction was pure emot",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "我正试图理清我对《时之笛》重制版外观的反应。",
-      "summaryZh": "我对《塞尔达传说：时之笛》重制版新美术的第一印象是：哦，我们看得太多了。这是我的第一想法，但并不是我的第一反应。我的第一反应纯粹是情感上的。"
-    },
-    {
-      "title": "《黄昏血族》未上直面会 玩家心碎！2026年真能玩到吗？",
-      "link": "https://www.gamersky.com/news/202609/2207179.shtml",
-      "date": "2026-09-10T09:56:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "育碧测试新Connect服务 Steam游戏不再需要独立启动器",
       "link": "https://www.3dmgame.com/news/202609/3952922.html",
       "date": "2026-09-10T09:23:39.186Z",
@@ -1317,16 +1830,6 @@
       "source": "3DM游戏网",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "知名记者报道暴雪或将发布全新RTS游戏 并与《家园3》工作室再次合作",
-      "link": "https://www.3dmgame.com/news/202609/3952919.html",
-      "date": "2026-09-10T09:23:39.186Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -1425,16 +1928,6 @@
       ]
     },
     {
-      "title": "历时两年谈判，暴雪近2000名员工获得统一劳动权益保障",
-      "link": "https://www.3dmgame.com/news/202609/3952895.html",
-      "date": "2026-09-10T05:33:30.123Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "索尼取消项目退出 小岛秀夫带谍战新作《PHYSINT》转投XBOX",
       "link": "https://www.3dmgame.com/news/202609/3952883.html",
       "date": "2026-09-10T05:33:30.123Z",
@@ -1442,16 +1935,6 @@
       "source": "3DM游戏网",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "开荒、交易、带团下本爽刷神装！《魔兽世界》模拟器《公会创世纪》参展Steam动漫游戏节",
-      "link": "https://www.gamersky.com/news/202609/2206866.shtml",
-      "date": "2026-09-10T05:23:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -1706,30 +2189,6 @@
       "summaryZh": "文章《《现代战争4》预购奖励：内圈M4蓝图》首次发表于XBOX Wire。"
     },
     {
-      "title": "Blizzard Workers Win Historic Union Contract That Could Set A New Standard For Game Developers",
-      "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers/",
-      "date": "2026-09-09T17:46:02.000Z",
-      "summary": "A group of 1,900 employees at Blizzard Entertainment has successfully signed a union contract with Microsoft, securing several guarantees for members. Represented by the Communications Workers of Amer",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪员工赢得历史性工会合同，或将为游戏开发者树立新标杆",
-      "summaryZh": "暴雪娱乐的1900名员工成功与微软签署了工会合同，为成员们争取到了多项保障。此次由美国通信工人联合会代表。"
-    },
-    {
-      "title": "Almost 1,900 Blizzard workers vote through a \"historic\" union contract securing protections against layoffs and gen-AI",
-      "link": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
-      "date": "2026-09-09T17:15:06.000Z",
-      "summary": "Around 1,900 unionised workers at Blizzard Entertainment have voted to ratify their first contract with the World of Warcraft publisher after years of negotiations. The union contract means Blizzard n",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "近1900名暴雪员工投票通过了一份“历史性”的工会合同，确保了他们免遭裁员以及人工智能带来的威胁。",
-      "summaryZh": "暴雪娱乐约1900名工会成员经过数年谈判后，已投票批准了他们与《魔兽世界》发行商签订的第一份合同。这份工会合同意味着暴雪"
-    },
-    {
       "title": "Spyro the Dragon and Crash Bandicoot Birthday Bash",
       "link": "https://news.xbox.com/en-us/2026/09/09/spyro-the-dragon-and-crash-bandicoot-birthday-bash/",
       "date": "2026-09-09T17:00:00.000Z",
@@ -1778,30 +2237,6 @@
       "summaryZh": "索尼互动娱乐公布了2026年9月PlayStation Plus Extra的游戏目录阵容……"
     },
     {
-      "title": "PlayStation Plus Game Catalog for September: RuneScape: Dragonwilds, WWE 2K26, Ball x Pit, Date Everything! and more",
-      "link": "https://blog.playstation.com/2026/09/09/playstation-plus-game-catalog-for-september-runescape-dragonwilds-wwe-2k26-ball-x-pit-date-everything-and-more/",
-      "date": "2026-09-09T15:30:17.000Z",
-      "summary": "This month, master survival and uncover ancient secrets in RuneScape: Dragonwilds, run the squared circle your way in WWE 2K26, descend into the monster-filled ruins of Ballbylon in Ball x Pit, or tur",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "9月PlayStation Plus游戏目录：《RuneScape：龙之荒野》、《WWE 2K26》、《球X坑》、《约会一切！》等",
-      "summaryZh": "本月，你将在《RuneScape：龙之荒野》中掌握生存技巧并揭开远古秘密；在《WWE 2K26》中以自己的方式驰骋擂台；在《球X坑》中深入布满怪物的巴尔比隆废墟；或者尽情"
-    },
-    {
-      "title": "Unionised Blizzard workers vote through contract giving them a say on genAI adoption and protection against layoffs",
-      "link": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
-      "date": "2026-09-09T15:25:00.000Z",
-      "summary": "Unionised Blizzard workers have voted to ratify a new contract with their employer that will \"require\" Blizzard to negotiate with workers over any usage of generative AI tools in their workplace, in a",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "工会化的暴雪员工投票通过合同，让他们有权参与生成式AI的采用，并获得防止裁员的保障",
-      "summaryZh": "工会化的暴雪员工已投票批准了一份新合同，该合同将“要求”暴雪在工作场所使用生成式AI工具时必须与员工协商，这一"
-    },
-    {
       "title": "It Takes Two coming to Switch 2 on October 15",
       "link": "https://www.gematsu.com/2026/09/it-takes-two-coming-to-switch-2-on-october-15",
       "date": "2026-09-09T14:46:56.000Z",
@@ -1824,28 +2259,6 @@
       ],
       "titleZh": "《漫威对决》打破了长达17个月每季新增两名英雄的惯例，但其创意总监向粉丝保证，这并非“新常态”。",
       "summaryZh": "第10赛季将带来一名新英雄、两种全新游戏模式，以及大量平衡性调整。"
-    },
-    {
-      "title": "Introducing No Man’s Sky: Cosmos update, live on PS5 today",
-      "link": "https://blog.playstation.com/2026/09/09/introducing-no-mans-sky-cosmos-update-live-on-ps5-today/",
-      "date": "2026-09-09T13:00:28.000Z",
-      "summary": "Hello, it has been ten years now since the release of No Man’s Sky, and we wanted to do something special to mark the moment. The Cosmos update brings a massive overhaul to space itself and is free to",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "现在隆重推出《无人深空》宇宙更新，今日即在PS5上线！",
-      "summaryZh": "大家好，距离《无人深空》发行至今已整整十年，我们想借此特别时刻做点特别的事。此次宇宙更新对太空本身进行了大规模革新，而且完全免费！"
-    },
-    {
-      "title": "《魔兽世界》时光服爆料：大反转！最弱职业史诗级加强",
-      "link": "https://news.17173.com/content/09092026/130006772.shtml",
-      "date": "2026-09-09T13:00:06.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "Riot Games Music时隔两年半发文，《英雄联盟》K/DA回归引发猜测",
@@ -1899,16 +2312,6 @@
       ]
     },
     {
-      "title": "曝《星际争霸》FPS新作非命运式 玩法接近星际战士2",
-      "link": "https://www.3dmgame.com/news/202609/3952604.html",
-      "date": "2026-09-09T05:41:41.651Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "《英雄联盟》海克斯大乱斗官宣大更新！开局得看剧 能骑大火箭",
       "link": "https://www.gamersky.com/news/202609/2205961.shtml",
       "date": "2026-09-09T02:41:00.000Z",
@@ -1929,16 +2332,6 @@
       ],
       "titleZh": "《使命召唤：黑色行动7》与《战区》第06赛季内容爆料：“幽灵之夜”",
       "summaryZh": "文章《《使命召唤：黑色行动7》与《战区》第06赛季内容爆料：“幽灵之夜”》首发于XBOX Wire。"
-    },
-    {
-      "title": "[283]老豆闲谈-聊聊WOW2的谣言",
-      "link": "https://www.gcores.com/radios/219452",
-      "date": "2026-09-08T17:25:27.000Z",
-      "summary": "本期又是豆豆的恶臭老登话题。这种话题确实找不到小登和豆豆一起聊。 如果你是老登且关注魔兽世界和暴雪的话，肯定会刷到一些视频，关键词有： plus2、卡美洛特、WOW2、WOW永恒 等等吧，反正就是一些关于暴雪嘉年华和魔兽世界的传闻。 这期的单口，就是豆豆说说这些事。",
-      "source": "机核",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "Fear The Timeloop Brings a Deadly 15 Minute Loop to XBOX",
@@ -1985,16 +2378,6 @@
       "summaryZh": "有人认为，《战地6》的Redsec大逃杀衍生模式是对《使命召唤》热门模式《战区》的回应，而今天的新闻再次印证了这一点。阅读更多"
     },
     {
-      "title": "700万以内最好的坐骑！《魔兽世界》官方玩梗“雷菌”",
-      "link": "https://news.17173.com/content/09082026/102939437.shtml",
-      "date": "2026-09-08T10:29:39.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Valve appears to implementing a reservation system for the Steam Frame, suggesting it expects demand will outstrip supply at launch",
       "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-appears-to-implementing-a-reservation-system-for-the-steam-frame-and-we-all-know-how-well-that-worked-last-time/",
       "date": "2026-09-08T10:26:04.000Z",
@@ -2005,26 +2388,6 @@
       ],
       "titleZh": "Valve似乎正在为Steam Frame实施预约制度，暗示其预计首发时的需求将超过供应。",
       "summaryZh": "比你想象的更近。"
-    },
-    {
-      "title": "Vol.264 盖塔泛宇宙后篇：《真说魔兽战线》&《百亿昼千亿夜》",
-      "link": "https://www.gcores.com/radios/219451",
-      "date": "2026-09-08T09:40:00.000Z",
-      "summary": "历时两年半多，由Biugay主导的石川贤与盖塔IP系列关联作品今天迎来最后一期。盖塔泛宇宙后篇，再再再再次堂堂完结！",
-      "source": "机核",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "《守望先锋》联动韩国女团",
-      "link": "https://www.gamersky.com/news/202609/2205696.shtml",
-      "date": "2026-09-08T09:19:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
@@ -2066,16 +2429,6 @@
       "source": "游民星空",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "暴雪放出《星际争霸》新情报！暗示凯瑞甘即将回归",
-      "link": "https://www.gamersky.com/news/202609/2205158.shtml",
-      "date": "2026-09-08T01:40:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -2149,16 +2502,6 @@
       ]
     },
     {
-      "title": "一只小狗卖出130万！《魔兽世界》鲁弗斯慈善礼包收官",
-      "link": "https://news.17173.com/content/09072026/134059004.shtml",
-      "date": "2026-09-07T13:40:59.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Valve has reportedly made £11bn from Steam already in 2026, and biggest earning new arrival is Forza Horizon 6",
       "link": "https://www.eurogamer.net/forza-horizon-6-biggest-steam-new-release-11-billion-gbp",
       "date": "2026-09-07T13:17:55.000Z",
@@ -2170,28 +2513,6 @@
       ],
       "titleZh": "据报道，Valve仅在2026年就已从Steam赚取了110亿英镑，其中收入最高的新作品是《极限竞速：地平线6》。",
       "summaryZh": "如果你是Valve，2026年对你的银行账户来说真是个丰收年，这一切都要归功于Steam带来的巨额收入。根据最新分析，这家PC游戏平台今年已赚取了150亿美元（约合111亿英镑）。"
-    },
-    {
-      "title": "Don't count on the rumoured StarCraft game being a Destiny-like, says Jason Schreier",
-      "link": "https://www.eurogamer.net/starcraft-shooter-destiny-blizzard-mystery",
-      "date": "2026-09-07T12:19:32.000Z",
-      "summary": "The rumblings about the next StarCraft game continue to get louder. Following recent reports that Korean developer-publisher Nexon had acquired the rights to develop a sequel in the sci-fi franchise ,",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "杰森·施赖尔表示，别指望传闻中的《星际争霸》游戏会是类似《命运》那样的作品。",
-      "summaryZh": "关于下一部《星际争霸》游戏的传言越来越响亮。继近期有报道称韩国开发商兼发行商Nexon已获得该科幻系列续作的开发权后，"
-    },
-    {
-      "title": "暴雪RTS新作曝光！《星际争霸》或迎多项目并行开发",
-      "link": "https://www.3dmgame.com/news/202609/3952580.html",
-      "date": "2026-09-07T09:57:28.247Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "《CS2》曝严重漏洞 挂哥可伪造VAC封禁强行终止比赛",
@@ -2223,26 +2544,6 @@
       "source": "机核",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "《魔兽世界2》疑泄露！当年的兄弟还能凑齐一队吗？",
-      "link": "https://www.gamersky.com/news/202609/2204513.shtml",
-      "date": "2026-09-07T06:19:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "大的要来了！《魔兽争霸3：重制版》或将迎来3.0重大更新",
-      "link": "https://www.3dmgame.com/news/202609/3952555.html",
-      "date": "2026-09-07T05:38:51.695Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -2418,26 +2719,6 @@
       ]
     },
     {
-      "title": "魔兽故事：卡BUG葬送世界首杀，魔兽最倒霉战队，已连续五个版本拿亚军",
-      "link": "https://news.17173.com/content/09052026/070015324.shtml",
-      "date": "2026-09-05T07:00:15.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "星际争霸射击游戏传闻数月后 暴雪疑似预热新作",
-      "link": "https://www.3dmgame.com/news/202609/3952467.html",
-      "date": "2026-09-05T05:14:03.100Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Global与T1锁定无畏契约上海大师赛名额，VARREL遭淘汰",
       "link": "https://news.17173.com/content/09052026/033700230.shtml",
       "date": "2026-09-05T03:37:00.000Z",
@@ -2504,18 +2785,6 @@
       "summaryZh": "EA PLAY会员可在提前试玩中体验全新“联网特许经营”模式、全面升级的转播包等内容，最长可体验10小时。EA SPORTS NHL 27将呈现每支NHL球队的独特个性。"
     },
     {
-      "title": "StarCraft’s Return: A Timeline Of The Rumors And Clues So Far",
-      "link": "https://www.gamespot.com/articles/starcraft-return-a-timeline-of-the-rumors-and-clues-so-far/",
-      "date": "2026-09-04T16:50:24.000Z",
-      "summary": "BlizzCon 2026 is right around the corner, and for Blizzard fans, there's an air of excitement as signs point to a dormant franchise possibly being revived. StarCraft has been largely dormant since the",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "星际争霸回归：迄今为止的传闻与线索时间线",
-      "summaryZh": "BlizzCon 2026就在眼前，对于暴雪粉丝来说，一股兴奋的气氛弥漫开来，因为种种迹象表明，一款沉寂已久的系列可能即将复活。自那以后，《星际争霸》基本处于休眠状态。"
-    },
-    {
       "title": "Gears of War: E-Day Campaign – Brotherhood and Hope in a Hopeless World | Official XBOX Podcast",
       "link": "https://news.xbox.com/en-us/2026/09/04/gears-of-war-e-day-campaign-brotherhood-and-hope-in-a-hopeless-world-official-xbox-podcast/",
       "date": "2026-09-04T16:00:00.000Z",
@@ -2574,18 +2843,6 @@
       "summaryZh": "今天，我们宣布与TCL达成一项新合作，未来几个月内，XBOX应用将登陆部分TCL智能电视。我们希望走到全球玩家所在的地方。这意味着为玩家提供更多选择……"
     },
     {
-      "title": "Something strange is happening to the Starcraft website, as BlizzCon inches ever closer",
-      "link": "https://www.eurogamer.net/starcraft-website-glitches-blizzcon-2026",
-      "date": "2026-09-04T11:10:33.000Z",
-      "summary": "The Starcraft website is suffering from some mysterious visual glitches and distortion roughly a week before BlizzCon. As a result, fans of the RTS series are fiercely speculating on a possible reveal",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "随着暴雪嘉年华日益临近，星际争霸网站正发生着一些奇怪的事情。",
-      "summaryZh": "在距离暴雪嘉年华大约一周之际，星际争霸网站出现了某些神秘的视觉故障和扭曲现象。因此，这款即时战略游戏的粉丝们纷纷热烈猜测，可能会有重大爆料。"
-    },
-    {
       "title": "《彩虹六号》新作来了！纯单机 没有内购微交易",
       "link": "https://www.gamersky.com/news/202609/2203698.shtml",
       "date": "2026-09-04T10:27:00.000Z",
@@ -2616,26 +2873,6 @@
       ]
     },
     {
-      "title": "暴雪或在暗示 星际争霸 系列新作",
-      "link": "https://news.17173.com/content/09042026/060800510.shtml",
-      "date": "2026-09-04T06:08:00.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "新作来临？《星际争霸》官网更新故障特效与隐藏文本",
-      "link": "https://www.3dmgame.com/news/202609/3952390.html",
-      "date": "2026-09-04T05:26:50.399Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "最多15小时/月：微软大幅限制XGP云游戏时长",
       "link": "https://www.gcores.com/articles/219214",
       "date": "2026-09-04T01:20:00.000Z",
@@ -2646,18 +2883,6 @@
       ]
     },
     {
-      "title": "It's really starting to look like a new StarCraft game will be revealed at BlizzCon",
-      "link": "https://www.pcgamer.com/games/its-really-starting-to-look-like-a-new-starcraft-game-will-be-revealed-at-blizzcon/",
-      "date": "2026-09-03T21:48:29.000Z",
-      "summary": "Initial reports of a Nexon-developed shooter were met with doubt, but now something funky is happening with the StarCraft 2 website. And have you seen the BlizzCon schedule?",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "新作《星际争霸》似乎真的要亮相暴雪嘉年华了",
-      "summaryZh": "最初有关Nexon开发的射击游戏的报道曾引发质疑，但现在《星际争霸2》官网却出现了一些奇怪的现象。你看了暴雪嘉年华的日程表了吗？"
-    },
-    {
       "title": "AASTOCKS 股票及港股报价 HK Stock Quote",
       "link": "https://secure.aastocks.com/sc/mobile/default.aspx",
       "date": "2026-09-03T20:44:00.000Z",
@@ -2666,18 +2891,6 @@
       "companies": [
         "tencent"
       ]
-    },
-    {
-      "title": "Blizzard Might Be Teasing a New StarCraft Game",
-      "link": "https://www.ign.com/articles/blizzard-might-be-teasing-a-new-starcraft-game",
-      "date": "2026-09-03T20:29:56.000Z",
-      "summary": "There's something odd happening on the StarCraft website. While the content still features StarCraft Remastered, which launched back in 2017, the page now seems to be glitching out, with various eleme",
-      "source": "IGN",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪可能正在预告一款全新的《星际争霸》游戏",
-      "summaryZh": "《星际争霸》官网最近出现了一些怪异现象。虽然页面内容仍保留着2017年推出的《星际争霸重制版》，但如今页面似乎出现了各种故障，一些元素……"
     },
     {
       "title": "AASTOCKS 财经新闻 - 阿里巴巴－W (09988.HK)",
@@ -2808,16 +3021,6 @@
       "summaryZh": "CAPCOM再次彰显了RE引擎的灵活性。"
     },
     {
-      "title": "跨职业双修？三大全新职业？《魔兽世界》网传调研引玩家热议",
-      "link": "https://news.17173.com/content/09032026/115000355.shtml",
-      "date": "2026-09-03T11:50:00.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "把《彩虹六号》做成回合制单机：制作人说这是个很自然的选择",
       "link": "https://www.yystv.cn/p/14353",
       "date": "2026-09-03T11:00:00.000Z",
@@ -2912,40 +3115,6 @@
       "summaryZh": "对于合作游戏爱好者来说，一场全新的冒险即将开启。在《我们曾在此明天》最新预告片中，我们近距离展示了游戏中一些奇特的场景和不对称谜题，它们正等待着玩家们去探索。"
     },
     {
-      "title": "BlizzCon 2026 Preview: We’re So Back! | Official XBOX Podcast",
-      "link": "https://news.xbox.com/en-us/2026/09/02/blizzcon-2026-preview-were-so-back-official-xbox-podcast/",
-      "date": "2026-09-02T17:05:00.000Z",
-      "summary": "On this episode of the Official XBOX Podcast, we’re back on the Blizzard campus to talk all things BlizzCon 2026! We’re finding out what folks can expect whether they’re in-person at the Anaheim Conve",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "2026年暴雪嘉年华前瞻：我们回来了！｜官方XBOX播客",
-      "summaryZh": "在本期官方XBOX播客中，我们重返暴雪园区，聊聊关于2026年暴雪嘉年华的一切！无论你是亲临阿纳海姆会展中心，还是通过线上参与，都能了解到大家最期待的内容"
-    },
-    {
-      "title": "暴雪嘉年华《魔兽世界》13.0资料片官宣在即！怀旧服Plus将至",
-      "link": "https://news.17173.com/content/09022026/133250156.shtml",
-      "date": "2026-09-02T13:32:50.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend",
-      "link": "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine",
-      "date": "2026-09-02T13:26:54.000Z",
-      "summary": "World of Warcraft fans are currently obsessing over colours, as dataminers pull hues from Blizzard's website that are labelled under a curious \"wow 2\" tag. This, some believe, could be an indication o",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽世界》粉丝们迫切想确认“经典增强版”的消息，甚至从暴雪的后台挖出了“wow 2”的证据",
-      "summaryZh": "目前，《魔兽世界》粉丝们正沉迷于各种颜色，因为数据挖掘者从暴雪官网中找到了一些被标记为“wow 2”标签的色调。有人认为，这或许预示着……"
-    },
-    {
       "title": "30,000 games are either Steam Deck verified or at least 'playable' on Valve's handheld",
       "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/30-000-games-are-either-steam-deck-verified-or-at-least-playable-on-valves-handheld/",
       "date": "2026-09-02T12:17:28.000Z",
@@ -2958,18 +3127,6 @@
       "summaryZh": "实际体验，随时随地。"
     },
     {
-      "title": "The next StarCraft may not be made by Blizzard, according to a new report",
-      "link": "https://www.eurogamer.net/starcraft-sequel-nexon-deal-report",
-      "date": "2026-09-02T10:55:56.000Z",
-      "summary": "Nexon, the giant Korean developer and publisher, is said to be close to inking a deal with Blizzard over the rights to develop a sequel in the StarCraft franchise. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "根据一份新报告，下一部《星际争霸》可能不会由暴雪开发。",
-      "summaryZh": "据称，韩国巨头开发商兼发行商Nexon已接近与暴雪达成协议，获得《星际争霸》系列续作的开发权。阅读更多内容"
-    },
-    {
       "title": "网易停服《射雕》更名！对外成本10亿 要运营150年",
       "link": "https://www.gamersky.com/news/202609/2202031.shtml",
       "date": "2026-09-02T10:24:00.000Z",
@@ -2977,16 +3134,6 @@
       "source": "游民星空",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "韩国Nexon拟从暴雪手中收购《星际争霸》续作开发权",
-      "link": "https://www.3dmgame.com/news/202609/3952187.html",
-      "date": "2026-09-02T09:18:33.681Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -3007,16 +3154,6 @@
       "source": "17173",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "曝《星际争霸3》可能要来了！暴雪或将IP卖给韩国人",
-      "link": "https://www.gamersky.com/news/202609/2201512.shtml",
-      "date": "2026-09-02T08:01:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -3048,18 +3185,6 @@
       "companies": [
         "tencent"
       ]
-    },
-    {
-      "title": "5 top tips from World of Warcraft housing creators for making amazing masterworks",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/5-top-tips-from-world-of-warcraft-housing-creators-for-making-amazing-masterworks/",
-      "date": "2026-09-01T22:54:49.000Z",
-      "summary": "Improve your housing game with advice from some of WoW's best home designers.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽世界》房屋建造者分享的5个打造惊艳杰作的顶级技巧",
-      "summaryZh": "向一些最优秀的《魔兽世界》房屋设计师学习，提升你的房屋建造水平。"
     },
     {
       "title": "腾讯视频",
@@ -3150,16 +3275,6 @@
       ]
     },
     {
-      "title": "暴雪将放大招！《魔兽世界2》要来了？《星际争霸》疑有新作",
-      "link": "https://news.17173.com/content/09012026/105910106.shtml",
-      "date": "2026-09-01T10:59:10.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "《永劫无间》推出《炉石传说》联动，登录可免费领取鱼人头饰",
       "link": "https://www.3dmgame.com/news/202609/3952071.html",
       "date": "2026-09-01T09:45:31.201Z",
@@ -3211,16 +3326,6 @@
       ]
     },
     {
-      "title": "《魔兽世界2》将公布？暴雪官方商店出现",
-      "link": "https://www.gamersky.com/news/202609/2199996.shtml",
-      "date": "2026-09-01T01:50:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "育碧推出玩家社区平台，可抢先体验未公开项目",
       "link": "https://www.gcores.com/articles/219077",
       "date": "2026-09-01T01:15:00.000Z",
@@ -3229,18 +3334,6 @@
       "companies": [
         "ubisoft"
       ]
-    },
-    {
-      "title": "Blizzard doing 'a thorough scrub' of illegitimate World of Warcraft Mythic-Plus dungeon rankings, with more changes to come",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-doing-a-thorough-scrub-of-illegitimate-world-of-warcraft-mythic-plus-dungeon-rankings-with-more-changes-to-come/",
-      "date": "2026-08-31T21:01:02.000Z",
-      "summary": "Paid boosting was particularly controversial in this instance, because it pushed legitimate records out of the top-1% reward category.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪正在对非法的《魔兽世界》史诗+地下城排名进行“彻底清理”，未来还将有更多变化",
-      "summaryZh": "在这种情况下，付费刷榜尤其引发争议，因为它将合法记录挤出了前1%奖励榜单。"
     },
     {
       "title": "The Steam 'teraleak' extends far beyond Valve games, including prototypes of third-party titles like Mafia 2 and Grand Theft Auto 3: 'This may be one of if not the biggest leaks to occur'",
@@ -3813,38 +3906,6 @@
       ]
     },
     {
-      "title": "魔兽RPG地图下载后打不开？别急着重装，先查这两个版本",
-      "link": "https://www.3dmgame.com/news/202608/3951440.html",
-      "date": "2026-08-26T02:22:57.986Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "魔兽RPG游戏平台该解决什么？不只是给你一个下载链接",
-      "link": "https://www.3dmgame.com/news/202608/3951439.html",
-      "date": "2026-08-26T02:22:57.986Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "Tarae: The Unbound is an 'Eastern dark fantasy' action RPG, and I for one am here for K-Diablo",
-      "link": "https://www.pcgamer.com/games/rpg/tarae-the-unbound-is-an-eastern-dark-fantasy-action-rpg-and-i-for-one-am-here-for-k-diablo/",
-      "date": "2026-08-25T20:58:52.000Z",
-      "summary": "Featuring one of my favorite ARPG class archetypes: Guy With Gun.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "Tarae: The Unbound 是一款“东方黑暗奇幻”动作角色扮演游戏，我就是来玩 K-Diablo 的",
-      "summaryZh": "以我最喜欢的 ARPG 类原型之一为特色：Guy With Gun。"
-    },
-    {
       "title": "米哈游公布全新奇幻写实动作游戏《源初之结》",
       "link": "https://www.gcores.com/articles/218782",
       "date": "2026-08-25T20:06:24.000Z",
@@ -3954,16 +4015,6 @@
       ]
     },
     {
-      "title": "大菠萝暂不回归 《暗黑破坏神4》下一个大反派可能是他",
-      "link": "https://www.3dmgame.com/news/202608/3951163.html",
-      "date": "2026-08-22T02:14:00.678Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "《生化危机9》《刺客信条：影》法国实体销量占一半",
       "link": "https://www.3dmgame.com/news/202608/3951155.html",
       "date": "2026-08-22T02:14:00.678Z",
@@ -4060,18 +4111,6 @@
       ]
     },
     {
-      "title": "Overwatch's newest Emerald rank is like a live grenade wedged between plat and diamond",
-      "link": "https://www.pcgamer.com/games/fps/overwatchs-newest-emerald-rank-is-like-a-live-grenade-wedged-between-plat-and-diamond/",
-      "date": "2026-08-19T16:19:32.000Z",
-      "summary": "Godspeed to all those hardstuck.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《守望先锋》最新的翡翠等级就像一颗夹在白金和钻石之间的手榴弹",
-      "summaryZh": "祝所有困难者一切顺利。"
-    },
-    {
       "title": "测试对比《刺客信条：黑旗》重制版性能！ voices38破解版竟比不过D加密版",
       "link": "https://www.3dmgame.com/news/202608/3950867.html",
       "date": "2026-08-19T01:17:59.909Z",
@@ -4126,16 +4165,6 @@
       ],
       "titleZh": "《战地 6》正在举办免费试用，正好赶上《使命召唤：现代战争 4》的测试版",
       "summaryZh": "《战地 6》的最新免费试玩版今天与第 4 季的季中更新同时开始，虽然这本身可能并不特别引人注目，但时机更重要：它与《使命召唤》重合"
-    },
-    {
-      "title": "曝《暗黑破坏神4》Switch2版9月12日开启预购 全DLC 69.99美元！",
-      "link": "https://www.3dmgame.com/news/202608/3950789.html",
-      "date": "2026-08-18T02:13:45.168Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "首位埃及干员来了：《彩虹六号：围攻》公布“Split Fire”行动详情",
@@ -5036,16 +5065,6 @@
       ]
     },
     {
-      "title": "第五人格IVL：GR_citie操作拉满完美牵制，两局三跑带领队伍获胜",
-      "link": "https://news.17173.com/content/07312026/134408802.shtml",
-      "date": "2026-07-31T05:44:08.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
       "title": "Saudi Arabia's $55 billion takeover of Electronic Arts will happen next week",
       "link": "https://www.pcgamer.com/gaming-industry/saudi-arabias-usd55-billion-takeover-of-electronic-arts-will-happen-next-week/",
       "date": "2026-07-30T22:08:00.000Z",
@@ -5117,16 +5136,6 @@
       "date": "2026-07-24T07:42:00.000Z",
       "summary": "「月之八」版本「映夏！ 归乡？ 千灵节！ 」现已开启. Copyright © COGNOSPHERE. All Rights Reserved.",
       "source": "必应资讯",
-      "companies": [
-        "mihoyo"
-      ]
-    },
-    {
-      "title": "米哈游就 “不正当竞争纠纷” 为案由，向B站提起诉讼；该案将 ...",
-      "link": "https://news.qq.com/rain/a/20260714A0BC4C00",
-      "date": "2026-07-14T21:01:00.000Z",
-      "summary": "近日，企查查APP显示，上海米哈游影铁科技有限公司起诉多方不正当竞争纠纷案，将于2026年8月19日14时在上海市浦东新区人民法院开庭审理，被告 ...",
-      "source": "必应资讯(米哈游)",
       "companies": [
         "mihoyo"
       ]
