@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-13T05:38:00.619Z",
+  "updatedAt": "2026-09-13T09:59:36.358Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "PlayStation Blog",
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
@@ -37,19 +37,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 10
+      "count": 7
     },
     {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 10
+      "count": 7
     },
     {
       "name": "GameSpot",
@@ -89,17 +84,12 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 95
+      "count": 100
     },
     {
-      "name": "游研社",
+      "name": "3DM游戏网",
       "status": "ok",
-      "count": 12
-    },
-    {
-      "name": "17173",
-      "status": "ok",
-      "count": 25
+      "count": 36
     },
     {
       "name": "机核",
@@ -107,9 +97,19 @@
       "count": 20
     },
     {
-      "name": "3DM游戏网",
+      "name": "游研社",
       "status": "ok",
-      "count": 36
+      "count": 12
+    },
+    {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 25
     }
   ]
 }
