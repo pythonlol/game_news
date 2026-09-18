@@ -1,33 +1,18 @@
 {
-  "updatedAt": "2026-09-18T05:31:31.214Z",
+  "updatedAt": "2026-09-18T09:23:37.963Z",
   "sources": [
-    {
-      "name": "Steam 官方新闻",
-      "status": "ok",
-      "count": 20
-    },
     {
       "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "Steam 官方新闻",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 7
-    },
-    {
-      "name": "必应资讯·网易",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -39,10 +24,25 @@
     {
       "name": "必应资讯·原神",
       "status": "ok",
-      "count": 5
+      "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
@@ -52,14 +52,9 @@
       "count": 15
     },
     {
-      "name": "必应资讯·暴雪",
+      "name": "PlayStation Blog",
       "status": "ok",
-      "count": 5
-    },
-    {
-      "name": "Eurogamer",
-      "status": "ok",
-      "count": 100
+      "count": 10
     },
     {
       "name": "IGN",
@@ -67,14 +62,19 @@
       "count": 20
     },
     {
-      "name": "PC Gamer",
+      "name": "Eurogamer",
       "status": "ok",
-      "count": 50
+      "count": 100
     },
     {
       "name": "Rock Paper Shotgun",
       "status": "ok",
       "count": 100
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
     },
     {
       "name": "Gematsu",
@@ -89,12 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 100
-    },
-    {
-      "name": "游研社",
-      "status": "ok",
-      "count": 12
+      "count": 101
     },
     {
       "name": "机核",
@@ -102,14 +97,19 @@
       "count": 20
     },
     {
-      "name": "17173",
+      "name": "游研社",
       "status": "ok",
-      "count": 24
+      "count": 12
     },
     {
       "name": "3DM游戏网",
       "status": "ok",
       "count": 36
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 24
     }
   ]
 }
