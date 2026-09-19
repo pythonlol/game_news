@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:28:16.212Z",
+  "updatedAt": "2026-09-19T09:11:44.970Z",
   "items": [
     {
       "title": "《EA Sports FC 27》目前为止的评测",
@@ -19,6 +19,80 @@
       "source": "17173",
       "companies": [
         "nintendo"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》明确禁用GDKP 暴雪称高度重视游戏经济",
+      "link": "https://www.3dmgame.com/news/202609/3953804.html",
+      "date": "2026-09-19T09:11:43.180Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》取代四代资料片 主创称要给大菠萝做专属游戏",
+      "link": "https://www.3dmgame.com/news/202609/3953796.html",
+      "date": "2026-09-19T09:11:43.180Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "任天堂更新“超级马力欧”标识与角色渲染图，马力欧工装裤新增小口袋",
+      "link": "https://www.3dmgame.com/news/202609/3953795.html",
+      "date": "2026-09-19T09:11:43.180Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "HoYoverse's Nodusfall might look like Elden Ring, but there's a promising dark fantasy action game here that took me by surprise",
+      "link": "https://www.eurogamer.net/nodusfall-gamescom-preview",
+      "date": "2026-09-19T09:00:00.000Z",
+      "summary": "Nodusfall, aesthetically at least, is about as far from a typical HoYoverse game as you can get. Gone are the bright colours, cute creatures, and bountiful anime women. In their place, we get all the ",
+      "source": "Eurogamer",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "HoYoverse的《Nodusfall》看起来或许像《艾尔登法环》，但这里有一款充满潜力的黑暗奇幻动作游戏，着实让我大吃一惊。",
+      "summaryZh": "至少从美学角度来看，《Nodusfall》与典型的HoYoverse游戏可谓南辕北辙。明亮的色彩、可爱的生物和众多动漫风格的女性角色统统不见了，取而代之的是……"
+    },
+    {
+      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+      "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+      "date": "2026-09-19T08:19:37.000Z",
+      "summary": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itself.",
+      "source": "IGN",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "随着玩家涌入《魔兽世界：永恒测试版》，开发团队表示，这是他们“在暴雪工作17年来见过的最疯狂的数据”。",
+      "summaryZh": "《魔兽世界：永恒》似乎有望成为爆款——测试版上线后，热情的玩家蜂拥而至，连暴雪自己都感到意外。"
+    },
+    {
+      "title": "玩家曝光《战神：劳菲》新神祇形象 红脸戴冠气势逼人",
+      "link": "https://www.gamersky.com/news/202609/2212552.shtml",
+      "date": "2026-09-19T07:48:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "索尼3A玩吐了？《战神：劳菲》被自家大佬吐槽",
+      "link": "https://www.gamersky.com/news/202609/2212541.shtml",
+      "date": "2026-09-19T07:15:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
       ]
     },
     {
@@ -60,6 +134,18 @@
       "companies": [
         "sony"
       ]
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art",
+      "link": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
+      "date": "2026-09-19T04:30:00.000Z",
+      "summary": "Update: You can now read the prologue chapter on Nintendo Today! : Alongside other Direct news this week , Nintendo has announced Fire Emblem: Fortune's Weave will be getting its own manga adaptation.",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《火焰纹章：命运交织》即将推出漫画系列，以下是关键插图。",
+      "summaryZh": "更新：你现在可以在Nintendo Today上阅读序章啦！本周除了其他直面会消息外，任天堂还宣布《火焰纹章：命运交织》将推出专属漫画改编作品。"
     },
     {
       "title": "NS2手柄喜迎大进化？任天堂全新专利曝光",
@@ -206,6 +292,18 @@
       ],
       "titleZh": "EA Sports FC 27目前评测",
       "summaryZh": "EA Sports的新开放世界枢纽让其根基不稳，但逼真且直观的战术系统展现出不错的潜力。"
+    },
+    {
+      "title": "Walmart Just Discounted Over a Dozen Nintendo Switch Games, Plus Get an Extra $10 With This Secret Coupon",
+      "link": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon",
+      "date": "2026-09-18T23:45:00.000Z",
+      "summary": "It's a good time to be a Switch gamer.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "沃尔玛刚刚对十多种任天堂Switch游戏进行了折扣优惠，而且使用这张秘密优惠券还能再减10美元！",
+      "summaryZh": "对于Switch玩家来说，现在正是好时机。"
     },
     {
       "title": "The Last of Us game director apologizes for God of War Laufey criticism, points finger at industry leaders for triple-A stagnation",
@@ -1793,18 +1891,6 @@
       "summaryZh": "但暴雪表示，对这款游戏的支持将持续“很长一段时间”。上周，暴雪揭开了《暗黑破坏神5》的神秘面纱，宣布这款ARPG系列的第五部重磅作品将于2029年问世。随着它……"
     },
     {
-      "title": "Nintendo Explains Why Fire Emblem: Fortune's Weave Has Just \"A Single Save File\"",
-      "link": "https://www.nintendolife.com/news/2026/09/nintendo-explains-why-fire-emblem-fortunes-weave-has-just-a-single-save-file",
-      "date": "2026-09-16T04:55:00.000Z",
-      "summary": "Separate saves would create \"complications\". Fire Emblem: Fortune's Weave arrives on the Switch 2 this week, and as a heads up, there's only \"a single save file\". This was revealed during Nintendo's l",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂解释了为何《火焰纹章：命运之轮》只设“一个存档文件”",
-      "summaryZh": "如果分开存档，将会带来“复杂性”。《火焰纹章：命运之轮》将于本周登陆Switch 2，需要注意的是，这款游戏仅有一个“存档文件”。这一消息是在任天堂的发布会上透露的。"
-    },
-    {
       "title": "《荣耀战魂》免费领:育碧40周年庆典现已开启",
       "link": "https://www.gcores.com/articles/219786",
       "date": "2026-09-16T04:16:03.000Z",
@@ -1812,16 +1898,6 @@
       "source": "机核",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "《符文世界：龙之荒野》正式版现已推出，系列游戏首次登陆主机平台",
-      "link": "https://www.gcores.com/articles/219785",
-      "date": "2026-09-16T04:14:26.000Z",
-      "summary": "Jagex: The RuneScape Company 宣布，开放世界生存建造游戏《符文世界：龙之荒野》（RuneScape: Dragonwilds）现已正式登陆PC、PlayStation 5、Nintendo Switch 2 和 Xbox Series X|S 平台。 <内嵌内容，请前往机核查看> 《符文世界：龙之荒野》是《RuneScape》系列 25 年来首次登陆主机平台的作品。游戏",
-      "source": "机核",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1906,16 +1982,6 @@
       "source": "游民星空",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "《宝可梦 Pokopia》荣获年度大奖：“日本游戏大奖2026”奖项名单汇总",
-      "link": "https://www.gcores.com/articles/219767",
-      "date": "2026-09-16T00:55:00.000Z",
-      "summary": "由日本计算机娱乐供应商协会举办的“日本游戏大奖”于日前在 TGS2026 上以直播形式公布了获奖名单：《宝可梦 Pokopia》获得大奖， 同时宝可梦系列还荣获经济产业大臣奖。以下是 TGS 2026 年完整的奖项名单： 大奖 宝可梦 Pokopia 经济产业大臣奖 宝可梦系列 突破奖 《识质存在》 Movement奖 《超级变色龙》 特别奖 《超级马力欧银河大电影》 游戏设计师大奖 《文字游戏》",
-      "source": "机核",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2429,28 +2495,6 @@
       "summaryZh": "“我们也希望为玩家和游戏开发者共同打造一个健康的生态系统。”"
     },
     {
-      "title": "暴雪坚称 Diablo 4 仍有“很多理由值得继续玩”，针对玩家热议的资料片完结及 2029 年的 Diablo 5。",
-      "link": "https://news.17173.com/content/09142026/181659280.shtml",
-      "date": "2026-09-14T18:16:59.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "Blizzard Says Diablo 5 Was Too Big To Be A Diablo 4 Expansion",
-      "link": "https://www.gamespot.com/articles/blizzard-says-diablo-5-was-too-big-to-be-a-diablo-4-expansion/",
-      "date": "2026-09-14T18:03:36.000Z",
-      "summary": "Diablo 4 is far from dead, but don't expect any new expansions for the game going forward. Instead, Blizzard is preparing to tell the darkest story yet in Diablo 5 , one that required a new numbered g",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪表示，《暗黑破坏神5》规模太大，无法作为《暗黑破坏神4》的扩展内容",
-      "summaryZh": "《暗黑破坏神4》远未终结，但未来不会再有新的扩展内容。相反，暴雪正准备在《暗黑破坏神5》中讲述迄今为止最黑暗的故事，而这需要一个全新的编号作品"
-    },
-    {
       "title": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
       "link": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
       "date": "2026-09-14T18:00:14.000Z",
@@ -2461,16 +2505,6 @@
       ],
       "titleZh": "Valve决定，为了避免价格上涨而削减Steam Frame的配置，并非这款VR头显的“正确产品选择”",
       "summaryZh": "毫不意外，Valve的Steam Frame VR头显定价高于预期，继Steam Machine之后，其原本亲民的初衷再次因内存短缺而受挫"
-    },
-    {
-      "title": "[285]游戏回_WOW无限到底是什么",
-      "link": "https://www.gcores.com/radios/219736",
-      "date": "2026-09-14T18:00:08.000Z",
-      "summary": "暴雪在最近公布了魔兽世界的新内容-魔兽世界无限。 本来这期豆豆是想和小朱老师还有25，一起说说这个WOW无限到底是什么。 但是聊着聊着就开始发散思维，延伸到了很多关于WOW的讨论。 因为太散了，就不总结，大家自己听吧。 如果一起玩WOW无限的欢迎留言。 （暴雪嘉年华的内容会放在周末录音）",
-      "source": "机核",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
@@ -2605,18 +2639,6 @@
       "summaryZh": "通过“混乱合集”DLC，你将体验扮演DC标志性超级反派小丑和哈莉·奎茵。而在主线游戏中，你则要书写蝙蝠侠及其犯罪搭档的英雄传奇。"
     },
     {
-      "title": "Marvel’s Wolverine developers discuss capturing the essence of Logan – out September 15",
-      "link": "https://blog.playstation.com/2026/09/14/marvels-wolverine-developers-discuss-capturing-the-essence-of-logan-out-september-15/",
-      "date": "2026-09-14T15:00:20.000Z",
-      "summary": "Players will soon be able to sink their claws into Marvel’s Wolverine when it comes to PS5 on September 15. Ahead of its release, we had the chance to meet with part of the creative team behind the cl",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "漫威《金刚狼》开发团队谈如何捕捉洛根的精髓——游戏将于9月15日发售",
-      "summaryZh": "玩家们很快就能在PS5上一展身手，体验漫威《金刚狼》了，游戏将于9月15日发售。在游戏正式发布前，我们有幸与部分幕后创作团队成员进行了交流。"
-    },
-    {
       "title": "\"Valve is under the impression that this game is way sexier\": Nighthawks devs claim vampire RPG has erroneously been slapped with Steam adult content label",
       "link": "https://www.rockpapershotgun.com/valve-is-under-the-impression-that-this-game-is-way-sexier-nighthawks-devs-claim-vampire-rpg-has-erroneously-been-slapped-with-steam-adult-content-label",
       "date": "2026-09-14T14:38:54.000Z",
@@ -2627,16 +2649,6 @@
       ],
       "titleZh": "“Valve认为这款游戏性感得多”：Nighthawks开发团队声称，这款吸血鬼RPG游戏被错误地标记为Steam成人内容。",
       "summaryZh": "公告：Nighthawks的编剧理查德·科贝特曾为RPS撰写文章，截至撰稿时他最近的一篇文章是2018年的一篇以《神界：原罪》为主题的特辑。吸血鬼RPG《Nighthawks》已被贴上"
-    },
-    {
-      "title": "让索尼执意与小岛分家 PHYSINT或许真的有问题",
-      "link": "https://www.gamersky.com/news/202609/2209607.shtml",
-      "date": "2026-09-14T14:06:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
     },
     {
       "title": "逐渐崩坏的童话冒险 ！《爱丽丝与彼岸》定档10月16日",

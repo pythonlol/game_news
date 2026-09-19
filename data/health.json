@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:28:16.212Z",
+  "updatedAt": "2026-09-19T09:11:44.970Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -7,17 +7,7 @@
       "count": 20
     },
     {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -32,9 +22,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 7
     },
     {
       "name": "必应资讯·原神",
@@ -44,12 +39,12 @@
     {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -67,11 +62,6 @@
       "count": 20
     },
     {
-      "name": "Eurogamer",
-      "status": "ok",
-      "count": 100
-    },
-    {
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
@@ -82,19 +72,19 @@
       "count": 100
     },
     {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "游民星空",
+      "name": "Eurogamer",
       "status": "ok",
-      "count": 97
-    },
-    {
-      "name": "游研社",
-      "status": "ok",
-      "count": 12
+      "count": 100
     },
     {
       "name": "机核",
@@ -102,14 +92,24 @@
       "count": 20
     },
     {
-      "name": "17173",
+      "name": "游研社",
       "status": "ok",
-      "count": 24
+      "count": 12
+    },
+    {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 105
     },
     {
       "name": "3DM游戏网",
       "status": "ok",
       "count": 36
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 24
     }
   ]
 }
