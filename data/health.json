@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-21T05:51:49.693Z",
+  "updatedAt": "2026-09-21T10:24:53.982Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "必应资讯·王者荣耀",
@@ -22,22 +22,22 @@
       "count": 10
     },
     {
+      "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 10
+      "count": 7
     },
     {
       "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
@@ -57,9 +57,14 @@
       "count": 15
     },
     {
-      "name": "Eurogamer",
+      "name": "IGN",
       "status": "ok",
-      "count": 100
+      "count": 20
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
     },
     {
       "name": "Gematsu",
@@ -72,16 +77,6 @@
       "count": 100
     },
     {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "PC Gamer",
-      "status": "ok",
-      "count": 50
-    },
-    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
@@ -89,12 +84,22 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 98
+      "count": 99
     },
     {
       "name": "3DM游戏网",
       "status": "ok",
       "count": 36
+    },
+    {
+      "name": "Eurogamer",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 22
     },
     {
       "name": "游研社",
@@ -105,11 +110,6 @@
       "name": "机核",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "17173",
-      "status": "ok",
-      "count": 21
     }
   ]
 }
