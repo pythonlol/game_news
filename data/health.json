@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T09:36:05.226Z",
+  "updatedAt": "2026-09-21T05:51:49.693Z",
   "sources": [
     {
-      "name": "PlayStation Blog",
+      "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
@@ -12,22 +12,27 @@
       "count": 20
     },
     {
-      "name": "Xbox Wire",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·王者荣耀",
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
     {
       "name": "必应资讯·米哈游",
       "status": "ok",
+      "count": 7
+    },
+    {
+      "name": "必应资讯·Xbox",
+      "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -37,14 +42,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "必应资讯·原神",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -52,9 +57,9 @@
       "count": 15
     },
     {
-      "name": "必应资讯·腾讯",
+      "name": "Eurogamer",
       "status": "ok",
-      "count": 10
+      "count": 100
     },
     {
       "name": "Gematsu",
@@ -62,7 +67,7 @@
       "count": 20
     },
     {
-      "name": "Eurogamer",
+      "name": "Rock Paper Shotgun",
       "status": "ok",
       "count": 100
     },
@@ -77,11 +82,6 @@
       "count": 50
     },
     {
-      "name": "Rock Paper Shotgun",
-      "status": "ok",
-      "count": 100
-    },
-    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
@@ -89,12 +89,12 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 100
+      "count": 98
     },
     {
-      "name": "机核",
+      "name": "3DM游戏网",
       "status": "ok",
-      "count": 20
+      "count": 36
     },
     {
       "name": "游研社",
@@ -102,14 +102,14 @@
       "count": 12
     },
     {
-      "name": "3DM游戏网",
+      "name": "机核",
       "status": "ok",
-      "count": 35
+      "count": 20
     },
     {
       "name": "17173",
       "status": "ok",
-      "count": 23
+      "count": 21
     }
   ]
 }
