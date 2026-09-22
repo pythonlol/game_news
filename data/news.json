@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-09-22T05:49:59.331Z",
+  "updatedAt": "2026-09-22T09:38:10.111Z",
   "items": [
+    {
+      "title": "育碧开启40周年PC游戏促销 《荣耀战魂》9月28日前免费",
+      "link": "https://www.3dmgame.com/news/202609/3954216.html",
+      "date": "2026-09-22T09:38:07.975Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "《宝可梦集换式卡牌游戏》30周年扩展遭抢购！纪念印章引争议",
+      "link": "https://www.3dmgame.com/news/202609/3954210.html",
+      "date": "2026-09-22T09:38:07.975Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛》衍生书《海拉鲁回声》以配角视角展开",
+      "link": "https://www.3dmgame.com/news/202609/3954207.html",
+      "date": "2026-09-22T09:38:07.975Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》取消传统城镇 玩家将以随行车队作为安全据点",
+      "link": "https://www.3dmgame.com/news/202609/3954199.html",
+      "date": "2026-09-22T09:38:07.975Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "前Valve编剧放话 大团队做游戏根本没必要除非是《GTA6》",
+      "link": "https://www.gamersky.com/news/202609/2215088.shtml",
+      "date": "2026-09-22T09:37:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "World of Warcraft fans torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW",
+      "link": "https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow",
+      "date": "2026-09-22T09:34:13.000Z",
+      "summary": "World of Warcraft: Forever's beta is here, offering us our first look at WoW's reimagined vanilla or classic experience, and already it's proving extremely popular. But there are points of contention,",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界》粉丝们对《永恒》的天空之翼起始区域是否与经典版《魔兽世界》的基调相符争论不休。",
+      "summaryZh": "《魔兽世界：永恒》的测试版现已上线，让我们首次得以一窥《魔兽世界》重新构想的原版或经典体验，而它已经展现出极高的热度。不过，也存在一些争议点。"
+    },
+    {
+      "title": "索尼申请AI专利 让PS主机自行诊断并修复软件问题",
+      "link": "https://www.gamersky.com/news/202609/2215082.shtml",
+      "date": "2026-09-22T09:31:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《魔兽世界》新过场动画聚焦足部！暴雪官方回应",
+      "link": "https://www.gamersky.com/news/202609/2215076.shtml",
+      "date": "2026-09-22T09:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Nintendo Is Doing Its Best To Make Sure Switch Overtakes PS2",
+      "link": "https://www.nintendolife.com/news/2026/09/nintendo-is-doing-its-best-to-make-sure-switch-overtakes-ps2",
+      "date": "2026-09-22T09:15:00.000Z",
+      "summary": "A deal? A succulent Switch deal? What's this? A console doing down in price? What madness is this? Yes, in an apparent effort to shift its remaining stock in Europe, Nintendo is selling a Switch and M",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂正竭尽全力，确保Switch超越PS2。",
+      "summaryZh": "交易？超值的Switch优惠？这是什么情况？游戏机竟然降价了？这到底是怎么回事？是的，为了清空在欧洲的剩余库存，任天堂正在促销一款Switch和M"
+    },
+    {
+      "title": "《绝地潜兵》电影莫玛退出 索尼与里奇森谈判主角",
+      "link": "https://www.gamersky.com/news/202609/2215059.shtml",
+      "date": "2026-09-22T09:14:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "《星际争霸: Tabletop Miniatures Game》评测",
       "link": "https://news.17173.com/content/09222026/090808649.shtml",
@@ -10,6 +114,38 @@
       "companies": [
         "blizzard"
       ]
+    },
+    {
+      "title": "微软公开专利申请  想在击败Boss等停顿点插入广告",
+      "link": "https://www.gamersky.com/news/202609/2215043.shtml",
+      "date": "2026-09-22T09:05:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "大量AMD玩家遭殃！《魔兽世界：无限》进游戏黑屏崩溃",
+      "link": "https://www.gamersky.com/news/202609/2215026.shtml",
+      "date": "2026-09-22T09:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "Here's Your First Look at 3 Cards From Pokémon TCG: Mega Evolution — Delta Reign, Due to Launch This November",
+      "link": "https://www.ign.com/articles/heres-your-first-look-at-3-cards-from-pokmon-tcg-mega-evolution-delta-reign-due-to-launch-this-november",
+      "date": "2026-09-22T09:00:42.000Z",
+      "summary": "IGN can today reveal three new Pokémon card designs from the upcoming set Pokémon TCG: Mega Evolution — Delta Reign.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "这是《宝可梦卡牌游戏：超级进化——德尔塔统治》三张卡牌的首秀，该系列将于今年11月正式发售。",
+      "summaryZh": "IGN今日独家揭晓了即将推出的《宝可梦卡牌游戏：超级进化——德尔塔统治》中的三款全新卡牌设计。"
     },
     {
       "title": "据报道一名 宝可梦传说：阿尔宙斯 黄牛因 Target 30 周年纪念发售活动拳打他人面部被捕",
@@ -22,6 +158,16 @@
       ]
     },
     {
+      "title": "索尼突然测试PS5新界面:上线又撤回 或为PS6提前探路",
+      "link": "https://www.gamersky.com/news/202609/2214766.shtml",
+      "date": "2026-09-22T06:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
       "title": "暴雪表示 星际争霸 在2030年发售时“不会是独占游戏”",
       "link": "https://news.17173.com/content/09222026/061037519.shtml",
       "date": "2026-09-22T06:10:37.000Z",
@@ -30,6 +176,30 @@
       "companies": [
         "blizzard"
       ]
+    },
+    {
+      "title": "How about that StarCraft trailer, eh",
+      "link": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
+      "date": "2026-09-22T06:00:00.000Z",
+      "summary": "How about that StarCraft trailer, eh",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "那个《星际争霸》预告片怎么样，嗯？",
+      "summaryZh": "那个《星际争霸》预告片怎么样，嗯？"
+    },
+    {
+      "title": "Battlefield Baby",
+      "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
+      "date": "2026-09-22T06:00:00.000Z",
+      "summary": "Battlefield Baby",
+      "source": "PC Gamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "战场宝贝",
+      "summaryZh": "战场宝贝"
     },
     {
       "title": "亚马逊Prime会员日预热促销开启 《塞尔达传说：王国之泪》等降价约三成",
@@ -309,6 +479,18 @@
       ],
       "titleZh": "《魔兽世界：永恒》玩家正用新命名系统玩得不亦乐乎",
       "summaryZh": "《魔兽世界：永恒》的测试版人气爆棚，大批玩家涌入体验这款深受喜爱的MMO的新玩法。而永恒版的新功能之一便是角色命名系"
+    },
+    {
+      "title": "The Blood of Dawnwalker cost less than expected to make but former NetEase investor defends its status as a top-tier production",
+      "link": "https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed",
+      "date": "2026-09-21T13:32:51.000Z",
+      "summary": "UPDATE 22ND SEPTEMBER: Former NetEase studio investor and Rebel Wolves board director Simon Zhu has revealed the \"entire budget\" of The Blood of Dawnwalker as $45m, and said that: \"In Poland, that bud",
+      "source": "Eurogamer",
+      "companies": [
+        "netease"
+      ],
+      "titleZh": "《黎明行者之血》的制作成本低于预期，但前网易投资者为其顶级制作地位辩护。",
+      "summaryZh": "9月22日更新：前网易工作室投资者、Rebel Wolves董事会成员Simon Zhu透露，《黎明行者之血》的“完整预算”为4500万美元，并表示：“在波兰，这个预算……”"
     },
     {
       "title": "米哈游两名前员工受贿被捕，一人涉案金额触及刑法最高量刑门槛",
@@ -1474,16 +1656,6 @@
       "summaryZh": "无上限帧率及修复，v1.1.0版本现已推出。过去几周，任天堂领域可谓热闹非凡，大量Switch游戏、相关资讯以及更新纷纷发布，远超上周大型直播的内容。其中一例……"
     },
     {
-      "title": "任天堂悄然升级马里奥LOGO和模型 新3D马要官宣？",
-      "link": "https://www.gamersky.com/news/202609/2212453.shtml",
-      "date": "2026-09-18T14:02:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Next Week on XBOX: New Games for September 21 to 25",
       "link": "https://news.xbox.com/en-us/2026/09/18/next-week-on-xbox-new-games-for-september-21-to-25/",
       "date": "2026-09-18T14:00:00.000Z",
@@ -1518,40 +1690,6 @@
       ],
       "titleZh": "《控制：共振》：Remedy如何在9月24日推出更大胆、更奇特的超自然恐怖续作",
       "summaryZh": "《控制》只是个开始。Remedy Entertainment打造的科幻动作冒险惊悚片所构建的超自然世界，将在PlayStation 5上迎来完整续作《控制：共振》，它将彻底……"
-    },
-    {
-      "title": "《塞尔达》重制版新作地图大改！或暗藏玄机",
-      "link": "https://www.gamersky.com/news/202609/2212418.shtml",
-      "date": "2026-09-18T12:04:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Bolstered by Switch 2 sales and Zelda: Ocarina of Time remake's reveal, Nintendo of America COO promises: \"This is just the beginning\"",
-      "link": "https://www.eurogamer.net/switch-2-sales-ocarina-of-time-just-the-beginning",
-      "date": "2026-09-18T11:55:42.000Z",
-      "summary": "Nintendo is having a pretty good time of it at the moment. Last year, we learned that the Switch 2 became the fastest selling video game hardware device in US history, usurping the PS4's golden record",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "受Switch 2销量及《塞尔达传说：时之笛》重制版公布提振，任天堂美国首席运营官承诺：“这仅仅是个开始”",
-      "summaryZh": "目前任天堂的日子过得相当不错。去年，我们得知Switch 2成为美国历史上销售速度最快的电子游戏硬件设备，一举超越了PS4的纪录"
-    },
-    {
-      "title": "Disaster! 'Very' Cancels Loads Of Metroid Ravenous Special Edition Pre-Orders",
-      "link": "https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders",
-      "date": "2026-09-18T11:30:00.000Z",
-      "summary": "Metroid Scandalous. Well, this isn't good. Reports have been coming in that retailer Very has cancelled a bunch of pre-orders for Metroid Ravenous Special Edition, priced at £99.99. Read the full arti",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "灾难！“Very”取消了大量《银河战士：狂怒》特别版预购订单",
-      "summaryZh": "《银河战士》风波不断。唉，这可不太妙。有消息称，零售商Very已取消了一批售价99.99英镑的《银河战士：狂怒》特别版预购订单。点击阅读完整报道"
     },
     {
       "title": "World of Warcraft: Forever's devs have fixed EU players suffering major lag, though if you're still having trouble, there is a workaround",
@@ -1942,18 +2080,6 @@
       ]
     },
     {
-      "title": "I Played WoW: Forever On A Controller, And That’s Big News",
-      "link": "https://www.gamespot.com/articles/i-played-wow-forever-on-a-controller-and-thats-big-news/",
-      "date": "2026-09-17T15:59:04.000Z",
-      "summary": "World of Warcraft: Forever , Blizzard's next evolution of WoW Classic that will see significant changes and content additions, is fully playable on controller. I got to experience WoW: Forever's new S",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "我用手柄玩了《魔兽世界：永恒》，这可是个大新闻！",
-      "summaryZh": "《魔兽世界：永恒》，暴雪对经典版《魔兽世界》的全新进化之作，将迎来重大改动与内容新增，现已全面支持手柄操作。我亲身体验了《魔兽世界：永恒》的全新S"
-    },
-    {
       "title": "Free Play Days – Sea of Thieves and Hell Let Loose Vietnam",
       "link": "https://news.xbox.com/en-us/2026/09/17/free-play-days-09-17-2026/",
       "date": "2026-09-17T15:00:00.000Z",
@@ -2154,16 +2280,6 @@
       ]
     },
     {
-      "title": "《魔兽世界：无限》测试9月17日开启，指定礼包包含保底参与资格",
-      "link": "https://www.3dmgame.com/news/202609/3953372.html",
-      "date": "2026-09-17T05:41:51.590Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "ONSIDE Gaming 与 无畏契约 2026 阵容分道扬镳",
       "link": "https://news.17173.com/content/09172026/053710924.shtml",
       "date": "2026-09-17T05:37:10.000Z",
@@ -2181,16 +2297,6 @@
       "source": "17173",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "《星际争霸》大量细节曝光：主打单人 非赛季制",
-      "link": "https://www.gamersky.com/news/202609/2209555.shtml",
-      "date": "2026-09-17T04:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -2216,26 +2322,6 @@
       "summaryZh": "在9月17日至9月30日期间加入PlayStation Plus的玩家，可享受PS Plus 12个月会员最高25%的优惠！现有PlayStation Plus会员也可在剩余会员期内大幅节省费用。"
     },
     {
-      "title": "索尼PS+会员出库名单曝光！《如龙》《寂静岭》等",
-      "link": "https://www.gamersky.com/news/202609/2211309.shtml",
-      "date": "2026-09-17T03:35:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "《地平线：西之绝境》和《绝地潜兵2》突在Steam地区性下架！引发担忧 索尼又搞事？",
-      "link": "https://www.gamersky.com/news/202609/2211639.shtml",
-      "date": "2026-09-17T03:32:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "微软XBOX全新发布会来了！今晚6点 大作来袭",
       "link": "https://www.gamersky.com/news/202609/2211240.shtml",
       "date": "2026-09-17T02:05:00.000Z",
@@ -2243,16 +2329,6 @@
       "source": "游民星空",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "索尼PS会员打折了！TGS超值优惠 一切为玩家",
-      "link": "https://www.gamersky.com/news/202609/2211236.shtml",
-      "date": "2026-09-17T01:59:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -2279,18 +2355,6 @@
       "summaryZh": "凯恩·帕森斯在个人Instagram账号上发布了他访问Valve办公室的照片，进一步助长了关于《传送门》可能拍成电影的传闻。"
     },
     {
-      "title": "Hearthstone “Reign Of The Black Empire” Card Reveal – G’huun And Death Knight Control",
-      "link": "https://www.gamespot.com/articles/hearthstone-reign-of-the-black-empire-card-reveal-ghuun/",
-      "date": "2026-09-16T21:00:00.000Z",
-      "summary": "Hearthstone's next expansion is Reign of the Black Empire , a journey back thousands of years into the distant past when the Old Gods were at war with the Titans. GameSpot has an exclusive reveal for ",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《炉石传说》“黑帝国的统治”卡牌揭晓——古浑与死亡骑士控制流派。",
-      "summaryZh": "《炉石传说》下个扩展包名为“黑帝国的统治”，将带领玩家重返数千年前的远古时代，那时旧神正与泰坦展开激烈战争。GameSpot独家揭秘。"
-    },
-    {
       "title": "万千世界 - 王者荣耀官方网站 - 腾讯游戏",
       "link": "https://3.pvp.qq.com/wonder/index.html",
       "date": "2026-09-16T18:12:00.000Z",
@@ -2299,18 +2363,6 @@
       "companies": [
         "tencent"
       ]
-    },
-    {
-      "title": "WoW: Forever Is More Than Classic+, It’s WoW 2",
-      "link": "https://www.gamespot.com/articles/wow-forever-is-more-than-classic-its-wow-2/",
-      "date": "2026-09-16T17:48:52.000Z",
-      "summary": "Going into BlizzCon 2026 , World of Warcraft Classic fans, myself included, were hoping for what the community coined as Classic+. Instead, what we got is essentially WoW 2, an alternate vision for wh",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽世界：永恒》不仅仅是经典+，而是全新的《魔兽世界2》。",
-      "summaryZh": "在2026年暴雪嘉年华前夕，包括我在内的《魔兽世界》经典版粉丝们原本期待的是社区所称的“经典+”。然而，我们得到的却基本上是另一款全新的《魔兽世界2》，一种截然不同的未来愿景。"
     },
     {
       "title": "Call of Duty: Modern Warfare 4: The Story So Far",
@@ -3282,18 +3334,6 @@
       "summaryZh": "育碧出人意料地宣布，将取消每次在Steam上启动游戏时都必须运行Ubisoft Connect的必要。Ubisoft Connect此前名为Uplay，是一个…"
     },
     {
-      "title": "Microsoft Flight Simulator Introduces One of the World’s First Business Jets into the Marketplace",
-      "link": "https://news.xbox.com/en-us/2026/09/10/microsoft-flight-simulator-introduces-one-of-the-worlds-first-business-jets-into-the-marketplace/",
-      "date": "2026-09-10T14:00:00.000Z",
-      "summary": "The post Microsoft Flight Simulator Introduces One of the World’s First Business Jets into the Marketplace appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "微软飞行模拟器推出全球首批公务机之一进入市场",
-      "summaryZh": "文章《微软飞行模拟器推出全球首批公务机之一进入市场》首次发表于XBOX Wire。"
-    },
-    {
       "title": "刘慈欣监制打造！腾讯投资团队科幻新游《流浪地球：望日》首曝",
       "link": "https://news.17173.com/content/09102026/133234683.shtml",
       "date": "2026-09-10T13:32:34.000Z",
@@ -4109,18 +4149,6 @@
       ]
     },
     {
-      "title": "Wishlist Dragon’s Dogma 2 Dark Arisen And You Could Win A Steam Deck OLED",
-      "link": "https://www.gamespot.com/articles/wishlist-dragons-dogma-2-dark-arisen-and-you-could-win-a-steam-deck-oled/",
-      "date": "2026-09-01T20:51:17.000Z",
-      "summary": "When Dragon’s Dogma 2 launched back in 2024, it quickly became one of my favorite RPGs of all time. I still look back on it with fondness, and time hasn’t changed my opinion. The chaos of climbing a b",
-      "source": "GameSpot",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "点赞《龙之谷2：黑暗崛起》，你有机会赢取Steam Deck OLED",
-      "summaryZh": "《龙之谷2：黑暗崛起》于2024年推出后，迅速成为我有生以来最爱的RPG之一。直到现在，我依然对这款游戏充满怀念，时间并未改变我的看法。攀登山峰时的那份混乱感&hellip;"
-    },
-    {
       "title": "Okay, I wasn't expecting 'Rainbow Six XCOM' to be one of my favourite Gamescom demos",
       "link": "https://www.pcgamer.com/games/strategy/okay-i-wasnt-expecting-rainbow-six-xcom-to-be-one-of-my-favourite-gamescom-demos/",
       "date": "2026-09-01T16:59:43.000Z",
@@ -4672,16 +4700,6 @@
       "source": "机核",
       "companies": [
         "ea"
-      ]
-    },
-    {
-      "title": "测试对比《刺客信条：黑旗》重制版性能！ voices38破解版竟比不过D加密版",
-      "link": "https://www.3dmgame.com/news/202608/3950867.html",
-      "date": "2026-08-19T01:17:59.909Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ubisoft"
       ]
     },
     {
@@ -5277,18 +5295,6 @@
       "summaryZh": "由 PIF、Silver Lake 和……组成的投资者财团收购了艺电 (Electronic Arts)。"
     },
     {
-      "title": "EA Has Officially Been Sold, And What Comes Next Could Be Painful",
-      "link": "https://www.gamespot.com/articles/ea-has-officially-been-sold-and-what-comes-next-could-be-painful/",
-      "date": "2026-08-04T20:27:24.000Z",
-      "summary": "The blockbuster buyout of Electronic Arts has been completed, with Saudi Arabia's Public Investment Fund taking ownership of the gaming giant in the biggest leveraged buyout (LBO) in the history of co",
-      "source": "GameSpot",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "EA 已正式出售，接下来的事情可能会很痛苦",
-      "summaryZh": "美国艺电 (Electronic Arts) 的重磅收购已经完成，沙特阿拉伯公共投资基金以公司历史上最大的杠杆收购 (LBO) 收购了这家游戏巨头的所有权。"
-    },
-    {
       "title": "Marvel Rivals’ New Hero Looks Like He Walked Straight Out Of Chainsaw Man",
       "link": "https://www.gamespot.com/articles/marvel-rivals-new-hero-looks-like-he-walked-straight-out-of-chainsaw-man/",
       "date": "2026-08-04T17:50:21.000Z",
@@ -5299,16 +5305,6 @@
       ],
       "titleZh": "漫威对手的新英雄看起来就像是直接从《电锯侠》中走出来的",
       "summaryZh": "《Marvel Rivals》自上线以来一直在不断扩大其阵容，而在第 9.5 季：底比斯之谜中，一个险恶的黑社会人物将被添加到直播游戏中。有声"
-    },
-    {
-      "title": "第五人格IVL：ACT_zz9天神下凡两局四抓，二比零锁定胜局！",
-      "link": "https://news.17173.com/content/08042026/113240287.shtml",
-      "date": "2026-08-04T11:32:40.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ]
     },
     {
       "title": "米哈游回应百余位创作者被拖欠款项|原神|派蒙|游戏粉丝维权 ...",
@@ -5402,16 +5398,6 @@
       "date": "2026-07-27T02:25:32.000Z",
       "summary": "",
       "source": "17173",
-      "companies": [
-        "mihoyo"
-      ]
-    },
-    {
-      "title": "新闻 | HoYoverse",
-      "link": "https://www.hoyoverse.com/zh-cn/news",
-      "date": "2026-07-24T07:42:00.000Z",
-      "summary": "「月之八」版本「映夏！ 归乡？ 千灵节！ 」现已开启. Copyright © COGNOSPHERE. All Rights Reserved.",
-      "source": "必应资讯",
       "companies": [
         "mihoyo"
       ]

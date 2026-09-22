@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:49:59.331Z",
+  "updatedAt": "2026-09-22T09:38:10.111Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -7,12 +7,12 @@
       "count": 20
     },
     {
-      "name": "Xbox Wire",
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·腾讯",
+      "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
@@ -22,12 +22,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
+      "name": "必应资讯·原神",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -44,7 +44,7 @@
     {
       "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Eurogamer",
@@ -57,6 +57,11 @@
       "count": 15
     },
     {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
+    },
+    {
       "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
@@ -65,11 +70,6 @@
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
-    },
-    {
-      "name": "Rock Paper Shotgun",
-      "status": "ok",
-      "count": 100
     },
     {
       "name": "Gematsu",
@@ -89,12 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 96
-    },
-    {
-      "name": "17173",
-      "status": "ok",
-      "count": 24
+      "count": 103
     },
     {
       "name": "机核",
@@ -110,6 +105,11 @@
       "name": "3DM游戏网",
       "status": "ok",
       "count": 35
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 24
     }
   ]
 }
