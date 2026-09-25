@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-25T05:46:10.548Z",
+  "updatedAt": "2026-09-25T10:00:18.438Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
     },
     {
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·王者荣耀",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
     },
@@ -34,6 +34,11 @@
     {
       "name": "必应资讯·原神",
       "status": "ok",
+      "count": 0
+    },
+    {
+      "name": "必应资讯·暴雪",
+      "status": "ok",
       "count": 10
     },
     {
@@ -42,19 +47,9 @@
       "count": 10
     },
     {
-      "name": "IGN",
+      "name": "PlayStation Blog",
       "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "必应资讯·暴雪",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "name": "Eurogamer",
-      "status": "ok",
-      "count": 100
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -62,9 +57,14 @@
       "count": 15
     },
     {
-      "name": "PC Gamer",
+      "name": "Eurogamer",
       "status": "ok",
-      "count": 50
+      "count": 100
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
     },
     {
       "name": "Gematsu",
@@ -72,14 +72,14 @@
       "count": 20
     },
     {
-      "name": "PlayStation Blog",
+      "name": "PC Gamer",
       "status": "ok",
-      "count": 10
+      "count": 50
     },
     {
-      "name": "Rock Paper Shotgun",
+      "name": "IGN",
       "status": "ok",
-      "count": 100
+      "count": 20
     },
     {
       "name": "Nintendo Life",
@@ -89,7 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 93
+      "count": 100
     },
     {
       "name": "游研社",
@@ -102,14 +102,14 @@
       "count": 20
     },
     {
+      "name": "3DM游戏网",
+      "status": "ok",
+      "count": 36
+    },
+    {
       "name": "17173",
       "status": "ok",
       "count": 24
-    },
-    {
-      "name": "3DM游戏网",
-      "status": "fail",
-      "error": "fetch failed"
     }
   ]
 }
