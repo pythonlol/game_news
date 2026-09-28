@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T06:17:18.869Z",
+  "updatedAt": "2026-09-28T11:27:03.058Z",
   "items": [
     {
       "title": "征服携手腾讯乘车码！江湖出行，码上相逢！",
@@ -7,6 +7,134 @@
       "date": "2026-09-28T11:52:36.000Z",
       "summary": "",
       "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "《暗黑破坏神5》改用移动商队和程序生成地图 暴雪计划2029年春季推出",
+      "link": "https://www.3dmgame.com/news/202609/3954800.html",
+      "date": "2026-09-28T11:27:01.207Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》饭制食人魔爆红！这雷玩家遭不住了",
+      "link": "https://www.gamersky.com/news/202609/2218792.shtml",
+      "date": "2026-09-28T11:20:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
+      "date": "2026-09-28T10:51:25.000Z",
+      "summary": "Zug rush.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "我敢肯定，那些选择对《魔兽世界：永恒》测试版收费的人现在一定乐开了花，毕竟暴雪不得不第二次扩容服务器规模了。",
+      "summaryZh": "泽格冲锋。"
+    },
+    {
+      "title": "Is Gears Of War: E-Day On Steam?",
+      "link": "https://www.gamespot.com/articles/is-gears-of-war-e-day-on-steam/",
+      "date": "2026-09-28T10:45:07.000Z",
+      "summary": "Anyone looking to play Gears of War: E-Day has several options for which platform they choose to get the game on, and yes , Steam is one of them. While The Coalition's new entry in the Gears universe ",
+      "source": "GameSpot",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器：E日》会在Steam上架吗？",
+      "summaryZh": "任何想玩《战争机器：E日》的玩家都有好几个平台可以选择，没错，Steam就是其中之一。尽管The Coalition推出的这款新作是《战争机器》宇宙中的最新作品……"
+    },
+    {
+      "title": "任天堂为玩家准备惊喜？神秘礼物被挖出",
+      "link": "https://www.gamersky.com/news/202609/2218765.shtml",
+      "date": "2026-09-28T10:41:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》DLSS5实机 5090跑4K 光影效果优秀",
+      "link": "https://www.gamersky.com/news/202609/2218609.shtml",
+      "date": "2026-09-28T09:26:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》大量玩家被封禁 暴雪制作人回怼",
+      "link": "https://www.gamersky.com/news/202609/2218549.shtml",
+      "date": "2026-09-28T09:07:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium",
+      "link": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
+      "date": "2026-09-28T09:00:00.000Z",
+      "summary": "Fooseball? You playin' the fooseball?! The latest UK charts data is in, and with the release of EA Sports FC 27 on 25th September, it's no surprise to find the football sim makes its debut at number o",
+      "source": "Nintendo Life",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "英国榜单：《火焰纹章：命运之轮》跌至第8名，而《FIFA 27》则登顶榜首。",
+      "summaryZh": "足球桌？你居然在玩足球桌？！最新的英国榜单数据出炉了，随着EA Sports《FIFA 27》于9月25日发行，毫不意外地看到这款足球模拟游戏首次登上了榜单首位。"
+    },
+    {
+      "title": "As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase",
+      "date": "2026-09-28T08:56:07.000Z",
+      "summary": "World of Warcraft: Forever's beta appears to be growing in popularity, as one of Blizzard's leads has revealed the server capacity had to be increased over the weekend. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "随着《魔兽世界：永恒》测试版人气飙升，暴雪再次不得不提高服务器上限。",
+      "summaryZh": "《魔兽世界：永恒》测试版似乎越来越受欢迎，据暴雪的一位负责人透露，周末期间服务器容量已经不得不增加。阅读更多。"
+    },
+    {
+      "title": "国产《三角洲》海啸震撼老外：战地做不到的它做到了",
+      "link": "https://www.gamersky.com/news/202609/2218464.shtml",
+      "date": "2026-09-28T08:33:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "任天堂Switch不慎被咔嚓咬坏！半边屏幕彻底完蛋",
+      "link": "https://www.gamersky.com/news/202609/2218459.shtml",
+      "date": "2026-09-28T08:31:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "TES登顶2026三角洲行动烽火职业联赛夏季赛，烽火世界杯出征名单出炉",
+      "link": "https://www.gcores.com/articles/220317",
+      "date": "2026-09-28T06:41:40.000Z",
+      "summary": "9月25日，2026《三角洲行动》烽火职业联赛夏季赛总决赛在重庆收官，TES捧起总冠军奖杯。TES 将与春、夏两届联赛累计积分前二的队伍RSG、IBG 共同晋级11月斯德哥尔摩烽火世界杯。 历时近两月，TES卫冕夏决冠军 相比春季赛，烽火职业联赛夏季赛完成了赛事规则的大迭代，采用“积分赛点制”和“动态分组”，五周常规赛、季后赛车轮赛与六进一晋级赛、总决赛层层递进，选拔链条更长，对队伍在整个赛季中的",
+      "source": "机核",
       "companies": [
         "tencent"
       ]
@@ -1476,6 +1604,16 @@
       "summaryZh": "注定奔向星辰。"
     },
     {
+      "title": "国产大世界RPG ，挑战物理引擎+交互玩法？它真的做出来了",
+      "link": "https://www.yystv.cn/p/14443",
+      "date": "2026-09-24T16:00:00.000Z",
+      "summary": "这个月早些时候，由小智游戏开发的RPG游戏《未眠野》正式公布了首支PV。截止到目前，这支PV的播放量已经超过1300万，伴随着这份热度一同出现的，还有围绕玩法的争议，不少玩家觉得它有点“像塞尔达”。 这种联想不难理解，这支PV里展示了不少围绕物理规则展开的玩法，像是挥动旗帜产生气流，推动木船前行，时停物体后通过击打积蓄动能、借助石块冲击力将敌人直接击飞，以及把各种金属构件组合成载具等等。 这类玩法",
+      "source": "游研社",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
       "title": "重新定义忍者世界：TGS2026机核专访《Ninjala 2》总监",
       "link": "https://www.gcores.com/articles/220227",
       "date": "2026-09-24T15:25:30.000Z",
@@ -1532,18 +1670,6 @@
       "summaryZh": "策略、平局、背叛与果岭：免费游玩日带你深度体验！本周末，《逃亡者2》和《年轻太阳》将面向Xbox Game Pass Ultimate、Premium及Essential会员开放游玩~"
     },
     {
-      "title": "Pokémon TCG Pocket's Next Expansion Has A Guaranteed Rare In Every Pack",
-      "link": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-pockets-next-expansion-has-a-guaranteed-rare-in-every-pack",
-      "date": "2026-09-24T14:45:00.000Z",
-      "summary": "Too Ex-y for my shirt. It's the penultimate week of the month, so The Pokémon Company has rolled out the red carpet for the next expansion coming to TCG Pocket . The 'Deluxe Pack: Mega' set will be th",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "宝可梦卡牌口袋版下一款扩展包每包必有稀有卡",
-      "summaryZh": "对我的衬衫来说有点太夸张了。现在是本月倒数第二周，宝可梦公司已经为即将登陆宝可梦卡牌口袋版的下一款扩展包铺好了红毯。“豪华包：mega”套装即将登场~"
-    },
-    {
       "title": "数毛社评《魔兽世界：无限》：史上最大视觉飞跃",
       "link": "https://www.gamersky.com/news/202609/2217119.shtml",
       "date": "2026-09-24T14:27:00.000Z",
@@ -1566,18 +1692,6 @@
       "summaryZh": "我们是Feel Free Games，卢玛岛背后的团队，非常激动地宣布：卢玛岛即将登陆PlayStation 5！卢玛岛于2024年11月登陆PC，自那以来已有超过8"
     },
     {
-      "title": "Rumour: Zelda Movie Rumblings Suggest A First Trailer Might Be Around The Corner",
-      "link": "https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner",
-      "date": "2026-09-24T12:45:00.000Z",
-      "summary": "Or is it just wishful thinking? Remember that slightly strange Zelda movie mention in the series' recent 40th Anniversary Direct , where Miyamoto confirmed the shocking news that the film will be titl",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "传闻：关于塞尔达电影的风声暗示首支预告片可能即将到来",
-      "summaryZh": "还是只是美好的愿望？还记得系列最近40周年直面会上那个略显奇怪的塞尔达电影提及吗？宫本茂当时证实了一个令人震惊的消息：这部影片将被命名为"
-    },
-    {
       "title": "战神新作不移植PC了？外媒：新工具让PS5游戏PC原生运行",
       "link": "https://www.gamersky.com/news/202609/2217095.shtml",
       "date": "2026-09-24T12:15:00.000Z",
@@ -1596,18 +1710,6 @@
       "companies": [
         "blizzard"
       ]
-    },
-    {
-      "title": "Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK",
-      "link": "https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk",
-      "date": "2026-09-24T11:35:00.000Z",
-      "summary": "Now's the time to pounce. Earlier this year, Nintendo increased the price of the Switch 2 across multiple regions, including the UK. While the console launched at £395.99 back in June 2025, its price ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "快！Switch 2主机在英国刚刚迎来大幅折扣",
-      "summaryZh": "现在正是下手的好时机。今年早些时候，任天堂上调了Switch 2在多个地区的售价，包括英国。虽然这款主机在2025年6月刚上市时的价格为395.99英镑，但它的价格"
     },
     {
       "title": "Player discovers game-changing pair of pants in World of Warcraft: Forever",
@@ -2348,18 +2450,6 @@
       "summaryZh": "《魔兽世界：永恒之境》正以各种全新内容重塑经典艾泽拉斯版本，如果暴雪完成任务，玩家将无法分辨哪些是旧内容，哪些是新内容。"
     },
     {
-      "title": "What Is Xbox Game Studios At This Point?",
-      "link": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
-      "date": "2026-09-22T18:04:36.000Z",
-      "summary": "The organizational structure of Xbox has long been complex and unwieldy, and that hasn't changed after the latest wave of changes and layoffs as part of Xbox's \"reset.\" But Microsoft's latest reshuffl",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "如今Xbox游戏工作室究竟是什么？",
-      "summaryZh": "Xbox的组织架构长期以来复杂而笨重，即使在最新一轮调整和裁员后，这种状况也未见改善，这正是Xbox“重启”计划的一部分。但微软最新的重组动作"
-    },
-    {
       "title": "WoW: Forever Doesn’t Let Shamans Or Warlocks Tank, But That Could Change",
       "link": "https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/",
       "date": "2026-09-22T17:34:11.000Z",
@@ -2628,18 +2718,6 @@
       ]
     },
     {
-      "title": "How about that StarCraft trailer, eh",
-      "link": "https://www.pcgamer.com/games/how-about-that-starcraft-trailer-eh/",
-      "date": "2026-09-22T06:00:00.000Z",
-      "summary": "How about that StarCraft trailer, eh",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "那个《星际争霸》预告片怎么样，嗯？",
-      "summaryZh": "那个《星际争霸》预告片怎么样，嗯？"
-    },
-    {
       "title": "Battlefield Baby",
       "link": "https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks-clone/",
       "date": "2026-09-22T06:00:00.000Z",
@@ -2682,16 +2760,6 @@
       ]
     },
     {
-      "title": "四十岁老登砍魔兽又火了!暴雪屡试不爽：真乃青春传奇",
-      "link": "https://www.gamersky.com/news/202609/2213357.shtml",
-      "date": "2026-09-22T02:51:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "索尼迟迟不公布《漫威金刚狼》销量 玩家吐槽没卖爆又当鸵鸟了",
       "link": "https://www.gamersky.com/news/202609/2214457.shtml",
       "date": "2026-09-22T02:21:00.000Z",
@@ -2724,53 +2792,6 @@
       ],
       "titleZh": "以不到500美元的价格入手一台状况极佳的联想 Legion Go S Ryzen Z2 Go 掌上游戏电脑",
       "summaryZh": "它比 Xbox Ally 更强大，并且像 Steam Deck 一样使用 SteamOS。"
-    },
-    {
-      "title": "StarCraft: Tabletop Miniatures Game Review",
-      "link": "https://www.ign.com/articles/starcraft-tabletop-miniatures-game-review",
-      "date": "2026-09-22T00:02:00.000Z",
-      "summary": "",
-      "source": "IGN",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "星际争霸：桌面微缩模型游戏评测"
-    },
-    {
-      "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
-      "date": "2026-09-21T21:15:56.000Z",
-      "summary": "Preserving the economy of the MMO is a top priority, the studio says.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪警告《魔兽世界：永恒之萨尔》玩家，任何用真钱购买金币的行为都将受到“非常严厉”的惩罚",
-      "summaryZh": "制作方表示，维护这款大型多人在线游戏的经济体系是首要任务。"
-    },
-    {
-      "title": "Blizzard Says StarCraft 'Won't Be Exclusive' When It Launches in 2030",
-      "link": "https://www.ign.com/articles/blizzard-says-starcraft-wont-be-exclusive-when-it-launches-in-2030",
-      "date": "2026-09-21T20:45:15.000Z",
-      "summary": "Blizzard has confirmed its open-world StarCraft shooter \"won't be exclusive\" to Xbox platforms when it launches in 2030.",
-      "source": "IGN",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪称《星际争霸》“不会独占”2030年上线时的平台",
-      "summaryZh": "暴雪已确认，其开放世界《星际争霸》射击游戏在2030年上线时“不会独占”Xbox 平台。"
-    },
-    {
-      "title": "World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/",
-      "date": "2026-09-21T20:01:38.000Z",
-      "summary": "Blizzard better have some clever solutions for launch day, then.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪表示，《魔兽世界：永恒之萨尔》玩家之间争夺敌人对游戏体验“极其重要”：“这是我们绝对必须坚守的一点。”",
-      "summaryZh": "那么，暴雪最好为首发日准备一些巧妙的解决方案吧。"
     },
     {
       "title": "The Blood of Dawnwalker cost less than expected to make but former NetEase investor defends its status as a top-tier production",
@@ -4376,16 +4397,6 @@
       ]
     },
     {
-      "title": "AASTOCKS 股票及港股报价 HK Stock Quote",
-      "link": "https://secure.aastocks.com/sc/mobile/default.aspx",
-      "date": "2026-09-03T20:44:00.000Z",
-      "summary": "阿思达克财经新闻 - 热门新闻 更多 《大行》大华继显：腾讯 (00700.HK)、信达生物 (01801.HK)等加入「买入」名单 TMT及IT硬件维持正面看法 大华继显发表报告，中资股8月整固，恒生指数及MSCI中国指数按月分别下跌1.2%及0.4%，大致守住7月升幅。 该行不预期国家...",
-      "source": "必应资讯·腾讯",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Crimson Desert's upcoming DLC decides it's The Sims now, I guess",
       "link": "https://www.pcgamer.com/games/action/crimson-deserts-upcoming-dlc-decides-its-the-sims-now-i-guess/",
       "date": "2026-09-03T14:37:54.000Z",
@@ -5257,18 +5268,6 @@
       ]
     },
     {
-      "title": "The guy in charge of EA Sports is now in charge of EA everything",
-      "link": "https://www.pcgamer.com/gaming-industry/the-guy-in-charge-of-ea-sports-is-now-in-charge-of-ea-everything/",
-      "date": "2026-08-05T21:53:04.000Z",
-      "summary": "With EA's acquisition by Saudi Arabia now complete, there have been a couple changes at the top.",
-      "source": "PC Gamer",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "负责 EA Sports 的人现在负责 EA 的一切",
-      "summaryZh": "随着沙特阿拉伯对 EA 的收购现已完成，高层发生了一些变化。"
-    },
-    {
       "title": "Marvel Rivals is gearing up for season 9.5 with major Vanguard adjustments alongside a teaser for its next hero, The Hood",
       "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-gearing-up-for-season-9-5-with-major-vanguard-adjustments-alongside-a-teaser-for-its-next-hero-the-hood/",
       "date": "2026-08-05T16:40:17.000Z",
@@ -5279,18 +5278,6 @@
       ],
       "titleZh": "《Marvel Rivals》正在为第 9.5 季做准备，其中《Vanguard》进行了重大调整，同时还发布了下一个英雄“胡德”的预告片",
       "summaryZh": "足够近了，欢迎来到 CSM 的 Marvel Rivals Gun Devil。"
-    },
-    {
-      "title": "Kingdom Come Actor Is Living My Dream, Opening A Medieval Pub To Drink Beer And Eat Food With Friends",
-      "link": "https://www.gamespot.com/articles/kingdom-come-actor-is-living-my-dream-opening-a-medieval-pub-to-drink-beer-and-eat-food-with-friends/",
-      "date": "2026-08-05T15:56:02.000Z",
-      "summary": "British actor Luke Dale, known for his roles in the Kingdom Come RPG series and EA's Battlefield V, has announced that he bought a tavern in the Czech Republic and plans to turn it into a medieval-ins",
-      "source": "GameSpot",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "《天国降临》演员实现我的梦想，开一家中世纪酒吧与朋友一起喝啤酒、吃美食",
-      "summaryZh": "因在《天国降临》RPG 系列和 EA 的《战地 V》中扮演角色而闻名的英国演员卢克·戴尔 (Luke Dale) 宣布，他在捷克共和国购买了一家小酒馆，并计划将其改造成中世纪风格的酒吧。"
     },
     {
       "title": "Marvel Rivals Is About To Give Your SSD Some Much-Needed Breathing Room",
