@@ -1,23 +1,13 @@
 {
-  "updatedAt": "2026-09-30T06:16:20.678Z",
+  "updatedAt": "2026-09-30T10:54:39.109Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "必应资讯·网易",
+      "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
@@ -27,29 +17,9 @@
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "name": "必应资讯·暴雪",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "name": "必应资讯·Xbox",
+      "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "name": "GameSpot",
-      "status": "ok",
-      "count": 15
     },
     {
       "name": "必应资讯·王者荣耀",
@@ -57,9 +27,34 @@
       "count": 10
     },
     {
-      "name": "Eurogamer",
+      "name": "必应资讯·网易",
       "status": "ok",
-      "count": 100
+      "count": 10
+    },
+    {
+      "name": "必应资讯·暴雪",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "GameSpot",
+      "status": "ok",
+      "count": 15
     },
     {
       "name": "IGN",
@@ -70,6 +65,11 @@
       "name": "Gematsu",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "Eurogamer",
+      "status": "ok",
+      "count": 100
     },
     {
       "name": "PC Gamer",
@@ -89,12 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 96
-    },
-    {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 35
+      "count": 103
     },
     {
       "name": "游研社",
@@ -110,6 +105,11 @@
       "name": "17173",
       "status": "ok",
       "count": 23
+    },
+    {
+      "name": "3DM游戏网",
+      "status": "ok",
+      "count": 35
     }
   ]
 }

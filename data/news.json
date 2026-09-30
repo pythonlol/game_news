@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-09-30T06:16:20.678Z",
+  "updatedAt": "2026-09-30T10:54:39.109Z",
   "items": [
+    {
+      "title": "Deadlock 重大更新助力 Valve 旗下 MOBA 英雄射击游戏登顶 Steam 榜单，刷新最高同时在线人数纪录",
+      "link": "https://news.17173.com/content/09302026/180828384.shtml",
+      "date": "2026-09-30T18:08:28.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "PS5战神劳菲全BOSS强弱榜，PS5战神劳菲神话BOSS难度解析",
+      "link": "https://www.3dmgame.com/news/202609/3955003.html",
+      "date": "2026-09-30T10:54:26.302Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "The Witcher 3 Remastered Nintendo Switch 2 Can Be Unlocked for Free Even if You Borrow a Switch Physical Copy From a Friend",
+      "link": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend",
+      "date": "2026-09-30T10:35:22.000Z",
+      "summary": "The Witcher 3 Remastered can be unlocked on Switch 2 for free via any physical version of the game for Switch — whether its your copy of the game or not.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "即使你从朋友那里借了 Switch 实体版，《巫师 3 重制版》Nintendo Switch 2 也可以免费解锁",
+      "summaryZh": "《巫师 3 重制版》可以在 Switch 2 上通过 Switch 游戏的任何实体版本免费解锁 - 无论是否是您的游戏副本。"
+    },
+    {
+      "title": "Steam史低！4人合作版“塞尔达”？浮空岛冒险开冲|大促星空",
+      "link": "https://www.gamersky.com/news/202609/2220541.shtml",
+      "date": "2026-09-30T10:16:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "游戏版号公布！米哈游《源初之结》过审",
+      "link": "https://www.gamersky.com/news/202609/2220530.shtml",
+      "date": "2026-09-30T10:07:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "mihoyo"
+      ]
+    },
     {
       "title": "“这列火车不会停”——Diablo 4 总监承诺在 Diablo 5 发售后该作仍将持续获得支持",
       "link": "https://news.17173.com/content/09302026/090642874.shtml",
@@ -12,11 +64,95 @@
       ]
     },
     {
+      "title": "NS2独占《塞尔达传说：时之笛 重制版》实机:城镇细节精美 光照优秀",
+      "link": "https://www.gamersky.com/news/202609/2220468.shtml",
+      "date": "2026-09-30T09:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "PS5模拟器《战神》能跑60帧！还是没上PC的《战神》",
+      "link": "https://www.gamersky.com/news/202609/2220464.shtml",
+      "date": "2026-09-30T09:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Huge Deadlock Update Propels Valve's MOBA Hero Shooter to the Top of the Steam Charts, Smashes Peak Concurrent Player Record",
+      "link": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record",
+      "date": "2026-09-30T08:49:15.000Z",
+      "summary": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "巨大的死锁更新将 Valve 的 MOBA 英雄射击游戏推上 Steam 排行榜榜首，刷新同时在线人数纪录",
+      "summaryZh": "Valve 为其正在开发的 MOBA 英雄射击游戏 Deadlock 发布了重大更新，使其登上了 Steam 最受欢迎游戏排行榜的榜首。"
+    },
+    {
+      "title": "《战神：劳菲》登PS商店畅销榜第二！388港币太震撼",
+      "link": "https://www.gamersky.com/news/202609/2220413.shtml",
+      "date": "2026-09-30T08:33:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "PS5惨遭破解！全机型失守 逼索尼发PS6？",
+      "link": "https://www.gamersky.com/news/202609/2220371.shtml",
+      "date": "2026-09-30T08:22:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
+      "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
+      "date": "2026-09-30T08:16:08.000Z",
+      "summary": "On top of featuring all the game modes you expect from a Call of Duty game, Modern Warfare 4 is courting the competitive scene with something entirely new for the series: a game mode called Collateral",
+      "source": "Eurogamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《使命召唤：现代战争 4》迎来了受《反恐精英》启发的游戏模式，我不敢相信它以前从未有过",
+      "summaryZh": "除了具有《使命召唤》游戏所期望的所有游戏模式之外，《现代战争 4》还为该系列带来了全新的游戏模式：一种名为“Collaborative”的游戏模式"
+    },
+    {
       "title": "《战神：诸神黄昏》初代制作人力挺《Laufey》创意总监，后者因批评言论引发热议而遭骚扰",
       "link": "https://news.17173.com/content/09302026/080633456.shtml",
       "date": "2026-09-30T08:06:33.000Z",
       "summary": "",
       "source": "17173",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《GTA4》《战神1+2》出现PS商城！PS6兼容大招？",
+      "link": "https://www.gamersky.com/news/202609/2220208.shtml",
+      "date": "2026-09-30T07:19:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《索尼克》系列制作人游民采访：游戏始终是IP核心",
+      "link": "https://www.gamersky.com/news/202609/2220104.shtml",
+      "date": "2026-09-30T06:29:00.000Z",
+      "summary": "",
+      "source": "游民星空",
       "companies": [
         "sony"
       ]
@@ -499,6 +635,56 @@
       ],
       "titleZh": "面向XBOX Insider开放：神话成就，我们最受玩家期待的功能之一",
       "summaryZh": "神话成就正式登场！从今天起，XBOX Insider玩家可抢先体验神话成就，这是一种全新的方式，用来庆祝你通关的游戏和达成的里程碑。"
+    },
+    {
+      "title": "为抵制黄牛，索尼要求PS5 Pro中签者玩过60小时游戏",
+      "link": "https://www.yystv.cn/p/14464",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "等等党的至暗时刻。 9月27日，索尼在日本开启了新一轮的PS5 Pro预定抽签活动。从官方要求来看，这次预购有不少限制条件，例如只允许线上支付，收货仅限日本境内等。 可能其中最有力的门槛，是顾客需要提供自己在PS5、PS4上60小时的游戏记录。不难看出这些手段都是为了防范黄牛，尤其考虑到最近一段时间，PS5 Pro的售价已被炒上天了。 尤其是港版的Pro机型，因为用不着“搞备份”等操作，相比于国行",
+      "source": "游研社",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "天美在上海组了个局，发现到处都是“自己人”？",
+      "link": "https://www.yystv.cn/p/14463",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "这可能是我见过路人游客最容易融入的游戏活动。 9月26日下午，上海徐汇滨江芒果广场，空地上聚集了不少Coser。《王者荣耀》里的大乔、杨玉环，《三角洲行动》的蜂医、骇爪，《QQ飞车》的小橘子……众多天美旗下游戏的角色们站在一起，衣裙、发饰与战术装备挨在一处。 有人把道具换到另一只手，腾出手来接别的玩家发放的无料；有人刚交换完，就举起手机，准备再“集邮”一张合照。 拍完一张，还有下一张。原本排在前后",
+      "source": "游研社",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "移动端三测之后，《怪物猎人：旅人》国服官宣WeGame版筹备中",
+      "link": "https://www.yystv.cn/p/14462",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "9月29日，《怪物猎人：旅人》项目组发布官方公告，正式确认WeGame版本筹备中。这是《怪物猎人：旅人》首次官方确认中国大陆WeGame相关开发计划，意味着项目正式迈入多平台推进的新阶段。与此同时，也公布了海外移动端版本上线定档时间10月29日。 从公告内容来看，WeGame版本目前仍处于筹备阶段，具体上线时间尚未确定。但值得注意的是，早在此前获批的进口网络游戏版号中，《怪物猎人：旅人》的申报类别",
+      "source": "游研社",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "屡次表明“有人害我们”后，《心之眼》工作室濒临破产，已解雇全部员工",
+      "link": "https://www.yystv.cn/p/14460",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "《心之眼》的开发商Build A Rocket Boy（以下简BARB）正面临着破产危机。 据多家外媒报道，BARB目前已进入破产管理程序。在英国，这意味着企业已经无力偿还债务，因此需要委托专业的会计事务所来介入处理资产和债务问题。 这家公司由前GTA核心制作人莱斯利·本泽在2016年创立。公司文件显示，截至2024年，BARB已经成功吸引了超过2.33亿英镑的投资，投资方包括网易游戏及投资机构R",
+      "source": "游研社",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "走到两周年的《三角洲行动》，把“叙事”打造成了新王牌",
+      "link": "https://www.yystv.cn/p/14459",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "前几天，上线两年的《三角洲行动》在重庆办了场庆典。 在此之前，这款产品有一个不容忽视的背景——今年3月，腾讯财报就披露过三角洲DAU已破5000万，按我们流行的话来说，就是坐实了“长青游戏”的位置。 在当天的活动现场，你能从具体的视角感受到“长青”的分量。不论是场馆内外的布局规模，还是到场玩家们的精神风貌，处处都能体会到其中的生机、朝气。 庆祝活动之外，琳琅天上还准备了一场别开生面的音乐会，整体舞",
+      "source": "游研社",
+      "companies": [
+        "tencent"
+      ]
     },
     {
       "title": "Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More",
@@ -1877,26 +2063,6 @@
       ]
     },
     {
-      "title": "曝索尼新作对标“动森”遭质疑：PS平台根本不适合",
-      "link": "https://www.gamersky.com/news/202609/2217447.shtml",
-      "date": "2026-09-26T08:11:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "索尼PS掌机大更新来了 可充电限制80%延长电池寿命",
-      "link": "https://www.gamersky.com/news/202609/2217425.shtml",
-      "date": "2026-09-26T07:19:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "《战地之王：重生》日本开启测试玩家招募 重构新玩法",
       "link": "https://news.17173.com/content/09262026/065928948.shtml",
       "date": "2026-09-26T06:59:28.000Z",
@@ -1917,56 +2083,6 @@
       ]
     },
     {
-      "title": "《宝可梦集换式卡牌Pocket》下载超1.5亿次，实体卡交易仍活跃",
-      "link": "https://www.3dmgame.com/news/202609/3954620.html",
-      "date": "2026-09-26T05:49:00.985Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "索尼为《狡狐大冒险》申请新商标，涵盖海报等周边但不涉及游戏",
-      "link": "https://www.3dmgame.com/news/202609/3954613.html",
-      "date": "2026-09-26T05:49:00.985Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "火纹哈迪斯风《食之恶魔》坚称绝非避塞尔达才改档",
-      "link": "https://www.3dmgame.com/news/202609/3954610.html",
-      "date": "2026-09-26T05:49:00.985Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "主打实体游戏的JRPG厂商称索尼正听取玩家光盘反馈",
-      "link": "https://www.3dmgame.com/news/202609/3954607.html",
-      "date": "2026-09-26T05:49:00.985Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "《任天堂明星大乱斗DX》非官方PC移植版加入DLSS 5神经渲染实验支持",
-      "link": "https://www.3dmgame.com/news/202609/3954603.html",
-      "date": "2026-09-26T05:49:00.985Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《暗黑破坏神5》开发目标：力求打造系列史上最佳剧情战役",
       "link": "https://www.3dmgame.com/news/202609/3953951.html",
       "date": "2026-09-26T05:49:00.985Z",
@@ -1974,16 +2090,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "PlayStation最新调查引发社区抵制，玩家反对索尼终止实体游戏光盘的计划",
-      "link": "https://news.17173.com/content/09262026/050822528.shtml",
-      "date": "2026-09-26T05:08:22.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -1997,16 +2103,6 @@
       ]
     },
     {
-      "title": "《湮灭之潮》提名金摇杆！大战《战神：劳菲》 官方呼吁玩家投票",
-      "link": "https://www.gamersky.com/news/202609/2217380.shtml",
-      "date": "2026-09-26T03:20:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "微软疑似在发布仅两年后便终结了 Copilot+",
       "link": "https://news.17173.com/content/09262026/030833392.shtml",
       "date": "2026-09-26T03:08:33.000Z",
@@ -2014,16 +2110,6 @@
       "source": "17173",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "索尼神作《宇宙机器人》乐高款 超精美但只是个赠品",
-      "link": "https://www.gamersky.com/news/202609/2217368.shtml",
-      "date": "2026-09-26T02:20:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3712,42 +3798,6 @@
       "summaryZh": "“我们也希望为玩家和游戏开发者共同打造一个健康的生态系统。”"
     },
     {
-      "title": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-      "link": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-      "date": "2026-09-14T18:00:14.000Z",
-      "summary": "Surprising no-one, Valve&rsquo;s Steam Frame VR headset is launching with higher-than-expected prices , following the Steam Machine in having its budget-friendly intentions foiled by the memory shorta",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve决定，为了避免价格上涨而削减Steam Frame的配置，并非这款VR头显的“正确产品选择”",
-      "summaryZh": "毫不意外，Valve的Steam Frame VR头显定价高于预期，继Steam Machine之后，其原本亲民的初衷再次因内存短缺而受挫"
-    },
-    {
-      "title": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-      "date": "2026-09-14T18:00:00.000Z",
-      "summary": "The versatile Steam Frame's focus is \"on being lightweight and being comfortable\".",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve早在三、四年前就已准备好下一代VR“头显”，那些设备又大又笨重，但在真正戴上之后，他们又回到了绘图板上重新设计。",
-      "summaryZh": "多功能Steam Frame的重点是“轻便和舒适”。"
-    },
-    {
-      "title": "Valve targeted a lower price for the Steam Frame, then the memory crisis happened: 'I wish we could have shipped it at the price that we were at last year'",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-targeted-a-lower-price-for-the-steam-frame-then-the-memory-crisis-happened-i-wish-we-could-have-shipped-it-at-the-price-that-we-were-at-last-year/",
-      "date": "2026-09-14T17:30:00.000Z",
-      "summary": "You gotta feel for anyone working on a project like this right now. Very few companies are benefitting from the memory crisis.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve原本为Steam Frame设定了较低的价格，但随后内存危机爆发了：“真希望我们能按去年的价格发货。”",
-      "summaryZh": "现在做这样一个项目的人，真的让人很心疼。很少有公司能从这场内存危机中受益。"
-    },
-    {
       "title": "Wardogs Players Really Want You To Close The Doors … Or Else",
       "link": "https://www.gamespot.com/articles/wardogs-players-really-want-you-to-close-the-doors-or-else/",
       "date": "2026-09-14T16:30:34.000Z",
@@ -4287,16 +4337,6 @@
       ]
     },
     {
-      "title": "《三角洲行动》该怎么玩，越来越没有标准答案了",
-      "link": "https://www.yystv.cn/p/14379",
-      "date": "2026-09-08T16:00:00.000Z",
-      "summary": "“多元”是一种选择，更需要长期主义的努力。 自从2024年公测以来，《三角洲行动》已经历了十一个赛季。9月4日，最新的“群星”赛季版本也准时与玩家们见了面。 每个赛季照例的海量更新 这么说可能很奇怪，但在今天这个时间点，《三角洲行动》带给我最奇妙的感受，却是“休闲”。是的，搜打撤，但是休闲。 这就不得不描绘一下我在新赛季当天的“奇遇”： 我和搭子跑刀路过一片水湾时，突然看到河边有一队鼠鼠玩家，手里",
-      "source": "游研社",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Battlefield 6 Redsec is borrowing yet another mode from Call of Duty: Warzone - Resurgence",
       "link": "https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale",
       "date": "2026-09-08T15:00:00.000Z",
@@ -4351,28 +4391,6 @@
       ],
       "titleZh": "帕特里斯·德西莱茨誓言将打造《祖先：人类奥德赛》的续作。",
       "summaryZh": "《刺客信条》系列的创作者、1666：阿姆斯特丹的导演帕特里斯·德西莱茨表示，他将推出开放世界人类进化生存游戏《祖先：人类奥德赛》的续作。"
-    },
-    {
-      "title": "腾讯视频-电影频道-最新热门电影大全-高清正版在线观看",
-      "link": "https://v.qq.com/channel/movie",
-      "date": "2026-09-07T14:56:00.000Z",
-      "summary": "腾讯视频隐私保护指引 腾讯视频用户服务协议 腾讯视频第三方信息共享清单 腾讯视频已收集个人信息清单 腾讯儿童隐私保护声明 腾讯视频系列会员服务协议 粤网文[2023]2882-203号",
-      "source": "必应资讯·腾讯",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "\"Many a brave knight are going to die\" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise",
-      "link": "https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko",
-      "date": "2026-09-07T09:30:34.000Z",
-      "summary": "Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as \"the grail\" following the sudden end-of-development announcement for",
-      "source": "Eurogamer",
-      "companies": [
-        "tencent"
-      ],
-      "titleZh": "“许多英勇的骑士即将陨落”——拳头游戏负责人马克·梅里尔就2XKO意外夭折后正在开发中的MMO发表讲话",
-      "summaryZh": "马克·梅里尔——拳头游戏的联合创始人之一，现任首席产品官——谈到了这款正在开发中的MMO，称其为“圣杯”，此前该游戏的开发突然宣告终止。"
     },
     {
       "title": "一座连结游戏的中转站：科隆 Gamescom 2026 游记",
@@ -5328,16 +5346,6 @@
       ],
       "summaryZh": "在存储和RAM成本不断增加的世界中，很高兴看到游戏认真努力减少其在SSD上的占用空间。提示漫威对手。在PS5和Xbox上，您将看到",
       "titleZh": "Marvel Rivals的下一次更新大幅降低了游戏在PC和游戏机上的安装规模"
-    },
-    {
-      "title": "保底才到手！《梦幻西游》七夕祥瑞遭玩家吐槽减量不减价",
-      "link": "https://news.17173.com/content/08052026/110804037.shtml",
-      "date": "2026-08-05T11:08:04.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ]
     },
     {
       "title": "米哈游回应百余位创作者被拖欠款项|原神|派蒙|游戏粉丝维权 ...",
