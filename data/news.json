@@ -1,6 +1,196 @@
 {
-  "updatedAt": "2026-10-03T10:12:40.562Z",
+  "updatedAt": "2026-10-04T06:36:17.018Z",
   "items": [
+    {
+      "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
+      "link": "https://www.3dmgame.com/news/202610/3955300.html",
+      "date": "2026-10-04T06:36:14.977Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《战地》负责人：我们从不追逐竞争对手 开发更看重玩家反馈",
+      "link": "https://www.3dmgame.com/news/202610/3955291.html",
+      "date": "2026-10-04T06:36:14.977Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "《龙腾世纪：审判》Steam Deck兼容状态改为“可玩”，仍有文字过小等问题",
+      "link": "https://www.3dmgame.com/news/202610/3955289.html",
+      "date": "2026-10-04T06:36:14.977Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "微软回应“Windows偷偷记录USB设备”争议：并非监控",
+      "link": "https://www.3dmgame.com/news/202610/3955304.html",
+      "date": "2026-10-04T06:36:14.976Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《战争机器：事变日》官宣将推出离线模式 强制联网是防破解",
+      "link": "https://www.gamersky.com/news/202610/2221479.shtml",
+      "date": "2026-10-04T05:51:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "XBOX玩家向官方提意见：学学索尼 给港服降价",
+      "link": "https://www.gamersky.com/news/202610/2221475.shtml",
+      "date": "2026-10-04T05:29:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "在 Xbox 重新聚焦独占策略之际，战争机器：事变日 开发者表示“很自豪能成为 Xbox 的核心大作之一”",
+      "link": "https://news.17173.com/content/10042026/040624104.shtml",
+      "date": "2026-10-04T04:06:24.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "争议太大！索尼PS线下店“女友寄放区”立牌已撤",
+      "link": "https://www.gamersky.com/news/202610/2220943.shtml",
+      "date": "2026-10-04T02:57:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《战争机器》新作真主角是黑人女同？老角色成陪衬",
+      "link": "https://www.gamersky.com/news/202610/2221337.shtml",
+      "date": "2026-10-04T02:48:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《战争机器》也干了？被批演员好看 游戏故意做丑",
+      "link": "https://www.gamersky.com/news/202610/2221334.shtml",
+      "date": "2026-10-04T02:32:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "IGN9分《战争机器》新作确认DEI！多项",
+      "link": "https://www.gamersky.com/news/202610/2220962.shtml",
+      "date": "2026-10-04T01:42:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "索尼PlayStation Stars奖励计划将于11月2日永久关停 玩家需尽快兑换剩余积分",
+      "link": "https://www.gamersky.com/news/202610/2221316.shtml",
+      "date": "2026-10-04T01:18:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
+      "link": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
+      "date": "2026-10-03T22:41:35.000Z",
+      "summary": "Unlikely, but not impossible?",
+      "source": "PC Gamer",
+      "companies": [
+        "tencent"
+      ],
+      "titleZh": "《无畏契约》玩家声称因二手CPU而继承了硬件封禁，拳头反作弊负责人对部分情节提出质疑。",
+      "summaryZh": "不太可能，但并非完全不可能？"
+    },
+    {
+      "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
+      "date": "2026-10-03T19:45:42.000Z",
+      "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器：E日》开发团队：“很自豪能成为Xbox的主力游戏之一”，在微软重新聚焦独占内容之际。",
+      "summaryZh": "《战争机器：E日》开发团队表示，他们“很自豪能成为Xbox的主力游戏之一”，因为微软正重新聚焦于独占内容。"
+    },
+    {
+      "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
+      "link": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+      "date": "2026-10-03T16:24:38.000Z",
+      "summary": "Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan on board to prod",
+      "source": "Eurogamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "索尼正与克里斯托弗·麦奎里和迈克尔·B·乔丹洽谈，力图打造《战地》电影。",
+      "summaryZh": "据报道，索尼正在洽谈将电子艺界旗下《战地》改编成大银幕作品，克里斯托弗·麦奎里将担任编剧、导演和制片人，迈克尔·B·乔丹则确定参与制作。"
+    },
+    {
+      "title": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
+      "link": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+      "date": "2026-10-03T16:06:23.000Z",
+      "summary": "I want to be a part of it…",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《Deadlock》是MOBA角色设计之王，这一切都归功于Valve对纽约风格的推崇。",
+      "summaryZh": "我想成为其中的一员……"
+    },
+    {
+      "title": "Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In",
+      "link": "https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in",
+      "date": "2026-10-03T15:00:00.000Z",
+      "summary": "Fingers crossed for a Kid Icarus revival. Back in August, we posed 64 gaming-related questions to Nintendo Life readers in our Switch 2 Summer Survey . Topics included gaming habits, thoughts on Switc",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "特别报道：我们2026年Switch 2夏季调查结果出炉！",
+      "summaryZh": "祈祷《银河战士：艾可瑞斯》能迎来复兴吧。今年8月，我们在Switch 2夏季调查中向Nintendo Life读者提出了64个与游戏相关的问题，话题涵盖游戏习惯、对Switch的看法等。"
+    },
+    {
+      "title": "王者荣耀官方网站-腾讯游戏 - yingdi.qq.com",
+      "link": "https://yingdi.qq.com/cp/a20231208wzznq/indexkt.html?cardId=2&isNavigationBarHidden=1",
+      "date": "2026-10-03T12:23:00.000Z",
+      "summary": "《王者荣耀》是腾讯天美工作室推出的英雄竞技手游，不是一个人的王者，而是团队的荣耀！5v5王者峡谷PVP对战，领略英雄竞技的酣畅淋漓！丰富的游戏模式等你参与，体验突破传统、英雄竞技新形态！",
+      "source": "必应资讯·王者荣耀",
+      "companies": [
+        "tencent"
+      ]
+    },
     {
       "title": "士官长起源成新方向？动视《光环》项目据称考虑完整重启",
       "link": "https://www.3dmgame.com/news/202610/3955244.html",
@@ -428,6 +618,16 @@
       ],
       "titleZh": "《杰克盒派对包12》中最佳友谊背后的科学",
       "summaryZh": "一个词语联想游戏和一个性格测试走进了一家酒吧。接下来发生的是MegaPals。Liz Anderson和Chase McClure提出的《杰克盒派对包12》的最初创意灵感源自于……"
+    },
+    {
+      "title": "Tencent 腾讯",
+      "link": "https://www.tencent.com/index.php/zh-cn/business.html",
+      "date": "2026-10-02T15:09:00.000Z",
+      "summary": "Tencent 腾讯",
+      "source": "必应资讯·腾讯",
+      "companies": [
+        "tencent"
+      ]
     },
     {
       "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
@@ -1365,16 +1565,6 @@
       "summaryZh": "去年7月，新任Xbox首席执行官阿莎·夏尔马宣布，微软游戏部门将总共裁减3200个工作岗位，其中大约一半的裁员是在这一公告发布时同时进行的。此次裁员的影响十分广泛。"
     },
     {
-      "title": "《战争机器：事变日》外媒9.5分！系列必玩 史诗级打磨",
-      "link": "https://www.gamersky.com/news/202610/2220781.shtml",
-      "date": "2026-10-01T09:51:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "欧盟CPC网络发起协调执法：9款游戏涉虚拟货币乱象 拳头育碧等厂商被查",
       "link": "https://www.gamersky.com/news/202610/2220772.shtml",
       "date": "2026-10-01T09:22:00.000Z",
@@ -1592,16 +1782,6 @@
       ]
     },
     {
-      "title": "“Xbox 不卖”——Asha Sharma 否认有关微软考虑出售其游戏业务的报道",
-      "link": "https://news.17173.com/content/10012026/030733057.shtml",
-      "date": "2026-10-01T03:07:33.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "文森特·多诺费奥力挺《战神：诸神黄昏 Laufey》主演黛博拉·安·沃尔，反击那些不满游戏护甲套装露肉太少的低…",
       "link": "https://news.17173.com/content/10012026/030656244.shtml",
       "date": "2026-10-01T03:06:56.000Z",
@@ -1632,16 +1812,6 @@
       ],
       "titleZh": "惊喜！《大金刚香蕉园》限时DLC活动回归啦！",
       "summaryZh": "任天堂宣布每月轮换活动。任天堂于9月推出了《大金刚香蕉园》的最后一场“翡翠冲刺”活动。如果你还没玩过，或者错过了之前的活动，我们……"
-    },
-    {
-      "title": "微软与小岛秀夫合作的 Physint 项目投入远低于 Xbox 开发顶级游戏的常规支出",
-      "link": "https://news.17173.com/content/10012026/020856660.shtml",
-      "date": "2026-10-01T02:08:56.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
-      ]
     },
     {
       "title": "索尼免费送PS港服三档会员！0港币 部分玩家已可领取",
@@ -1787,30 +1957,6 @@
       ]
     },
     {
-      "title": "Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff",
-      "link": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers",
-      "date": "2026-09-30T19:26:32.000Z",
-      "summary": "Halo's ex-franchise director, Frank O'Connor, has given Activision a few pointers now that it's in charge of making the next Halo game with a \"purpose-built team.\" Top of the list, hire some devs who ",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "前《光环》主创提出三种激活传奇系列的方法，并敦促公司聘用被裁掉的Bungie员工。",
-      "summaryZh": "《光环》前系列总监弗兰克·奥康纳为Activision提供了几点建议，如今Activision正组建一支“专门打造”的团队来开发下一部《光环》游戏。首要建议就是：聘请一些开发者……"
-    },
-    {
-      "title": "Gears of War E-Day – Everything To Know",
-      "link": "https://www.gamespot.com/videos/gears-of-war-e-day-everything-to-know/",
-      "date": "2026-09-30T19:00:00.000Z",
-      "summary": "From its return to the franchise’s gritter roots to its overhaul of the series’ iconic systems, here’s everything to know about Gears of War: E-Day. (Presented by Gears of War E-Day)",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器》E日——你需要了解的一切",
-      "summaryZh": "从回归系列更 gritty的根源，到对系列标志性系统的全面革新，以下是关于《战争机器：E日》的所有你需要了解的内容。（由《战争机器：E日》呈现）"
-    },
-    {
       "title": "Vincent D’Onofrio Defends Laufey Star Deborah Ann Woll From Gooners Upset That the Game's Armor Sets Don't Show More Skin",
       "link": "https://www.ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin",
       "date": "2026-09-30T18:44:45.000Z",
@@ -1845,18 +1991,6 @@
       "summaryZh": "《魔兽世界：永恒》正试图保守其秘密，游戏中超过12,500件物品的文件已被隐藏起来，不向数据挖掘者公开。目前，《魔兽世界：永恒》的测试版正在如火如荼地进行中，此外"
     },
     {
-      "title": "The Elder Scrolls Online: Seek Sunken Treasures During the High Seas of Tamriel Event",
-      "link": "https://news.xbox.com/en-us/2026/09/30/the-elder-scrolls-online-seek-sunken-treasures-during-the-high-seas-of-tamriel-event/",
-      "date": "2026-09-30T17:00:00.000Z",
-      "summary": "The post The Elder Scrolls Online: Seek Sunken Treasures During the High Seas of Tamriel Event appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《上古卷轴Online》：在泰姆瑞尔高海活动中寻找沉没的宝藏",
-      "summaryZh": "文章《《上古卷轴Online》：在泰姆瑞尔高海活动中寻找沉没的宝藏》首次发表于XBOX Wire。"
-    },
-    {
       "title": "Grasshopper Manufacture Parts Ways With NetEase And Goes Independent",
       "link": "https://www.nintendolife.com/news/2026/09/grasshopper-manufacture-parts-ways-with-netease-and-goes-independent",
       "date": "2026-09-30T16:30:00.000Z",
@@ -1867,18 +2001,6 @@
       ],
       "titleZh": "Grasshopper Manufacture与网易分道扬镳，走向独立发展",
       "summaryZh": "“我们继续珍视两家公司所建立的美妙关系。”Grasshopper Manufacture宣布，它已与母公司网易分道扬镳，如今再次成为一家独立的开发工作室"
-    },
-    {
-      "title": "Microsoft Jewel Comes to Mobile with XBOX Achievements and Game Pass Benefits",
-      "link": "https://news.xbox.com/en-us/2026/09/30/microsoft-jewel-game-pass-achievements-xbox/",
-      "date": "2026-09-30T16:00:00.000Z",
-      "summary": "For the first time in seven years, Microsoft Casual Games has launched a new mobile app – Microsoft Jewel is available now as a standalone app for iOS and Android. It becomes the fifth app in the Micr",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "微软宝石手游上线，附带XBOX成就与Game Pass福利",
-      "summaryZh": "时隔七年，微软休闲游戏终于推出了一款全新的移动应用——《微软宝石》现已作为独立应用登陆iOS和Android平台。这将成为微软旗下的第五款应用"
     },
     {
       "title": "Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed",
@@ -2160,16 +2282,6 @@
       "summaryZh": "除了具有《使命召唤》游戏所期望的所有游戏模式之外，《现代战争 4》还为该系列带来了全新的游戏模式：一种名为“Collaborative”的游戏模式"
     },
     {
-      "title": "《战神：诸神黄昏》初代制作人力挺《Laufey》创意总监，后者因批评言论引发热议而遭骚扰",
-      "link": "https://news.17173.com/content/09302026/080633456.shtml",
-      "date": "2026-09-30T08:06:33.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "Bubble Bobble 4 Friends: The Baron is Back! – Nintendo Switch 2 Edition + Stardrop Mountain announced",
       "link": "https://www.gematsu.com/2026/09/bubble-bobble-4-friends-the-baron-is-back-nintendo-switch-2-edition-stardrop-mountain-announced",
       "date": "2026-09-30T07:30:39.000Z",
@@ -2180,26 +2292,6 @@
       ],
       "titleZh": "《泡泡龙4人组：男爵归来！》——任天堂Switch 2版+星尘山宣布",
       "summaryZh": "TAITO宣布了《泡泡龙4人组：男爵归来！》——任天堂Switch 2……"
-    },
-    {
-      "title": "《GTA4》《战神1+2》出现PS商城！PS6兼容大招？",
-      "link": "https://www.gamersky.com/news/202609/2220208.shtml",
-      "date": "2026-09-30T07:19:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "《索尼克》系列制作人游民采访：游戏始终是IP核心",
-      "link": "https://www.gamersky.com/news/202609/2220104.shtml",
-      "date": "2026-09-30T06:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
     },
     {
       "title": "《守望先锋》第54名英雄“血律”实机预告公开 10月6日随第5赛季加入",
@@ -2219,16 +2311,6 @@
       "source": "3DM游戏网",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "《宝可梦集换式卡牌游戏》稀有雨衣皮卡丘卡牌以840万美元成交",
-      "link": "https://www.3dmgame.com/news/202609/3954991.html",
-      "date": "2026-09-30T06:16:11.217Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -3133,18 +3215,6 @@
       ]
     },
     {
-      "title": "Warcraft 3 Reforged: Forsaken Kingdom Review",
-      "link": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
-      "date": "2026-09-24T21:00:26.000Z",
-      "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas.",
-      "source": "IGN",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽争霸3：重铸版：被遗弃的王国》评测",
-      "summaryZh": "一场令人惊喜的单人战役，既保留了经典《魔兽争霸3》的风格，又融入了一些新创意。"
-    },
-    {
       "title": "Counter-Strike Co-Creator Says Gabe Newell Got So Obsessed With Mongolian Throat Singing at Valve HQ That Staff Started Closing Their Office Doors to Escape the Noise",
       "link": "https://www.ign.com/articles/counter-strike-co-creator-says-gabe-newell-got-so-obsessed-with-mongolian-throat-singing-at-valve-hq-that-staff-started-closing-their-office-doors-to-escape-the-noise",
       "date": "2026-09-24T18:03:28.000Z",
@@ -3967,28 +4037,6 @@
       ]
     },
     {
-      "title": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
-      "link": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
-      "date": "2026-09-16T13:01:35.000Z",
-      "summary": "The Steam Frame , unfortunately RAM shortage-ravaged as it is, is unique among virtual reality headsets for its ability to run Steam games &ndash; VR or 'flat' alike &ndash; entirely on its own, inter",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "“我们正努力让它更简单”：Valve确认Steam Frame只是迈向让Steam游戏能在兼容性欠佳的ARM电脑上运行的计划的第一步",
-      "summaryZh": "不幸的是，Steam Frame饱受内存短缺困扰，但它在虚拟现实头显中独树一帜，因为它能完全独立运行Steam游戏——无论是VR还是“平面”模式——无需其他设备支持，"
-    },
-    {
-      "title": "Valve公布9月8日至15日Steam周收入榜，《战狗》登顶",
-      "link": "https://www.3dmgame.com/news/202609/3953444.html",
-      "date": "2026-09-16T09:41:17.698Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
       "title": "《三角洲行动》日本两周年庆公布嘉宾阵容 将举办国际邀请赛预选赛决赛观赛活动",
       "link": "https://www.3dmgame.com/news/202609/3953437.html",
       "date": "2026-09-16T09:41:17.698Z",
@@ -4189,16 +4237,6 @@
       ]
     },
     {
-      "title": "《和平精英》联动WorkBuddy：不想做游戏搭子的AI，不是好的办公软件？",
-      "link": "https://www.yystv.cn/p/14399",
-      "date": "2026-09-12T16:00:00.000Z",
-      "summary": "AI“军师”穿上三级头。 进入AI时代，办公软件和玩家之间的距离似乎越来越近了。 此前有玩家巧用AI会议纪要，把腾讯会议变成了盛行的游戏开黑软件，而在这个星期，《和平精英》也官宣与腾讯旗下AI智能体工作台WorkBuddy展开联动。 这是WorkBuddy首次与游戏产品展开跨界合作，也是《和平精英》第一次将自身的游戏内容和服务能力延伸至AI办公产品。 在两者之间建立联系的方式很直观：WorkBud",
-      "source": "游研社",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Genshin Impact Version version 7.1 update ‘A Rekviem for the Underworld’ launches September 23",
       "link": "https://www.gematsu.com/2026/09/genshin-impact-version-version-7-1-update-a-rekviem-for-the-underworld-launches-september-23",
       "date": "2026-09-12T13:38:31.000Z",
@@ -4240,26 +4278,6 @@
       "source": "机核",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "王者荣耀-王者荣耀官方网站-腾讯游戏 - QQ",
-      "link": "https://tool.helper.qq.com/v3/wzry/official_website/index.html",
-      "date": "2026-09-11T17:35:00.000Z",
-      "summary": "《王者荣耀》是腾讯第一5V5英雄公平对战手游，拥有超过2亿注册用户，每天有5000万玩家在王者峡谷中开团战斗!多样玩法一键体验，热血竞技尽享快感!10秒实时跨区匹配，与好友组队登顶最强王者!操作简单易上手，一血、五杀、超神，极致还原经典体验!实力 ...",
-      "source": "必应资讯·王者荣耀",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "AI与游戏开发｜上海市网络游戏行业协会技术主题沙龙在沪成功举办",
-      "link": "https://www.yystv.cn/p/14396",
-      "date": "2026-09-11T16:00:00.000Z",
-      "summary": "2026年9月11日，由易玩（上海）网络科技有限公司（TapTap）主办、游研社协办的上海市网络游戏行业协会技术主题沙龙“AI 在游戏生产中的落地提效”在上海成功举办。 本次沙龙聚焦AI与游戏引擎两大方向，邀请Epic Games·虚幻引擎大中华区软件工程师 陈拓 、TapTap制造产品负责人 赵天一 、腾讯游戏AI原生游戏引擎团队负责人 李超 三位行业专家，围绕AI如何融入游戏生产流程、推动开发",
-      "source": "游研社",
-      "companies": [
-        "tencent"
       ]
     },
     {
@@ -5281,28 +5299,6 @@
       "companies": [
         "ea"
       ]
-    },
-    {
-      "title": "核心模式被移除，游玩时长超 400 小时的 战地风云6 玩家获 Steam 全额退款",
-      "link": "https://news.17173.com/content/08112026/061015919.shtml",
-      "date": "2026-08-10T22:10:15.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "ea"
-      ]
-    },
-    {
-      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed",
-      "link": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
-      "date": "2026-08-10T21:10:16.000Z",
-      "summary": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
-      "source": "IGN",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "《战地 6》关键模式被移除后，游玩时间超过 400 小时的玩家将获得 Steam 全额退款",
-      "summaryZh": "在《战地》工作室从游戏的快速匹配匹配中删除关键模式后，一位拥有数百小时游戏时间的《战地 6》玩家获得了游戏的全额退款。"
     },
     {
       "title": "Marvel Rivals hits the Ozempic, comes back 40 GB lighter",
