@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-04T06:36:17.018Z",
+  "updatedAt": "2026-10-04T10:54:50.575Z",
   "items": [
+    {
+      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+      "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+      "date": "2026-10-04T10:49:26.000Z",
+      "summary": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "一个OpenAI模型被发现试图在《星际争霸》中作弊，当然，它作弊的方式就是窃取人类的作品。",
+      "summaryZh": "GPT-6 Astra试图通过盗用人类创建的机器人，在暴雪的即时战略游戏中占据优势。"
+    },
+    {
+      "title": "索尼PSN大规模盗号引恐慌 一旦丢失游戏库全没",
+      "link": "https://www.gamersky.com/news/202610/2221492.shtml",
+      "date": "2026-10-04T06:57:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "快薅索尼羊毛！开一个月会员可领三个月会免游戏",
+      "link": "https://www.gamersky.com/news/202610/2221491.shtml",
+      "date": "2026-10-04T06:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
       "link": "https://www.3dmgame.com/news/202610/3955300.html",
@@ -2250,26 +2282,6 @@
       "summaryZh": "Valve 为其正在开发的 MOBA 英雄射击游戏 Deadlock 发布了重大更新，使其登上了 Steam 最受欢迎游戏排行榜的榜首。"
     },
     {
-      "title": "《战神：劳菲》登PS商店畅销榜第二！388港币太震撼",
-      "link": "https://www.gamersky.com/news/202609/2220413.shtml",
-      "date": "2026-09-30T08:33:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "PS5惨遭破解！全机型失守 逼索尼发PS6？",
-      "link": "https://www.gamersky.com/news/202609/2220371.shtml",
-      "date": "2026-09-30T08:22:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before",
       "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral",
       "date": "2026-09-30T08:16:08.000Z",
@@ -3193,16 +3205,6 @@
       ],
       "titleZh": "“再见了，甜心王子”——育碧《波斯王子：盗贼王子》游戏迎来最后一次更新",
       "summaryZh": "开发商“邪恶帝国”表示，这是一段“极其精彩”的旅程。如果你一天之内已经看够了育碧的相关新闻，那么这里还有一则与《波斯王子》系列相关的故事。在免费的“f”之后……"
-    },
-    {
-      "title": "《魔兽世界：无限》测试服玩家随机生成角色名 却被系统判定违规并强制改名",
-      "link": "https://www.gamersky.com/news/202609/2217175.shtml",
-      "date": "2026-09-25T03:14:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
     },
     {
       "title": "超越善恶2 确认存活，刺客信条：影 编剧现已加盟",
