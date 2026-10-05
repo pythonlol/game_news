@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:54:50.575Z",
+  "updatedAt": "2026-10-05T06:31:39.565Z",
   "sources": [
     {
       "name": "PlayStation Blog",
@@ -12,17 +12,17 @@
       "count": 20
     },
     {
-      "name": "必应资讯·王者荣耀",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·腾讯",
       "status": "ok",
-      "count": 10
+      "count": 8
     },
     {
       "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -34,12 +34,7 @@
     {
       "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 10
+      "count": 0
     },
     {
       "name": "必应资讯·暴雪",
@@ -47,9 +42,9 @@
       "count": 10
     },
     {
-      "name": "IGN",
+      "name": "必应资讯·原神",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "name": "必应资讯·Xbox",
@@ -62,9 +57,14 @@
       "count": 15
     },
     {
-      "name": "Eurogamer",
+      "name": "PC Gamer",
       "status": "ok",
-      "count": 100
+      "count": 50
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "Gematsu",
@@ -72,9 +72,9 @@
       "count": 20
     },
     {
-      "name": "PC Gamer",
+      "name": "Eurogamer",
       "status": "ok",
-      "count": 50
+      "count": 100
     },
     {
       "name": "Rock Paper Shotgun",
@@ -89,12 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 98
-    },
-    {
-      "name": "机核",
-      "status": "ok",
-      "count": 20
+      "count": 94
     },
     {
       "name": "游研社",
@@ -102,14 +97,19 @@
       "count": 12
     },
     {
+      "name": "机核",
+      "status": "ok",
+      "count": 20
+    },
+    {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 35
+      "count": 33
     },
     {
       "name": "17173",
       "status": "ok",
-      "count": 24
+      "count": 23
     }
   ]
 }
