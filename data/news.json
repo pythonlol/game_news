@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-06T07:09:04.722Z",
+  "updatedAt": "2026-10-06T11:48:43.114Z",
   "items": [
+    {
+      "title": "随着 Halo 转投动视，Halo Studios 编剧透露了那些未曾实现的设想",
+      "link": "https://news.17173.com/content/10062026/190910595.shtml",
+      "date": "2026-10-06T19:09:10.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》玩家抢先制插件 当场检测现金交易",
+      "link": "https://www.3dmgame.com/news/202610/3955424.html",
+      "date": "2026-10-06T11:48:41.165Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《看门狗》未来会有新作吗？育碧总裁终于回应",
+      "link": "https://www.gamersky.com/news/202610/2222483.shtml",
+      "date": "2026-10-06T11:38:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "date": "2026-10-06T11:36:35.000Z",
+      "summary": "As a first-party Xbox title, Gears of War: E-Day is under pressure to look good and run well on Xbox consoles. This is especially challenging to do on Series S, due to the console's limited computing ",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器：E日》工作室找到了一种方法，能让Xbox Series S获得更高性能——其他Xbox游戏或许也能用上这一技巧。",
+      "summaryZh": "作为Xbox第一方游戏，《战争机器：E日》在Xbox主机上的画面表现和运行流畅度都面临巨大压力。尤其在Series S上实现这一点尤为困难，因为该主机的计算能力有限。"
+    },
+    {
+      "title": "世人都怕了《GTA6》？专家：只有任天堂无惧挑战！",
+      "link": "https://www.gamersky.com/news/202610/2222481.shtml",
+      "date": "2026-10-06T11:26:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《战争机器：事变日》IGN分部10分！系列巅峰 独特魅力",
+      "link": "https://www.gamersky.com/news/202610/2222470.shtml",
+      "date": "2026-10-06T10:41:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "The Possibly Discontinued LEGO Super Mario Piranha Plant Is 31% Off at Target",
+      "link": "https://www.ign.com/articles/lego-super-mario-piranha-plant-deal-amazon-october-prime-day-sale-2026",
+      "date": "2026-10-06T10:30:00.000Z",
+      "summary": "Last chance to get this set at a huge discount.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "可能已停产的乐高超级马里奥食人花套装，在Target超市现打七折优惠。",
+      "summaryZh": "抓紧最后机会，以超低折扣入手这套产品。"
+    },
+    {
+      "title": "As Halo Moves to Activision, Halo Studios Writers Tease What Might Have Been",
+      "link": "https://www.ign.com/articles/halo-studios-teases-new-race-aliens",
+      "date": "2026-10-06T10:18:53.000Z",
+      "summary": "Following the launch of Halo: Campaign Evolved, Halo Studios has put out a blog post detailing plans for the future of Master Chief’s story. It’s an interesting look at where the series might have gon",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "随着《光环》转至动视旗下，Halo Studios的编剧们透露了一些本可能实现的创意。",
+      "summaryZh": "在《光环：战役进化版》发布后，Halo Studios发表了一篇博客文章，详细介绍了大师杰克故事未来的规划。这为我们提供了一个有趣的视角，展望了该系列可能的发展方向。"
+    },
+    {
+      "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
+      "link": "https://www.eurogamer.net/tarae-the-unbound-preview",
+      "date": "2026-10-06T09:00:01.000Z",
+      "summary": "Who doesn't love a good top-down ARPG; a solid dungeon-crawler with visceral action and real punchy combat that sticks in your teeth like toffee? Aside from Diablo and Path of Exile , there aren't as ",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《塔蕾：无拘》似乎掌握了优秀ARPG的核心要素，但除了硬核战斗之外，它能否跻身《暗黑破坏神》和《流亡之路》之列呢？",
+      "summaryZh": "谁不爱一款出色的俯视角ARPG呢？那种扎实的地牢探索、充满爆发力的动作以及令人回味无穷的激烈战斗，就像太妃糖一样让人欲罢不能？除了《暗黑破坏神》和《流亡之路》，这样的作品其实并不多见。"
+    },
+    {
+      "title": "索尼PS App新界面丑哭玩家！观感降级 没特色",
+      "link": "https://www.gamersky.com/news/202610/2222389.shtml",
+      "date": "2026-10-06T07:38:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "《英雄联盟》S16全球总决赛赛程出炉 国内观赛时间不友好",
       "link": "https://www.3dmgame.com/news/202610/3955418.html",
@@ -1713,16 +1821,6 @@
       ]
     },
     {
-      "title": "《战争机器》新作太惊艳！质量模式1152P 30帧",
-      "link": "https://www.gamersky.com/news/202610/2220877.shtml",
-      "date": "2026-10-02T02:09:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "索尼终于为原版 PS5 引入 AI 超分技术",
       "link": "https://news.17173.com/content/10022026/020849090.shtml",
       "date": "2026-10-02T02:08:49.000Z",
@@ -1761,40 +1859,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "《战争机器》新作可选20种",
-      "link": "https://www.gamersky.com/news/202610/2220869.shtml",
-      "date": "2026-10-02T01:48:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Gears Of War: E-Day’s Campaign Is Buried In The Past – Review",
-      "link": "https://www.gamespot.com/videos/gears-of-war-e-days-campaign-is-buried-in-the-past-review/",
-      "date": "2026-10-01T23:21:00.000Z",
-      "summary": "The Coalition looks to the past with a prequel that's mostly more of the same.",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器：E日》的战役已成往事——评测",
-      "summaryZh": "The Coalition 将目光投向过去，推出了一部前传，但大部分内容依然是老样子。"
-    },
-    {
-      "title": "Invincible VS Open Beta Begins October 13: What You Need to Know",
-      "link": "https://news.xbox.com/en-us/2026/10/01/invincible-vs-open-beta-begins-october-13/",
-      "date": "2026-10-01T23:00:00.000Z",
-      "summary": "One Angstrom Levy is more than enough. Unfortunately for “Invincible”, there are a whole lot more where he came from! Angstrom Levy is joining Invincible VS on October 13 as our third DLC fighter and ",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《无敌者 VS》公开测试版将于 10 月 13 日开启：你需要知道的事",
-      "summaryZh": "一安格斯特罗姆·利维就绰绰有余了。可惜的是，“无敌者”还有更多同款角色呢！安格斯特罗姆·利维将于 10 月 13 日加入《无敌者 VS》，成为我们的第三位 DLC 格斗家，"
     },
     {
       "title": "New Pokémon x ESA Collection Includes the Astronaut Pikachu Plush That Went to Space",
@@ -2119,26 +2183,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：风之杖》非官方PC移植版发布，支持4K键鼠操作",
-      "link": "https://www.3dmgame.com/news/202610/3955088.html",
-      "date": "2026-10-01T06:47:52.750Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《塞尔达：时之笛》重制版加入可选“时间轨迹” 回看任务与对话",
-      "link": "https://www.3dmgame.com/news/202610/3955085.html",
-      "date": "2026-10-01T06:47:52.750Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "前索尼高管建议延长PS5世代 称玩家不渴求更强性能",
       "link": "https://www.3dmgame.com/news/202610/3955086.html",
       "date": "2026-10-01T06:47:52.750Z",
@@ -2234,16 +2278,6 @@
       "date": "2026-10-01T03:06:56.000Z",
       "summary": "",
       "source": "17173",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "悉尼妹爆红背后的索尼高管升职了！发掘爆款潜力",
-      "link": "https://www.gamersky.com/news/202610/2220660.shtml",
-      "date": "2026-10-01T02:45:00.000Z",
-      "summary": "",
-      "source": "游民星空",
       "companies": [
         "sony"
       ]
@@ -3178,26 +3212,6 @@
       "date": "2026-09-26T05:49:00.985Z",
       "summary": "",
       "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "《魔兽世界无限》就是做给老玩家 坚持经典原汁原味",
-      "link": "https://www.gamersky.com/news/202609/2217391.shtml",
-      "date": "2026-09-26T04:14:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "暴雪开发者再次强调 小小魔兽 Forever 专为 小小魔兽 Classic 玩家打造",
-      "link": "https://news.17173.com/content/09262026/011620267.shtml",
-      "date": "2026-09-26T01:16:20.000Z",
-      "summary": "",
-      "source": "17173",
       "companies": [
         "blizzard"
       ]
@@ -4429,18 +4443,6 @@
       ],
       "titleZh": "据报道，沙特阿拉伯正考虑将电子艺界与Savvy Games Group合并。",
       "summaryZh": "该国已于8月完成对电子艺界的多数股权收购。"
-    },
-    {
-      "title": "Ubisoft games on Steam may soon no longer require the pesky Connect launcher, according to an announcement post that's weirdly tough to pin down",
-      "link": "https://www.rockpapershotgun.com/ubisoft-games-on-steam-may-soon-no-longer-require-the-pesky-connect-launcher-according-to-an-announcement-post-thats-weirdly-tough-to-pin-down",
-      "date": "2026-09-10T16:17:00.000Z",
-      "summary": "Ubisoft are planning to start testing a new tool that'll allow Prince of Persia The Lost Crown Steam players to access features only usually available via the publishers' Connect launcher without actu",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "根据一则公告帖子显示，育碧的游戏在Steam上可能很快将不再需要那个烦人的Connect启动器，不过这则公告却奇怪地难以确定具体来源。",
-      "summaryZh": "育碧计划开始测试一项新工具，让《波斯王子：失落的王冠》的Steam玩家能够访问通常只能通过发行商的Connect启动器才能获得的功能，而无需实际使用Connect启动器。"
     },
     {
       "title": "网易让同行傻眼！新游不设任何角色卡池 纯外观付费",
