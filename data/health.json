@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-10-06T11:48:43.114Z",
+  "updatedAt": "2026-10-07T06:49:24.342Z",
   "sources": [
     {
-      "name": "Xbox Wire",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
-    },
-    {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 9
     },
     {
       "name": "Steam 官方新闻",
@@ -17,32 +12,32 @@
       "count": 20
     },
     {
+      "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "必应资讯·腾讯",
+      "status": "ok",
+      "count": 7
+    },
+    {
+      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
     {
       "name": "必应资讯·网易",
       "status": "ok",
-      "count": 0
+      "count": 10
     },
     {
       "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·Xbox",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -52,14 +47,14 @@
       "count": 10
     },
     {
+      "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 7
+    },
+    {
       "name": "GameSpot",
       "status": "ok",
       "count": 15
-    },
-    {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
     },
     {
       "name": "Eurogamer",
@@ -67,7 +62,7 @@
       "count": 100
     },
     {
-      "name": "Gematsu",
+      "name": "IGN",
       "status": "ok",
       "count": 20
     },
@@ -82,6 +77,11 @@
       "count": 100
     },
     {
+      "name": "Gematsu",
+      "status": "ok",
+      "count": 20
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
@@ -89,7 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 105
+      "count": 99
     },
     {
       "name": "游研社",
@@ -102,14 +102,14 @@
       "count": 20
     },
     {
+      "name": "3DM游戏网",
+      "status": "ok",
+      "count": 35
+    },
+    {
       "name": "17173",
       "status": "ok",
       "count": 24
-    },
-    {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 33
     }
   ]
 }
