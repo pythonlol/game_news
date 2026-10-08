@@ -1,6 +1,140 @@
 {
-  "updatedAt": "2026-10-08T06:58:23.715Z",
+  "updatedAt": "2026-10-08T11:47:04.862Z",
   "items": [
+    {
+      "title": "《战争机器：事变日》首发表现强劲 Xbox活跃度排第四",
+      "link": "https://www.3dmgame.com/news/202610/3955685.html",
+      "date": "2026-10-08T11:47:02.898Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "卡比与瓦豆鲁迪都撑起伞！《星之卡比》扭蛋挂饰预计10月下旬起发售",
+      "link": "https://www.3dmgame.com/news/202610/3955681.html",
+      "date": "2026-10-08T11:47:02.898Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《GTA6》与《极限竞速：地平线6》车底对比截图引发讨论 赛车游戏反而不够细节",
+      "link": "https://www.3dmgame.com/news/202610/3955678.html",
+      "date": "2026-10-08T11:47:02.898Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "游戏能留下什么？《魔兽世界》玩家讲述逝去亲人的故事",
+      "link": "https://www.3dmgame.com/news/202610/3955677.html",
+      "date": "2026-10-08T11:47:02.898Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《实况足球》《原神》《无尽冬日》进入日本银色周手机应用收入榜前十",
+      "link": "https://www.3dmgame.com/news/202610/3955674.html",
+      "date": "2026-10-08T11:47:02.898Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "曝PS6彻底溃败？索尼被喷 口碑持续翻车动摇基本盘",
+      "link": "https://www.gamersky.com/news/202610/2223887.shtml",
+      "date": "2026-10-08T11:40:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model",
+      "date": "2026-10-08T11:35:03.000Z",
+      "summary": "World of Warcraft: Forever's developers have announced drastic visual changes to the game's new Skyborne race following passionate community feedback. These include new in-game models that better repr",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "暴雪正在根据社区反馈，调整《魔兽世界：永恒之萨尔》中新登场的天翔族外观。",
+      "summaryZh": "《魔兽世界：永恒之萨尔》的开发团队宣布，针对社区热烈反馈，将对游戏新种族天翔族进行大幅视觉改动。这些改动包括全新的游戏内模型，以更好地呈现……"
+    },
+    {
+      "title": "AMD官宣FSR4下放掌机！数毛社：类似索尼QSSR",
+      "link": "https://www.gamersky.com/news/202610/2223881.shtml",
+      "date": "2026-10-08T11:20:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "PS港服会员免费送！索尼福利惊呆玩家：我都不玩了",
+      "link": "https://www.gamersky.com/news/202610/2223873.shtml",
+      "date": "2026-10-08T10:53:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》公布天裔视觉更新计划 德鲁伊形态重做、SD版角色2027年初推出",
+      "link": "https://www.gamersky.com/news/202610/2223822.shtml",
+      "date": "2026-10-08T10:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer",
+      "link": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
+      "date": "2026-10-08T10:24:51.000Z",
+      "summary": "Handheld PC games could be set for a bit of visual spit 'n' shine, as AMD have confirmed plans to bring FSR 4 &ndash; their newest, prettiest upscaling tech &ndash; to the kind of dinky Radeon APUs us",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "AMD 的优秀 FSR 4 超分辨率技术今年将登陆掌上电脑，不过 Steam Deck 的支持可能需要更长时间。",
+      "summaryZh": "掌上电脑游戏或将迎来一波视觉上的焕新升级，因为 AMD 已确认计划将 FSR 4——他们最新、最精美的超分辨率技术——引入到这类小巧的 Radeon APU 中。"
+    },
+    {
+      "title": "肉鸽幸存者刷宝游戏《太吾异世劫》10月15日登陆Steam",
+      "link": "https://www.gcores.com/articles/220638",
+      "date": "2026-10-08T09:52:36.000Z",
+      "summary": "由墨境团队开发、太吾IP授权的国风肉鸽幸存者刷宝游戏《太吾异世劫》，于2026年10月15日在Steam开启EA（抢先体验）。游戏结合《太吾绘卷》与《墨境》双重IP魅力，把太吾门派武学、传统文化与幸存者浪潮生存、暗黑式装备刷宝融合，打造俯视角国风动作肉鸽新体验，并支持最多4人联机。 《太吾异世劫》的故事发生在平行末世江湖：神祇沉寂、天命崩坏，玩家目标为寻回散落神剑。游戏不同于原作的文字经营与家族社",
+      "source": "机核",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "国产直觉系音游《动物城咖啡店》10月13日正式上线",
+      "link": "https://www.gcores.com/articles/220636",
+      "date": "2026-10-08T09:48:45.000Z",
+      "summary": "国产直觉系音游《动物城咖啡店》10月13日正式上线。在动物城的某个街角，有家小小的咖啡店，你就是这里的店长。客人的喜怒哀乐你都看在眼里，也总是忍不住搭把手、帮个忙，随着音乐，让一地鸡毛的日常琐事也变得有滋有味，回忆满满。 不看画面，也能通关 听到一首好歌，你的手指是否也会不由自主地打起拍子？2006年，任天堂的《节奏天国》横空出世，把这份本能做成了游戏史上的一代经典。 《动物城咖啡店》的制作人一罐",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "第五人格IVL：成都GG_YuM“跛脚羊”关键四抓，巧抓机会一举获胜",
       "link": "https://news.17173.com/content/10082026/094153577.shtml",
@@ -39,6 +173,121 @@
       "source": "17173",
       "companies": [
         "netease"
+      ]
+    },
+    {
+      "title": "《冰汽时代》将于10月19日登陆NS",
+      "link": "https://www.gcores.com/articles/220634",
+      "date": "2026-10-08T09:29:25.000Z",
+      "summary": "11位工作室很高兴宣布，旗下于2018年推出，为同类游戏树立标杆的畅销大作《冰汽时代》将于10月19日登陆Nintendo Switch和Nintendo Switch 2。《冰汽时代》将策略玩法与人类求生的残酷故事融为一体。在这里，你必须一次次做出近乎不可能的抉择，并尽力承担这些决定所带来的后果。 新伦敦的生存斗争仍在持续。凭借策略玩法与人类求生的残酷故事，《冰汽时代》曾为生存城市建造游戏这一类",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《魔兽世界》DLSS5效果太强!角色太逼真 变现代大作",
+      "link": "https://www.gamersky.com/news/202610/2223755.shtml",
+      "date": "2026-10-08T09:19:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "索尼产品质量就是好！玩家夸爆PS5：初版厚机依旧爽",
+      "link": "https://www.gamersky.com/news/202610/2223754.shtml",
+      "date": "2026-10-08T09:19:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever",
+      "link": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/",
+      "date": "2026-10-08T09:11:18.000Z",
+      "summary": "Plus, Total War: Warhammer 40,000, Stronghold 4, Rainbow Six Tactics, Bodycam, The Blood of Dawnwalker, Max Payne 2: The Fall of Max Payne, and much more, too",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard",
+        "ubisoft"
+      ],
+      "titleZh": "PC Gamer 杂志最新一期现已上市：《魔兽世界：永恒之萨尔》。",
+      "summaryZh": "此外，还有《全面战争：战锤 40,000》、《要塞 4》、《彩虹六号：战术行动》、《身体摄像头》、《黎明行者之血》、《马克思·佩恩 2：马克思·佩恩的陨落》等等众多作品！"
+    },
+    {
+      "title": "美女主播狂喷《战争机器》变了：拜拜！玩巫师3去了",
+      "link": "https://www.gamersky.com/news/202610/2223698.shtml",
+      "date": "2026-10-08T09:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "2026英雄联盟全球总决赛赛程公布 北京时间10月16日2:00开幕",
+      "link": "https://www.gamersky.com/news/202610/2223660.shtml",
+      "date": "2026-10-08T08:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "XGP毁了XBOX！美女CEO顶不住了 微软爆出惨淡真相",
+      "link": "https://www.gamersky.com/news/202610/2223588.shtml",
+      "date": "2026-10-08T08:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "新伦敦的存亡掌握在你手中!《冰汽时代》10月登陆 Nintendo Switch",
+      "link": "https://www.gamersky.com/news/202610/2223567.shtml",
+      "date": "2026-10-08T08:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs",
+      "link": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game",
+      "date": "2026-10-08T08:21:27.000Z",
+      "summary": "The Coalition, the Microsoft-owned studio behind Gears of War: E-Day, Gears 4 and Gears 5 has mostly survived the wide-ranging cuts and layoffs initiated by Xbox CEO Asha Sharma in her attempt to brin",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器》负责人表示，下一款游戏不会耗时七年制作，同时他回避了有关裁员的问题。",
+      "summaryZh": "由微软旗下工作室 The Coalition 打造的《战争机器：E-Day》、《战争机器 4》和《战争机器 5》的开发团队，基本挺过了 Xbox 首席执行官阿莎·夏尔马为重塑公司而发起的大规模削减与裁员行动。"
+    },
+    {
+      "title": "《战争机器：事变日》Xbox商城只有3.4分！三成玩家1分差评",
+      "link": "https://www.gamersky.com/news/202610/2223435.shtml",
+      "date": "2026-10-08T07:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "PS5国服喜迎新会免！索尼不忘国内玩家 国产佳作领衔",
+      "link": "https://www.gamersky.com/news/202610/2223259.shtml",
+      "date": "2026-10-08T07:06:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
       ]
     },
     {
@@ -1818,16 +2067,6 @@
       ]
     },
     {
-      "title": "在 Xbox 重新聚焦独占策略之际，战争机器：事变日 开发者表示“很自豪能成为 Xbox 的核心大作之一”",
-      "link": "https://news.17173.com/content/10042026/040624104.shtml",
-      "date": "2026-10-04T04:06:24.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "争议太大！索尼PS线下店“女友寄放区”立牌已撤",
       "link": "https://www.gamersky.com/news/202610/2220943.shtml",
       "date": "2026-10-04T02:57:00.000Z",
@@ -1835,36 +2074,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "《战争机器》新作真主角是黑人女同？老角色成陪衬",
-      "link": "https://www.gamersky.com/news/202610/2221337.shtml",
-      "date": "2026-10-04T02:48:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "《战争机器》也干了？被批演员好看 游戏故意做丑",
-      "link": "https://www.gamersky.com/news/202610/2221334.shtml",
-      "date": "2026-10-04T02:32:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "IGN9分《战争机器》新作确认DEI！多项",
-      "link": "https://www.gamersky.com/news/202610/2220962.shtml",
-      "date": "2026-10-04T01:42:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -1888,18 +2097,6 @@
       ],
       "titleZh": "《无畏契约》玩家声称因二手CPU而继承了硬件封禁，拳头反作弊负责人对部分情节提出质疑。",
       "summaryZh": "不太可能，但并非完全不可能？"
-    },
-    {
-      "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
-      "date": "2026-10-03T19:45:42.000Z",
-      "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器：E日》开发团队：“很自豪能成为Xbox的主力游戏之一”，在微软重新聚焦独占内容之际。",
-      "summaryZh": "《战争机器：E日》开发团队表示，他们“很自豪能成为Xbox的主力游戏之一”，因为微软正重新聚焦于独占内容。"
     },
     {
       "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
@@ -1948,16 +2145,6 @@
       ]
     },
     {
-      "title": "士官长起源成新方向？动视《光环》项目据称考虑完整重启",
-      "link": "https://www.3dmgame.com/news/202610/3955244.html",
-      "date": "2026-10-03T10:12:38.801Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "《魔兽世界：无限》测试版下调地下城任务经验及奖励装备强度 引发部分玩家不满",
       "link": "https://www.3dmgame.com/news/202610/3955243.html",
       "date": "2026-10-03T10:12:38.801Z",
@@ -1965,28 +2152,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "Random: Tough Week? Grab Yourself A Brew & Get These Immaculate Zelda Tunes On Your Playlist, Pronto",
-      "link": "https://www.nintendolife.com/news/2026/10/random-tough-week-grab-yourself-a-brew-and-get-these-immaculate-zelda-tunes-on-your-playlist-pronto",
-      "date": "2026-10-03T10:00:00.000Z",
-      "summary": "Nylon Lon Ranch. Not sure if you've heard, but they're remaking Ocarina of Time . Oh, you had? Exciting, isn't it! Given the enthusiasm for the return of the Links Young and Adult just over one month ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "随机：本周挑战重重？赶紧给自己来杯饮品，把这些完美无瑕的《塞尔达传说》配乐加入你的播放列表吧，马上行动！",
-      "summaryZh": "尼龙·朗牧场。不知道你有没有听说，他们正在重制《时之笛》呢。哦，你已经知道了？太棒了，是不是很令人期待！考虑到一个多月前林克少年与成年版回归时引发的热烈反响，"
-    },
-    {
-      "title": "任天堂Wii开机6年没关过！网友惊叹:从没停电更离谱",
-      "link": "https://www.gamersky.com/news/202610/2221196.shtml",
-      "date": "2026-10-03T09:28:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2008,18 +2173,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "Talking Point: What Are You Playing This Weekend? (3rd October)",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
-      "date": "2026-10-03T09:00:00.000Z",
-      "summary": "This is Halloween, Halloween. Well folks, you made it through another week; give yourselves a pat on the back. It's been a bit of a quiet one in the land of Nintendo. The big highlight this week is th",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "讨论话题：这个周末你准备玩什么？（10月3日）",
-      "summaryZh": "今天是万圣节，万圣节！嘿，各位，你们又熬过了一周；给自己点个赞吧！最近任天堂圈子里倒是挺平静的。本周最大的亮点是——"
     },
     {
       "title": "索尼PSP 3爆料汇总：性能超PS5 能玩PS456三代游戏",
@@ -2069,16 +2222,6 @@
       "source": "游民星空",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "任天堂续展《银河战士Prime：同盟力量》等四款旧作商标 暂无新项目公告",
-      "link": "https://www.3dmgame.com/news/202610/3955237.html",
-      "date": "2026-10-03T05:59:49.349Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2298,16 +2441,6 @@
       "summaryZh": "0.4.3测试版更新中，Steam Frame进行了一些电源效率方面的改进。"
     },
     {
-      "title": "索尼PS近期太良心！玩家渴望PS5 Pro强大帧生成技术",
-      "link": "https://www.gamersky.com/news/202610/2220994.shtml",
-      "date": "2026-10-02T09:17:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "《战地6》价格永降！新定价+秋促折扣 触底价快买",
       "link": "https://www.gamersky.com/news/202610/2220972.shtml",
       "date": "2026-10-02T08:21:00.000Z",
@@ -2315,16 +2448,6 @@
       "source": "游民星空",
       "companies": [
         "ea"
-      ]
-    },
-    {
-      "title": "索尼PS特别直播节目官宣！PlayStation祭典节日来了",
-      "link": "https://www.gamersky.com/news/202610/2220940.shtml",
-      "date": "2026-10-02T06:57:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -2355,36 +2478,6 @@
       "source": "17173",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "PS5港服降价+QSSR!索尼突然变良心 玩家震惊不敢信",
-      "link": "https://www.gamersky.com/news/202610/2220899.shtml",
-      "date": "2026-10-02T03:21:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "《羊蹄山之魂 完整版》M站18家媒体无差评！索尼今年第二高分",
-      "link": "https://www.gamersky.com/news/202610/2220898.shtml",
-      "date": "2026-10-02T03:21:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "索尼发行新作官宣跳票！但既有实体盘也有PC版",
-      "link": "https://www.gamersky.com/news/202610/2220887.shtml",
-      "date": "2026-10-02T02:51:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3166,18 +3259,6 @@
       "summaryZh": "虽然《暗黑破坏神5》刚刚于2026年暴雪嘉年华上公布，但游戏要到2029年春季才正式推出。不过，看起来《暗黑破坏神5》的开发负责人克里斯·威尔逊——曾是《暗黑破坏神：不朽》开发商Grinding Gear的联合创始人——似乎……"
     },
     {
-      "title": "Diablo 4 Season 15 Is Filled To The Brim With Big Secrets, And They Just Keep Coming",
-      "link": "https://www.gamespot.com/articles/diablo-4-season-15-is-filled-to-the-brim-with-big-secrets-and-they-just-keep-coming/",
-      "date": "2026-09-28T18:48:01.000Z",
-      "summary": "Diablo 4 Season 15 is stuffed full of secrets years in the making, and despite the season having launched two weeks ago, players keep discovering new ones. Season 15, Hell's Legacy, is a major nostalg",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暗黑破坏神4第15赛季充满了重磅秘密，而且这些秘密还在不断涌现。",
-      "summaryZh": "暗黑破坏神4第15赛季塞满了多年酝酿的秘密，尽管该赛季两周前才上线，玩家们却仍在不断发现新的秘密。第15赛季“地狱的遗产”是一次重要的怀旧之旅。"
-    },
-    {
       "title": "35岁失业放话单人能搓原神！做出",
       "link": "https://www.gamersky.com/news/202609/2218854.shtml",
       "date": "2026-09-28T14:44:00.000Z",
@@ -3188,18 +3269,6 @@
       ]
     },
     {
-      "title": "Blizzard gifts Diablo 4 players one of the game's rarest crafting materials to apologise for Season 15 issues",
-      "link": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues",
-      "date": "2026-09-28T13:27:56.000Z",
-      "summary": "Diablo 4 's Season of Hell's Legacy began over two weeks ago following a banner BlizzCon , but its launch has been surprisingly wobbly. The season initially suffered a multi-hour delay thanks to log-i",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪向暗黑破坏神4玩家赠送游戏中最稀有的制作材料之一，以弥补第15赛季的问题",
-      "summaryZh": "暗黑破坏神4的“地狱的遗产”赛季在暴雪嘉年华之后两周多前正式开启，但它的上线过程却意外地一波三折。最初，由于日志问题，该赛季经历了长达数小时的延迟。"
-    },
-    {
       "title": "征服携手腾讯乘车码！江湖出行，码上相逢！",
       "link": "https://news.17173.com/content/09282026/115236181.shtml",
       "date": "2026-09-28T11:52:36.000Z",
@@ -3208,38 +3277,6 @@
       "companies": [
         "tencent"
       ]
-    },
-    {
-      "title": "《暗黑破坏神5》改用移动商队和程序生成地图 暴雪计划2029年春季推出",
-      "link": "https://www.3dmgame.com/news/202609/3954800.html",
-      "date": "2026-09-28T11:27:01.207Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "《魔兽世界：无限》饭制食人魔爆红！这雷玩家遭不住了",
-      "link": "https://www.gamersky.com/news/202609/2218792.shtml",
-      "date": "2026-09-28T11:20:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
-      "title": "I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/",
-      "date": "2026-09-28T10:51:25.000Z",
-      "summary": "Zug rush.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "我敢肯定，那些选择对《魔兽世界：永恒》测试版收费的人现在一定乐开了花，毕竟暴雪不得不第二次扩容服务器规模了。",
-      "summaryZh": "泽格冲锋。"
     },
     {
       "title": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium",
@@ -4295,27 +4332,6 @@
       ]
     },
     {
-      "title": "ONSIDE Gaming 与 无畏契约 2026 阵容分道扬镳",
-      "link": "https://news.17173.com/content/09172026/053710924.shtml",
-      "date": "2026-09-17T05:37:10.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "Valve's New Hardware Was Meant to Be the Start of Something Great for PC Gaming",
-      "link": "https://www.ign.com/articles/valves-new-hardware-was-meant-to-be-the-start-of-something-great-for-pc-gaming",
-      "date": "2026-09-16T21:54:48.000Z",
-      "summary": "",
-      "source": "IGN",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve的新硬件本应成为PC游戏领域伟大变革的开端。"
-    },
-    {
       "title": "《荣耀战魂》免费领:育碧40周年庆典现已开启",
       "link": "https://www.gcores.com/articles/219786",
       "date": "2026-09-16T04:16:03.000Z",
@@ -5358,16 +5374,6 @@
       ]
     },
     {
-      "title": "上线仅28天，米哈游的AI互动新作宣布停服",
-      "link": "https://www.yystv.cn/p/14278",
-      "date": "2026-08-11T16:00:00.000Z",
-      "summary": "仍需努力。 8月11日，米哈游发布《BSide: Olivia Lin》（后文简称《BSide》）停止运营公告。这款产品早先于7月13日在Steam开启免费抢先体验，上线至今仅28天，且一直未对国区用户开放访问。 截至停运公告发布时，其Steam页面已有超过1500篇用户评测，总体为“特别好评”。 从SteamDB上的数据来看，《BSide》的同时在线峰值约7289人，上线后的每日峰值也基本在千人",
-      "source": "游研社",
-      "companies": [
-        "mihoyo"
-      ]
-    },
-    {
       "title": "第五人格IVL：成都GG_YuM手感火热四抓翻盘，让一追三取得胜利！",
       "link": "https://news.17173.com/content/08112026/110614891.shtml",
       "date": "2026-08-11T03:06:14.000Z",
@@ -5388,16 +5394,6 @@
       ],
       "titleZh": "Marvel Rivals 登陆 Ozempic，重量减轻 40 GB",
       "summaryZh": "苗条且超级英雄。"
-    },
-    {
-      "title": "热点预告：《影之刃零》将开启全平台预售！《原神》7.0版本上线旅行者抵达至冬！",
-      "link": "https://news.17173.com/content/08102026/000043070.shtml",
-      "date": "2026-08-10T00:00:43.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "mihoyo"
-      ]
     }
   ]
 }

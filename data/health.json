@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:58:23.715Z",
+  "updatedAt": "2026-10-08T11:47:04.862Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -12,12 +12,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·王者荣耀",
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·网易",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -29,10 +29,15 @@
     {
       "name": "必应资讯·米哈游",
       "status": "ok",
+      "count": 11
+    },
+    {
+      "name": "必应资讯·网易",
+      "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
@@ -42,7 +47,7 @@
       "count": 10
     },
     {
-      "name": "必应资讯·暴雪",
+      "name": "必应资讯·原神",
       "status": "ok",
       "count": 10
     },
@@ -57,9 +62,9 @@
       "count": 100
     },
     {
-      "name": "PlayStation Blog",
+      "name": "IGN",
       "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "name": "PC Gamer",
@@ -82,24 +87,19 @@
       "count": 20
     },
     {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "机核",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "游民星空",
       "status": "ok",
-      "count": 99
+      "count": 101
     },
     {
       "name": "游研社",
       "status": "ok",
       "count": 12
+    },
+    {
+      "name": "机核",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "17173",
