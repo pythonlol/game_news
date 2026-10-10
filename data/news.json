@@ -1,6 +1,388 @@
 {
-  "updatedAt": "2026-10-09T11:39:35.003Z",
+  "updatedAt": "2026-10-10T06:39:53.581Z",
   "items": [
+    {
+      "title": "索尼公布PS5升频技术QSSR！旧游戏适配或受开发工具包版本限制",
+      "link": "https://www.3dmgame.com/news/202610/3955968.html",
+      "date": "2026-10-10T06:39:46.693Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《无畏契约》2026全球冠军赛：Paper Rex遭T1逆转，以1比2出局",
+      "link": "https://www.3dmgame.com/news/202610/3955954.html",
+      "date": "2026-10-10T06:39:46.693Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "外媒为《漫威争锋》式DC英雄射击游戏设想七人阵容与战斗定位",
+      "link": "https://www.3dmgame.com/news/202610/3955952.html",
+      "date": "2026-10-10T06:39:46.693Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "《战争机器》新旧作销量对比扎心 重制游戏PS5版首发领先新作Xbox版约9倍",
+      "link": "https://www.gamersky.com/news/202610/2225275.shtml",
+      "date": "2026-10-10T06:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "分析师称《战争机器：事变日》首周预估销量仅为 23 万份",
+      "link": "https://news.17173.com/content/10102026/060629169.shtml",
+      "date": "2026-10-10T06:06:29.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "前员工曝顽皮狗索尼",
+      "link": "https://www.gamersky.com/news/202610/2225233.shtml",
+      "date": "2026-10-10T04:07:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "曝《战争机器：事变日》销量仅23万！玩家呼吁快上PS5",
+      "link": "https://www.gamersky.com/news/202610/2225133.shtml",
+      "date": "2026-10-10T03:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "曝微软Xbox高管极度厌恶二次元！所以放弃动漫游戏",
+      "link": "https://www.gamersky.com/news/202610/2225066.shtml",
+      "date": "2026-10-10T03:00:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《影之刃零》索尼PS官宣新活动！好戏上演 就在PS5",
+      "link": "https://www.gamersky.com/news/202610/2225051.shtml",
+      "date": "2026-10-10T02:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "《战争机器》主角肌肉大得离谱 每天竟吃6000大卡",
+      "link": "https://www.gamersky.com/news/202610/2225035.shtml",
+      "date": "2026-10-10T02:50:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "更流畅：微软宣布全新Xbox PC客户端",
+      "link": "https://www.gcores.com/articles/220709",
+      "date": "2026-10-10T01:05:00.000Z",
+      "summary": "微软宣布，测试代号为 Garrison 的全新Xbox PC客户端即将推出。据悉，新版本主打速度与性能提升，预计将在未来数周内面向 Xbox Insider 测试人员开放，并可能于年内正式上线。新版客户端在运行速度上改进明显。 微软表示，当加载包含1400多款游戏的个人资源库时，页面加载速度大幅提升。玩家可以更直观地区分可下载安装的游戏与需通过Xbox Cloud Gaming流式传输的游戏。在界",
+      "source": "机核",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《战争机器》新作拉了？曝首周仅卖出23万份",
+      "link": "https://www.gamersky.com/news/202610/2224818.shtml",
+      "date": "2026-10-10T00:36:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
+      "link": "https://www.ign.com/articles/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
+      "date": "2026-10-09T21:49:35.000Z",
+      "summary": "Xbox console exclusive Gears of War: E-Day is reportedly off to a soft start after reaching an estimated 230,000 copies sold in its first week.",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "分析师称，《战争机器：E日》首周销量仅达23万份",
+      "summaryZh": "据报道，Xbox主机独占游戏《战争机器：E日》开局表现平平，首周销量估计为23万份。"
+    },
+    {
+      "title": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
+      "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
+      "date": "2026-10-09T19:41:12.000Z",
+      "summary": "The Cursed Apple is ready for Humpty Dumpty and the Loch Ness Monster's Precocious Preteen Child.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "别担心，Valve：我已为你搞定下一个《Deadlock》角色的概念设计了",
+      "summaryZh": "《被诅咒的苹果》已准备好迎接汉普蒂·达姆蒂和尼斯湖水怪那早熟的青春期孩子了。"
+    },
+    {
+      "title": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
+      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
+      "date": "2026-10-09T18:41:40.000Z",
+      "summary": "Microsoft's latest console exclusive, Gears of War: E-Day , launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple analysts have weighed in, an",
+      "source": "GameSpot",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器：E日》——销量如何？让我们来细究一下",
+      "summaryZh": "微软最新推出的主机独占游戏《战争机器：E日》本周正式上线，现在我们首次了解到这款游戏的商业表现。多位分析师纷纷发表了看法，"
+    },
+    {
+      "title": "Gears of War: E-Day reportedly courts over 1.7m Xbox Game Pass players and makes over $37m since launch",
+      "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players",
+      "date": "2026-10-09T18:03:42.000Z",
+      "summary": "Gears of War: E-Day's sales are reportedly lighter than you might expect from one of Xbox's flagship names, but pure sales numbers don't paint a complete picture of the bloody shooter's performance. A",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "据报道，《战争机器：E日》吸引了超过170万名Xbox Game Pass玩家，自发行以来收入已突破3700万美元",
+      "summaryZh": "《战争机器：E日》的销量似乎比你想象的要轻一些，但单纯的销售数字并不能全面反映这款血腥射击游戏的表现。A"
+    },
+    {
+      "title": "World of Warcraft: Forever – “Your Adventure Begins” Trailer",
+      "link": "https://www.gamespot.com/videos/world-of-warcraft-forever-your-adventure-begins-trailer/",
+      "date": "2026-10-09T17:31:59.000Z",
+      "summary": "Learn about the new quests, characters, and rewards waiting ahead of your leveling journey through Azeroth.",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界：永恒》——“你的冒险即将开启”预告片",
+      "summaryZh": "了解在艾泽拉斯的升级之旅中，等待着你的全新任务、角色与奖励。"
+    },
+    {
+      "title": "DMZ — 5 Features to Get Excited for in Call of Duty: Modern Warfare 4’s New Mode",
+      "link": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
+      "date": "2026-10-09T17:00:00.000Z",
+      "summary": "Call of Duty’s upcoming DMZ mode sounds like it’s shaping up to be something special. Set on the new Hajin map and inspired by the events and locations from Modern Warfare 4’s Campaign, this open-worl",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "DMZ——《使命召唤：现代战争4》新模式中值得期待的五大特色",
+      "summaryZh": "《使命召唤》即将推出的DMZ模式听起来将大有可为。该模式以全新的哈金地图为背景，灵感源自《现代战争4》战役中的事件与地点，是一个开放世界"
+    },
+    {
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
+      "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+      "date": "2026-10-09T17:00:00.000Z",
+      "summary": "Forested Development. I left last week's Ocarina of Time feature feeling like I might have been a little too negative about the whole thing. Three weeks into my playthrough, and I had just poo-pooed b",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "倒计时：《塞尔达传说：时之笛》地牢爬行第四期——依然是经典中的经典",
+      "summaryZh": "林地开发。上周的《时之笛》专题让我觉得可能对整个游戏有点过于苛刻了。玩到第三周，我才刚刚不屑一顾地"
+    },
+    {
+      "title": "Official PlayStation Podcast Episode 550: Now This is Podcasting",
+      "link": "https://blog.playstation.com/2026/10/09/official-playstation-podcast-episode-550-now-this-is-podcasting/",
+      "date": "2026-10-09T16:32:01.000Z",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! O’Dell and Kristen are back this week to talk about games we recently wrapped up, our newest adventu",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "官方PlayStation播客第550集：这才是真正的播客啊",
+      "summaryZh": "请发送邮件至PSPodcast@sony.com！通过Apple Podcasts、Spotify订阅，或点击这里下载。嘿，各位！O’Dell和Kristen本周回归，聊聊我们最近通关的游戏以及最新的冒险"
+    },
+    {
+      "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
+      "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
+      "date": "2026-10-09T16:21:38.000Z",
+      "summary": "EA and Battlefield Studios have unveiled more details on Battlefield 6 's upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server browser. Battlefield did",
+      "source": "GameSpot",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "《战地6》正在加入玩家们从第一天起就渴望的功能",
+      "summaryZh": "EA与战地工作室公布了《战地6》即将到来的第五赛季的更多细节，其中包含了一项玩家们从第一天起就渴望的新功能：一个真正意义上的服务器浏览器。战地"
+    },
+    {
+      "title": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+      "date": "2026-10-09T16:15:00.000Z",
+      "summary": "Don't get your hopes up... yet. November is going to be one of the most significant periods in gaming history with the launch of Grand Theft Auto VI . It's projected to be one of, if not the biggest e",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "美国任天堂总裁谈及《GTA 6》登陆Switch 2的可能性",
+      "summaryZh": "别抱太大希望……至少现在还别。11月将成为游戏史上最重要的时期之一，因为《侠盗猎车手VI》即将登场。预计它将是史上最大规模的游戏之一，甚至可能是最大的。"
+    },
+    {
+      "title": "Share of the Week: Marvel’s Wolverine – Allies & Villains",
+      "link": "https://blog.playstation.com/2026/10/09/share-of-the-week-marvels-wolverine-allies-villains/",
+      "date": "2026-10-09T15:59:32.000Z",
+      "summary": "Last week, we asked you to share moments with allies and villains across Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: call_me_xavii  shares W",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "本周分享：漫威《金刚狼》——盟友与反派",
+      "summaryZh": "上周，我们邀请大家使用#PSshare #PSBlog分享与漫威《金刚狼》中盟友和反派相处的精彩瞬间，有机会被选中展示。以下是本周的精选内容：call_me_xavii 分享了W"
+    },
+    {
+      "title": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
+      "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
+      "date": "2026-10-09T15:26:22.000Z",
+      "summary": "Here's hoping devs actually use those figures to improve compatibility.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Valve 正在向开发者们展示他们的游戏在 Steam Deck 上的实际运行表现，数据来自真实世界",
+      "summaryZh": "希望开发者们能真正利用这些数据来提升游戏兼容性。"
+    },
+    {
+      "title": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+      "date": "2026-10-09T15:15:00.000Z",
+      "summary": "Kingdom Hearts! Hellraiser! Dragon's Dogma! The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂下载：10月8日（北美）——还有3款打折游戏值得你关注",
+      "summaryZh": "《王国之心》！《地狱男爵》！《龙之信条》！任天堂最新一期北美下载更新已上线，为eShop带来了大量新游戏。一如既往，请别忘了在我们的"
+    },
+    {
+      "title": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
+      "link": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+      "date": "2026-10-09T15:00:00.000Z",
+      "summary": "Net benefit. We're into October, which means it's time for our six-monthly callout for Games We Missed , the series where the Nintendo Life community sends in their recommendations for tasty Switch ga",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "社区：玩过一款我们错过的Switch热门游戏吗？快把你的推荐发给我们吧",
+      "summaryZh": "净收益。现在已是10月，这意味着我们每半年一次的“我们错过的游戏”征集活动又来了。在这个系列中，Nintendo Life 社区成员会推荐他们认为值得一试的Switch游戏。"
+    },
+    {
+      "title": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
+      "link": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
+      "date": "2026-10-09T14:59:39.000Z",
+      "summary": "Now why didn't I think of that for my dissertation?",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《反恐精英2》玩家将硕士论文献给揪出作弊者，打造了一套顶级玩家追踪系统",
+      "summaryZh": "现在想想，我怎么就没在自己的论文里想到这个点子呢？"
+    },
+    {
+      "title": "It's official: Forza Horizon 6 delayed to 2027 on PS5, and the game's first expansion has been announced",
+      "link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay",
+      "date": "2026-10-09T14:42:23.000Z",
+      "summary": "The reports were correct : Forza Horizon 6 has been delayed to 2027 on PS5. The PlayStation version had been expected this year - the PC and Xbox versions launched in May - but it will now launch in J",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "官方消息：《极限竞速：地平线6》延期至2027年登陆PS5，游戏首个扩展包也已公布",
+      "summaryZh": "报道属实：《极限竞速：地平线6》已延期至2027年登陆PS5。此前PlayStation版本原定于今年推出——PC和Xbox版本已于5月上线——但现在将推迟到J"
+    },
+    {
+      "title": "Next Week on XBOX: New Games for October 12 to 16",
+      "link": "https://news.xbox.com/en-us/2026/10/09/next-week-on-xbox-new-games-for-october-12-to-16/",
+      "date": "2026-10-09T14:01:46.000Z",
+      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and clic",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "下周XBOX：10月12日至16日的新游戏预告",
+      "summaryZh": "欢迎收看“下一周XBOX”！在这期每周特辑中，我们将为你介绍即将登陆XBOX Series X|S、XBOX One、XBOX PC以及Game Pass的所有游戏！点击下方了解更多详情并查看"
+    },
+    {
+      "title": "Gears of War: E-Day review",
+      "link": "https://www.eurogamer.net/gears-of-war-eday-review",
+      "date": "2026-10-09T13:59:57.000Z",
+      "summary": "Though there's still plenty of waist-high cover, ebb-and-flow firefighting, and braindead machismo, Gears E-Day proves that looking back can, indeed, help you look forward, too. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战争机器：E日》评测",
+      "summaryZh": "尽管游戏中依然充斥着齐腰高的掩体、此起彼伏的交火，以及毫无头脑的男性气概，但《战争机器E日》证明，回首过去，其实也能帮助你更好地展望未来。阅读更多"
+    },
+    {
+      "title": "网易全新FPS首曝！放话：要做下一代3A 剑指95分",
+      "link": "https://www.gamersky.com/news/202610/2224805.shtml",
+      "date": "2026-10-09T13:32:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’ launches October 21",
+      "link": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
+      "date": "2026-10-09T12:55:35.000Z",
+      "summary": "The version 3.3 update for Zenless Zone Zero, dubbed “Journey to the Sky,” will launch &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "《无尽虚空零》3.3版本更新“通往天空的旅程”将于10月21日上线",
+      "summaryZh": "《无尽虚空零》3.3版本更新，名为“通往天空的旅程”，将于……上线"
+    },
+    {
+      "title": "EA Sports FC 27 review",
+      "link": "https://www.eurogamer.net/ea-sports-fc-27-review",
+      "date": "2026-10-09T12:33:20.000Z",
+      "summary": "The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can roam and rise. It's touching not for its play &ndash; which",
+      "source": "Eurogamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "《EA Sports FC 27》评测",
+      "summaryZh": "在《EA Sports FC 27》中，最令人动容的新增功能是一个名为“The Grounds”的模式。这是一个在线社交中心，你可以用自定义头像在这里游荡并逐步成长。它之所以动人，并非因为其玩法——而更在于它的……"
+    },
+    {
+      "title": "This Wonderful Animal Crossing-Like Is Now Free For Switch Online Members",
+      "link": "https://www.nintendolife.com/news/2026/10/this-wonderful-animal-crossing-like-is-now-free-for-switch-online-members",
+      "date": "2026-10-09T11:45:00.000Z",
+      "summary": "Play until 15th October. Nintendo has today launched its next free Game Trial for Switch Online members in North America, and it's a doozy. Hello Kitty Island Adventure (the Switch 1 version) is the l",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "这款奇妙的《动物森友会》式游戏现对Switch Online会员免费开放",
+      "summaryZh": "游玩截止日期为10月15日。任天堂今日面向北美地区的Switch Online会员推出了下一款免费试玩游戏，这可真不一般。《凯蒂猫岛冒险》（Switch 1版）是……"
+    },
     {
       "title": "旧版都是CERO A，Switch2版《塞尔达传说：时之笛》日本分级升至B",
       "link": "https://www.3dmgame.com/news/202610/3955872.html",
@@ -1512,16 +1894,6 @@
       ]
     },
     {
-      "title": "《战争机器》新作官宣开局销量强劲！Xbox冲刺10亿日活",
-      "link": "https://www.gamersky.com/news/202610/2222546.shtml",
-      "date": "2026-10-07T01:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "索尼新专利：利用 AI 模型基于玩家数据训练 NPC",
       "link": "https://news.17173.com/content/10072026/010914200.shtml",
       "date": "2026-10-07T01:09:14.000Z",
@@ -1591,28 +1963,6 @@
       "summaryZh": "前动视CEO鲍比·科蒂克在微软完成对动视暴雪-金士顿690亿美元收购后卸任《使命召唤》发行商的职务，如今他将加入大卫·埃里森"
     },
     {
-      "title": "随着 Halo 转投动视，Halo Studios 编剧透露了那些未曾实现的设想",
-      "link": "https://news.17173.com/content/10062026/190910595.shtml",
-      "date": "2026-10-06T19:09:10.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "Gears of War: E-Day review — terrific shooting buoys a sluggish campaign",
-      "link": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
-      "date": "2026-10-06T17:59:46.000Z",
-      "summary": "Gears has never felt better to play, or more creatively stagnant.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器：E日》评测——出色的射击体验却拖累了迟缓的战役",
-      "summaryZh": "《战争机器》从未像现在这样好玩，也从未像现在这样缺乏创意。"
-    },
-    {
       "title": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
       "link": "https://www.eurogamer.net/diablo-2-vr-mod",
       "date": "2026-10-06T16:05:07.000Z",
@@ -1623,18 +1973,6 @@
       ],
       "titleZh": "有人为《暗黑破坏神2》制作了VR模组，以角色视角看世界为该系列带来了全新维度",
       "summaryZh": "在我所想过的所有可能被移植到虚拟现实的游戏里，不知为何《暗黑破坏神》系列并不在其中。但一位勤奋的模组制作者着手改变了这一点，将可能是最经典的"
-    },
-    {
-      "title": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing",
-      "link": "https://news.xbox.com/en-us/2026/10/06/star-wars-galactic-racer-crashing-with-consequence/",
-      "date": "2026-10-06T16:00:00.000Z",
-      "summary": "Allow us to set the scene. Three corners from the finish line, another racer shunts your repulsorcraft into an adjacent boulder, sending you careening into the toxic wastes of Sentinel I. You try to c",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《星球大战：银河赛车》——基于赛程的竞速游戏，撞车后果严重",
-      "summaryZh": "让我们先来描述一下场景。距离终点线还有三个弯道，另一位赛车手突然把你的推进器飞船撞向旁边的一块巨石，让你一头栽进哨兵I号的有毒废料中。你试图"
     },
     {
       "title": "Some staff at Eternal Strands and ex-Ubisoft devs Yellow Brick Games report they've been laid off",
@@ -1649,18 +1987,6 @@
       "summaryZh": "根据LinkedIn上的多篇帖子，Eternal Strands的开发商Yellow Brick Games已经开始裁员，裁员规模尚未公开（感谢Bluesky上的Chris Kerr提供的最初线索）。R"
     },
     {
-      "title": "Watch the Gears of War: E-Day Official Launch Trailer",
-      "link": "https://www.youtube.com/watch?v=3onc3ownB14#new_tab",
-      "date": "2026-10-06T15:27:41.000Z",
-      "summary": "The post Watch the Gears of War: E-Day Official Launch Trailer appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "观看《战争机器：E日》官方发布预告片",
-      "summaryZh": "文章《观看《战争机器：E日》官方发布预告片》首次发表于XBOX Wire。"
-    },
-    {
       "title": "\"Horrible day to be a Shion main\" - Overwatch fans aren't happy about five new China-exclusive skins not coming to the rest of the world",
       "link": "https://www.eurogamer.net/overwatch-defiled-anthem-china-skins",
       "date": "2026-10-06T15:25:26.000Z",
@@ -1671,18 +1997,6 @@
       ],
       "titleZh": "“做希恩派玩家真是糟糕的一天”——守望先锋粉丝对五款仅限中国发售的新皮肤未能在全球范围内推出感到不满",
       "summaryZh": "本周早些时候，暴雪发布了《守望先锋》即将举行的活动的新预告片。该活动名为“污秽颂歌”，将为希恩、D.Mon、桐子、死神和埃姆雷推出皮肤与装饰品，其中"
-    },
-    {
-      "title": "Gears of War: E-Day – Surviving the First Night of Emergence",
-      "link": "https://news.xbox.com/en-us/2026/10/06/gears-of-war-e-day-global-launch-tips-guide/",
-      "date": "2026-10-06T15:00:00.000Z",
-      "summary": "Today marks the worldwide launch of Gears of War: E-Day, now available on XBOX Series X|S, XBOX on PC, Game Pass and Steam. One of XBOX’s most iconic sagas returns to where it all began, taking player",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器：E日》——挺过初次出现之夜",
-      "summaryZh": "今天标志着《战争机器：E日》在全球范围内的正式上线，现已登陆XBOX Series X|S、XBOX PC版、Game Pass和Steam。XBOX最具标志性的系列之一重返其起源之地，带领玩家"
     },
     {
       "title": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
@@ -1765,18 +2079,6 @@
       ]
     },
     {
-      "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
-      "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
-      "date": "2026-10-06T11:36:35.000Z",
-      "summary": "As a first-party Xbox title, Gears of War: E-Day is under pressure to look good and run well on Xbox consoles. This is especially challenging to do on Series S, due to the console's limited computing ",
-      "source": "Eurogamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《战争机器：E日》工作室找到了一种方法，能让Xbox Series S获得更高性能——其他Xbox游戏或许也能用上这一技巧。",
-      "summaryZh": "作为Xbox第一方游戏，《战争机器：E日》在Xbox主机上的画面表现和运行流畅度都面临巨大压力。尤其在Series S上实现这一点尤为困难，因为该主机的计算能力有限。"
-    },
-    {
       "title": "世人都怕了《GTA6》？专家：只有任天堂无惧挑战！",
       "link": "https://www.gamersky.com/news/202610/2222481.shtml",
       "date": "2026-10-06T11:26:00.000Z",
@@ -1784,16 +2086,6 @@
       "source": "游民星空",
       "companies": [
         "nintendo"
-      ]
-    },
-    {
-      "title": "《战争机器：事变日》IGN分部10分！系列巅峰 独特魅力",
-      "link": "https://www.gamersky.com/news/202610/2222470.shtml",
-      "date": "2026-10-06T10:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -1807,18 +2099,6 @@
       ],
       "titleZh": "可能已停产的乐高超级马里奥食人花套装，在Target超市现打七折优惠。",
       "summaryZh": "抓紧最后机会，以超低折扣入手这套产品。"
-    },
-    {
-      "title": "As Halo Moves to Activision, Halo Studios Writers Tease What Might Have Been",
-      "link": "https://www.ign.com/articles/halo-studios-teases-new-race-aliens",
-      "date": "2026-10-06T10:18:53.000Z",
-      "summary": "Following the launch of Halo: Campaign Evolved, Halo Studios has put out a blog post detailing plans for the future of Master Chief’s story. It’s an interesting look at where the series might have gon",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "随着《光环》转至动视旗下，Halo Studios的编剧们透露了一些本可能实现的创意。",
-      "summaryZh": "在《光环：战役进化版》发布后，Halo Studios发表了一篇博客文章，详细介绍了大师杰克故事未来的规划。这为我们提供了一个有趣的视角，展望了该系列可能的发展方向。"
     },
     {
       "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
@@ -1903,16 +2183,6 @@
       ]
     },
     {
-      "title": "《战争机器：事变日》更新官宣！诸多优化 体验大加强",
-      "link": "https://www.gamersky.com/news/202610/2222369.shtml",
-      "date": "2026-10-06T07:01:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "《守望先锋》加入",
       "link": "https://www.gamersky.com/news/202610/2222363.shtml",
       "date": "2026-10-06T06:52:00.000Z",
@@ -1930,28 +2200,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-      "date": "2026-10-06T04:55:00.000Z",
-      "summary": "Japan gets a new \"Choose-Your-Game\" bundle. The Switch 2 is now over a year into its life, and Nintendo has so far shifted more than 23 million units globally. In recent months, the video game giant h",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂宣布推出另一款Switch 2硬件套装",
-      "summaryZh": "日本迎来全新“自选游戏”套装。Switch 2已上市一年多，任天堂迄今全球销量已超过2300万台。近几个月，这家视频游戏巨头"
-    },
-    {
-      "title": "亏麻！曝微软为《地狱之刃》工作室狂烧超2.2亿英镑",
-      "link": "https://www.gamersky.com/news/202610/2222229.shtml",
-      "date": "2026-10-06T03:09:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -1975,38 +2223,6 @@
       ]
     },
     {
-      "title": "《战争机器：事变日》通过将 SSD 充当内存，在 Xbox Series S 上运行流畅",
-      "link": "https://news.17173.com/content/10062026/020736341.shtml",
-      "date": "2026-10-06T02:07:36.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "任天堂官宣全新Switch2套装！三款游戏任选一款",
-      "link": "https://www.gamersky.com/news/202610/2222209.shtml",
-      "date": "2026-10-06T02:04:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
-      "date": "2026-10-06T01:55:00.000Z",
-      "summary": "It's also revealed a 'My Mario' Melody Car. Last year, Nintendo launched the 'My Mario' - a new line of products designed for parents and children. This included a new app for Switch and mobile device",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂发布“你好，桃子！”与“你好，路易吉！”App，适用于Switch及移动设备",
-      "summaryZh": "同时还推出了“我的马里奥”主题汽车音响。去年，任天堂推出了“我的马里奥”——一系列专为家长和孩子设计的新产品。其中包括一款适用于Switch及移动设备的全新App"
-    },
-    {
       "title": "《魔兽世界：无限》国服今日开测！重返艾泽拉斯",
       "link": "https://www.gamersky.com/news/202610/2222197.shtml",
       "date": "2026-10-06T01:27:00.000Z",
@@ -2014,28 +2230,6 @@
       "source": "游民星空",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "Switch 2 Japanese-Language System ‘Choose-Your-Game Bundle’ launches November 12 in Japan",
-      "link": "https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan",
-      "date": "2026-10-06T01:25:09.000Z",
-      "summary": "Nintendo will release the Switch 2 Japanese-Language System (Japan Only) Choose-Your-Game Bundle on November 12 &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Switch 2日语版“自选游戏”套装将于11月12日在日本上市",
-      "summaryZh": "任天堂将于11月12日推出Switch 2日语版（仅限日本）“自选游戏”套装……"
-    },
-    {
-      "title": "官方出手捂嘴?《战争机器》移除了LGBTQ+标签",
-      "link": "https://www.gamersky.com/news/202610/2222195.shtml",
-      "date": "2026-10-06T01:18:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2047,30 +2241,6 @@
       "companies": [
         "blizzard"
       ]
-    },
-    {
-      "title": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In",
-      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
-      "date": "2026-10-06T00:55:00.000Z",
-      "summary": "Here's what the critics had to say. This week, the Kingdom Hearts series returns to Nintendo's platforms, and this time, it's the proper experience with no cloud-related drawbacks. The reviews are now",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "环节总结：Switch 2版《王国之心》合集评测出炉",
-      "summaryZh": "以下是评论家们的评价。本周，《王国之心》系列重返任天堂平台，这一次带来了原汁原味的体验，不再受云端问题困扰。评测现已"
-    },
-    {
-      "title": "Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse",
-      "link": "https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/",
-      "date": "2026-10-05T22:36:39.000Z",
-      "summary": "No layoffs have been announced for The Coalition, but some Gears of War: E-Day developers are worried they'll be next, even if the game succeeds.",
-      "source": "PC Gamer",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "行业裁员观察：Supermassive、Ninja Theory、The Coalition，以及Warhorse发出的警告",
-      "summaryZh": "The Coalition尚未宣布裁员，但部分《战争机器：E-Day》开发人员担心自己会成为下一个被裁的对象，即便这款游戏大获成功也难保无虞。"
     },
     {
       "title": "Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon",
@@ -2405,26 +2575,6 @@
       ]
     },
     {
-      "title": "索尼PSP 3爆料汇总：性能超PS5 能玩PS456三代游戏",
-      "link": "https://www.gamersky.com/news/202610/2221172.shtml",
-      "date": "2026-10-03T08:27:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "索尼对PS6一点不急：内部完全没定时间和价格",
-      "link": "https://www.gamersky.com/news/202610/2221168.shtml",
-      "date": "2026-10-03T08:10:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "腾讯《怪物猎人：旅人》被要求必须独特创新！开发6年 天天开会",
       "link": "https://www.gamersky.com/news/202610/2221153.shtml",
       "date": "2026-10-03T07:32:00.000Z",
@@ -2432,16 +2582,6 @@
       "source": "游民星空",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "《战神》新作PS港服预购卖爆！388港币登顶 降价神了",
-      "link": "https://www.gamersky.com/news/202610/2221134.shtml",
-      "date": "2026-10-03T06:45:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -2455,16 +2595,6 @@
       ]
     },
     {
-      "title": "世嘉推出索尼克系列35周年瓷像“无限蓝”：限量50件 每件100万日元",
-      "link": "https://www.3dmgame.com/news/202610/3955230.html",
-      "date": "2026-10-03T05:59:49.349Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "金属桌信号干扰险些搞砸《无畏契约》上海冠军赛",
       "link": "https://www.3dmgame.com/news/202610/3955225.html",
       "date": "2026-10-03T05:59:49.349Z",
@@ -2472,16 +2602,6 @@
       "source": "3DM游戏网",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "索尼又有良心福利！PS5主机延长保修 特定机型可享",
-      "link": "https://www.gamersky.com/news/202610/2221093.shtml",
-      "date": "2026-10-03T02:52:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3331,16 +3451,6 @@
       ]
     },
     {
-      "title": "暴雪再次重申！严厉打击《魔兽世界：无限》买金行为",
-      "link": "https://www.gamersky.com/news/202609/2219122.shtml",
-      "date": "2026-09-29T04:13:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Random: \"Motherbrain\" Returns As Ubisoft's GenAI Gaming Initiative",
       "link": "https://www.nintendolife.com/news/2026/09/random-motherbrain-returns-as-ubisofts-genai-gaming-initiative",
       "date": "2026-09-29T00:05:00.000Z",
@@ -4052,16 +4162,6 @@
       ]
     },
     {
-      "title": "LOUD在《无畏契约》Champions上海赛前聘请balax担任分析师",
-      "link": "https://news.17173.com/content/09222026/053739000.shtml",
-      "date": "2026-09-22T05:37:39.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "回望中国游戏走过的十年：TapTap出品行业纪录片《理想的存档》",
       "link": "https://www.gcores.com/articles/220040",
       "date": "2026-09-22T02:51:12.000Z",
@@ -4321,30 +4421,6 @@
       ]
     },
     {
-      "title": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
-      "link": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
-      "date": "2026-09-17T09:52:50.000Z",
-      "summary": "Yesterday, Helldivers 2 and Horizon Forbidden West mysteriously disappeared from the Steam store in the UK. There was no announcement about this move, nor any indication it would happen before players",
-      "source": "Eurogamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "《地狱潜兵2》和《地平线：西部禁域》神秘从英国Steam下架，索尼承诺将与Valve“解决这个问题”",
-      "summaryZh": "昨天，《地狱潜兵2》和《地平线：西部禁域》神秘地从英国Steam商店消失。官方并未对此做出任何公告，也没有任何迹象表明这一变动会在玩家之前发生……"
-    },
-    {
-      "title": "Helldivers 2 and Horizon Forbidden West delisted from Steam in the UK, Sony say they're \"working with Valve to address the issue\"",
-      "link": "https://www.rockpapershotgun.com/helldivers-2-and-horizon-forbidden-west-delisted-from-steam-in-the-uk-sony-say-theyre-working-with-valve-to-address-the-issue",
-      "date": "2026-09-17T09:03:28.000Z",
-      "summary": "Helldivers 2 and Horizon Forbidden West have disappeared from the Steam store in the UK, something that's happened rather out of nowhere and looks like it might've even taken publishers PlayStation by",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "《地狱潜者2》和《地平线：西之绝境》已从英国的Steam平台下架，索尼表示他们正“与Valve合作解决这一问题”。",
-      "summaryZh": "《地狱潜者2》和《地平线：西之绝境》已从英国的Steam商店消失，这一情况来得颇为突然，甚至看起来连发行商索尼都措手不及。"
-    },
-    {
       "title": "果蝇学会玩《漫威争锋》，还偏偏最擅长操作型英雄",
       "link": "https://www.gamersky.com/news/202609/2211550.shtml",
       "date": "2026-09-17T08:56:00.000Z",
@@ -4352,16 +4428,6 @@
       "source": "游民星空",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "《Backrooms》导演Kane Parsons造访Valve办公室，引发《Portal Together》电影版传闻升温",
-      "link": "https://news.17173.com/content/09172026/071056043.shtml",
-      "date": "2026-09-17T07:10:56.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "valve"
       ]
     },
     {
@@ -5303,18 +5369,6 @@
       ]
     },
     {
-      "title": "Abandon single-player, move development to Saudi Arabia, \"reduce labour\"? Experts on what EA's huge buyout debt could really mean",
-      "link": "https://www.eurogamer.net/ea-private-experts-financial-strain-cuts-politics",
-      "date": "2026-08-13T11:59:07.000Z",
-      "summary": "Last week, the private acquisition of Electronic Arts finally happened . After months of governmental approval and debate, one of gaming's largest publishers has gone private, co-owned by a combinatio",
-      "source": "Eurogamer",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "放弃单机，将开发转移到沙特阿拉伯，“减少劳动力”？专家解读 EA 巨额收购债务的真正含义",
-      "summaryZh": "上周，艺电公司的私人收购终于发生了。经过数月的政府批准和辩论，最大的游戏发行商之一已私有化，由一家联合公司共同拥有"
-    },
-    {
       "title": "新服好礼爆！《大话西游2免费版》怀旧服2周年版本今日上线",
       "link": "https://news.17173.com/content/08132026/105004133.shtml",
       "date": "2026-08-13T10:50:04.000Z",
@@ -5345,16 +5399,6 @@
       ]
     },
     {
-      "title": "《战地1942》VRmod“BFVR”免费发布 更加沉浸体验经典战场",
-      "link": "https://www.3dmgame.com/news/202608/3950454.html",
-      "date": "2026-08-13T03:24:57.603Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ea"
-      ]
-    },
-    {
       "title": "上线不到一个月，米哈游“新作”宣布停服_腾讯新闻",
       "link": "https://news.qq.com/rain/a/20260812A0500F00",
       "date": "2026-08-12T10:33:00.000Z",
@@ -5362,26 +5406,6 @@
       "source": "必应资讯·米哈游",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "米哈游“新作”宣布停服，上线不到一个月_新浪财经_新浪网",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzivr6927872.shtml",
-      "date": "2026-08-12T08:38:00.000Z",
-      "summary": "8月11日，米哈游公告旗下Steam抢先体验AI陪伴产品《BSide：Olivia Lin》停止线上运营，该产品7月13日开启抢先体验，生命周期不足一月。8月27日15点推 ...",
-      "source": "必应资讯·米哈游",
-      "companies": [
-        "mihoyo"
-      ]
-    },
-    {
-      "title": "第五人格IVL：成都GG_YuM手感火热四抓翻盘，让一追三取得胜利！",
-      "link": "https://news.17173.com/content/08112026/110614891.shtml",
-      "date": "2026-08-11T03:06:14.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
       ]
     }
   ]
