@@ -1,6 +1,120 @@
 {
-  "updatedAt": "2026-10-10T06:39:53.581Z",
+  "updatedAt": "2026-10-10T10:57:27.104Z",
   "items": [
+    {
+      "title": "《堡垒之夜》预告金属索尼克加入，暂未公布上线日期",
+      "link": "https://www.3dmgame.com/news/202610/3956009.html",
+      "date": "2026-10-10T10:57:23.014Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "HelixSR让Steam Deck等AMD掌机运行DLSS 3.7模型！早期测试快于FSR 4",
+      "link": "https://www.3dmgame.com/news/202610/3955990.html",
+      "date": "2026-10-10T10:57:23.014Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "PS5港服世嘉佳作《索尼克赛车 交叉世界》价格永降！新价格直接降了200港币",
+      "link": "https://www.gamersky.com/news/202610/2225438.shtml",
+      "date": "2026-10-10T09:32:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Talking Point: What Are You Playing This Weekend? (10th October)",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
+      "date": "2026-10-10T09:00:00.000Z",
+      "summary": "Gawrsh! Another week is over - thank goodness. It's been a bit of a quiet one again, despite the beginning of what will no doubt be one of the busiest release months in Nintendo's history. Rumours pic",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "谈话要点：这个周末你玩什么？ （10 月 10 日）",
+      "summaryZh": "嘎尔什！又一周结束了——谢天谢地。尽管这无疑将是任天堂历史上最繁忙的发布月份之一，但现在又有点安静了。传闻图片"
+    },
+    {
+      "title": "索尼PS之父：PS如今跟PC没区别！游戏行业停滞不前",
+      "link": "https://www.gamersky.com/news/202610/2225401.shtml",
+      "date": "2026-10-10T08:46:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "索尼新专利曝光 直播观众可用屏幕指针帮主播过难关",
+      "link": "https://www.gamersky.com/news/202610/2225392.shtml",
+      "date": "2026-10-10T08:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "任天堂失去创新力了吗？宫本茂反思公司太守旧",
+      "link": "https://www.gamersky.com/news/202610/2225372.shtml",
+      "date": "2026-10-10T08:02:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "曝《战争机器：事变日》升级包卖了72万！游戏本体才23万",
+      "link": "https://www.gamersky.com/news/202610/2225346.shtml",
+      "date": "2026-10-10T07:40:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《索尼克赛车 交叉世界》第二赛季试玩：EVA哥斯拉大作战",
+      "link": "https://www.gamersky.com/news/202610/2225380.shtml",
+      "date": "2026-10-10T07:35:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "link": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "date": "2026-10-10T07:00:00.000Z",
+      "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name like that; and",
+      "source": "Eurogamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "我们一直在玩什么——“这纯粹是视频游戏爆米花电影的东西”",
+      "summaryZh": "大家好，欢迎回到我们的常规专题，我们会写一些关于我们玩过的游戏的文章。本周，Dom 很高兴回到《战争机器》，他们应该以这样的名字命名；和"
+    },
+    {
+      "title": "PS6手柄或迎重大升级!索尼要上电动摇杆 阻力可调",
+      "link": "https://www.gamersky.com/news/202610/2225295.shtml",
+      "date": "2026-10-10T06:48:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "索尼公布PS5升频技术QSSR！旧游戏适配或受开发工具包版本限制",
       "link": "https://www.3dmgame.com/news/202610/3955968.html",
@@ -1874,26 +1988,6 @@
       ]
     },
     {
-      "title": "《战争机器：事变日》首发即破解！未采用D加密",
-      "link": "https://www.gamersky.com/news/202610/2222562.shtml",
-      "date": "2026-10-07T02:08:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "《战争机器：事变日》Steam全球畅销榜第一！国区前十都没进",
-      "link": "https://www.gamersky.com/news/202610/2222560.shtml",
-      "date": "2026-10-07T02:02:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "索尼新专利：利用 AI 模型基于玩家数据训练 NPC",
       "link": "https://news.17173.com/content/10072026/010914200.shtml",
       "date": "2026-10-07T01:09:14.000Z",
@@ -2011,6 +2105,16 @@
       "summaryZh": "吾呼（woohoo）还是布呼（boohoo）？我们距离任天堂下一款重磅作品越来越近了，任天堂Switch Sports Resort已蓄势待发，将于10月22日在Switch 2上正式推出。今天，我们带来了"
     },
     {
+      "title": "任天堂官宣全新Switch2套装！三款游戏任选一款",
+      "link": "https://www.gamersky.com/news/202610/2222209.shtml",
+      "date": "2026-10-06T14:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
       "title": "Warhammer Survivors launches November 10, new characters revealed",
       "link": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
       "date": "2026-10-06T14:00:51.000Z",
@@ -2047,18 +2151,6 @@
       "summaryZh": "这种承认方式简直有可能让宫本茂直接把我从他的圣诞贺卡名单上划掉，但我在《任天堂Switch Sports Resort》中最喜欢的游戏竟然是那个完全不需要任何"
     },
     {
-      "title": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better",
-      "link": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better",
-      "date": "2026-10-06T13:00:00.000Z",
-      "summary": "Wuhu Island: Be there or be (Spocco) Square. Back what seems like a lifetime ago, I got a chance to have a pop at Nintendo Switch Sports Resort at gamescom '26. No, I don’t mean the stuff that just an",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "预告：《任天堂Switch Sports Resort》依然是老样子，但更好了",
-      "summaryZh": "吾呼岛：要么来，要么就（斯波科）Square。仿佛还是一辈子以前的事，我有机会在2026年的科隆游戏展上试玩了《任天堂Switch Sports Resort》。不，我说的可不是那些刚刚"
-    },
-    {
       "title": "《魔兽世界：无限》玩家抢先制插件 当场检测现金交易",
       "link": "https://www.3dmgame.com/news/202610/3955424.html",
       "date": "2026-10-06T11:48:41.165Z",
@@ -2077,28 +2169,6 @@
       "companies": [
         "ubisoft"
       ]
-    },
-    {
-      "title": "世人都怕了《GTA6》？专家：只有任天堂无惧挑战！",
-      "link": "https://www.gamersky.com/news/202610/2222481.shtml",
-      "date": "2026-10-06T11:26:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "The Possibly Discontinued LEGO Super Mario Piranha Plant Is 31% Off at Target",
-      "link": "https://www.ign.com/articles/lego-super-mario-piranha-plant-deal-amazon-october-prime-day-sale-2026",
-      "date": "2026-10-06T10:30:00.000Z",
-      "summary": "Last chance to get this set at a huge discount.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "可能已停产的乐高超级马里奥食人花套装，在Target超市现打七折优惠。",
-      "summaryZh": "抓紧最后机会，以超低折扣入手这套产品。"
     },
     {
       "title": "Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?",
@@ -2419,26 +2489,6 @@
       "summaryZh": "GPT-6 Astra试图通过盗用人类创建的机器人，在暴雪的即时战略游戏中占据优势。"
     },
     {
-      "title": "索尼PSN大规模盗号引恐慌 一旦丢失游戏库全没",
-      "link": "https://www.gamersky.com/news/202610/2221492.shtml",
-      "date": "2026-10-04T06:57:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "快薅索尼羊毛！开一个月会员可领三个月会免游戏",
-      "link": "https://www.gamersky.com/news/202610/2221491.shtml",
-      "date": "2026-10-04T06:50:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "OpenAI GPT-6 Astra星际争霸屡战屡败 恼羞成怒竟公然作弊",
       "link": "https://www.3dmgame.com/news/202610/3955300.html",
       "date": "2026-10-04T06:36:14.977Z",
@@ -2466,36 +2516,6 @@
       "source": "3DM游戏网",
       "companies": [
         "valve"
-      ]
-    },
-    {
-      "title": "XBOX玩家向官方提意见：学学索尼 给港服降价",
-      "link": "https://www.gamersky.com/news/202610/2221475.shtml",
-      "date": "2026-10-04T05:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "争议太大！索尼PS线下店“女友寄放区”立牌已撤",
-      "link": "https://www.gamersky.com/news/202610/2220943.shtml",
-      "date": "2026-10-04T02:57:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "索尼PlayStation Stars奖励计划将于11月2日永久关停 玩家需尽快兑换剩余积分",
-      "link": "https://www.gamersky.com/news/202610/2221316.shtml",
-      "date": "2026-10-04T01:18:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -2562,16 +2582,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "老牌日厂力挺索尼砍光盘！这是好事啊 厂商玩家双赢",
-      "link": "https://www.gamersky.com/news/202610/2221189.shtml",
-      "date": "2026-10-03T09:08:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -4385,18 +4395,6 @@
       ],
       "titleZh": "《孤岛惊魂》电视剧新增奥斯卡提名演员詹妮弗·杰森·李和蜘蛛侠黑帮的布兰登·格里森加盟阵容",
       "summaryZh": "FX即将推出的选集电视剧《孤岛惊魂》，改编自育碧热门第一人称射击游戏系列，正在为进入制作阶段而增加五位新演员。奥斯卡提名演员詹妮"
-    },
-    {
-      "title": "Backrooms director and Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
-      "link": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
-      "date": "2026-09-17T16:26:17.000Z",
-      "summary": "A well-deserved victory lap, or something more?",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "《后室》导演兼《传送门》超级粉丝凯恩·帕森斯今年第二次现身Valve公司",
-      "summaryZh": "这是一场实至名归的胜利巡礼，还是另有深意？"
     },
     {
       "title": "The Rogue Prince of Persia ‘Anniversary’ update now available",
