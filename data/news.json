@@ -1,6 +1,123 @@
 {
-  "updatedAt": "2026-10-10T10:57:27.104Z",
+  "updatedAt": "2026-10-11T06:46:44.371Z",
   "items": [
+    {
+      "title": "《战争机器：事变日》Xbox版销量仅6万 但GamePass玩家170万",
+      "link": "https://www.3dmgame.com/news/202610/3956012.html",
+      "date": "2026-10-11T06:46:39.774Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "网传《战神三部曲：重制版》大概率2028年 跨PS5和PS6",
+      "link": "https://www.gamersky.com/news/202610/2225619.shtml",
+      "date": "2026-10-11T03:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "[289]老豆闲谈-听儿子说说旷野之息",
+      "link": "https://www.gcores.com/radios/220754",
+      "date": "2026-10-11T02:51:20.000Z",
+      "summary": "本期是一个特别的节目，豆豆和儿子对谈。 聊聊小登最近玩塞尔达的感觉。 算是对生活的记录吧，等几年之后小登自己再回听的时候，不知道是什么感受。 小朋友的言论属于童言无忌，大家轻喷~感谢~ ღ( ´･ᴗ･` )",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+      "link": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+      "date": "2026-10-11T02:35:00.000Z",
+      "summary": "Take an audio tour through Kanto. Earlier this year, as part of Pokémon's 30th anniversary celebrations, The Pokémon Company released a Game Boy Jukebox that took trainers on an audio tour through Pok",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "PSA：《神奇宝贝红与蓝》游戏男孩点唱机重新有货",
+      "summaryZh": "进行关东语音导览。今年早些时候，作为 Pokémon 30 周年庆祝活动的一部分，Pokémon 公司发布了一款 Game Boy Jukebox，让培训师通过 Pok 进行音频导览"
+    },
+    {
+      "title": "IGN满分佳作《极限竞速：地平线6》官宣大型新内容！同步PS5版发售",
+      "link": "https://www.gamersky.com/news/202610/2225527.shtml",
+      "date": "2026-10-11T00:10:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "LOUD击败NRG，锁定无畏契约全球冠军赛前三名",
+      "link": "https://news.17173.com/content/10102026/203625616.shtml",
+      "date": "2026-10-10T20:36:25.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
+      "link": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+      "date": "2026-10-10T16:55:26.000Z",
+      "summary": "Siri, call my pawns.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Deadlock 增加了国际象棋奇才，超越了《军团要塞 2》历史上同时在线玩家数的峰值",
+      "summaryZh": "Siri，呼叫我的棋子。"
+    },
+    {
+      "title": "捷报频传，核周报10.10",
+      "link": "https://www.gcores.com/radios/220607",
+      "date": "2026-10-10T15:00:00.000Z",
+      "summary": "本期时间轴制作：佟和 本期要闻：「3i计划」第四季游戏线上发布会公布超多新作消息； 《 战争机器：事变日》、《皇牌空战 8：希孚之翼》、《星球大战：银河赛车手》、等多款新作好评发售；《极限竞速：地平线6》PS5 版延期；草蜢工作室与网易“和平分手”恢复独立；Falcom 再度上调全年业绩预期；Dusk Golem 爆料：《生化危机 9：安魂曲》大型 DLC 消息。",
+      "source": "机核",
+      "companies": [
+        "netease",
+        "xbox"
+      ]
+    },
+    {
+      "title": "暴雪称《魔兽世界：无限》受热捧主因是慢节奏 玩家刻意放慢不再赶进度",
+      "link": "https://www.gamersky.com/news/202610/2225574.shtml",
+      "date": "2026-10-10T14:44:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+      "link": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+      "date": "2026-10-10T11:12:58.000Z",
+      "summary": "Heathen puts a new perspective on Diablo, and it looks brilliant.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "“如果你足够熟练，你可以砍下怪物的头，将其踢到半空，然后用它杀死另一个怪物”：考虑一下我对这款独立第一人称 ARPG 的迷恋",
+      "summaryZh": "希森对《暗黑破坏神》提出了新的视角，看起来很精彩。"
+    },
+    {
+      "title": "在“热闹”与“无厘头”中找到竞速的乐趣：《索尼克赛车 交叉世界》第二赛季试玩小结",
+      "link": "https://www.gcores.com/articles/220708",
+      "date": "2026-10-10T11:00:00.000Z",
+      "summary": "从《女神异闻录》到《海绵宝宝》，《索尼克赛车 交叉世界》这款赛车游戏早已不再只是让玩家在赛道上飞驰、施展特技的竞速舞台，而是逐渐变成了一座汇聚各类游戏与动画角色、热闹非凡的“跨界游乐场”。 自从《忍者神龟》和《降世神通》先后加入《索尼克赛车 交叉世界》的联动阵容后，我就很难再对接下来还会有哪些角色登场感到吃惊了。也正因如此，面对即将到来的第二赛季，我反倒有些好奇：这次SEGA还能把哪些意想不到的角",
+      "source": "机核",
+      "companies": [
+        "sony"
+      ]
+    },
     {
       "title": "《堡垒之夜》预告金属索尼克加入，暂未公布上线日期",
       "link": "https://www.3dmgame.com/news/202610/3956009.html",
@@ -223,6 +340,16 @@
       "source": "机核",
       "companies": [
         "xbox"
+      ]
+    },
+    {
+      "title": "《GTA6》能上NS2吗？任天堂官方回应来了",
+      "link": "https://www.gamersky.com/news/202610/2224819.shtml",
+      "date": "2026-10-10T00:41:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
       ]
     },
     {
@@ -1948,16 +2075,6 @@
       ]
     },
     {
-      "title": "《战争机器》新作恐怖感拉满！怪物直扑玩家脸",
-      "link": "https://www.gamersky.com/news/202610/2221641.shtml",
-      "date": "2026-10-07T02:26:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "PS港服全新大促重磅开启！索尼超值优惠好价来袭",
       "link": "https://www.gamersky.com/news/202610/2222566.shtml",
       "date": "2026-10-07T02:17:00.000Z",
@@ -1965,16 +2082,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "《Forza Horizon 6》社区对 Playground Games 感到不满，工作室终于做出回应",
-      "link": "https://news.17173.com/content/10072026/021029228.shtml",
-      "date": "2026-10-07T02:10:29.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2105,16 +2212,6 @@
       "summaryZh": "吾呼（woohoo）还是布呼（boohoo）？我们距离任天堂下一款重磅作品越来越近了，任天堂Switch Sports Resort已蓄势待发，将于10月22日在Switch 2上正式推出。今天，我们带来了"
     },
     {
-      "title": "任天堂官宣全新Switch2套装！三款游戏任选一款",
-      "link": "https://www.gamersky.com/news/202610/2222209.shtml",
-      "date": "2026-10-06T14:27:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Warhammer Survivors launches November 10, new characters revealed",
       "link": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
       "date": "2026-10-06T14:00:51.000Z",
@@ -2125,30 +2222,6 @@
       ],
       "titleZh": "《战锤幸存者》将于11月10日上线，新角色曝光",
       "summaryZh": "今天，我们很高兴地宣布，《战锤幸存者》将于11月10日在PS5上正式上线。为了庆祝这一时刻，我们还在最新预告片中揭晓了两位新角色。细心的粉丝们如果一直关注着"
-    },
-    {
-      "title": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
-      "date": "2026-10-06T13:45:00.000Z",
-      "summary": "Let battle commence. In case you didn't notice by now, October is an exceptionally busy month for game releases. Why? Because every publisher and their nan is scrambling to avoid Rockstar's Grand Thef",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "“任天堂没有走弯路”——产品增长专家点评《塞尔达》与《GTA 6》",
-      "summaryZh": "让战斗正式开始吧。如果你还没注意到，10月可是游戏发行的超级繁忙月。为什么呢？因为每个发行商都在争分夺秒，力图避开Rockstar的《侠盗猎车手》"
-    },
-    {
-      "title": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
-      "link": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
-      "date": "2026-10-06T13:00:56.000Z",
-      "summary": "This feels like the kind of admission that's liable to make Miyamoto cross me off his Christmas card list, but my favourite game in Nintendo Switch Sports Resort was the one that required absolutely n",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "我花了整整一小时玩Switch Sports Resort，我最喜欢的迷你游戏居然用到了Switch 2最不受待见的设定：鼠标操控",
-      "summaryZh": "这种承认方式简直有可能让宫本茂直接把我从他的圣诞贺卡名单上划掉，但我在《任天堂Switch Sports Resort》中最喜欢的游戏竟然是那个完全不需要任何"
     },
     {
       "title": "《魔兽世界：无限》玩家抢先制插件 当场检测现金交易",
@@ -2395,16 +2468,6 @@
       ]
     },
     {
-      "title": "索尼停光盘惹众怒？破解、模拟器、连PS5都不用买了",
-      "link": "https://www.gamersky.com/news/202610/2222059.shtml",
-      "date": "2026-10-05T09:43:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "热游情报：国产独游《艾希》新作2天筹到2000万！米哈游新作过审，“源神”要来了？",
       "link": "https://news.17173.com/content/10052026/083106002.shtml",
       "date": "2026-10-05T08:31:06.000Z",
@@ -2433,16 +2496,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "尽管遭粉丝批评 《战神：劳菲》预购量仍打破纪录",
-      "link": "https://www.3dmgame.com/news/202610/3955344.html",
-      "date": "2026-10-05T06:31:36.842Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3391,16 +3444,6 @@
       ]
     },
     {
-      "title": "《魔兽世界：无限》评级已出！要登陆多个主机平台？",
-      "link": "https://www.gamersky.com/news/202609/2219710.shtml",
-      "date": "2026-09-29T14:27:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "继中国电竞亚运会夺金两枚 《和平精英》强劲摘银",
       "link": "https://www.gamersky.com/news/202609/2219625.shtml",
       "date": "2026-09-29T10:22:00.000Z",
@@ -3428,16 +3471,6 @@
       "source": "3DM游戏网",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "《魔兽世界：无限》封禁违规角色名引争议，开发者：没有同情",
-      "link": "https://www.3dmgame.com/news/202609/3954726.html",
-      "date": "2026-09-29T06:33:12.531Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
@@ -4108,16 +4141,6 @@
       "summaryZh": "发行商育碧以及育碧蒙彼利埃和育碧米兰的开发团队发布了一段长达六分钟的游戏概览……"
     },
     {
-      "title": "在拳头游戏的2000人比赛里，我和世界第一交上了手",
-      "link": "https://www.yystv.cn/p/14429",
-      "date": "2026-09-22T16:00:00.000Z",
-      "summary": "《符文战场》也可以是一座港口。 新加坡位于马来半岛最南端，扼守着印度洋与南海间的重要海上通道。几百年来，来自世界各地的船只在这里停靠、转运，也把不同的人、货物和文化带到同一地方。 2026年九月，《符文战场：英雄联盟对战卡牌》——这个游戏刚刚发售一周年的新游戏，也以新加坡区域资格赛（以下简称新加坡RQ）的形式，成为了全球玩家走向世界的另一种“港口”：来自不同地区的玩家从各自的赛区出发，在这里汇集，",
-      "source": "游研社",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Beyond Good and Evil was never worth 20 years of angst",
       "link": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
       "date": "2026-09-22T10:48:10.000Z",
@@ -4373,16 +4396,6 @@
       ],
       "titleZh": "在育碧40周年特惠活动中，PC游戏最高可省90%，还可免费领取一款游戏",
       "summaryZh": "超值游戏低至两美元起。"
-    },
-    {
-      "title": "《CS2》选手小吉米官宣中国女友并澄清流言",
-      "link": "https://www.gamersky.com/news/202609/2211865.shtml",
-      "date": "2026-09-17T23:40:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "valve"
-      ]
     },
     {
       "title": "Far Cry TV Show Adds Oscar Nominee Jennifer Jason Leigh, Spider-Noir's Brendan Gleeson to Cast",
@@ -5382,16 +5395,6 @@
       "date": "2026-08-13T09:30:00.000Z",
       "summary": "作者：白广大 编辑：柏亚舟 7月25日上午，杭州网易园区的报告厅里里坐满了人。 二十多支队伍围坐在报告厅里，准备迎接一场为期48小时的线下游戏极限开发。他们中绝大多数人几个小时前才第一次见到队友，不少队伍是线上组队一路打进决赛才线下“会师”的。 没有冗长的开幕词，制作人小寒直接走上台揭开了这届决赛的命题：藏（cáng/zàng）。 一个汉字，四重释义，成了年轻开发者们想象力的起跑线：藏身匿影、收集",
       "source": "机核",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
-      "title": "热爱回响！2026网易游戏高校MINI-GAME挑战赛圆满收官",
-      "link": "https://www.3dmgame.com/news/202608/3950462.html",
-      "date": "2026-08-13T03:24:57.603Z",
-      "summary": "",
-      "source": "3DM游戏网",
       "companies": [
         "netease"
       ]
