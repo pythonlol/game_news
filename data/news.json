@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-11T06:46:44.371Z",
+  "updatedAt": "2026-10-11T11:13:45.615Z",
   "items": [
+    {
+      "title": "《漫威争锋》严防《复联：末日》剧透 称全力杜绝内容泄露",
+      "link": "https://www.3dmgame.com/news/202610/3956036.html",
+      "date": "2026-10-11T11:13:43.193Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "link": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+      "date": "2026-10-11T11:00:00.000Z",
+      "summary": "I wanna be a part of it, New York, New York.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Deadlock 的《不眠之城》更新让 Valve 的 MOBA 成为多年来我最喜欢的电子游戏设定",
+      "summaryZh": "我想成为其中的一部分，纽约，纽约。"
+    },
+    {
+      "title": "逼得任天堂员工骂索尼“混蛋”！PSP把NDS完爆了？",
+      "link": "https://www.gamersky.com/news/202610/2225696.shtml",
+      "date": "2026-10-11T09:33:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo",
+        "sony"
+      ]
+    },
+    {
+      "title": "微软设计副总裁谈Win11为何无法让10亿用户满意：每个人的偏好都不一样",
+      "link": "https://www.gamersky.com/news/202610/2225691.shtml",
+      "date": "2026-10-11T09:15:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "曝战争机器新作销量仅23万份遭吐槽 被指强塞DEI",
+      "link": "https://www.gamersky.com/news/202610/2225659.shtml",
+      "date": "2026-10-11T07:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《战争机器：事变日》销量太惨！传微软临时取消PS5版遭质疑",
+      "link": "https://www.gamersky.com/news/202610/2225648.shtml",
+      "date": "2026-10-11T07:07:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
     {
       "title": "《战争机器：事变日》Xbox版销量仅6万 但GamePass玩家170万",
       "link": "https://www.3dmgame.com/news/202610/3956012.html",
@@ -280,6 +343,16 @@
       "source": "17173",
       "companies": [
         "xbox"
+      ]
+    },
+    {
+      "title": "Vol.193｜EVA XR 登陆上海｜Steam Frame 一货难求｜索尼 VR 弃子｜小派的新饼",
+      "link": "https://www.gcores.com/radios/220755",
+      "date": "2026-10-10T05:59:08.000Z",
+      "summary": "本期主播与嘉宾： 脑潘 / 潮玩VR / 空间绘画KudoAlbus 直播录制时间： 2026-10-09 ----------------------- 主观片面的「元语咒」是专属 VR 玩家的闲聊电台。 以虚拟圆桌的形式在某平台直播，以一刀不剪的态度在这里回放。 ----------------------- 章节： 00:00 开场 01:25 假期你去哪儿了，戴智能眼镜了吗？ 07:15 ",
+      "source": "机核",
+      "companies": [
+        "sony"
       ]
     },
     {
@@ -2023,26 +2096,6 @@
       ]
     },
     {
-      "title": "微软承认XGP毁了XBOX！美女CEO：成本太疯狂",
-      "link": "https://www.gamersky.com/news/202610/2222597.shtml",
-      "date": "2026-10-07T03:54:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "《GTA6》不支持PC云游戏！微软官方紧急辟谣",
-      "link": "https://www.gamersky.com/news/202610/2222594.shtml",
-      "date": "2026-10-07T03:46:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "Sega Responds To Sonic's Wild Start On Discord",
       "link": "https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord",
       "date": "2026-10-07T03:15:00.000Z",
@@ -2062,16 +2115,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "Windows 95经典游戏有望复活！微软官方回应",
-      "link": "https://www.gamersky.com/news/202610/2222584.shtml",
-      "date": "2026-10-07T03:12:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2198,18 +2241,6 @@
       ],
       "titleZh": "“做希恩派玩家真是糟糕的一天”——守望先锋粉丝对五款仅限中国发售的新皮肤未能在全球范围内推出感到不满",
       "summaryZh": "本周早些时候，暴雪发布了《守望先锋》即将举行的活动的新预告片。该活动名为“污秽颂歌”，将为希恩、D.Mon、桐子、死神和埃姆雷推出皮肤与装饰品，其中"
-    },
-    {
-      "title": "Round Up: The Final Previews For Nintendo Switch Sports Resort Are In",
-      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-final-previews-for-nintendo-switch-sports-resort-are-in",
-      "date": "2026-10-06T15:00:00.000Z",
-      "summary": "Wuhu (woohoo) or Buhu (boohoo)? We are closing in on Nintendo's next major release, with Nintendo Switch Sports Resort primed and ready to launch on Switch 2 on 22nd October , and today, we've got an ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "汇总：任天堂Switch Sports Resort的最终预览已出炉",
-      "summaryZh": "吾呼（woohoo）还是布呼（boohoo）？我们距离任天堂下一款重磅作品越来越近了，任天堂Switch Sports Resort已蓄势待发，将于10月22日在Switch 2上正式推出。今天，我们带来了"
     },
     {
       "title": "Warhammer Survivors launches November 10, new characters revealed",
@@ -2444,18 +2475,6 @@
       ],
       "titleZh": "《龙与地下城：魔兽世界》本身已经稳操胜券，但真正让它脱颖而出的是它如何捕捉到MMO的精神内核",
       "summaryZh": "暴雪MMO的桌面改编版将于下个月推出"
-    },
-    {
-      "title": "Players’ Choice: Vote for September’s best new game",
-      "link": "https://blog.playstation.com/2026/10/05/players-choice-vote-for-septembers-best-new-game-4/",
-      "date": "2026-10-05T14:00:16.000Z",
-      "summary": "Last month was filled with an extensive release of games ranging from story-driven spectacles to mini-adventures! Some big new releases included Marvel’s Wolverine, Control Resonant, Dune: Awakening, ",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "玩家之选：投票选出9月最佳新游戏",
-      "summaryZh": "上个月游戏发布数量众多，从剧情驱动的大作到迷你冒险应有尽有！一些重磅新作包括《漫威：狼人》、《控制：共振》、《沙丘：觉醒》，"
     },
     {
       "title": "牌面拉满！米哈游《原神》登上央视：约一半玩家来自海外",
@@ -4281,16 +4300,6 @@
       "summaryZh": "《崩坏：星穹铁道》4.6版本更新，名为“月升前与兽共舞”，……"
     },
     {
-      "title": "华硕展示720Hz电竞OLED，获选《反恐精英2》Major官方显示器",
-      "link": "https://www.3dmgame.com/news/202609/3953884.html",
-      "date": "2026-09-20T05:40:53.608Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ]
-    },
-    {
       "title": "《刺客信条幻景》移除D加密后性能暴涨 帧率提升76%",
       "link": "https://www.gamersky.com/news/202609/2212697.shtml",
       "date": "2026-09-20T02:13:00.000Z",
@@ -5387,26 +5396,6 @@
       "source": "17173",
       "companies": [
         "netease"
-      ]
-    },
-    {
-      "title": "把“藏”字写成游戏：一群高校年轻人的48小时",
-      "link": "https://www.gcores.com/articles/218317",
-      "date": "2026-08-13T09:30:00.000Z",
-      "summary": "作者：白广大 编辑：柏亚舟 7月25日上午，杭州网易园区的报告厅里里坐满了人。 二十多支队伍围坐在报告厅里，准备迎接一场为期48小时的线下游戏极限开发。他们中绝大多数人几个小时前才第一次见到队友，不少队伍是线上组队一路打进决赛才线下“会师”的。 没有冗长的开幕词，制作人小寒直接走上台揭开了这届决赛的命题：藏（cáng/zàng）。 一个汉字，四重释义，成了年轻开发者们想象力的起跑线：藏身匿影、收集",
-      "source": "机核",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
-      "title": "上线不到一个月，米哈游“新作”宣布停服_腾讯新闻",
-      "link": "https://news.qq.com/rain/a/20260812A0500F00",
-      "date": "2026-08-12T10:33:00.000Z",
-      "summary": "8月11日，米哈游发布公告，旗下Steam抢先体验AI陪伴产品《BSide：Olivia Lin》（林离）停止线上运营。这款7月13日才开启抢先体验的产品，线上生命周期 ...",
-      "source": "必应资讯·米哈游",
-      "companies": [
-        "mihoyo"
       ]
     }
   ]
