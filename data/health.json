@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:19:47.071Z",
+  "updatedAt": "2026-10-13T12:28:11.457Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -12,17 +12,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·王者荣耀",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·腾讯",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
-      "name": "必应资讯·网易",
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -37,12 +32,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "必应资讯·Xbox",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
@@ -50,6 +45,11 @@
       "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
+    },
+    {
+      "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 0
     },
     {
       "name": "GameSpot",
@@ -89,17 +89,17 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 103
-    },
-    {
-      "name": "机核",
-      "status": "ok",
-      "count": 20
+      "count": 107
     },
     {
       "name": "游研社",
       "status": "ok",
       "count": 12
+    },
+    {
+      "name": "机核",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "3DM游戏网",
