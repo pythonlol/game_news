@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-10-16T09:30:20.131Z",
+  "updatedAt": "2026-10-17T05:17:51.641Z",
   "sources": [
+    {
+      "name": "Steam 官方新闻",
+      "status": "ok",
+      "count": 20
+    },
     {
       "name": "Xbox Wire",
       "status": "ok",
@@ -10,11 +15,6 @@
       "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 10
-    },
-    {
-      "name": "Steam 官方新闻",
-      "status": "ok",
-      "count": 20
     },
     {
       "name": "必应资讯·王者荣耀",
@@ -27,34 +27,24 @@
       "count": 10
     },
     {
+      "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 12
-    },
-    {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
+      "count": 7
     },
     {
       "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 0
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -82,6 +72,16 @@
       "count": 100
     },
     {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
@@ -89,17 +89,12 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 106
+      "count": 96
     },
     {
-      "name": "17173",
+      "name": "游研社",
       "status": "ok",
-      "count": 25
-    },
-    {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 35
+      "count": 12
     },
     {
       "name": "机核",
@@ -107,9 +102,14 @@
       "count": 20
     },
     {
-      "name": "游研社",
+      "name": "3DM游戏网",
       "status": "ok",
-      "count": 12
+      "count": 36
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 24
     }
   ]
 }

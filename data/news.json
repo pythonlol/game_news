@@ -1,6 +1,434 @@
 {
-  "updatedAt": "2026-10-16T09:30:20.131Z",
+  "updatedAt": "2026-10-17T05:17:51.641Z",
   "items": [
+    {
+      "title": "《任天堂明星大乱斗 特别版》选手 Mew2King 因虫咬引发健康担忧被赛事禁赛",
+      "link": "https://news.17173.com/content/10172026/060631258.shtml",
+      "date": "2026-10-17T06:06:31.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达时之笛》重制版新增支线 细节调整重燃游玩兴趣",
+      "link": "https://www.3dmgame.com/news/202610/3956862.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "暗黑4玩家数周苦寻缺失护甲 暴雪悄悄补入最新更新",
+      "link": "https://www.3dmgame.com/news/202610/3956857.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "《战地6》第5赛季或加入《质量效应》《死亡空间》饰品",
+      "link": "https://www.3dmgame.com/news/202610/3956856.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ]
+    },
+    {
+      "title": "玩家将DLSS 5移植至《极限竞速6》和《生化危机9》，性能最高提升近40%",
+      "link": "https://www.3dmgame.com/news/202610/3956852.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "腾讯游戏安全ACE携手《鹅鸭杀》，守护玩家每一场真诚推理",
+      "link": "https://www.3dmgame.com/news/202610/3956847.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "曝秦朝背景《刺客信条：命运》已取消 早期玩法视频曝光",
+      "link": "https://www.3dmgame.com/news/202610/3956684.html",
+      "date": "2026-10-17T05:17:29.950Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "最新专利显示，PlayStation 6 或将搭载索尼自研帧生成技术",
+      "link": "https://news.17173.com/content/10172026/051038106.shtml",
+      "date": "2026-10-17T05:10:38.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "宝可梦传说：阿尔宙斯公布全新“节日小帮手”系列毛绒玩具：圣诞树皮卡丘与土王雪橇亮相",
+      "link": "https://news.17173.com/content/10172026/050930250.shtml",
+      "date": "2026-10-17T05:09:30.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "微软官方提醒也有《GTA6》!玩家:谁会在xbox买游戏？",
+      "link": "https://www.gamersky.com/news/202610/2230083.shtml",
+      "date": "2026-10-17T04:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "link": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "date": "2026-10-17T04:05:00.000Z",
+      "summary": "Releasing alongside a major update. Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal . Now, after ov",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "舒适的沿海农场模拟珊瑚岛将于今年冬天正式登陆 Switch 2",
+      "summaryZh": "与重大更新一起发布。在 Nintendo Life 上，我们第一次听说休闲合作农场模拟游戏《珊瑚岛》是在 2021 年，当时它成功实现了 Kickstarter 的目标。现在，ov之后"
+    },
+    {
+      "title": "任天堂又涨价！Switch 2维修费比PS5还贵引不满",
+      "link": "https://www.gamersky.com/news/202610/2230072.shtml",
+      "date": "2026-10-17T03:37:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "曝微软不让日本游戏上NS2！斥资限制任天堂 不管索尼",
+      "link": "https://www.gamersky.com/news/202610/2230059.shtml",
+      "date": "2026-10-17T02:40:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo",
+        "sony",
+        "xbox"
+      ]
+    },
+    {
+      "title": "甲亢哥纠结《GTA6》用啥玩 看到PS5标语秒选索尼",
+      "link": "https://www.gamersky.com/news/202610/2230077.shtml",
+      "date": "2026-10-17T02:18:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "索尼帧生成技术曝光！技术难度太大 给PS6用的？",
+      "link": "https://www.gamersky.com/news/202610/2230050.shtml",
+      "date": "2026-10-17T02:12:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "业内记者：任天堂会学卡普空搞重制版！出新作太慢",
+      "link": "https://www.gamersky.com/news/202610/2230046.shtml",
+      "date": "2026-10-17T02:03:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "link": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+      "date": "2026-10-17T01:55:00.000Z",
+      "summary": "Now arriving at a \"later date\". Telltale Games has announced the Nintendo Switch version of The Wolf Among Us Remastered \"needs a little bit more time\". In an official statement shared on social media",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《我们身边的狼：重制版》Switch 版延迟",
+      "summaryZh": "现在到达“稍后的日期”。 Telltale Games 宣布 Nintendo Switch 版《我们身边的狼》重制版“需要更多时间”。在社交媒体上分享的官方声明中"
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》新作加入百亿补贴：实体最低367元",
+      "link": "https://www.gamersky.com/news/202610/2230037.shtml",
+      "date": "2026-10-17T01:41:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Pokémon Reveals New 'Holiday Helper’ Plush Collection With a Christmas Tree Pikachu and Clodsire Sled",
+      "link": "https://www.ign.com/articles/pokemon-holiday-helper-plush-reveal",
+      "date": "2026-10-16T20:09:50.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "神奇宝贝推出全新“假日帮手”毛绒系列，配有圣诞树皮卡丘和 Clodsire 雪橇"
+    },
+    {
+      "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "link": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+      "date": "2026-10-16T19:59:45.000Z",
+      "summary": "Ghost of Yōtei sales appear to be trailing behind Ghost of Tsushima, but that doesn't mean it's not still pulling big numbers on PlayStation 5.",
+      "source": "IGN",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "分析师估计，《羊蹄之魂》销量落后于《对马》，但 PS5 版销量依然强劲",
+      "summaryZh": "《羊蹄之魂》的销量似乎落后于《对马岛之魂》，但这并不意味着它在 PlayStation 5 上的销量不再强劲。"
+    },
+    {
+      "title": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
+      "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+      "date": "2026-10-16T18:45:44.000Z",
+      "summary": "World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want to pay $60 for beta acc",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "下周你可以免费玩《魔兽世界：永远》（但有一个问题）",
+      "summaryZh": "《魔兽世界：永远》的测试版将于下周限时免费，为那些想要体验暴雪老派 MMORPG 新版本但又不想支付 60 美元测试版的玩家提供优惠"
+    },
+    {
+      "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
+      "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
+      "date": "2026-10-16T18:01:39.000Z",
+      "summary": "World of Warcraft: Forever's beta is set to end in just a few days on October 21, but that hasn't stopped Blizzard from making some major changes to the game's various racial abilities. Unlike in the ",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "魔兽世界：永远改变了大范围比赛的数学原理",
+      "summaryZh": "《魔兽世界：永远》的测试版将于几天后即 10 月 21 日结束，但这并没有阻止暴雪对游戏的各种种族能力做出一些重大改变。与在"
+    },
+    {
+      "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
+      "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
+      "date": "2026-10-16T17:11:28.000Z",
+      "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of pla",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Analogue 正在复兴其 Mega SG 和 Super Nt 游戏机，它们将通过一些现代增强功能玩您所有的旧世嘉和任天堂卡带",
+      "summaryZh": "Analogue - 各种精美复古游戏机的创造者 - 详细介绍了其新发布的 Mega Sg+ 和 Super Nt+：其早期 Mega Sg 和 Super Nt 机器的修订版，能够播放"
+    },
+    {
+      "title": "Modern Warfare 4: Campaign Early Access Now Live",
+      "link": "https://news.xbox.com/en-us/2026/10/16/modern-warfare-4-campaign-early-access-now-live/",
+      "date": "2026-10-16T17:01:00.000Z",
+      "summary": "The post Modern Warfare 4: Campaign Early Access Now Live appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "现代战争 4：战役抢先体验现已上线",
+      "summaryZh": "《现代战争 4：战役抢先体验》现已上线，首先在 XBOX Wire 上发布。"
+    },
+    {
+      "title": "kpl职业联赛-王者荣耀直播-王者荣耀官方网站-腾讯游戏",
+      "link": "https://pvp.qq.com/cp/kingproleague/",
+      "date": "2026-10-16T17:01:00.000Z",
+      "summary": "王者荣耀官方赛事中心，提供王者荣耀直播、kpl直播、kpl赛程、kpl解说、kpl购票、战队信息等赛事信息",
+      "source": "必应资讯·王者荣耀",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "DMZ Early Access Starts October 20",
+      "link": "https://news.xbox.com/en-us/2026/10/16/dmz-early-access-starts-october-20/",
+      "date": "2026-10-16T17:00:00.000Z",
+      "summary": "The post DMZ Early Access Starts October 20 appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "DMZ 抢先体验将于 10 月 20 日开始",
+      "summaryZh": "DMZ 抢先体验将于 10 月 20 日开始的帖子首先出现在 XBOX Wire 上。"
+    },
+    {
+      "title": "Impressions: Call Of Duty: Modern Warfare 4 Campaign - Switch 2 Does Its Best With One Hell Of A 'Popcorn Game'",
+      "link": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-campaign-switch-2-does-its-best-with-one-hell-of-a-popcorn-game",
+      "date": "2026-10-16T17:00:00.000Z",
+      "summary": "Chutes too narrow? Nearly 13 years since Nintendo gamers last had the chance to answer the Call of Duty (2013's Ghosts on Wii U, RIP), Activision has finally redeployed this storied series on Nintendo",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "印象：《使命召唤：现代战争 4》战役 - Switch 2 堪称一款“爆米花游戏”",
+      "summaryZh": "滑道太窄？自任天堂游戏玩家上次有机会回答《使命召唤》（2013 年 Wii U 上的《幽灵》，RIP）以来近 13 年，动视终于在任天堂上重新部署了这个传奇系列"
+    },
+    {
+      "title": "Official PlayStation Podcast Episode 551: Quadruple Duty",
+      "link": "https://blog.playstation.com/2026/10/16/official-playstation-podcast-episode-551-quadruple-duty/",
+      "date": "2026-10-16T16:46:26.000Z",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! Sid, Tim, O’Dell, and Kristen are back this week to talk about some of the spooky games they have be",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "官方 PlayStation 播客第 551 集：四重责任",
+      "summaryZh": "给我们发电子邮件：PSPodcast@sony.com！通过 Apple 播客、Spotify 订阅，或在此处下载 嘿，大家！ Sid、Tim、O'Dell 和 Kristen 本周回来谈论他们所经历的一些恐怖游戏"
+    },
+    {
+      "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
+      "link": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror/",
+      "date": "2026-10-16T16:00:00.000Z",
+      "summary": "As I’m typing this, we’re in the final hellish days before the October 16 launch of TENEBRIS SOMNIA – the retro survival horror game with live-action cutscenes – coming at you from Andrés Borghi (The ",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "黑暗的梦：血、像素和假肢",
+      "summaryZh": "当我写这篇文章时，我们正处于 10 月 16 日推出 TENEBRIS SOMNIA 之前的最后地狱般的日子，这是一款带有真人过场动画的复古生存恐怖游戏，由安德烈斯·博尔吉 (Andrés Borghi) 为您带来。"
+    },
+    {
+      "title": "Share of the Week: Marvel’s Wolverine – Suits",
+      "link": "https://blog.playstation.com/2026/10/16/share-of-the-week-marvels-wolverine-suits/",
+      "date": "2026-10-16T15:59:52.000Z",
+      "summary": "Last week, we asked you to share your favorite looks from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: NickVPgamer shared a glinting portrait",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "本周分享：漫威金刚狼 – 套装",
+      "summaryZh": "上周，我们邀请您使用 #PSshare #PSBlog 分享您最喜欢的漫威金刚狼造型，以获得获得推荐的机会。以下是本周的亮点：NickVPgamer 分享了一张闪闪发光的肖像"
+    },
+    {
+      "title": "《刺客信条》中国3A游戏露真容！外媒：看起来很不错",
+      "link": "https://www.gamersky.com/news/202610/2230024.shtml",
+      "date": "2026-10-16T15:03:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Celebrating the Next Generation of Latin American Game Creators",
+      "link": "https://news.xbox.com/en-us/2026/10/16/xbox-latin-american-latam-game-camp-id-xbox/",
+      "date": "2026-10-16T15:00:00.000Z",
+      "summary": "Across Latin America, developers are creating some of gaming’s most distinctive new worlds by turning personal memories, local history, cultural traditions, and bold ideas into experiences that resona",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "庆祝下一代拉丁美洲游戏创作者",
+      "summaryZh": "在整个拉丁美洲，开发者们正在通过将个人记忆、当地历史、文化传统和大胆的想法转化为引起共鸣的体验，创造出一些最具特色的游戏新世界。"
+    },
+    {
+      "title": "Next Week on XBOX: New Games for October 19 to 23",
+      "link": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/",
+      "date": "2026-10-16T14:00:00.000Z",
+      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and clic",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "下周 XBOX：10 月 19 日至 23 日推出新游戏",
+      "summaryZh": "欢迎来到 XBOX 下周！在本周的专题中，我们涵盖了即将在 XBOX 系列 X|S、XBOX One、PC 上的 XBOX 和 Game Pass 上推出的所有游戏！在下面获取有关这些即将推出的游戏的更多详细信息并点击"
+    },
+    {
+      "title": "《塞尔达传说：时之笛RE》黑暗林克形象曝光！太邪恶",
+      "link": "https://www.gamersky.com/news/202610/2230006.shtml",
+      "date": "2026-10-16T13:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
+      "link": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
+      "date": "2026-10-16T13:46:23.000Z",
+      "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-code",
+      "source": "Eurogamer",
+      "companies": [
+        "ea",
+        "valve"
+      ],
+      "titleZh": "Fortnite 即将登陆 Linux，因此我们很快就可以在 Steam Deck 和 Steam Machine 上玩它以及《Apex Legends》等其他游戏",
+      "summaryZh": "Epic Games 正式致力于将其大逃杀射击游戏 Fortnite 引入 Linux。该公告隐藏在 Epic 广受嘲笑的博客文章的底部，该文章揭示了新的“vibe-code”"
+    },
+    {
+      "title": "Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed",
+      "link": "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed",
+      "date": "2026-10-16T12:02:35.000Z",
+      "summary": "Footage alleged to show a prototype of a cancelled Assassin&rsquo;s Creed game in action has popped up online. The game, it's claimed, was set in ancient China, went by the working title Assassin&rsqu",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "育碧正在开发以中国秦朝为背景的第二款《刺客信条》游戏，如果据称泄露的视频可信的话",
+      "summaryZh": "据称显示已取消的《刺客信条》游戏原型的视频在网上出现。据称，这款游戏的背景设定在古代中国，暂定名称为《刺客》"
+    },
+    {
+      "title": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+      "link": "https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/",
+      "date": "2026-10-16T10:52:32.000Z",
+      "summary": "Former Valve writer Chet Faliszek had some strong words for the Epic boss.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "前 Valve 作家对 Epic 首席执行官 Tim Sweeney 试图通过氛围编码与 Steam 竞争感到困惑",
+      "summaryZh": "Valve 前作家切特·法利泽克 (Chet Faliszek) 对 Epic 老板说了一些严厉的话。"
+    },
+    {
+      "title": "【会员抽奖】链在一起，杀出重围！合作角斗肉鸽《链兽角斗》现已登陆 PC 与主机",
+      "link": "https://www.gcores.com/articles/221002",
+      "date": "2026-10-16T10:52:00.000Z",
+      "summary": "Featherweight Games 宣布，旗下支持 1–4人合作 的角斗士肉鸽游戏《链兽角斗》（Chained Beasts）现已登陆 Steam、PlayStation 5及 Nintendo Switch ，并同步加入 Xbox 与 Windows PC Game Pass 。 在《链兽角斗》中，玩家将与最多三位好友被锁链真正“绑”在一起，在混乱的角斗场中并肩求生。利用锁链与场地环境，以各",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "沙盒创作新作《哈克小天地》将于10月29日午夜登陆PC与NS",
+      "link": "https://www.gcores.com/articles/221024",
+      "date": "2026-10-16T10:32:30.000Z",
+      "summary": "Team17 与 Wonderscope Games 宣布，设定于《哈克小镇》（Hokko Life）可爱温馨世界中的全新作品 《哈克小天地》（Hokko Spaces） ，将于 2026年10月29日午夜登陆 PC（Steam）及 Nintendo Switch 。 《哈克小天地》将哈克系列缤纷明快的美术风格与轻松休闲的沙盒体验相结合。玩家可以根据各位拟人化动物居民的需求，亲手搭建一处处舒适惬意",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "《率土之滨》十一周年庆典：甘肃省博物馆×率土之滨重磅联动预告",
       "link": "https://news.17173.com/content/10162026/103212961.shtml",
@@ -9,6 +437,28 @@
       "source": "17173",
       "companies": [
         "netease"
+      ]
+    },
+    {
+      "title": "Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets",
+      "link": "https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets",
+      "date": "2026-10-16T10:23:52.000Z",
+      "summary": "Steam has a new feature in beta aimed at helping completionists feel like they've got a bit more of a handle on their never-ending quests to 100% games whose trophy lists keep on growing and evolving.",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Valve 推出了测试版 Steam 成就集，将游戏不断增长的奖杯数量划分为 DLC 和赛季桶",
+      "summaryZh": "Steam 推出了一项测试版新功能，旨在帮助完成者感觉自己对 100% 游戏永无止境的任务有了更多掌控，而这些游戏的奖杯列表不断增长和演变。"
+    },
+    {
+      "title": "林里LINLEE携手《魔兽世界》开启跨界联动，邀新老玩家再聚一杯",
+      "link": "https://www.gcores.com/articles/221019",
+      "date": "2026-10-16T10:07:44.000Z",
+      "summary": "“为了部落！为了联盟！”这句刻在无数玩家青春里的呐喊，如今在现实中有了全新的相聚坐标。 10月16日，林里LINLEE正式携手全球知名大型多人在线角色扮演游戏（MMORPG）《魔兽世界》，以“鸭，是魔兽世界！”为主题开启跨界联动。 在《魔兽世界》迎来22周年之际，林里通过联名饮品、限定周边及主题门店体验，将艾泽拉斯的冒险记忆带入日常生活，面向全国活动门店发出集结邀请：叫上曾经并肩冒险的伙伴，来林里",
+      "source": "机核",
+      "companies": [
+        "blizzard"
       ]
     },
     {
@@ -84,6 +534,16 @@
       "source": "17173",
       "companies": [
         "blizzard"
+      ]
+    },
+    {
+      "title": "秦朝项羽《刺客信条》实机！今日游民最热新闻大汇总",
+      "link": "https://www.gamersky.com/news/202610/2229521.shtml",
+      "date": "2026-10-16T08:02:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
       ]
     },
     {
@@ -1198,28 +1658,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说》新作实机公开！大量画面细节展示",
-      "link": "https://www.gamersky.com/news/202610/2227988.shtml",
-      "date": "2026-10-14T14:15:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Video: Here's 20+ Minutes Of Zelda: Ocarina Of Time Gameplay On Switch 2",
-      "link": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2",
-      "date": "2026-10-14T13:45:00.000Z",
-      "summary": "What's changed, then? We've been lucky enough to go hands-on with The Legend of Zelda: Ocarina of Time on Switch 2, spending roughly 2 hours with the upcoming remake. We've already provided our impres",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "视频：Switch 2 上 20 多分钟的《塞尔达传说：时之笛》游戏玩法",
-      "summaryZh": "那到底改变了什么？我们很幸运能够在 Switch 2 上体验《塞尔达传说：时之笛》，花了大约 2 个小时来体验即将到来的重制版。我们已经提供了我们的印象"
-    },
-    {
       "title": "Gran Turismo Limited Edition DualSense Controller announced",
       "link": "https://www.gematsu.com/2026/10/gran-turismo-limited-edition-dualsense-controller-announced",
       "date": "2026-10-14T13:20:42.000Z",
@@ -1232,30 +1670,6 @@
       "summaryZh": "索尼互动娱乐公司宣布推出 Gran Turismo 限量版 DualSense 控制器，以纪念……"
     },
     {
-      "title": "Zelda: Ocarina Of Time Overview Trailer Is So Beautiful, We Can't Cope",
-      "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-overview-trailer-is-so-beautiful-we-cant-cope",
-      "date": "2026-10-14T13:15:00.000Z",
-      "summary": "We need it. Now. Nintendo has released a new overview trailer for The Legend of Zelda: Ocarina of Time on Switch 2, give us perhaps our best look yet at the remake's gameplay – yes, even more than the",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "塞尔达传说：时之笛概述预告片如此美丽，我们无法应对",
-      "summaryZh": "我们需要它。现在。任天堂在 Switch 2 上发布了《塞尔达传说：时之笛》的全新概述预告片，这或许让我们对重制版的游戏玩法有了最好的了解——是的，甚至比《塞尔达传说：时之笛》的游戏玩法还要精彩。"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time remake ‘Overview’ trailer",
-      "link": "https://www.gematsu.com/2026/10/the-legend-of-zelda-ocarina-of-time-remake-overview-trailer",
-      "date": "2026-10-14T13:10:43.000Z",
-      "summary": "Nintendo has released a five-minute overview trailer for the remake of The Legend of Zelda: &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《塞尔达传说：时之笛》重制版“概述”预告片",
-      "summaryZh": "任天堂发布了重拍《塞尔达传说》的五分钟概述预告片：……"
-    },
-    {
       "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
       "link": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
       "date": "2026-10-14T13:00:48.000Z",
@@ -1266,42 +1680,6 @@
       ],
       "titleZh": "Gran Turismo 7 的规格 IV（第 1 部分）今日发布，并首次展示 DualSense 无线控制器 – Gran Turismo 限量版",
       "summaryZh": "大家好，今天我们很高兴与大家分享《Gran Turismo》的消息。首先，我们了解了今天《Gran Turismo 7 Spec IV》更新第 1 部分的完整详细信息。另外，我们庆祝 Gran 成立 30 周年"
-    },
-    {
-      "title": "No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake",
-      "link": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
-      "date": "2026-10-14T13:00:00.000Z",
-      "summary": "I honestly can't tell you how many times I've completed The Legend of Zelda: Ocarina of Time , let alone how many hours I've spent in its bucolic version of Hyrule. Though, when I told my Mum about th",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "无论您对艺术风格有何看法，《塞尔达传说：时之笛》都将成为一部精彩的翻拍作品",
-      "summaryZh": "老实说，我无法告诉你我完成了多少次《塞尔达传说：时之笛》，更不用说我在田园风格的《海拉尔》中花了多少时间了。不过，当我告诉妈妈这件事时"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
-      "link": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
-      "date": "2026-10-14T13:00:00.000Z",
-      "summary": "It looks like the owl known Kaepora Gaebora - part-tutorial, part-tip giver - will be far less talkative in the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time . Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《塞尔达传说：时之笛》臭名昭著的教程猫头鹰似乎不会在 Switch 2 重制版中让你陷入对话",
-      "summaryZh": "看来猫头鹰 Kaepora Gaebora（既是教程又是小费提供者）在 Nintendo Switch 2 重制版《塞尔达传说：时之笛》中将不再那么健谈。阅读更多"
-    },
-    {
-      "title": "Preview: Zelda: Ocarina Of Time On Switch 2 Brims With Breathtaking Detail, Plus One Familiar Irritation",
-      "link": "https://www.nintendolife.com/previews/zelda-ocarina-of-time-on-switch-2-brims-with-breathtaking-detail-plus-one-familiar-irritation",
-      "date": "2026-10-14T13:00:00.000Z",
-      "summary": "So high... Upon accepting Nintendo of Europe's invitation to spend two hours with the Ocarina of Time remake, my expectations were so astronomically high that it felt almost unfair. Over time, we all ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "预览：Switch 2 上的《塞尔达传说：时之笛》充满了令人惊叹的细节，还有一种熟悉的刺激",
-      "summaryZh": "如此之高……在接受欧洲任天堂的邀请，花两个小时玩《时之笛》重制版时，我的期望是如此之高，以至于感觉几乎不公平。随着时间的推移，我们都"
     },
     {
       "title": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore",
@@ -1374,16 +1752,6 @@
       ],
       "titleZh": "“你不会倾听房间里最吵闹的人的意见” - 《魔兽世界：永远的老板》讨论如何处理大量反馈",
       "summaryZh": "在《魔兽世界：永远》即将发行之前，《魔兽世界》执行制作人 Holly Longdale 在 PAX Australia 上发表了讲话。值得注意的是她对测试版的绝对受欢迎程度的评论"
-    },
-    {
-      "title": "《宝可梦GO》10月31日举行超级Mega团体战日！Mega水晶灯火灵首次登场",
-      "link": "https://www.3dmgame.com/news/202610/3956487.html",
-      "date": "2026-10-14T09:55:41.937Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
     },
     {
       "title": "米哈游法务部出击！《原神》4.4泄密案终审 判赔50万",
@@ -1467,36 +1835,6 @@
       ]
     },
     {
-      "title": "曝《塞尔达传说：时之笛 重制版》前瞻马上来！和《GTA6》同一天",
-      "link": "https://www.gamersky.com/news/202610/2227794.shtml",
-      "date": "2026-10-14T07:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "雷蛇发布全新 宝可梦传说：阿尔宙斯 联名游戏耳机，涵盖仙子伊布、喷火龙及路卡利欧主题",
-      "link": "https://news.17173.com/content/10142026/070634839.shtml",
-      "date": "2026-10-14T07:06:34.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《合金弹头 Advance》经典回归！专为任天堂平台",
-      "link": "https://www.gamersky.com/news/202610/2227735.shtml",
-      "date": "2026-10-14T07:04:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "PS港服又一款低价游戏预购开启！索尼发行JRPG新作",
       "link": "https://www.gamersky.com/news/202610/2227706.shtml",
       "date": "2026-10-14T06:46:00.000Z",
@@ -1534,26 +1872,6 @@
       "source": "游民星空",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "《马里奥赛车8》推出4.0.1更新，修复Switch 2联机物件数量异常",
-      "link": "https://www.3dmgame.com/news/202610/3956445.html",
-      "date": "2026-10-14T05:45:57.009Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "宝可梦30周年联名Beats Pill音箱10月15日开售！定价149.99美元",
-      "link": "https://www.3dmgame.com/news/202610/3956440.html",
-      "date": "2026-10-14T05:45:57.009Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1605,28 +1923,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "NS2版《暗喻幻想：ReFantazio》序章试玩版现已发布",
-      "link": "https://www.gcores.com/articles/220864",
-      "date": "2026-10-14T01:30:00.000Z",
-      "summary": "世嘉宣布，ATLUS旗下“STUDIO ZERO”打造的幻想风格RPG Nintendo Switch 2版《暗喻幻想：ReFantazio》“序章试玩版”现已推出，作为《暗喻幻想：ReFantazio》发售两周年的纪念。玩家可于体验版中完整体验游戏序章剧情内容，存档还可继承至正式版。Nintendo Switch 2版《暗喻幻想：ReFantazio》预计将于11月12日发售。 “剑之试炼”网页",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
-      "date": "2026-10-14T01:15:00.000Z",
-      "summary": "Monster Rancher, Metal Slug & Kururin are here! Nintendo has today expanded its Switch Online 'Nintendo Classics' library with three more Game Boy Advance titles. The games added to this particular co",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂扩大 Switch Online 的 GBA 库，新增三款游戏",
-      "summaryZh": "怪物牧场主、合金弹头和库鲁林都在这里！任天堂今天扩大了 Switch Online 的“任天堂经典”库，新增了三款 Game Boy Advance 游戏。添加到该特定 co 的游戏"
     },
     {
       "title": "《索尼克赛车 交叉世界》公布赛季2详情，全新付费联动确定登场",
@@ -2167,16 +2463,6 @@
       ]
     },
     {
-      "title": "六小时闭门试玩后，我看到了《影之刃零》的另一面",
-      "link": "https://www.yystv.cn/p/14493",
-      "date": "2026-10-12T16:00:00.000Z",
-      "summary": "前段时间，即将于10月29日正式发售的《影之刃零》，做了两次发售前最后的对外集中展示。 其一是一支新的预告片。除了展示新角色、带来更多动作场面外，最重要的消息，是正式公布了甄子丹参与项目——他不仅为游戏中的重要角色“暗魔天堡之主魔渊”提供面部与动作捕捉，也以创意顾问的身份参与了整部游戏的动作设计。 几天后，《影之刃零》又迎来了接近20分钟的索尼State of Play线上发布会。甄子丹和制作人梁",
-      "source": "游研社",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "无药可救！《战争机器事变日》DEI议程已深入骨髓",
       "link": "https://www.gamersky.com/news/202610/2226654.shtml",
       "date": "2026-10-12T14:40:00.000Z",
@@ -2221,16 +2507,6 @@
       ]
     },
     {
-      "title": "《索尼克赛车 交叉世界》Year One Edition实体版定档2026年11月3日",
-      "link": "https://www.3dmgame.com/news/202610/3956164.html",
-      "date": "2026-10-12T12:45:52.784Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
       "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
       "date": "2026-10-12T11:38:55.000Z",
@@ -2255,16 +2531,6 @@
       "summaryZh": "我敢打赌已经有人在模仿这个东西的猫耳朵了。"
     },
     {
-      "title": "顽皮狗黑人光头女主新作：超写实 战斗堪比《战神》",
-      "link": "https://www.gamersky.com/news/202610/2226349.shtml",
-      "date": "2026-10-12T10:44:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "For the second time this year, Steam has set a major new concurrent user record",
       "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
       "date": "2026-10-12T10:35:07.000Z",
@@ -2275,16 +2541,6 @@
       ],
       "titleZh": "Steam 今年第二次创下同时在线用户数新纪录",
       "summaryZh": "显然，Steam 的持续增长是无法阻挡的。 Valve 的 PC 数字商店和社交平台周日创下了新的用户并发记录，用户数量达到惊人的 43,505,724 百万（来自 SteamDB）"
-    },
-    {
-      "title": "索尼卖力宣传《影之刃零》！老外:已预购 但是Steam",
-      "link": "https://www.gamersky.com/news/202610/2226342.shtml",
-      "date": "2026-10-12T10:16:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
     },
     {
       "title": "第五人格IVL：北京WBG_Huiyi牵制救援完美发挥，精彩演绎成功取胜",
@@ -2379,16 +2635,6 @@
       ]
     },
     {
-      "title": "《战神3重制版》非官方PC移植版发布：Windows原生运行 1080p平均144帧",
-      "link": "https://www.gamersky.com/news/202610/2226287.shtml",
-      "date": "2026-10-12T08:28:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "被XGP害惨？曝《战争机器》新作XBOX仅卖了6.2万份",
       "link": "https://www.gamersky.com/news/202610/2226253.shtml",
       "date": "2026-10-12T08:00:00.000Z",
@@ -2396,16 +2642,6 @@
       "source": "游民星空",
       "companies": [
         "xbox"
-      ]
-    },
-    {
-      "title": "外媒盘点五款赏秋游戏：从《地平线6》到《对马岛之魂》",
-      "link": "https://www.3dmgame.com/news/202610/3956140.html",
-      "date": "2026-10-12T06:55:32.576Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -2452,16 +2688,6 @@
       ]
     },
     {
-      "title": "IGN满分含金量！曝《极限竞速：地平线6》狂吸36亿元 PS5版马上来",
-      "link": "https://www.gamersky.com/news/202610/2225829.shtml",
-      "date": "2026-10-12T01:37:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "育碧潜行神作《细胞分裂4：双重间谍》回归！非官方PC移植版来了：谍报巅峰",
       "link": "https://www.gamersky.com/news/202610/2225821.shtml",
       "date": "2026-10-12T01:16:00.000Z",
@@ -2469,16 +2695,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "《极限竞速：地平线6》首个大型拓展包将于27年1月21日上线",
-      "link": "https://www.gcores.com/articles/220768",
-      "date": "2026-10-12T01:08:00.000Z",
-      "summary": "微软宣布，《极限竞速：地平线 6》首个大型拓展包将于2027年1月21日发布。该拓展包包含在《地平线 6》尊享版、尊享升级包及拓展包合集内，无需额外付费。除了升级上述版本外，内容也可单独购买。 与此同时，通过尊享升级包升级至游戏尊享版，可立即解锁现已推出的全部内容：车辆通行证、计时赛车包与意大利激情车包、VIP 会员以及新手礼包。同时，玩家将获得1月21日上线的首个大型拓展包，以及后续推出的第二个",
-      "source": "机核",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -2524,56 +2740,6 @@
       ],
       "titleZh": "Deadlock 的《不眠之城》更新让 Valve 的 MOBA 成为多年来我最喜欢的电子游戏设定",
       "summaryZh": "我想成为其中的一部分，纽约，纽约。"
-    },
-    {
-      "title": "微软设计副总裁谈Win11为何无法让10亿用户满意：每个人的偏好都不一样",
-      "link": "https://www.gamersky.com/news/202610/2225691.shtml",
-      "date": "2026-10-11T09:15:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "曝战争机器新作销量仅23万份遭吐槽 被指强塞DEI",
-      "link": "https://www.gamersky.com/news/202610/2225659.shtml",
-      "date": "2026-10-11T07:27:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "《战争机器：事变日》销量太惨！传微软临时取消PS5版遭质疑",
-      "link": "https://www.gamersky.com/news/202610/2225648.shtml",
-      "date": "2026-10-11T07:07:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "《战争机器：事变日》Xbox版销量仅6万 但GamePass玩家170万",
-      "link": "https://www.3dmgame.com/news/202610/3956012.html",
-      "date": "2026-10-11T06:46:39.774Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "IGN满分佳作《极限竞速：地平线6》官宣大型新内容！同步PS5版发售",
-      "link": "https://www.gamersky.com/news/202610/2225527.shtml",
-      "date": "2026-10-11T00:10:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
     },
     {
       "title": "LOUD击败NRG，锁定无畏契约全球冠军赛前三名",
@@ -3394,30 +3560,6 @@
       "summaryZh": "在我作为RPS新闻编辑的辉煌职业生涯中，我见过许多类似《模拟人生》的游戏。那些因出版商更擅长搞战术乱伦而惨遭取消的《模拟人生》类游戏！腐蚀性十足的电视效果……"
     },
     {
-      "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
-      "link": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
-      "date": "2026-10-05T16:25:19.000Z",
-      "summary": "So many of the questions in a press briefing for the upcoming Dungeons & Dragons: World of Warcraft book revolved around whether the 52-year-old tabletop game would bend out of shape to work like a ma",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "即将推出的《龙与地下城》版《魔兽世界》听起来很棒，但别指望它会像原版MMO那样运作",
-      "summaryZh": "在针对即将发行的《龙与地下城：魔兽世界》一书的新闻发布会上，许多问题都围绕着这款已有52年历史的桌面游戏是否会为了适应MMO模式而做出改变"
-    },
-    {
-      "title": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
-      "date": "2026-10-05T16:00:00.000Z",
-      "summary": "The tabletop adaptation of Blizzard's MMO drops next month.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《龙与地下城：魔兽世界》本身已经稳操胜券，但真正让它脱颖而出的是它如何捕捉到MMO的精神内核",
-      "summaryZh": "暴雪MMO的桌面改编版将于下个月推出"
-    },
-    {
       "title": "牌面拉满！米哈游《原神》登上央视：约一半玩家来自海外",
       "link": "https://www.gamersky.com/news/202610/2222060.shtml",
       "date": "2026-10-05T09:44:00.000Z",
@@ -3459,16 +3601,6 @@
       ]
     },
     {
-      "title": "《魔兽世界：无限》复刻许愿任务 开发者称倍感荣幸落泪",
-      "link": "https://www.3dmgame.com/news/202610/3955357.html",
-      "date": "2026-10-05T06:31:36.842Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "《刺客信条：Hexe》大量剧情和角色泄露！摒弃RPG 回归传统线性",
       "link": "https://www.gamersky.com/news/202610/2221672.shtml",
       "date": "2026-10-05T00:22:00.000Z",
@@ -3498,18 +3630,6 @@
       "companies": [
         "ubisoft"
       ]
-    },
-    {
-      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "link": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-      "date": "2026-10-04T10:49:26.000Z",
-      "summary": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "一个OpenAI模型被发现试图在《星际争霸》中作弊，当然，它作弊的方式就是窃取人类的作品。",
-      "summaryZh": "GPT-6 Astra试图通过盗用人类创建的机器人，在暴雪的即时战略游戏中占据优势。"
     },
     {
       "title": "《战地》负责人：我们从不追逐竞争对手 开发更看重玩家反馈",
@@ -3884,16 +4004,6 @@
       "summaryZh": "一份新的开发更新让我们面临的问题比答案还多。"
     },
     {
-      "title": "世界观体验站-王者荣耀官方网站-腾讯游戏",
-      "link": "https://pvp.qq.com/ip/index.html",
-      "date": "2026-09-30T19:36:00.000Z",
-      "summary": "《王者荣耀》是腾讯天美工作室历时3年推出的东方英雄即时对战手游大作，抗塔强杀、团灭超神，领略爽热血竞技的酣畅淋漓！1v1、3v3、闯关等丰富游戏模式，随时战，更自由！跨服匹配秒开局，好友组队战排位，不靠装备、没有等级，更公平、更爽快的无差异对战！",
-      "source": "必应资讯·王者荣耀",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Deadlock 重大更新助力 Valve 旗下 MOBA 英雄射击游戏登顶 Steam 榜单，刷新最高同时在线人数纪录",
       "link": "https://news.17173.com/content/09302026/180828384.shtml",
       "date": "2026-09-30T18:08:28.000Z",
@@ -3950,16 +4060,6 @@
       ],
       "titleZh": "Grasshopper Manufacture与网易游戏分道扬镳",
       "summaryZh": "Grasshopper Manufacture已与如今已不再是母公司的网易游戏分道扬镳，该公司宣布了这一消息。网易游戏……"
-    },
-    {
-      "title": "腾讯又一新作曝光！虚幻5+现代战争超写实",
-      "link": "https://www.gamersky.com/news/202609/2220590.shtml",
-      "date": "2026-09-30T13:05:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "tencent"
-      ]
     },
     {
       "title": "米哈游《源初之结》过审：2026年9月份网络游戏审批信息公布",
@@ -4296,30 +4396,6 @@
       "summaryZh": "EA Sports的新开放世界枢纽让其根基略显不稳，但逼真且直观的战术系统展现出不错的潜力。"
     },
     {
-      "title": "The eyes of Valve's creepy portrait are glowing again",
-      "link": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-      "date": "2026-09-25T22:08:12.000Z",
-      "summary": "It could signal an imminent update.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve那张诡异肖像画的眼睛再次亮了起来。",
-      "summaryZh": "这可能预示着一次即将到来的更新。"
-    },
-    {
-      "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers and It Only Costs $24",
-      "link": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-september-2026",
-      "date": "2026-09-25T19:50:00.000Z",
-      "summary": "Compatible with Windows PC, Android, and Steam Deck.",
-      "source": "IGN",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "8BitDo Ultimate 2C 是最佳PC游戏手柄之一，价格仅需24美元。",
-      "summaryZh": "兼容Windows PC、安卓和Steam Deck。"
-    },
-    {
       "title": "Yes, Beyond Good & Evil 2 Is Somehow Still In Development",
       "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
       "date": "2026-09-25T17:13:13.000Z",
@@ -4480,16 +4556,6 @@
       ]
     },
     {
-      "title": "《刺客信条4：黑旗 记忆重置》PS5豪华版超值优惠！仅219港币",
-      "link": "https://www.gamersky.com/news/202609/2215863.shtml",
-      "date": "2026-09-23T07:58:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "ubisoft"
-      ]
-    },
-    {
       "title": "FC 27 Tactics – Best Formations and Codes",
       "link": "https://www.gamespot.com/articles/fc-27-tactics-best-formations-and-codes/",
       "date": "2026-09-22T22:05:30.000Z",
@@ -4500,40 +4566,6 @@
       ],
       "titleZh": "FC 27战术——最佳阵型与代码",
       "summaryZh": "如果你在EA Sports FC 27的终极球队中投入了不少资源，却依然难以在FUT冠军赛中取得胜利，那可能并不是你的明星阵容拖了后腿。这个模式"
-    },
-    {
-      "title": "Rayman Legends Retold ‘Overview’ trailer",
-      "link": "https://www.gematsu.com/2026/09/rayman-legends-retold-overview-trailer",
-      "date": "2026-09-22T16:07:21.000Z",
-      "summary": "Publisher Ubisoft and developers Ubisoft Montpellier and Ubisoft Milan have released a six-minute game overview &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "《雷曼传奇：重述》“概览”预告片",
-      "summaryZh": "发行商育碧以及育碧蒙彼利埃和育碧米兰的开发团队发布了一段长达六分钟的游戏概览……"
-    },
-    {
-      "title": "Beyond Good and Evil was never worth 20 years of angst",
-      "link": "https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/",
-      "date": "2026-09-22T10:48:10.000Z",
-      "summary": "How did a game so sweet and fleeting become a two-decade sticking point for Ubisoft?",
-      "source": "PC Gamer",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "《超越善恶》根本不值得人们为此焦虑二十年。",
-      "summaryZh": "一款如此甜蜜又短暂的游戏，怎么就变成了育碧长达二十年的心结呢？"
-    },
-    {
-      "title": "育碧开启40周年PC游戏促销 《荣耀战魂》9月28日前免费",
-      "link": "https://www.3dmgame.com/news/202609/3954216.html",
-      "date": "2026-09-22T09:38:07.975Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ubisoft"
-      ]
     },
     {
       "title": "Battlefield Baby",
@@ -5364,26 +5396,6 @@
       "source": "17173",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "还不如《战地6》？《使命召唤：现代战争4》B测Steam多半差评",
-      "link": "https://www.3dmgame.com/news/202608/3951203.html",
-      "date": "2026-08-23T02:22:17.436Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ea"
-      ]
-    },
-    {
-      "title": "《战地6》免费试玩作用不大 Steam最近峰值仅6万出头",
-      "link": "https://www.3dmgame.com/news/202608/3951154.html",
-      "date": "2026-08-22T02:14:00.678Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ea"
       ]
     }
   ]
