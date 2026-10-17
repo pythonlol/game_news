@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-17T05:17:51.641Z",
+  "updatedAt": "2026-10-17T09:01:04.538Z",
   "items": [
+    {
+      "title": "《英雄联盟》全球总决赛：KC横扫MVK，FUR逆转淘汰C9",
+      "link": "https://www.3dmgame.com/news/202610/3956868.html",
+      "date": "2026-10-17T09:01:02.298Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Talking Point: What Are You Playing This Weekend? (17th October)",
+      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
+      "date": "2026-10-17T09:00:00.000Z",
+      "summary": "Leon's Roar. We finally made it to the weekend — well done, everyone! After the silence of last week, things started to pick up in Nintendo news this week. The big hitter was previews going live for O",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "谈话要点：这个周末你玩什么？ (17th October)",
+      "summaryZh": "莱昂的怒吼。我们终于到了周末——大家干得好！经过上周的沉寂后，本周任天堂的新闻开始有所好转。最重要的是 O 的预览版"
+    },
+    {
+      "title": "初代执行制作人批《战争机器：事变日》 马库斯与多姆被边缘化 没为老玩家做游戏",
+      "link": "https://www.gamersky.com/news/202610/2230147.shtml",
+      "date": "2026-10-17T08:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Epic新启动器宣称由AI打造 前Valve编剧指蒂姆·斯威尼暗讽G胖 玩家展开讨论",
+      "link": "https://www.gamersky.com/news/202610/2230140.shtml",
+      "date": "2026-10-17T08:07:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "微软重做PC版Xbox应用：界面转向Xbox主机风格 Windows11游戏性能同步优化",
+      "link": "https://www.gamersky.com/news/202610/2230126.shtml",
+      "date": "2026-10-17T07:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
     {
       "title": "《任天堂明星大乱斗 特别版》选手 Mew2King 因虫咬引发健康担忧被赛事禁赛",
       "link": "https://news.17173.com/content/10172026/060631258.shtml",
@@ -10,6 +62,18 @@
       "companies": [
         "nintendo"
       ]
+    },
+    {
+      "title": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "link": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+      "date": "2026-10-17T06:00:00.000Z",
+      "summary": "[Insert funny Shrek joke here]. Aspyr Media, the team behind the recent Lord of the Rings and Middle-earth ports for Nintendo platforms, has apparently got a remaster of Shrek 2 in the pipeline. This ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "惊喜！ Aspyr 正在重制《怪物史莱克》游戏",
+      "summaryZh": "[在此插入有趣的史莱克笑话]。 Aspyr Media 是最近为任天堂平台移植《指环王》和《中土世界》的团队，显然已经在筹备《怪物史莱克 2》的重制版。这"
     },
     {
       "title": "《塞尔达时之笛》重制版新增支线 细节调整重燃游玩兴趣",
@@ -1636,28 +1700,6 @@
       "summaryZh": "就像那个讨厌的德古拉伯爵一样，恶魔城系列也拒绝死去。传奇吸血鬼猎人西蒙·贝尔蒙特 (Simon Belmont) 首次亮相 40 年后，距离上一部原创 2D 作品罗斯·贝尔蒙 (Rose Belmon) 18 (!)"
     },
     {
-      "title": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
-      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
-      "date": "2026-10-14T15:00:00.000Z",
-      "summary": "Fairy nuff. Believe it or not, The Legend of Zelda: Ocarina of Time on Switch 2 is almost here. We are rapidly closing in on that 5th November release date (Nintendo released a new trailer , just to r",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "综述：《塞尔达传说：时之笛》Switch 2 预览即将上线",
-      "summaryZh": "仙女气。不管你信不信，Switch 2 上的《塞尔达传说：时之笛》即将推出。我们很快就会临近 11 月 5 日的发布日期（任天堂发布了一个新的预告片，只是为了"
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》媒体前瞻汇总：60帧的爽快体验",
-      "link": "https://www.gamersky.com/news/202610/2227995.shtml",
-      "date": "2026-10-14T14:45:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Gran Turismo Limited Edition DualSense Controller announced",
       "link": "https://www.gematsu.com/2026/10/gran-turismo-limited-edition-dualsense-controller-announced",
       "date": "2026-10-14T13:20:42.000Z",
@@ -2603,18 +2645,6 @@
       ]
     },
     {
-      "title": "Gears of War: E-Day Dev Confirms DDoS Attack",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack",
-      "date": "2026-10-12T09:33:07.000Z",
-      "summary": "Gears of War: E-Day suffered a DDoS attack over the weekend, developer The Coalition has said.",
-      "source": "IGN",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 开发者确认 DDoS 攻击",
-      "summaryZh": "开发商 The Coalition 表示，《战争机器：E-Day》在周末遭受了 DDoS 攻击。"
-    },
-    {
       "title": "热点预告：《英雄联盟》S16全球总决赛即将开赛！腾讯旗下《异人之下》手游开启终测！ 剑侠世界4：无限",
       "link": "https://news.17173.com/content/10122026/083743358.shtml",
       "date": "2026-10-12T08:37:43.000Z",
@@ -2632,16 +2662,6 @@
       "source": "17173",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "被XGP害惨？曝《战争机器》新作XBOX仅卖了6.2万份",
-      "link": "https://www.gamersky.com/news/202610/2226253.shtml",
-      "date": "2026-10-12T08:00:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
       ]
     },
     {
@@ -3942,16 +3962,6 @@
       "summaryZh": "育碧扩大了瑞典工作室Massive Entertainment的业务范围——这家工作室曾负责《全境封锁》系列、《星球大战：亡命之徒》和《阿凡达：潘多拉边境》——使其成为育碧旗下第二个重要组成部分。"
     },
     {
-      "title": "亚运《英雄联盟》半决赛中国台北队2比0击败越南队晋级金牌战",
-      "link": "https://www.3dmgame.com/news/202610/3955082.html",
-      "date": "2026-10-01T06:47:52.750Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "9月游戏版号发放：米哈游首款3D写实动作《源初之结》获批",
       "link": "https://www.3dmgame.com/news/202610/3955078.html",
       "date": "2026-10-01T06:47:52.750Z",
@@ -4329,16 +4339,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "Valve发布SteamOS 3.9.2测试版！修复串流及部分游戏运行问题",
-      "link": "https://www.3dmgame.com/news/202609/3954666.html",
-      "date": "2026-09-27T06:09:34.191Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
       ]
     },
     {
