@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-18T05:23:22.181Z",
+  "updatedAt": "2026-10-18T09:20:01.169Z",
   "items": [
+    {
+      "title": "短讯：Riot 在宣传片中揭晓《无畏契约》新决斗者 Hush",
+      "link": "https://news.17173.com/content/10182026/143704976.shtml",
+      "date": "2026-10-18T14:37:04.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "宝可梦开发商Game Freak停更《轮回之兽》 大型更新落幕",
+      "link": "https://www.3dmgame.com/news/202610/3956912.html",
+      "date": "2026-10-18T09:20:01.154Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "微软裁员叫停《光环2》《光环3》重制版：原计划含双手持枪、多人模式与火力战队",
+      "link": "https://www.gamersky.com/news/202610/2230361.shtml",
+      "date": "2026-10-18T08:37:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》预购成绩火爆！超任天堂预期 席卷全球",
+      "link": "https://www.gamersky.com/news/202610/2230328.shtml",
+      "date": "2026-10-18T07:32:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "苹果CEO库克再访米哈游总部 百万粉丝女Coser六二二同学参与接待并晒出同框照",
+      "link": "https://www.gamersky.com/news/202610/2230317.shtml",
+      "date": "2026-10-18T07:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "法国骚乱CS2小蜜蜂总部惨遭零元购 奖杯电脑洗劫一空",
+      "link": "https://www.gamersky.com/news/202610/2230312.shtml",
+      "date": "2026-10-18T06:53:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "valve"
+      ]
+    },
     {
       "title": "玩家吐槽“Secuty”拼写错误及 5 把手枪饰品，战地风云6 开发团队对此做出回应",
       "link": "https://news.17173.com/content/10182026/060643592.shtml",
@@ -32,6 +92,16 @@
       ]
     },
     {
+      "title": "漫威反英雄大作开发中？一听是育碧全都炸了",
+      "link": "https://www.gamersky.com/news/202610/2230300.shtml",
+      "date": "2026-10-18T05:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
       "title": "盖世小鸡官宣《第五人格》女选手桃晚安担任全球代言人！联名手柄即将推出",
       "link": "https://www.gamersky.com/news/202610/2230295.shtml",
       "date": "2026-10-18T03:47:00.000Z",
@@ -59,6 +129,16 @@
       "source": "游民星空",
       "companies": [
         "blizzard"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》新增大师模式：硬核沉浸感拉满",
+      "link": "https://www.gamersky.com/news/202610/2230266.shtml",
+      "date": "2026-10-18T01:27:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
       ]
     },
     {
@@ -977,6 +1057,16 @@
       "summaryZh": "自2026年11月16日起生效。Switch 2和Switch已经受到2026年全球涨价的打击，现在，任天堂宣布将提高日本地区的硬件维修费用。"
     },
     {
+      "title": "《塞尔达》新作",
+      "link": "https://www.gamersky.com/news/202610/2227999.shtml",
+      "date": "2026-10-16T02:30:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
       "title": "任天堂上调日本地区维修价格：11月16日起生效 Switch 2更换主板涨至37400日元",
       "link": "https://www.gamersky.com/news/202610/2228863.shtml",
       "date": "2026-10-16T02:29:00.000Z",
@@ -1580,18 +1670,6 @@
       ]
     },
     {
-      "title": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date",
-      "link": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
-      "date": "2026-10-15T03:05:00.000Z",
-      "summary": "\"Exclusive GoldenEye Suit\" also revealed as a pre-order bonus. James Bond fans who have been patiently waiting for 007 First Light to arrive on Nintendo's new hybrid system will be pleased to hear dev",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《007，你迟到了》——《初见曙光》终于锁定了 Switch 2 的发售日期",
-      "summaryZh": "预购特典中还公开了“专属黄金眼套装”。一直耐心等待《007 曙光》登陆任天堂新混合系统的詹姆斯·邦德粉丝们将会很高兴听到开发者的消息"
-    },
-    {
       "title": "黑客举报PS5破解漏洞 索尼奖励了5万美金！",
       "link": "https://www.gamersky.com/news/202610/2228045.shtml",
       "date": "2026-10-15T02:13:00.000Z",
@@ -1614,26 +1692,6 @@
       "summaryZh": "大家好，今天我们很高兴与大家分享《Gran Turismo》的消息。首先，我们了解了今天《Gran Turismo 7 Spec IV》更新第 1 部分的完整详细信息。另外，我们庆祝 Gran 成立 30 周年"
     },
     {
-      "title": "《塞尔达传说：时之笛 重制版》任天堂官方介绍：新增内容曝光！",
-      "link": "https://www.gamersky.com/news/202610/2228032.shtml",
-      "date": "2026-10-15T01:52:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "美味、节奏、还有与众不同：《Ondeh Ondeh 卡雅的美味奇缘》试玩体验",
-      "link": "https://www.gcores.com/articles/220881",
-      "date": "2026-10-15T01:30:00.000Z",
-      "summary": "在前不久的任天堂发布会上，万代南梦宫公布了一款颇有意思的作品——《Ondeh Ondeh 卡雅的美味奇缘》。暂且不论这个名字该怎么读，光是可爱的角色造型与轻松活泼的整体氛围，就足以吸引不少玩家的目光。而在上个月的万代南梦宫 Pre-TGS 活动上，我提前试玩到了本作约一个小时的内容。 如果要给《Ondeh Ondeh 卡雅的美味奇缘》找一个最直观的形容词，那大概就是“鲜活”。这里没有太多传统奇幻游",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "微软公布Xbox Nano手柄，售价49.99美元起",
       "link": "https://www.gcores.com/articles/220915",
       "date": "2026-10-15T01:20:00.000Z",
@@ -1642,18 +1700,6 @@
       "companies": [
         "xbox"
       ]
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today",
-      "link": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
-      "date": "2026-10-15T01:05:00.000Z",
-      "summary": "Three waves revealed. Nintendo has today announced its new tactical RPG Fire Emblem: Fortune's Weave will be getting an Expansion Pass . This paid DLC for the Switch 2 exclusive is available now on th",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《火焰之纹章：财富》Weave 扩展通行证已公布，第一波今日推出",
-      "summaryZh": "三波显露。任天堂今天宣布其新的战术角色扮演游戏《火焰之纹章：财富的编织》将获得资料片通行证。 Switch 2 独占版的付费 DLC 现已在"
     },
     {
       "title": "AI赋能：Xbox设立全新Xbox Labs团队",
@@ -2640,16 +2686,6 @@
       ],
       "titleZh": "Valve 已经发布了 Steam Frame 的 CAD 文件，但 DIY 腕带和真人大小的骷髅支架的家庭手工业已经出现",
       "summaryZh": "上周，Valve 选择了他们最喜欢的发布时间——周五晚上，我们都回家后——向全世界发布 Steam Frame 的 CAD 文件。简而言之，这个l"
-    },
-    {
-      "title": "无药可救！《战争机器事变日》DEI议程已深入骨髓",
-      "link": "https://www.gamersky.com/news/202610/2226654.shtml",
-      "date": "2026-10-12T14:40:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
     },
     {
       "title": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
@@ -3969,16 +4005,6 @@
       "summaryZh": "Riot Games 的联合创始人、联席主席兼首席产品官马克·梅里尔透露了 2XKO 若想证明其预算合理所需的月度活跃用户数量，这一数字令人瞠目结舌。"
     },
     {
-      "title": "王者荣耀国际服（Honor of Kings） - Google Play 上的应用",
-      "link": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=zh",
-      "date": "2026-10-01T20:54:00.000Z",
-      "summary": "王者荣耀国际服Honor of Kings是腾讯天美工作室开发、Level Infinite发行，是全球最受欢迎的移动MOBA游戏。 体验5V5王者峡谷、公平对决的经典MOBA乐趣；多种战斗模式、从众多英雄中选择，用一血、五杀、超神展示你的统治力，压倒一切竞争！",
-      "source": "必应资讯·王者荣耀",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Steam Deck 2芯片曝光！性能提升巨大 或2028发售",
       "link": "https://www.gamersky.com/news/202610/2220796.shtml",
       "date": "2026-10-01T11:08:00.000Z",
@@ -4275,18 +4301,6 @@
       "summaryZh": "请帮我打开Steam。在当天付费广告横幅、精选和推荐板块下方，你会看到一个名为“折扣与活动”的版块。正如我"
     },
     {
-      "title": "An ode to the loveable, horrible, wonderful Counter-Strike community and my first tournament experience",
-      "link": "https://www.pcgamer.com/hardware/an-ode-to-the-loveable-horrible-wonderful-counter-strike-community-and-my-first-tournament-experience/",
-      "date": "2026-09-29T16:26:53.000Z",
-      "summary": "My first time seeing a CS2 tournament in-person was wonderful.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "致敬可爱又糟糕、精彩绝伦的反恐精英社区，以及我的首次赛事经历",
-      "summaryZh": "我第一次亲临现场观看CS2赛事，真是太美妙了。"
-    },
-    {
       "title": "屡次表明“有人害我们”后，《心之眼》工作室濒临破产，已解雇全部员工",
       "link": "https://www.yystv.cn/p/14460",
       "date": "2026-09-29T16:00:00.000Z",
@@ -4571,16 +4585,6 @@
       ],
       "titleZh": "《彩虹六号：围攻》开发团队谈如何与《GTA 6》竞争，以及为何暂无《围攻2》计划",
       "summaryZh": "Rockstar的《侠盗猎车手6》将于今年11月发售，预计会占据大量时间和关注，这让一些人开始担心其他游戏在它之后的表现。育碧的Joshua Mills表示……"
-    },
-    {
-      "title": "不为《GTA6》让路！《彩虹六号：围攻》第四赛季同期上线",
-      "link": "https://www.3dmgame.com/news/202609/3954326.html",
-      "date": "2026-09-23T09:45:17.663Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "ubisoft"
-      ]
     },
     {
       "title": "米哈游《源初之结》官宣大量情报！不抽卡、首发PC",
