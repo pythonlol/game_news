@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-19T05:41:15.175Z",
+  "updatedAt": "2026-10-19T10:31:15.558Z",
   "items": [
+    {
+      "title": "Cloud9允许无畏契约选手Jackk在合同期内寻求转会可能",
+      "link": "https://news.17173.com/content/10192026/163655467.shtml",
+      "date": "2026-10-19T16:36:55.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "HORI电子陶笛开放预购 支持《塞尔达：时之笛 重制版》联动",
+      "link": "https://www.3dmgame.com/news/202610/3957022.html",
+      "date": "2026-10-19T10:31:15.540Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《沉没之城》豪华版任天堂eShop降至5.19美元",
+      "link": "https://www.3dmgame.com/news/202610/3957011.html",
+      "date": "2026-10-19T10:31:15.540Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "第五人格IVL： DOU5求生者运营思路清晰，完美配合拿下三跑！",
       "link": "https://news.17173.com/content/10192026/095703055.shtml",
@@ -62,6 +92,36 @@
       ]
     },
     {
+      "title": "游戏BUG导致奖杯不跳 玩家先后找了索尼和厂商 收到的都是模板回复",
+      "link": "https://www.gamersky.com/news/202610/2230991.shtml",
+      "date": "2026-10-19T08:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "库克又去了米哈游：一部折叠屏 iPhone，还有一些值得琢磨的见闻",
+      "link": "https://www.gcores.com/articles/221096",
+      "date": "2026-10-19T07:31:54.000Z",
+      "summary": "10月16日下午，蒂姆·库克来到了米哈游上海总部。 这位苹果执行董事长在这里停留了大约30分钟，由米哈游联合创始人刘伟（大伟哥）全程接待。根据现场信息，库克体验了《绝区零》在苹果首款折叠屏手机 iPhone Duo 上的优化表现，还了解了米哈游正在开发的另外两款新作：《星布谷地》与《崩坏：因缘精灵》。 作为受邀到场、见证这次访问的媒体之一，这是我第二次近距离接触蒂姆·库克。很多人习惯将他放在乔布斯",
+      "source": "机核",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "目标钓上1亿条鱼的增量游戏《钓遍海里的鱼》Steam免费试玩版现已上线，预计参加10月新品节",
+      "link": "https://www.gcores.com/articles/221110",
+      "date": "2026-10-19T06:48:05.000Z",
+      "summary": "游戏公司Piisu Inc.宣布，短篇增量钓鱼动作游戏《钓遍海里的鱼（Fish Them All!）》的免费试玩版已于2026年10月 19日在Steam上线。试玩版可体验正式版开头约30~40分钟的游戏内容，支持 Windows / macOS，同时兼容 Steam Deck，并提供日语、英语、简体中文、繁体中文等共14种语言。 <内嵌内容，请前往机核查看> 本作还预计参加于2026年10月20",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
       "title": "《刺猬索尼克4》片长信息现身EIDR条目 或约两小时",
       "link": "https://www.3dmgame.com/news/202610/3956975.html",
       "date": "2026-10-19T05:41:08.884Z",
@@ -109,6 +169,26 @@
       "source": "3DM游戏网",
       "companies": [
         "tencent"
+      ]
+    },
+    {
+      "title": "我们在上海梅奔，见证了2026无畏契约上海全球冠军赛的诞生",
+      "link": "https://www.gamersky.com/news/202610/2230423.shtml",
+      "date": "2026-10-19T05:09:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "五把手枪还有错字？《战地6》疑AI皮肤引玩家不满",
+      "link": "https://www.gamersky.com/news/202610/2230680.shtml",
+      "date": "2026-10-19T04:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ea"
       ]
     },
     {
@@ -303,6 +383,16 @@
       "source": "17173",
       "companies": [
         "ea"
+      ]
+    },
+    {
+      "title": "索尼首度回应PS6定价方针：不亏本补贴硬件",
+      "link": "https://www.gamersky.com/news/202610/2230611.shtml",
+      "date": "2026-10-18T05:58:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
       ]
     },
     {
@@ -1574,28 +1664,6 @@
       "summaryZh": "任天堂和Intelligent Systems 发布了《火焰之纹章：财富的编织》的扩展通行证，从今天开始，一直到 2027 年，为这款战术角色扮演游戏引入了一系列 DLC。阅读"
     },
     {
-      "title": "Nintendo's London Comic-Con Booth Features Playable Layton, Metaphor, 007 & More",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendos-london-comic-con-booth-features-playable-layton-metaphor-007-and-more",
-      "date": "2026-10-15T13:30:00.000Z",
-      "summary": "19 games to try. Nintendo is returning to MCM London Comic-Con later this month from 23rd - 25th October , and it has got quite the roster of playable demos lined up. As shared on the company's social",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂伦敦动漫展展位展示可玩的《雷顿》、《隐喻》、007 等",
-      "summaryZh": "19 款游戏可供尝试。任天堂将于本月晚些时候（10 月 23 日至 25 日）重返 MCM 伦敦动漫展，并提供了大量可玩的演示。正如公司社交媒体上所分享的"
-    },
-    {
-      "title": "狩猎黑夜的时候到了！ 《恶魔城：贝尔蒙特的诅咒》今日推出",
-      "link": "https://www.gcores.com/articles/220959",
-      "date": "2026-10-15T13:00:00.000Z",
-      "summary": "科乐美今日宣布，《恶魔城：贝尔蒙特的诅咒》现已登陆PlayStation 5、Nintendo Switch™、Xbox Series X|S、Xbox on PC及Steam 等平台。手持传说中的圣鞭“吸血鬼杀手”，萝丝‧贝尔蒙特将深入遭受魔物袭击的城市与神秘城堡，猎杀邪恶怪物，拯救巴黎市民免受永恒黑暗的威胁。 本作是由KONAMI、Evil Empire与Motion Twin共同开发、以探索",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
       "link": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
       "date": "2026-10-15T12:30:00.000Z",
@@ -2634,26 +2702,6 @@
       "title": "小岛秀夫现身索尼总部！多情自古伤离别 奈何情未了",
       "link": "https://www.gamersky.com/news/202610/2227054.shtml",
       "date": "2026-10-13T10:58:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "Steam在线创新高 索尼助攻手游萎缩 PC玩家越来越多",
-      "link": "https://www.gamersky.com/news/202610/2227010.shtml",
-      "date": "2026-10-13T09:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "《战神4》太残酷！处决方式引玩家热议",
-      "link": "https://www.gamersky.com/news/202610/2227000.shtml",
-      "date": "2026-10-13T09:21:00.000Z",
       "summary": "",
       "source": "游民星空",
       "companies": [
@@ -3997,26 +4045,6 @@
       ]
     },
     {
-      "title": "金属桌信号干扰险些搞砸《无畏契约》上海冠军赛",
-      "link": "https://www.3dmgame.com/news/202610/3955225.html",
-      "date": "2026-10-03T05:59:49.349Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "欢迎加入《王者荣耀国际服（Honor of Kings）》：全球最多人玩的MOBA手游",
-      "link": "https://www.honorofkings.com/zh-CN/index.html",
-      "date": "2026-10-03T00:27:00.000Z",
-      "summary": "深入「王者荣耀」的奇幻世界中，参与刺激的 5v5 对决。 游戏里的英雄源自神话传说，每位英雄都拥有独特的技能。 加入全球玩家的行列，享受这款考验动作、战术、操作的游戏，您取得的每一场胜利，都将缔造新的传奇。",
-      "source": "必应资讯·王者荣耀",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "Valve's patch note supremacy",
       "link": "https://www.pcgamer.com/gaming-industry/game-development/valves-patch-note-supremacy/",
       "date": "2026-10-02T22:07:36.000Z",
@@ -4373,18 +4401,6 @@
       ],
       "titleZh": "Deadlock最新更新承诺带来6位全新英雄、超过1万条全新语音台词以及更多令人期待的内容，显然Valve仍对其投入颇多。",
       "summaryZh": "从技术上讲，Deadlock还是一款尚未正式发售的游戏，这感觉有点奇怪，不是吗？你甚至不能随便找个没玩过的人来试玩，必须得有已经拥有游戏权限的人才行。"
-    },
-    {
-      "title": "Valve is changing Steam's homepage discounts and events section to go the way of the algorithm to get you to look at, and buy, obviously, more games",
-      "link": "https://www.rockpapershotgun.com/valve-is-changing-steams-homepage-discounts-and-events-section-to-go-the-way-of-the-algorithm-to-get-you-to-look-at-and-buy-obviously-more-games",
-      "date": "2026-09-29T19:09:06.000Z",
-      "summary": "Go ahead and boot up Steam for me. Underneath the ad banner for whoever paid to be there for that day and the featured and recommended sections, you'll find a section titled discounts and events. As i",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve正在调整Steam的首页折扣与活动板块，转向算法推荐模式，以引导你浏览并购买更多游戏。",
-      "summaryZh": "请帮我打开Steam。在当天付费广告横幅、精选和推荐板块下方，你会看到一个名为“折扣与活动”的版块。正如我"
     },
     {
       "title": "屡次表明“有人害我们”后，《心之眼》工作室濒临破产，已解雇全部员工",
@@ -5126,18 +5142,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross Says",
-      "link": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says",
-      "date": "2026-09-07T22:25:49.000Z",
-      "summary": "EA Sports is using generative AI to create voiceover for its in-game commentators in NHL 27, according to veteran sports commentator John Buccigross.",
-      "source": "IGN",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "NHL 27将采用AI生成的解说配音，资深体育评论员约翰·布奇格罗斯透露",
-      "summaryZh": "根据资深体育评论员约翰·布奇格罗斯透露，EA Sports正在使用生成式AI为NHL 27的游戏解说员制作配音。"
     },
     {
       "title": "无影无踪，核周报9.5",

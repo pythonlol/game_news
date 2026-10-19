@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T05:41:15.175Z",
+  "updatedAt": "2026-10-19T10:31:15.558Z",
   "sources": [
     {
       "name": "Xbox Wire",
@@ -12,17 +12,22 @@
       "count": 20
     },
     {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "必应资讯·腾讯",
+      "status": "ok",
+      "count": 9
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -32,7 +37,7 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
+      "name": "必应资讯·Xbox",
       "status": "ok",
       "count": 10
     },
@@ -42,19 +47,19 @@
       "count": 10
     },
     {
-      "name": "GameSpot",
-      "status": "ok",
-      "count": 15
-    },
-    {
       "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "IGN",
+      "name": "GameSpot",
       "status": "ok",
-      "count": 20
+      "count": 15
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
     },
     {
       "name": "Eurogamer",
@@ -62,9 +67,9 @@
       "count": 100
     },
     {
-      "name": "PC Gamer",
+      "name": "IGN",
       "status": "ok",
-      "count": 50
+      "count": 20
     },
     {
       "name": "Rock Paper Shotgun",
@@ -82,9 +87,14 @@
       "count": 20
     },
     {
-      "name": "PlayStation Blog",
+      "name": "游民星空",
       "status": "ok",
-      "count": 10
+      "count": 103
+    },
+    {
+      "name": "游研社",
+      "status": "ok",
+      "count": 12
     },
     {
       "name": "机核",
@@ -97,19 +107,9 @@
       "count": 36
     },
     {
-      "name": "游研社",
-      "status": "ok",
-      "count": 12
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 95
-    },
-    {
       "name": "17173",
       "status": "ok",
-      "count": 25
+      "count": 24
     }
   ]
 }
