@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-10-20T09:48:46.556Z",
+  "updatedAt": "2026-10-21T05:41:49.579Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
     },
     {
       "name": "Xbox Wire",
@@ -27,17 +22,17 @@
       "count": 10
     },
     {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
     {
       "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 6
-    },
-    {
-      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -57,11 +52,6 @@
       "count": 15
     },
     {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "Eurogamer",
       "status": "ok",
       "count": 100
@@ -77,14 +67,29 @@
       "count": 20
     },
     {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "Rock Paper Shotgun",
+      "name": "游民星空",
       "status": "ok",
-      "count": 100
+      "count": 95
     },
     {
       "name": "游研社",
@@ -92,24 +97,19 @@
       "count": 12
     },
     {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 36
-    },
-    {
       "name": "机核",
       "status": "ok",
       "count": 20
     },
     {
+      "name": "3DM游戏网",
+      "status": "ok",
+      "count": 37
+    },
+    {
       "name": "17173",
       "status": "ok",
       "count": 25
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 103
     }
   ]
 }
