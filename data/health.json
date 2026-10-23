@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-10-22T09:50:43.436Z",
+  "updatedAt": "2026-10-23T05:43:08.558Z",
   "sources": [
-    {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
@@ -17,14 +12,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·王者荣耀",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·腾讯",
       "status": "ok",
       "count": 9
+    },
+    {
+      "name": "必应资讯·王者荣耀",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "必应资讯·网易",
@@ -37,19 +32,19 @@
       "count": 10
     },
     {
-      "name": "必应资讯·暴雪",
+      "name": "必应资讯·原神",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·原神",
+      "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 0
+      "count": 10
     },
     {
-      "name": "GameSpot",
+      "name": "必应资讯·暴雪",
       "status": "ok",
-      "count": 15
+      "count": 10
     },
     {
       "name": "IGN",
@@ -57,9 +52,24 @@
       "count": 20
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "GameSpot",
+      "status": "ok",
+      "count": 15
+    },
+    {
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
+    },
+    {
+      "name": "Eurogamer",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
     },
     {
       "name": "PC Gamer",
@@ -72,24 +82,9 @@
       "count": 20
     },
     {
-      "name": "Rock Paper Shotgun",
-      "status": "ok",
-      "count": 100
-    },
-    {
-      "name": "Eurogamer",
-      "status": "ok",
-      "count": 100
-    },
-    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "游研社",
-      "status": "ok",
-      "count": 12
     },
     {
       "name": "机核",
@@ -97,19 +92,24 @@
       "count": 20
     },
     {
-      "name": "17173",
-      "status": "ok",
-      "count": 24
-    },
-    {
       "name": "游民星空",
       "status": "ok",
-      "count": 99
+      "count": 102
     },
     {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 38
+      "count": 39
+    },
+    {
+      "name": "游研社",
+      "status": "ok",
+      "count": 12
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 25
     }
   ]
 }
