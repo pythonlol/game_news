@@ -1,6 +1,408 @@
 {
-  "updatedAt": "2026-10-27T10:12:58.104Z",
+  "updatedAt": "2026-10-28T06:36:16.852Z",
   "items": [
+    {
+      "title": "凯恩·帕森斯称正致力于三个“梦想项目”，引发与 Valve 合作的猜测。",
+      "link": "https://news.17173.com/content/10282026/080713105.shtml",
+      "date": "2026-10-28T08:07:13.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "《魔兽世界：无限》开放角色创建 符合条件可预留3个名字",
+      "link": "https://www.3dmgame.com/news/202610/3958072.html",
+      "date": "2026-10-28T06:35:52.263Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "米哈游泄密人员被判赔100万元！非法获取解包测试版",
+      "link": "https://www.gamersky.com/news/202610/2236335.shtml",
+      "date": "2026-10-28T06:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "米哈游《源初之结》BOSS设定图首曝!山海经猪头神兽",
+      "link": "https://www.gamersky.com/news/202610/2236293.shtml",
+      "date": "2026-10-28T04:36:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "mihoyo"
+      ]
+    },
+    {
+      "title": "Pocketpair：乐意让《幻兽帕鲁》登陆NS2",
+      "link": "https://www.gcores.com/articles/221563",
+      "date": "2026-10-28T03:28:28.000Z",
+      "summary": "开发商 Pocketpair 首席执行官沟部拓郎表示，团队乐意让《幻兽帕鲁》在 Nintendo Switch 2 发售，并希望未来能与任天堂展开讨论。据悉，Pocketpair 非常喜欢 NS2。此前受限于硬件性能，《幻兽帕鲁》无法登陆第一代 Switch ，但 Switch 2 的性能已不再是障碍。只要 Pocketpair 愿意投入精力进行移植，本作未来完全有可能在该主机上推出。 沟部拓郎提",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《神探狗狗：汪者归来》现已全平台发售",
+      "link": "https://www.gcores.com/articles/221558",
+      "date": "2026-10-28T02:28:33.000Z",
+      "summary": "由 Mindscape 与 Floor 84 联合打造的《神探狗狗：汪者归来》今日正式发售，登陆 Nintendo Switch、Steam、Xbox Series X|S、Xbox One 及 PlayStation 4/5 平台。这是一款适合全家人一起玩的横版平台动作游戏。 <内嵌内容，请前往机核查看> 在这场全新冒险中，与神探狗狗和他的超级伙伴团并肩作战 一头扎进神探狗狗的漫画世界，开启这场",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《影之刃零》预售85万份!老外:没发售就秒了战争机器",
+      "link": "https://www.gamersky.com/news/202610/2236161.shtml",
+      "date": "2026-10-28T02:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "(For Southeast Asia) PlayStation 11.11 Power Deals returns from 30 October to 12 November 2026",
+      "link": "https://blog.playstation.com/2026/10/27/20261028-sale/",
+      "date": "2026-10-28T02:01:10.000Z",
+      "summary": "PlayStation 11.11 Power Deals returns to Singapore, Malaysia, Thailand, Indonesia and Vietnam from 30th October to 12th November 2026, with discounts on PS5 peripherals and disc versions of PS5 games ",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "（针对东南亚）PlayStation 11.11 Power Deals将于2026年10月30日至11月12日回归",
+      "summaryZh": "PlayStation 11.11 Power Deals 将于 2026 年 10 月 30 日至 11 月 12 日重返新加坡、马来西亚、泰国、印度尼西亚和越南，为 PS5 外设和 PS5 游戏光盘版提供折扣"
+    },
+    {
+      "title": "Kane Parsons Says He Is Working on Three 'Dream Projects,' Leading to Speculation Over Valve Collaboration",
+      "link": "https://www.ign.com/articles/kane-parsons-says-he-is-working-on-three-dream-projects-leading-to-speculation-over-valve-collaboration",
+      "date": "2026-10-27T22:18:57.000Z",
+      "summary": "Backrooms director Kane Parsons says he is working on three different \"dream projects,\" which has led to speculation over a collaboration with Valve.",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "凯恩·帕森斯表示他正在致力于三个“梦想项目”，引发了对 Valve 合作的猜测",
+      "summaryZh": "Backrooms 总监凯恩·帕森斯 (Kane Parsons) 表示，他正在开发三个不同的“梦想项目”，这引发了人们对与 Valve 合作的猜测。"
+    },
+    {
+      "title": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
+      "link": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
+      "date": "2026-10-27T20:00:00.000Z",
+      "summary": "World of Warcraft: Forever's character creation and name reservations are now live, letting you save some time on launch day by making your characters now rather than on launch day. To access name res",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "您现在就可以制作您的《魔兽世界：永远》角色并准备发布",
+      "summaryZh": "《魔兽世界：永远》的角色创建和名称预订现已上线，您可以在发布当天而不是在发布当天创建角色，从而节省一些时间。访问名称资源"
+    },
+    {
+      "title": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
+      "link": "https://www.pcgamer.com/gaming-industry/former-halo-boss-is-now-in-charge-of-wizards-of-the-coast-and-hasbro-digital-games/",
+      "date": "2026-10-27T19:48:09.000Z",
+      "summary": "Dan Ayoub joined WotC in 2024 and previously served as the company's SVP of digital games.",
+      "source": "PC Gamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "前 Halo 老板现在负责 Wizards of the Coast 和 Hasbro Digital Games",
+      "summaryZh": "Dan Ayoub 于 2024 年加入 WotC，此前曾担任该公司数字游戏高级副总裁。"
+    },
+    {
+      "title": "Official WoW: Forever AMV Will Get You Super Hyped",
+      "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
+      "date": "2026-10-27T19:01:52.000Z",
+      "summary": "World of Warcraft: Forever is almost here, and in case players weren't already excited to return to classic Azeroth, a new animated music video highlighting the war between the Horde and the Alliance ",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "魔兽世界官方：Forever AMV 绝对让你兴奋不已",
+      "summaryZh": "《魔兽世界：永远》即将到来，如果玩家还没有兴奋地回到经典艾泽拉斯，可以观看一段新的动画音乐视频，重点介绍部落和联盟之间的战争"
+    },
+    {
+      "title": "Play One of the Highest-Rated Call of Duty Games Ever Today",
+      "link": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/",
+      "date": "2026-10-27T18:00:00.000Z",
+      "summary": "The post Play One of the Highest-Rated Call of Duty Games Ever Today appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "立即畅玩迄今为止收视率最高的《使命召唤》游戏之一",
+      "summaryZh": "这篇文章《今天玩史上收视率最高的使命召唤游戏之一》首先出现在 XBOX Wire 上。"
+    },
+    {
+      "title": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories",
+      "link": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+      "date": "2026-10-27T18:00:00.000Z",
+      "summary": "Prelude of Light. At the time of writing, we're just nine days from one of the most anticipated remakes ever released. Ocarina of Time holds a special place in many a gamer's heart - and that goes for",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "社区：塞尔达即将到来，我们想听听您的时光记忆之笛",
+      "summaryZh": "光的前奏。在撰写本文时，距有史以来最受期待的重制版之一发布仅剩九天时间。 《时之笛》在许多游戏玩家心中占有特殊的地位 - 这也是如此"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced is wrapping things up with one last big update that adds in new game plus and a throwback to the original game",
+      "link": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-is-wrapping-things-up-with-one-last-big-update-that-adds-in-new-game-plus-and-a-throwback-to-the-original-game",
+      "date": "2026-10-27T17:58:44.000Z",
+      "summary": "Assassin's Creed Black Flag Resynced is setting sail for quieter pastures. That's because the game's last big update arrived today, with Ubisoft explaining that there are only plans for quality-of-lif",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "《刺客信条：黑旗重新同步》正在以最后一次重大更新来结束一切，其中添加了新游戏以及对原始游戏的回归",
+      "summaryZh": "《刺客信条：黑旗》重新同步版正在向更安静的牧场启航。这是因为游戏的最后一次重大更新今天发布，育碧解释说只有生活质量的计划"
+    },
+    {
+      "title": "World of Warcraft: Forever – “WARPATH” AMV Launch Trailer",
+      "link": "https://www.gamespot.com/videos/world-of-warcraft-forever-warpath-amv-launch-trailer/",
+      "date": "2026-10-27T17:33:29.000Z",
+      "summary": "Alliance. Horde. War. Rally your party and brave the wilds of World of Warcraft: Forever on Nov 4 with a WoW Subscription or game time. Made in partnership with Brunch Studio. “End of You” Performed b",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界：永远》——“WARPATH”AMV 发布预告片",
+      "summaryZh": "联盟。部落。战争。 11 月 4 日，通过《魔兽世界》订阅或游戏时间，集结您的队伍，勇敢地面对《魔兽世界：永远》的荒野。与早午餐工作室合作制作。 《你的终结》演出"
+    },
+    {
+      "title": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?",
+      "link": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
+      "date": "2026-10-27T17:00:00.000Z",
+      "summary": "It's an Indie World, we're just living in it. What's that? Your backlog is already looking too long and you haven't even added Zelda: Ocarina of Time to it yet? Tough luck! An Indie World Showcase is ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "话题：任天堂独立世界预测 - 您希望看到什么？",
+      "summaryZh": "这是一个独立世界，我们只是生活在其中。那是什么？您的待办事项看起来已经太长了，而且您甚至还没有添加《塞尔达传说：时之笛》？运气不好！独立世界展示是"
+    },
+    {
+      "title": "Dungeons & Dragons: World of Warcraft's class designer 'crammed as much' of the MMO into it so that even veteran tabletop players can experience something new",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcrafts-class-designer-crammed-as-much-of-the-mmo-into-it-so-that-even-veteran-tabletop-players-can-experience-something-new/",
+      "date": "2026-10-27T16:12:10.000Z",
+      "summary": "The upcoming book introduces dozens of new subclasses, spells, and more to D&D's ruleset.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《龙与地下城》：《魔兽世界》的职业设计师“将尽可能多的”MMO 内容融入其中，这样即使是资深桌游玩家也能体验到新的东西",
+      "summaryZh": "即将出版的书介绍了数十个新的子类、咒语以及 D&D 规则集的更多内容。"
+    },
+    {
+      "title": "任天堂将于10月28日举行最新一期“独立世界”节目",
+      "link": "https://www.gcores.com/articles/221551",
+      "date": "2026-10-27T16:02:00.000Z",
+      "summary": "任天堂美国于日前宣布，将于10月28日上午7时（北京时间10月28日晚10时）举行最新一期“独立世界”节目。据悉，本次直播节目专注于即将在 Nintendo Switch 发售的各种有趣独立游戏，时长约15分钟。",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
+      "link": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
+      "date": "2026-10-27T16:00:43.000Z",
+      "summary": "We’ve just launched Dune: Awakening on PlayStation 5, but we’re only getting started. We’re excited to bring two more of our open-world survival adventures to PlayStation 5 in early 2027. Soar the ski",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "Aloft 和 Conan Exiles 增强版将于 2027 年初在 PS5 上推出",
+      "summaryZh": "我们刚刚在 PlayStation 5 上推出了《沙丘：觉醒》，但我们才刚刚开始。我们很高兴能在 2027 年初将另外两款开放世界生存冒险游戏带到 PlayStation 5。"
+    },
+    {
+      "title": "Play Minecraft on Your Nintendo Switch 2 Today!",
+      "link": "https://www.minecraft.net/en-us/article/play-minecraft-on-nintendo-switch-2#new_tab",
+      "date": "2026-10-27T16:00:00.000Z",
+      "summary": "The post Play Minecraft on Your Nintendo Switch 2 Today! appeared first on XBOX Wire .",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "立即在您的 Nintendo Switch 2 上玩《我的世界》！",
+      "summaryZh": "今天就在你的 Nintendo Switch 2 上玩 Minecraft（我的世界）吧！首先出现在 XBOX Wire 上。"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Nintendo Switch Sports Resort?",
+      "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-nintendo-switch-sports-resort",
+      "date": "2026-10-27T16:00:00.000Z",
+      "summary": "He shoots, he scores. Nintendo Switch Sports Resort is here. With 12 different sports, a surprising amount of single-player content and vastly improved character customisation, the latest series entry",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "民意调查：您会给 Nintendo Switch 运动度假村打多少分？",
+      "summaryZh": "他投篮，他得分。任天堂 Switch 运动度假村就在这里。最新系列作品包含 12 种不同的运动项目、数量惊人的单人游戏内容以及大幅改进的角色定制"
+    },
+    {
+      "title": "Where Winds Meet’s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
+      "link": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
+      "date": "2026-10-27T15:01:34.000Z",
+      "summary": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game’s first global anniversary update. Markin",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "《风声鹤唳》高潮迭起的《滹沱战场》叙事主线揭晓，11 月 13 日上映",
+      "summaryZh": "今天，我们很自豪地揭晓《风向交汇》迄今为止最高潮的叙事线：滹沱，这是一个庞大的新区域，将于 11 月 13 日与游戏的首次全球周年更新同时推出。马尔金"
+    },
+    {
+      "title": "Roblox users have made a playable version of Counter-Strike and full, working PlayStation games that you can play right now",
+      "link": "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run",
+      "date": "2026-10-27T15:01:29.000Z",
+      "summary": "Multiple remakes of beloved games including Counter Strike, The Simpsons: Hit and Run, and Super Hot , are available to play on Roblox right now. These have not been uploaded by the original game's cr",
+      "source": "Eurogamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Roblox 用户已经制作了可玩版本的《反恐精英》以及完整的、可运行的 PlayStation 游戏，您现在就可以玩",
+      "summaryZh": "包括《反恐精英》、《辛普森一家：打了就跑》和《Super Hot》在内的多个热门游戏的重制版现已可以在 Roblox 上畅玩。这些还没有被原游戏的cr上传"
+    },
+    {
+      "title": "Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long",
+      "link": "https://www.eurogamer.net/nintendo-new-indie-world-showcase-october-28",
+      "date": "2026-10-27T14:06:39.000Z",
+      "summary": "It's been a bumper year for Nintendo, with the likes of and Pok&eacute;mon Pokopia kicking off 2026 in a very strong way for the company, and more recently with games like Fire Emblem and Nintendo Swi",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂将于明天举办新的独立世界展示会，展示 Switch 和 Switch 2 的游戏，时长 15 分钟",
+      "summaryZh": "对于任天堂来说，今年是丰收的一年，《精灵宝可梦 Pokopia》等游戏以非常强劲的方式为该公司拉开了 2026 年的序幕，最近还有《火焰纹章》和《Nintendo Swi》等游戏"
+    },
+    {
+      "title": "Nintendo Indie World Showcase set for October 28",
+      "link": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
+      "date": "2026-10-27T14:04:39.000Z",
+      "summary": "Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂独立世界展示会将于 10 月 28 日举行",
+      "summaryZh": "任天堂将于太平洋时间 10 月 28 日上午 7:00 举办独立世界展示会 / …"
+    },
+    {
+      "title": "Terrible Lizards dev discusses twisting familiar dinosaur designs, out Oct 29",
+      "link": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/",
+      "date": "2026-10-27T14:00:38.000Z",
+      "summary": "When I founded WDR Studios with my colleagues, the goal was simple: make the kind of games that we’d want to play. I wanted to apply the lessons I’d learned from years of managing a successful YouTube",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "《可怕的蜥蜴》开发者讨论扭曲熟悉的恐龙设计，将于 10 月 29 日推出",
+      "summaryZh": "当我和同事创立 WDR Studios 时，目标很简单：制作我们想玩的游戏。我想运用多年来管理成功的 YouTube 所学到的经验教训"
+    },
+    {
+      "title": "Nintendo Indie World Showcase Announced For Tomorrow, 28th October 2026",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-indie-world-showcase-announced-for-tomorrow-28th-october-2026",
+      "date": "2026-10-27T13:58:00.000Z",
+      "summary": "Here we go! Nintendo has announced an Indie World showcase airing tomorrow, Wednesday 28th October . As revealed on Nintendo Today! , the showcase kicks off at 2pm GMT , with \"approximately 15 minutes",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂独立世界展示会将于明天（2026 年 10 月 28 日）举行",
+      "summaryZh": "开始了！任天堂宣布将于明天（10 月 28 日星期三）举办独立世界展示会。正如《任天堂今日》所披露的那样！ ，展示会于格林尼治标准时间下午 2 点开始，“大约 15 分钟"
+    },
+    {
+      "title": "The sound of Saros: Building an audio identity for Carcosa",
+      "link": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
+      "date": "2026-10-27T13:01:26.000Z",
+      "summary": "When we started working on Saros, we knew we had an interesting challenge ahead of us. We had established a very distinctive audio identity with Returnal, and Housemarque gave us a clear direction fro",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "Saros 之声：为 Carcosa 打造音频身份",
+      "summaryZh": "当我们开始研究 Saros 时，我们知道我们面临着一个有趣的挑战。我们与 Returnal 建立了非常独特的音频标识，Housemarque 为我们提供了明确的方向"
+    },
+    {
+      "title": "Dark Messiah's new edition adds co-op, cut content and console-exclusive maps to the 20-year-old orc-kicking extravaganza, and it's coming to Steam this year",
+      "link": "https://www.pcgamer.com/games/rpg/dark-messiahs-new-edition-adds-co-op-cut-content-and-console-exclusive-maps-to-the-20-year-old-orc-kicking-extravaganza-and-its-coming-to-steam-this-year/",
+      "date": "2026-10-27T12:11:37.000Z",
+      "summary": "The Community Edition was created by fans and modders, with support from Ubisoft and Valve.",
+      "source": "PC Gamer",
+      "companies": [
+        "ubisoft",
+        "valve"
+      ],
+      "titleZh": "《黑暗弥赛亚》的新版本为这款已有 20 年历史的兽人踢击盛宴增添了合作、剪辑内容和主机独占地图，并将于今年登陆 Steam",
+      "summaryZh": "社区版是由粉丝和改装者在育碧和 Valve 的支持下创建的。"
+    },
+    {
+      "title": "神人育碧！把玩家拍的脚部片做成了游戏饰品",
+      "link": "https://www.gamersky.com/news/202610/2236026.shtml",
+      "date": "2026-10-27T11:38:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
+      ]
+    },
+    {
+      "title": "Half-Life: Alyx patch adds foveated rendering support a mere 6 years after the game's release",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/half-life-alyx-patch-adds-foveated-rendering-support-a-mere-6-years-after-the-games-release/",
+      "date": "2026-10-27T11:13:22.000Z",
+      "summary": "Just took launching a VR headset with eye tracking for Valve to add it.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《半条命：Alyx》补丁在游戏发布仅 6 年后就添加了注视点渲染支持",
+      "summaryZh": "Valve 刚刚推出了一款带有眼动追踪功能的 VR 头显来添加它。"
+    },
+    {
+      "title": "黑客两周破解NS2！吓得任天堂紧急下架相关内容",
+      "link": "https://www.gamersky.com/news/202610/2236032.shtml",
+      "date": "2026-10-27T11:11:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it",
+      "link": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
+      "date": "2026-10-27T11:04:11.000Z",
+      "summary": "Even with the importance of physical media ownership in the current era of digital product ephemera, it's often unlikely your PC will actually be able to play the CDs, DVDs or Blu-Rays you have around",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "在用户向 Valve 请求一天后，Steam Frame 内核更新为兼容外部 CD-ROM 驱动器",
+      "summaryZh": "尽管物理媒体所有权在当前数字产品瞬息万变的时代非常重要，但您的 PC 通常不太可能真正能够播放您周围的 CD、DVD 或蓝光光盘"
+    },
+    {
+      "title": "Pokémon Unite closing down for good, but you'll still be able to use it afterwards, sort of",
+      "link": "https://www.eurogamer.net/pokemon-unite-closing-date",
+      "date": "2026-10-27T10:56:34.000Z",
+      "summary": "That's it for Pok&eacute;mon Unite . Tencent 's once-popular MOBA is being switched off in March 2027. The Pok&eacute;mon Company announced the news today, saying: \"We regret to inform you that servic",
+      "source": "Eurogamer",
+      "companies": [
+        "tencent",
+        "nintendo"
+      ],
+      "titleZh": "《神奇宝贝联盟》永久关闭，但之后你仍然可以使用它，有点像",
+      "summaryZh": "这就是 Pokémon Unite 的内容。腾讯曾经风靡一时的 MOBA 游戏将于 2027 年 3 月关停。神奇宝贝公司今天宣布了这一消息，并表示：“我们很遗憾地通知您，该服务"
+    },
     {
       "title": "《逆水寒》2.3.4版本10月30日上线，新增“大富翁”玩法",
       "link": "https://www.3dmgame.com/news/202610/3957975.html",
@@ -81,6 +483,16 @@
       "source": "游民星空",
       "companies": [
         "sony"
+      ]
+    },
+    {
+      "title": "《龙之信条2：黑暗觉者》突然更新！专为任天堂玩家",
+      "link": "https://www.gamersky.com/news/202610/2235895.shtml",
+      "date": "2026-10-27T08:04:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
       ]
     },
     {
@@ -232,6 +644,18 @@
       ],
       "titleZh": "（针对东南亚）Crunchyroll 面向印度尼西亚、马来西亚和泰国的 PS5 和 PS4 用户推出",
       "summaryZh": "我们很高兴地告诉大家，动漫迷的全球终极目的地 Crunchyroll 已面向印度尼西亚、马来西亚和泰国的 PlayStation 5 和 PlayStation 4 用户推出。动漫迷们"
+    },
+    {
+      "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+      "date": "2026-10-27T01:55:00.000Z",
+      "summary": "Update: Avenging Spirit, Mole Mania & Revenge of the 'Gator are now available. : Following a Switch Online update last week adding three GBA titles , Nintendo has today announced it's adding three mor",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂通过另外三款游戏扩展了 Switch Online 的 Game Boy 库",
+      "summaryZh": "更新：《复仇之魂》、《鼹鼠狂热》和《鳄鱼的复仇》现已推出。 ：继上周 Switch Online 更新添加三款 GBA 游戏后，任天堂今天宣布将添加三款以上游戏"
     },
     {
       "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
@@ -1380,16 +1804,6 @@
       "summaryZh": "欢迎来到 XBOX 下周！在本周的专题中，我们将介绍即将在 XBOX 系列 X|S、XBOX One、PC 上的 XBOX 和 Game Pass 上推出的所有游戏！在下面获取有关这些即将推出的游戏的更多详细信息并点击"
     },
     {
-      "title": "《塞尔达时之笛》重制评级出炉！10岁青少年都能玩",
-      "link": "https://www.gamersky.com/news/202610/2234173.shtml",
-      "date": "2026-10-23T13:11:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Genshin Impact Version version 7.2 update ‘Hour of Ruin’ launches November 4",
       "link": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
       "date": "2026-10-23T12:56:55.000Z",
@@ -1424,16 +1838,6 @@
       ],
       "titleZh": "《幻刃零》还没有上市，但它可能会成为“今年的突破性热门游戏之一”，因为它仅在 Steam 上就卖出了 50 万份副本",
       "summaryZh": "中国动作游戏《幻刃零》的表现似乎已经超越了 Steam 上的《战争机器：E-Day》和《控制共鸣》等大型游戏，尽管距离发布还有几天时间。阅读更多"
-    },
-    {
-      "title": "《女神异闻录４ Revival》“伊格尔”“玛格丽特”“玛丽”以及“天鹅绒房间”介绍公开",
-      "link": "https://www.gcores.com/articles/221407",
-      "date": "2026-10-23T12:30:00.000Z",
-      "summary": "世嘉宣布，ATLUS新作RPG《女神异闻录４ Revival》的登场角色“伊格尔”“玛格丽特”“玛丽”，以及主角可造访的特殊空间“天鹅绒房间”的详细信息现已公开。本作将于2027年2月18日登陆XBOX Series X|S、Windows、XBOX Game Pass、PlayStation 5、Steam平台；Nintendo Switch 2 版预计于2027年5月20日发售。 《女神异闻录",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
     },
     {
       "title": "All Genshin Impact 7.2 livestream codes",
@@ -1472,16 +1876,6 @@
       "summaryZh": "醒来吧。 《半条命 3》的讨论再次出现。这次是因为，在一场有关电子游戏声音的小组讨论会进行了大约一个小时后，一位 Valve 作曲家说出了三封令人惊讶的信件。 HLX。在一个"
     },
     {
-      "title": "宝可梦井盖首次落地群马县！5款原创设计覆盖五地",
-      "link": "https://www.3dmgame.com/news/202610/3957611.html",
-      "date": "2026-10-23T09:45:00.752Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "三角洲行动好友交易规则及正规交易方式指南",
       "link": "https://www.3dmgame.com/news/202610/3957606.html",
       "date": "2026-10-23T09:45:00.752Z",
@@ -1502,16 +1896,6 @@
       ]
     },
     {
-      "title": "英国退休人士阁楼藏宝可梦卡牌拍出156万英镑创纪录！",
-      "link": "https://www.3dmgame.com/news/202610/3957599.html",
-      "date": "2026-10-23T09:45:00.752Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "Steam测试版重整HDR串流 Steam Deck重新进入支持范围",
       "link": "https://www.3dmgame.com/news/202610/3957592.html",
       "date": "2026-10-23T09:45:00.752Z",
@@ -1522,16 +1906,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛》重制版补上原版内容！28年前差点就有",
-      "link": "https://www.gamersky.com/news/202610/2233956.shtml",
-      "date": "2026-10-23T09:22:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "网传《星际争霸2》将重置！暴雪组建团队中",
       "link": "https://www.gamersky.com/news/202610/2233937.shtml",
       "date": "2026-10-23T09:16:00.000Z",
@@ -1539,28 +1913,6 @@
       "source": "游民星空",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
-      "link": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-      "date": "2026-10-23T09:00:00.000Z",
-      "summary": "Limited-time freebie. Hitman: Absolution - Nintendo Switch 2 Edition finally snuck onto the new console earlier this week, and it's free to all those who own the game on Switch 1! At least, it's free ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "PSA：《杀手：赦免》的 Switch 2 升级路径目前免费，但动作要快！",
-      "summaryZh": "限时免费。 《杀手：赦免》- Nintendo Switch 2 版终于在本周早些时候登陆了新游戏机，并且对所有在 Switch 1 上拥有该游戏的玩家免费！至少，它是免费的"
-    },
-    {
-      "title": "《塞尔达》新作实机来了 多座经典迷宫全面升级",
-      "link": "https://www.gamersky.com/news/202610/2233889.shtml",
-      "date": "2026-10-23T08:56:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1624,26 +1976,6 @@
       ]
     },
     {
-      "title": "NS2破解惨遭新进展！任天堂防了没用 还有其他方案",
-      "link": "https://www.gamersky.com/news/202610/2233774.shtml",
-      "date": "2026-10-23T06:47:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "任天堂宫本茂获颁文化勋章 分享游戏文化与生成式AI看法",
-      "link": "https://www.3dmgame.com/news/202610/3957551.html",
-      "date": "2026-10-23T05:42:29.315Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "PS5、NS2接连惨遭破解！索尼老任安全防护变小丑？",
       "link": "https://www.gamersky.com/news/202610/2233693.shtml",
       "date": "2026-10-23T04:00:00.000Z",
@@ -1664,28 +1996,6 @@
       ]
     },
     {
-      "title": "以动漫为灵感的合作冒险游戏《轨道双子星》限时折扣开启",
-      "link": "https://www.gcores.com/articles/221385",
-      "date": "2026-10-23T03:25:00.000Z",
-      "summary": "近期登陆 Nintendo Switch 2 的双人合作游戏《轨道双子星》，其数字豪华版即日起在 Nintendo eShop 限时八折优惠，有意入手的玩家可前往购买。 自9月初发售以来，《轨道双子星》便广受全球粉丝与评论家好评。该作灵感源自80年代和90年代经典动漫，非对称合作玩法引人入胜，音画表现惊艳。 《轨道双子星》现已独家登陆 Nintendo Switch 2，数字版与实体版同步发售，玩",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
-      "link": "https://www.nintendolife.com/news/2026/10/switch-2-supposedly-jailbroken-via-software-only-exploit",
-      "date": "2026-10-23T02:55:00.000Z",
-      "summary": "Nintendo responds by delisting a Switch title. Nintendo appears to have removed the programming software SmileBASIC 4 from the eShop following the supposed discovery of a Switch 2 jailbreak. The \"soft",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Switch 2 疑似通过纯软件漏洞越狱",
-      "summaryZh": "任天堂的回应是下架一款 Switch 游戏。在据称发现 Switch 2 越狱后，任天堂似乎已从 eShop 中删除了编程软件 SmileBASIC 4。的“软"
-    },
-    {
       "title": "米哈游新作《星布谷地》公测前瞻特别节目官宣！11月1日正式开启",
       "link": "https://www.gamersky.com/news/202610/2233645.shtml",
       "date": "2026-10-23T02:49:00.000Z",
@@ -1693,16 +2003,6 @@
       "source": "游民星空",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "《饿狼传说：群狼之城》Nintendo Switch™ 2版今日(10月22日)正式发售!",
-      "link": "https://www.gamersky.com/news/202610/2233644.shtml",
-      "date": "2026-10-23T02:49:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -3021,28 +3321,6 @@
       ]
     },
     {
-      "title": "XBOX 再次回归核聚变！四款游戏现场试玩，Nano 口袋手柄抢先体验",
-      "link": "https://www.gcores.com/articles/221119",
-      "date": "2026-10-20T04:00:00.000Z",
-      "summary": "核聚变游戏嘉年华北京站即将开幕，热门新游试玩、精彩舞台活动、限定周边收集、沉浸式体验最热烈的玩家氛围！10 月 24、25 日，我们首钢国际会展中心见！ <获取2026北京核聚变门票> GGG游戏节奏联欢夜为北京核聚变游戏嘉年华期间举办的夜间音乐演出活动，如需购买GGG核聚变联票，请前往GGG购票页面。 <获取GGG x 核聚变联票> XBOX 再次回归核聚变！此次将为大家带来《战争机器：事变日》",
-      "source": "机核",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
-      "title": "The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack",
-      "link": "https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack/",
-      "date": "2026-10-19T22:23:07.000Z",
-      "summary": "The post The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "使命召唤捐赠基金 (C.O.D.E.) 推出《Forged in Valor》系列，探索《Valor》包的制作过程",
-      "summaryZh": "使命召唤捐赠基金 (C.O.D.E.) 展示了《Valor》系列中的 Forged，《Valor Pack 制作一探究竟》一文首先出现在 XBOX Wire 上。"
-    },
-    {
       "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "date": "2026-10-19T21:38:26.000Z",
@@ -3077,28 +3355,6 @@
       ],
       "titleZh": "魔兽世界：永远在翱翔，但午夜在挣扎",
       "summaryZh": "《魔兽世界：永远》因其广受欢迎的测试版和即将推出的产品而蒸蒸日上，但相比之下，零售版《魔兽世界》的午夜扩展包感觉正处于危机状态。两个不同的版本"
-    },
-    {
-      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
-      "link": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/",
-      "date": "2026-10-19T18:00:00.000Z",
-      "summary": "The post Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "准备发布：《现代战争 4》的所有操作员、武器、装备和多人游戏一流功能",
-      "summaryZh": "帖子“准备发布：所有《现代战争 4》操作员、武器、装备和多人创建一流功能”首先出现在 XBOX Wire 上。"
-    },
-    {
-      "title": "王者荣耀国际服（Honor of Kings） - Google Play 上的应用",
-      "link": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=zh",
-      "date": "2026-10-19T16:58:00.000Z",
-      "summary": "王者荣耀国际服Honor of Kings是腾讯天美工作室开发、Level Infinite发行，是全球最受欢迎的移动MOBA游戏。 体验5V5王者峡谷、公平对决的经典MOBA乐趣；多种战斗模式、从众多英雄中选择，用一血、五杀、超神展示你的统治力，压倒一切竞争！",
-      "source": "必应资讯·王者荣耀",
-      "companies": [
-        "tencent"
-      ]
     },
     {
       "title": "为了身心健康，“姐夫”彻底和《守望先锋》断联了五年",
@@ -3239,16 +3495,6 @@
       ]
     },
     {
-      "title": "游戏BUG导致奖杯不跳 玩家先后找了索尼和厂商 收到的都是模板回复",
-      "link": "https://www.gamersky.com/news/202610/2230991.shtml",
-      "date": "2026-10-19T08:25:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "库克又去了米哈游：一部折叠屏 iPhone，还有一些值得琢磨的见闻",
       "link": "https://www.gcores.com/articles/221096",
       "date": "2026-10-19T07:31:54.000Z",
@@ -3266,16 +3512,6 @@
       "source": "机核",
       "companies": [
         "valve"
-      ]
-    },
-    {
-      "title": "《刺猬索尼克4》片长信息现身EIDR条目 或约两小时",
-      "link": "https://www.3dmgame.com/news/202610/3956975.html",
-      "date": "2026-10-19T05:41:08.884Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3321,28 +3557,6 @@
       "summaryZh": "《战地》工作室在《战地 6》第 5 季皮肤上发现“安全”拼写错误后，粉丝指责该工作室使用人工智能生成化妆品，对此做出了回应。阅读更多"
     },
     {
-      "title": "God of War Laufey's £130 Collector Box doesn't come with the game",
-      "link": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
-      "date": "2026-10-18T14:47:02.000Z",
-      "summary": "God of War Laufey's Collector Box will cost &pound;129.99 and will not include the game. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "战神 Laufey 的 130 英镑收藏盒不随游戏一起提供",
-      "summaryZh": "《战神》Laufey 的收藏盒售价为 129.99 英镑，不包含游戏。阅读更多"
-    },
-    {
-      "title": "微软裁员叫停《光环2》《光环3》重制版：原计划含双手持枪、多人模式与火力战队",
-      "link": "https://www.gamersky.com/news/202610/2230361.shtml",
-      "date": "2026-10-18T08:37:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "苹果CEO库克再访米哈游总部 百万粉丝女Coser六二二同学参与接待并晒出同框照",
       "link": "https://www.gamersky.com/news/202610/2230317.shtml",
       "date": "2026-10-18T07:01:00.000Z",
@@ -3370,26 +3584,6 @@
       "source": "17173",
       "companies": [
         "ea"
-      ]
-    },
-    {
-      "title": "索尼首度回应PS6定价方针：不亏本补贴硬件",
-      "link": "https://www.gamersky.com/news/202610/2230611.shtml",
-      "date": "2026-10-18T05:58:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "专利暗示PS6很可能采用索尼独有的帧生成技术",
-      "link": "https://www.3dmgame.com/news/202610/3956899.html",
-      "date": "2026-10-18T05:23:13.505Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -4054,18 +4248,6 @@
       "summaryZh": "今年早些时候，Garry 的 Mod 和 Rust 开发商 Facepunch Studios 发布了 S&box，它是开源游戏开发平台/Valve 道具填充物理沙盒的精神继承者的组合。它'"
     },
     {
-      "title": "\"You don't listen to the loudest people in the room\" - World of Warcraft: Forever boss discusses how to approach a deluge of feedback",
-      "link": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening",
-      "date": "2026-10-14T09:59:22.000Z",
-      "summary": "World of Warcraft executive producer Holly Longdale has spoken at PAX Australia ahead of World of Warcraft: Forever's imminent release. Of note were her comments on the sheer popularity of the beta an",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "“你不会倾听房间里最吵闹的人的意见” - 《魔兽世界：永远的老板》讨论如何处理大量反馈",
-      "summaryZh": "在《魔兽世界：永远》即将发行之前，《魔兽世界》执行制作人 Holly Longdale 在 PAX Australia 上发表了讲话。值得注意的是她对测试版的绝对受欢迎程度的评论"
-    },
-    {
       "title": "米哈游法务部出击！《原神》4.4泄密案终审 判赔50万",
       "link": "https://www.3dmgame.com/news/202610/3956486.html",
       "date": "2026-10-14T09:55:41.937Z",
@@ -4106,18 +4288,6 @@
       ],
       "titleZh": "如果你想要廉价的历史片段，Valve 正在清理其停产的 Index VR 耳机",
       "summaryZh": "蒸汽框架使拴系的主力变得过时。"
-    },
-    {
-      "title": "World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/",
-      "date": "2026-10-13T20:40:33.000Z",
-      "summary": "You will wait patiently for your next ability and you will learn to love it.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽世界：永远》不会通过将旧职业现代化而被遗忘而摧毁那些让它们如此令人满意的东西：“测试版中发现的机械复杂性水平表明了我们的意图”",
-      "summaryZh": "你会耐心等待你的下一个能力，你会学会爱上它。"
     },
     {
       "title": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated",
@@ -4168,16 +4338,6 @@
       "summaryZh": "育碧似乎拥有一段 YouTube 视频的版权，该视频展示了从《刺客信条：黑旗重新同步》中采集的未使用的尾声过场动画。据报道，未完成的场景由埃德"
     },
     {
-      "title": "《魔兽世界：无限》将保留经典战斗节奏，并为部分职业加入新机制",
-      "link": "https://www.3dmgame.com/news/202610/3956284.html",
-      "date": "2026-10-13T07:19:33.635Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
       "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
       "date": "2026-10-12T22:50:00.000Z",
@@ -4188,30 +4348,6 @@
       ],
       "titleZh": "2 条装 6.6 英尺直角 USB-C 电缆仅需 5 美元（每条电缆仅需 2.50 美元）",
       "summaryZh": "通用电缆非常适合您的 Switch 2、Steam Deck 或 iPhone 18。"
-    },
-    {
-      "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
-      "link": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
-      "date": "2026-10-12T19:15:15.000Z",
-      "summary": "Maybe not, but a cautious optimism has emerged as Blizzard finds opportunities to recapture goodwill.",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "暴雪经典游戏的复兴是否标志着“老暴雪”的回归？",
-      "summaryZh": "也许不是，但随着暴雪找到重新获得商誉的机会，谨慎的乐观情绪已经出现。"
-    },
-    {
-      "title": "Why alts are part of World of Warcraft: Forever's core progression plans",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/why-alts-are-part-of-world-of-warcraft-forevers-core-progression-plans/",
-      "date": "2026-10-12T18:30:38.000Z",
-      "summary": "\"We're basically trying to entice players to want to create new characters, to roll an alt.\"",
-      "source": "PC Gamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "为什么另类是《魔兽世界：永远》核心进度计划的一部分",
-      "summaryZh": "“我们基本上是想吸引玩家创造新角色，推出替代品。”"
     },
     {
       "title": "Valve have released the Steam Frame's CAD files, but there’s already a cottage industry of DIY wrist straps and lifesize skull stands",
@@ -4419,18 +4555,6 @@
       ]
     },
     {
-      "title": "Don't worry, Valve: I've got your next Deadlock character concepts sorted",
-      "link": "https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/",
-      "date": "2026-10-09T19:41:12.000Z",
-      "summary": "The Cursed Apple is ready for Humpty Dumpty and the Loch Ness Monster's Precocious Preteen Child.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "别担心，Valve：我已为你搞定下一个《Deadlock》角色的概念设计了",
-      "summaryZh": "《被诅咒的苹果》已准备好迎接汉普蒂·达姆蒂和尼斯湖水怪那早熟的青春期孩子了。"
-    },
-    {
       "title": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
       "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
       "date": "2026-10-09T16:21:38.000Z",
@@ -4441,30 +4565,6 @@
       ],
       "titleZh": "《战地6》正在加入玩家们从第一天起就渴望的功能",
       "summaryZh": "EA与战地工作室公布了《战地6》即将到来的第五赛季的更多细节，其中包含了一项玩家们从第一天起就渴望的新功能：一个真正意义上的服务器浏览器。战地"
-    },
-    {
-      "title": "Valve is telling devs how well their games actually run on Steam Deck with real world data",
-      "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/",
-      "date": "2026-10-09T15:26:22.000Z",
-      "summary": "Here's hoping devs actually use those figures to improve compatibility.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Valve 正在向开发者们展示他们的游戏在 Steam Deck 上的实际运行表现，数据来自真实世界",
-      "summaryZh": "希望开发者们能真正利用这些数据来提升游戏兼容性。"
-    },
-    {
-      "title": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
-      "link": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
-      "date": "2026-10-09T14:59:39.000Z",
-      "summary": "Now why didn't I think of that for my dissertation?",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "《反恐精英2》玩家将硕士论文献给揪出作弊者，打造了一套顶级玩家追踪系统",
-      "summaryZh": "现在想想，我怎么就没在自己的论文里想到这个点子呢？"
     },
     {
       "title": "上线不到八个月，《彩虹六号手游》宣布停运",
@@ -4543,18 +4643,6 @@
       "summaryZh": "育碧宣布，《彩虹六号：移动版》正式停服，这款游戏的生命周期并不长。该游戏于2023年进行软启动，但在2026年2月才正式面向所有人开放。它将"
     },
     {
-      "title": "Pimax says 'I'll have what Valve's having' as it announces new wireless VR headset, foveated streaming, updated controllers, and long Steam Machine",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr-headset-foveated-streaming-updated-controllers-and-long-steam-machine/",
-      "date": "2026-10-08T16:17:11.000Z",
-      "summary": "Imagine a Steam Machine but taller… yep, you got it.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Pimax表示：“我要来点Valve正在喝的那款”，并宣布推出新款无线VR头显、注视点渲染、升级版手柄以及一款新的Steam Machine",
-      "summaryZh": "想象一下，一台比普通Steam Machine更高的Steam Machine……没错，你猜对了。"
-    },
-    {
       "title": "《实况足球》《原神》《无尽冬日》进入日本银色周手机应用收入榜前十",
       "link": "https://www.3dmgame.com/news/202610/3955674.html",
       "date": "2026-10-08T11:47:02.898Z",
@@ -4563,18 +4651,6 @@
       "companies": [
         "mihoyo"
       ]
-    },
-    {
-      "title": "AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer",
-      "link": "https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer",
-      "date": "2026-10-08T10:24:51.000Z",
-      "summary": "Handheld PC games could be set for a bit of visual spit 'n' shine, as AMD have confirmed plans to bring FSR 4 &ndash; their newest, prettiest upscaling tech &ndash; to the kind of dinky Radeon APUs us",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "AMD 的优秀 FSR 4 超分辨率技术今年将登陆掌上电脑，不过 Steam Deck 的支持可能需要更长时间。",
-      "summaryZh": "掌上电脑游戏或将迎来一波视觉上的焕新升级，因为 AMD 已确认计划将 FSR 4——他们最新、最精美的超分辨率技术——引入到这类小巧的 Radeon APU 中。"
     },
     {
       "title": "肉鸽幸存者刷宝游戏《太吾异世劫》10月15日登陆Steam",
@@ -5051,18 +5127,6 @@
       ]
     },
     {
-      "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "date": "2026-09-26T19:16:49.000Z",
-      "summary": "Microsoft CEO Satya Nadella has praised Xbox's ongoing \"streamlining\" under Xbox CEO Asha Sharma just days after another round of layoffs hit the division. Read more",
-      "source": "Eurogamer",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "微软首席执行官表示，尽管进行了裁员和裁员，Xbox的“精简”仍然“令人高兴”",
-      "summaryZh": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）赞扬了 Xbox 首席执行官阿莎·夏尔马（Asha Sharma）领导下的 Xbox 持续“精简”，就在几天前该部门又一轮裁员。阅读更多"
-    },
-    {
       "title": "外媒发文反驳IGN 称《漫威争锋》真正问题在于平衡性而非代表性缺失",
       "link": "https://www.gamersky.com/news/202609/2217459.shtml",
       "date": "2026-09-26T08:35:00.000Z",
@@ -5071,30 +5135,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "Yes, Beyond Good & Evil 2 Is Somehow Still In Development",
-      "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
-      "date": "2026-09-25T17:13:13.000Z",
-      "summary": "No news is good news, they say. They also say that some news, however little, is good news, too, and girl, do we have some news: Ubisoft's struggling action-adventure game Beyond Good & Evil 2 is stil",
-      "source": "GameSpot",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "是的，《超越善恶2》居然还在开发中呢！",
-      "summaryZh": "人们常说，没有消息就是好消息。他们还说，哪怕是一点点消息，也可能是好消息——天哪，我们还真有消息：育碧那款陷入困境的动作冒险游戏《超越善恶2》居然还在开发中！"
-    },
-    {
-      "title": "After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life",
-      "link": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
-      "date": "2026-09-25T13:36:42.000Z",
-      "summary": "Sound the alarm! Alert your loved ones! Nearly 18 years after its original announcement, Beyond Good & Evil 2 apparently still isn't dead, according to a Ubisoft Bordeaux developer who says he's been ",
-      "source": "Eurogamer",
-      "companies": [
-        "ubisoft"
-      ],
-      "titleZh": "经历近19年的开发坎坷之后，育碧的《超越善恶2》居然还保持着一线生机。",
-      "summaryZh": "警钟长鸣！快提醒你的亲朋好友！距离最初宣布已经近18年，据育碧波尔多的一位开发者透露，《超越善恶2》似乎仍未彻底夭折。"
     },
     {
       "title": "HoYoverse公布《诺杜斯之陨》玩法细节，确认无抽卡并支持合作游玩",
@@ -5377,30 +5417,6 @@
         "mihoyo",
         "ubisoft"
       ]
-    },
-    {
-      "title": "Nodusfall isn't Elden Ring, Monster Hunter or a typical HoYoverse game—it's something very different",
-      "link": "https://www.pcgamer.com/games/action/nodusfall-isnt-elden-ring-monster-hunter-or-a-typical-hoyoverse-game-its-something-very-different/",
-      "date": "2026-08-28T19:46:24.000Z",
-      "summary": "Hands-on with the free-to-play boss-killer.",
-      "source": "PC Gamer",
-      "companies": [
-        "mihoyo"
-      ],
-      "titleZh": "Nodusfall 不是《艾尔登法环》、《怪物猎人》或典型的 HoYoverse 游戏——它是一种截然不同的东西。",
-      "summaryZh": "亲身体验这款免费游玩的 Boss 杀手游戏。"
-    },
-    {
-      "title": "Zenless Zone Zero version 3.2 update ‘Their Secret Histories’ launches September 9",
-      "link": "https://www.gematsu.com/2026/08/zenless-zone-zero-version-3-2-update-their-secret-histories-launches-september-9",
-      "date": "2026-08-28T12:39:24.000Z",
-      "summary": "The version 3.2 update for Zenless Zone Zero, dubbed “Their Secret Histories,” will launch on &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "mihoyo"
-      ],
-      "titleZh": "Zenless Zone Zero 3.2版本更新“他们的秘密历史”将于9月9日上线",
-      "summaryZh": "Zenless Zone Zero的3.2版本更新，名为“他们的秘密历史”，将于……上线"
     }
   ]
 }
