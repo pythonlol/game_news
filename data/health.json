@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-10-29T06:44:33.758Z",
+  "updatedAt": "2026-10-29T11:18:46.370Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 10
     },
     {
       "name": "Xbox Wire",
@@ -22,19 +17,14 @@
       "count": 10
     },
     {
+      "name": "必应资讯·腾讯",
+      "status": "ok",
+      "count": 9
+    },
+    {
       "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·原神",
-      "status": "ok",
-      "count": 13
     },
     {
       "name": "必应资讯·网易",
@@ -47,9 +37,14 @@
       "count": 10
     },
     {
-      "name": "GameSpot",
+      "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 15
+      "count": 10
+    },
+    {
+      "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 9
     },
     {
       "name": "必应资讯·暴雪",
@@ -57,7 +52,22 @@
       "count": 10
     },
     {
+      "name": "GameSpot",
+      "status": "ok",
+      "count": 15
+    },
+    {
+      "name": "PC Gamer",
+      "status": "ok",
+      "count": 50
+    },
+    {
       "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "Gematsu",
       "status": "ok",
       "count": 20
     },
@@ -67,29 +77,14 @@
       "count": 100
     },
     {
-      "name": "PC Gamer",
-      "status": "ok",
-      "count": 50
-    },
-    {
       "name": "Rock Paper Shotgun",
       "status": "ok",
       "count": 100
     },
     {
-      "name": "Gematsu",
-      "status": "ok",
-      "count": 20
-    },
-    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 98
     },
     {
       "name": "机核",
@@ -100,6 +95,11 @@
       "name": "游研社",
       "status": "ok",
       "count": 12
+    },
+    {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 103
     },
     {
       "name": "17173",

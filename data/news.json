@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-10-29T06:44:33.758Z",
+  "updatedAt": "2026-10-29T11:18:46.370Z",
   "items": [
+    {
+      "title": "Aurora Gaming携全明星阵容进军无畏契约",
+      "link": "https://news.17173.com/content/10292026/183708159.shtml",
+      "date": "2026-10-29T18:37:08.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "CRKD Nitro Deck 2降至79.99美元！作者选它备战《塞尔达传说：时之笛重制版》",
+      "link": "https://www.3dmgame.com/news/202610/3958276.html",
+      "date": "2026-10-29T11:18:40.884Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "任天堂Switch 2已通过纯软件漏洞被破解",
+      "link": "https://www.3dmgame.com/news/202610/3957469.html",
+      "date": "2026-10-29T11:18:40.884Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
+      "date": "2026-10-29T10:45:00.000Z",
+      "summary": "Spewpa Duper. The catchily-titled ' Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension ' releases today, and to mark the occasion, The Pokémon Company has launched a new Mystery Gift di",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "神奇宝贝传说：Z-A 的最新神秘礼物分发现已上线",
+      "summaryZh": "斯佩帕·杜珀。标题为“Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension”的游戏今天发布，为了纪念这一时刻，Pokémon Company 推出了一款新的神秘礼物"
+    },
+    {
+      "title": "10月版号现已发布！网易新作 《少女前线》新作过审",
+      "link": "https://www.gamersky.com/news/202610/2237526.shtml",
+      "date": "2026-10-29T10:39:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "netease"
+      ]
+    },
+    {
+      "title": "《影之刃零》Steam Deck基本不能玩！性能不够用了",
+      "link": "https://www.gamersky.com/news/202610/2237522.shtml",
+      "date": "2026-10-29T10:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "valve"
+      ]
+    },
     {
       "title": "月宴秘巡《第五人格》加页手记万圣节活动今日开启！",
       "link": "https://news.17173.com/content/10292026/101514250.shtml",
@@ -9,6 +71,58 @@
       "source": "17173",
       "companies": [
         "netease"
+      ]
+    },
+    {
+      "title": "分析称《死亡搁浅2》Xbox版或将官宣！微软发力了？",
+      "link": "https://www.gamersky.com/news/202610/2237518.shtml",
+      "date": "2026-10-29T10:14:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Phantom Blade Zero Gets Off to a Flyer on Steam, Behind Only Counter-Strike 2 as the Most-Played Game",
+      "link": "https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
+      "date": "2026-10-29T10:10:54.000Z",
+      "summary": "It’s only been out a few hours, but Phantom Blade Zero is already a big hit on Steam, topping the best-selling games chart, and reaching a huge peak concurrent player count of 448,000.",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "《幻刃零》登上 Steam 传单，仅次于《反恐精英 2》成为最受欢迎游戏",
+      "summaryZh": "虽然仅仅发售了几个小时，《幻刃零》就已经在 Steam 上大受欢迎，位居畅销游戏排行榜榜首，同时在线玩家数也达到了 448,000 人的巨大峰值。"
+    },
+    {
+      "title": "曝Xbox使命召唤玩家暴降30%！微软四驱首发最冷门",
+      "link": "https://www.gamersky.com/news/202610/2237425.shtml",
+      "date": "2026-10-29T09:18:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》预载开启！玩家吓坏 怕被破解",
+      "link": "https://www.gamersky.com/news/202610/2237265.shtml",
+      "date": "2026-10-29T07:53:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《刺客信条》官宣大的要来！明日专场 系列最新进展",
+      "link": "https://www.gamersky.com/news/202610/2237117.shtml",
+      "date": "2026-10-29T06:46:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "ubisoft"
       ]
     },
     {
@@ -1266,30 +1380,6 @@
       "summaryZh": "我们很高兴地告诉大家，动漫迷的全球终极目的地 Crunchyroll 已面向印度尼西亚、马来西亚和泰国的 PlayStation 5 和 PlayStation 4 用户推出。动漫迷们"
     },
     {
-      "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-      "date": "2026-10-27T01:55:00.000Z",
-      "summary": "Update: Avenging Spirit, Mole Mania & Revenge of the 'Gator are now available. : Following a Switch Online update last week adding three GBA titles , Nintendo has today announced it's adding three mor",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂通过另外三款游戏扩展了 Switch Online 的 Game Boy 库",
-      "summaryZh": "更新：《复仇之魂》、《鼹鼠狂热》和《鳄鱼的复仇》现已推出。 ：继上周 Switch Online 更新添加三款 GBA 游戏后，任天堂今天宣布将添加三款以上游戏"
-    },
-    {
-      "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-      "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
-      "date": "2026-10-27T00:55:00.000Z",
-      "summary": "Both events have already \"sold out\". Ahead of the launch of Zelda: Ocarina of Time on the Switch 2 next week, Nintendo has officially revealed its midnight launch plans for the New York and San Franci",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂纽约和旧金山商店宣布推出《塞尔达传说：时之笛午夜》",
-      "summaryZh": "两项活动均已“售空”。在下周 Switch 2 上推出《塞尔达：时之笛》之前，任天堂已正式透露了在纽约和旧金山的午夜发布计划"
-    },
-    {
       "title": "《漫威刀锋战士》开发商Arkane Lyon获得额外时间寻找买家",
       "link": "https://www.gcores.com/articles/221513",
       "date": "2026-10-27T00:55:00.000Z",
@@ -1334,18 +1424,6 @@
       "summaryZh": "《魔兽世界：永远》的发布即将到来，但开发商暴雪正在根据测试版反馈，在发布前对游戏的种族能力进行最后一次检查。在论坛po"
     },
     {
-      "title": "The Turtle Beach PlayTrek Nintendo Switch 2 Hard Shell Slim Case Seems Like a Steal for Just $15",
-      "link": "https://www.ign.com/articles/turtle-beach-playtrek-nintendo-switch-2-case-deal-october-2026",
-      "date": "2026-10-26T20:50:00.000Z",
-      "summary": "Cheap insurance.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Turtle Beach PlayTrek Nintendo Switch 2 硬壳超薄保护壳仅需 15 美元",
-      "summaryZh": "便宜的保险。"
-    },
-    {
       "title": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
       "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
       "date": "2026-10-26T20:43:26.000Z",
@@ -1380,18 +1458,6 @@
       ],
       "titleZh": "微软飞行模拟器今日发布本地传奇 26：安东诺夫 An-28！",
       "summaryZh": "微软飞行模拟器今日发布本地传奇 26：安东诺夫 An-28！首先出现在 XBOX Wire 上。"
-    },
-    {
-      "title": "Nintendo's New Switch 2 Ad Is As Wholesome As They Come",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendos-new-switch-2-ad-is-as-wholesome-as-they-come",
-      "date": "2026-10-26T18:30:00.000Z",
-      "summary": "We're not crying, YOU'RE crying. Trust Nintendo to catch you off guard on a Monday morning with a Switch 2 ad so wholesome it brings an actual tear to your eye. The latest from Nintendo UK is exactly ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂的新 Switch 2 广告一如既往地健康",
-      "summaryZh": "我们没哭，是你哭了。相信任天堂会在周一早上让你措手不及，一则 Switch 2 广告如此有益健康，让你热泪盈眶。来自任天堂英国的最新消息正是"
     },
     {
       "title": "Report: Sucker Punch Productions lays off 26 staff",
@@ -3226,16 +3292,6 @@
       ]
     },
     {
-      "title": "腾讯公布开放世界RPG《人间异想计划》 预注册已开启",
-      "link": "https://www.3dmgame.com/news/202610/3957241.html",
-      "date": "2026-10-21T05:41:20.537Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
       "title": "《宝藏世界》2026“暗影之夕”活动开启",
       "link": "https://www.gcores.com/articles/221236",
       "date": "2026-10-21T04:09:54.000Z",
@@ -3400,18 +3456,6 @@
       "summaryZh": "Magenta Down 的设计围绕一个简单的前提：你和你的船员坠毁了，现在分散在一颗严酷、遥远的系外行星的表面。物资有限且周围充满敌意"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 – How to Get Started as an Operator in DMZ",
-      "link": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
-      "date": "2026-10-20T17:00:00.000Z",
-      "summary": "Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4’s new DMZ mode is here! Following the release of Campaign Early Access las",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "使命召唤：现代战争 4 – 如何开始成为 DMZ 中的操作员",
-      "summaryZh": "计划您下次访问 Hajin 在《使命召唤》博客上查看交互式 Hajin DMZ Tac 地图 《使命召唤：现代战争 4》的新 DMZ 模式就在这里！活动抢先体验发布后"
-    },
-    {
       "title": "Overwatch's director discusses why King's Row is so iconic, but admits that 'every single map in the game gets a vote'",
       "link": "https://www.pcgamer.com/games/fps/overwatchs-director-discusses-why-kings-row-is-so-iconic-but-admits-that-every-single-map-in-the-game-gets-a-vote/",
       "date": "2026-10-20T16:44:14.000Z",
@@ -3422,19 +3466,6 @@
       ],
       "titleZh": "《守望先锋》总监讨论了国王大道为何如此具有标志性，但也承认“游戏中的每张地图都有投票权”",
       "summaryZh": "《守望先锋》中最好的地图是什么？为什么是国王大道？"
-    },
-    {
-      "title": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
-      "date": "2026-10-20T16:12:33.000Z",
-      "summary": "Right on schedule, the second wave of games coming to Xbox Game Pass has been revealed. After the first batch, which included Gears of War: E-Day, Battlefield 6, and more, the rest of the month will a",
-      "source": "GameSpot",
-      "companies": [
-        "xbox",
-        "ea"
-      ],
-      "titleZh": "Xbox Game Pass 的最新浪潮以大型最终幻想冒险为主角",
-      "summaryZh": "正如计划中的那样，第二批登陆 Xbox Game Pass 的游戏已经发布。在第一批游戏（包括《战争机器：E-Day》、《战地 6》等）之后，本月剩下的时间将是"
     },
     {
       "title": "European age-ratings body PEGI begins raising age-limit of loot box games, like EA Sports FC, to 16",
@@ -4386,30 +4417,6 @@
       ]
     },
     {
-      "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
-      "date": "2026-10-14T00:42:28.000Z",
-      "summary": "The Steam Frame has rendered the tethered workhorse obsolete.",
-      "source": "PC Gamer",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "如果你想要廉价的历史片段，Valve 正在清理其停产的 Index VR 耳机",
-      "summaryZh": "蒸汽框架使拴系的主力变得过时。"
-    },
-    {
-      "title": "Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated",
-      "link": "https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated",
-      "date": "2026-10-13T20:29:21.000Z",
-      "summary": "You know, given the ubiquity of his work, I'm surprised there aren't more M. C. Escher inspired games in this world There are a few, like Monument Valley , Manifold Garden and Superliminal, amongst a ",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Escher's Dream 是一个 Portal 2 模组，灵感来自这位经典艺术家的非欧几里得作品，只会让你感到有点恶心",
-      "summaryZh": "你知道，考虑到他的作品无处不在，我很惊讶这个世界上没有更多受 M.C. Escher 启发的游戏。其中有一些，例如《纪念碑谷》、《流形花园》和《Superliminal》"
-    },
-    {
       "title": "Battlefield 6 Now Lets You Instantly Unlock All Guns At 100% Mastery For $30",
       "link": "https://www.gamespot.com/articles/battlefield-6-now-lets-you-instantly-unlock-all-guns-at-100-mastery-for-30/",
       "date": "2026-10-13T19:05:04.000Z",
@@ -5143,16 +5150,6 @@
       ]
     },
     {
-      "title": "《荣耀战魂》限免即将截止！育碧送福利 别忘了领",
-      "link": "https://www.gamersky.com/news/202609/2217685.shtml",
-      "date": "2026-09-27T07:59:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "ubisoft"
-      ]
-    },
-    {
       "title": "外媒发文反驳IGN 称《漫威争锋》真正问题在于平衡性而非代表性缺失",
       "link": "https://www.gamersky.com/news/202609/2217459.shtml",
       "date": "2026-09-26T08:35:00.000Z",
@@ -5176,16 +5173,6 @@
       "title": "IGN刊文称《漫威争锋》需要干预 博主反呛：这是在往DEI方向带节奏",
       "link": "https://www.gamersky.com/news/202609/2216943.shtml",
       "date": "2026-09-24T09:33:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
-      "title": "20岁穆欣月出征名古屋亚运会 成中国电竞队唯一女将 将出战《第五人格》",
-      "link": "https://www.gamersky.com/news/202609/2216234.shtml",
-      "date": "2026-09-24T02:16:00.000Z",
       "summary": "",
       "source": "游民星空",
       "companies": [
