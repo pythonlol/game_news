@@ -1,6 +1,205 @@
 {
-  "updatedAt": "2026-10-31T10:43:57.571Z",
+  "updatedAt": "2026-11-01T07:06:16.123Z",
   "items": [
+    {
+      "title": "《使命召唤21：黑色行动6: Modern Warfare 4》在 Nintendo Switch 2 上的输入延迟严重，导致玩家面临“竞争…",
+      "link": "https://news.17173.com/content/11012026/090643691.shtml",
+      "date": "2026-11-01T09:06:43.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "顶级3D马里奥作品《超级马里奥银河》登陆浏览器",
+      "link": "https://www.3dmgame.com/news/202611/3958541.html",
+      "date": "2026-11-01T07:06:02.743Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "传索尼Bend工作室开发第三人称合作游戏 2027年公布并发售",
+      "link": "https://www.3dmgame.com/news/202611/3958533.html",
+      "date": "2026-11-01T07:06:02.743Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "优化内存表现！微软纠偏旧设计 Win11回归原生框架",
+      "link": "https://www.3dmgame.com/news/202611/3958529.html",
+      "date": "2026-11-01T07:06:02.743Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "《英雄联盟》2026全球总决赛八强出炉，最后三个席位确定",
+      "link": "https://www.3dmgame.com/news/202611/3958523.html",
+      "date": "2026-11-01T07:06:02.743Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ]
+    },
+    {
+      "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+      "link": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+      "date": "2026-11-01T05:45:00.000Z",
+      "summary": "Happy Pikmin Day! Nintendo surprised us with a Pikmin -themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the video, here's everything from the broadcast: Read the full ",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "综述：2026 年皮克敏日 - 更新、演示和新动画短片",
+      "summaryZh": "皮克敏日快乐！任天堂本周末以皮克敏为主题的直播给我们带来了惊喜，宣布皮克敏日！如果您还没有观看视频，以下是广播中的所有内容：阅读完整内容"
+    },
+    {
+      "title": "曝战争机器新作销量仅40多万！成本33亿却是这种结果",
+      "link": "https://www.gamersky.com/news/202611/2238557.shtml",
+      "date": "2026-11-01T05:13:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+      "link": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+      "date": "2026-11-01T04:05:48.000Z",
+      "summary": "Another nail in Motorsport's coffin.",
+      "source": "PC Gamer",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "据报道《极限竞速》联合创始人 Dan Greenawalt 将离开微软",
+      "summaryZh": "赛车运动棺材上的又一颗钉子。"
+    },
+    {
+      "title": "差点被当垃圾扔掉！任天堂员工救下的海报拍出220万元",
+      "link": "https://www.gamersky.com/news/202611/2238545.shtml",
+      "date": "2026-11-01T03:26:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "索尼第一方新作曝光！明年就发售 不只有《战神》",
+      "link": "https://www.gamersky.com/news/202611/2238513.shtml",
+      "date": "2026-11-01T01:55:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+      "link": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+      "date": "2026-10-31T23:32:09.000Z",
+      "summary": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Nintendo Switch 2 上的《使命召唤：现代战争 4》输入延迟非常严重，导致玩家遭受“竞争劣势”",
+      "summaryZh": "如果您在 Nintendo Switch 2 上玩《使命召唤：现代战争 4》，请注意：由于比其他平台严重的输入延迟，您在竞争性多人游戏中处于劣势"
+    },
+    {
+      "title": "Gears Of War Should Have Killed Off Marcus Fenix Years Ago",
+      "link": "https://www.gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago/",
+      "date": "2026-10-31T20:00:00.000Z",
+      "summary": "Gears of War is arguably the most masculine property in video games. A franchise founded on the idea of muscular, refrigerator-sized dudes tearing apart stinky underground monsters with badass chainsa",
+      "source": "GameSpot",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "战争机器几年前就应该杀死马库斯·菲尼克斯",
+      "summaryZh": "《战争机器》可以说是电子游戏中最男性化的作品。该系列游戏的理念是，肌肉发达、冰箱大小的家伙用凶猛的链条撕碎臭气熏天的地下怪物"
+    },
+    {
+      "title": "Yacht Club confirms Mina the Hollower was the shot in the arm it needed stay alive—'for now'",
+      "link": "https://www.pcgamer.com/games/adventure/yacht-club-confirms-mina-the-hollower-was-the-shot-in-the-arm-it-needed-stay-alive-for-now/",
+      "date": "2026-10-31T17:41:22.000Z",
+      "summary": "Randomizer and speedrunner settings are up next for the spooky Zelda-like.",
+      "source": "PC Gamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "游艇俱乐部确认“空心者米娜”是它“暂时”生存所需的一针强心剂",
+      "summaryZh": "接下来是类似塞尔达传说的恐怖游戏的随机化器和速通器设置。"
+    },
+    {
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
+      "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
+      "date": "2026-10-31T16:00:00.000Z",
+      "summary": "Dampé my spirits. Would you look at that, we are rapidly closing in on the release date of Ocarina of Time on Switch 2 and the end of my Dungeon Crawl replay of the N64 original . Doesn't time fly? Wi",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "倒计时：塞尔达：时之笛地下城探索 #7 - 深切的期望",
+      "summaryZh": "滋润我的精神。你看一下吗，我们正在迅速接近《时之笛》在 Switch 2 上的发行日期，以及我对 N64 原版《地牢爬行》重播的结束。时间不飞逝吗？无线网络"
+    },
+    {
+      "title": "Nintendo Declares November 1 Is Pikmin Day With A Direct Featuring Game News And Animated Shorts",
+      "link": "https://www.gamespot.com/articles/nintendo-declares-november-1-is-pikmin-day-with-a-direct-featuring-game-news-and-animated-shorts/",
+      "date": "2026-10-31T15:33:17.000Z",
+      "summary": "Nintendo, and especially developer emeritus Shigeru Miyamoto, have been keen to make Pikmin a franchise on par with its other top-tier names like Mario and Zelda. To that end, it has declared November",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂宣布 11 月 1 日为《皮克敏日》，并直接播放游戏新闻和动画短片",
+      "summaryZh": "任天堂，尤其是名誉开发商宫本茂，一直热衷于让《皮克敏》成为一款与《马里奥》和《塞尔达》等其他顶级游戏相媲美的系列游戏。为此，它宣布 11 月"
+    },
+    {
+      "title": "热火朝天，核周报 10.31",
+      "link": "https://www.gcores.com/radios/221134",
+      "date": "2026-10-31T15:00:00.000Z",
+      "summary": "本期时间轴制作：佟和 本期要闻：​《影之刃零》发售掀起无暇热潮；《使命召唤：现代战争 4》完整版上线收获较好反响；微软为Arkane Lyon的买家搜寻期延长一个月时间；EA 关闭BioWare引起玩家抵制活动；任天堂 新一期Indie World 公布多款游戏消息及上线时间等。",
+      "source": "机核",
+      "companies": [
+        "nintendo",
+        "xbox"
+      ]
+    },
+    {
+      "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+      "link": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+      "date": "2026-10-31T14:26:26.000Z",
+      "summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂公布惊喜皮克敏日直播",
+      "summaryZh": "任天堂在皮克敏日上惊喜地推出了任天堂直面会，因为它显然已经决定现在就这么做。"
+    },
+    {
+      "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
+      "date": "2026-10-31T14:15:00.000Z",
+      "summary": "Yes, Pikmin Day. Surprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day. As of this year, Nintendo is officially referring to 1st November a",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂直接放弃惊喜“皮克敏日”",
+      "summaryZh": "是的，皮克敏日。惊喜！任天堂在皮克敏日举办了任天堂直面演示。是的，没错，皮克敏日。从今年开始，任天堂正式将 11 月 1 日定为"
+    },
     {
       "title": "meco1e宣布从无畏契约职业赛场退役",
       "link": "https://news.17173.com/content/10312026/113645121.shtml",
@@ -1063,28 +1262,6 @@
       ]
     },
     {
-      "title": "任天堂Switch 2已通过纯软件漏洞被破解",
-      "link": "https://www.3dmgame.com/news/202610/3957469.html",
-      "date": "2026-10-29T11:18:40.884Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
-      "link": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-      "date": "2026-10-29T10:45:00.000Z",
-      "summary": "Spewpa Duper. The catchily-titled ' Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension ' releases today, and to mark the occasion, The Pokémon Company has launched a new Mystery Gift di",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "神奇宝贝传说：Z-A 的最新神秘礼物分发现已上线",
-      "summaryZh": "斯佩帕·杜珀。标题为“Pokémon Legends: Z-A - Nintendo Switch 2 Edition + Mega Dimension”的游戏今天发布，为了纪念这一时刻，Pokémon Company 推出了一款新的神秘礼物"
-    },
-    {
       "title": "10月版号现已发布！网易新作 《少女前线》新作过审",
       "link": "https://www.gamersky.com/news/202610/2237526.shtml",
       "date": "2026-10-29T10:39:00.000Z",
@@ -1147,16 +1324,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛 重制版》预载开启！玩家吓坏 怕被破解",
-      "link": "https://www.gamersky.com/news/202610/2237265.shtml",
-      "date": "2026-10-29T07:53:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《刺客信条》官宣大的要来！明日专场 系列最新进展",
       "link": "https://www.gamersky.com/news/202610/2237117.shtml",
       "date": "2026-10-29T06:46:00.000Z",
@@ -1164,36 +1331,6 @@
       "source": "游民星空",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "PSA恢复宝可梦卡牌Value鉴定服务 单卡费用涨至39.99美元",
-      "link": "https://www.3dmgame.com/news/202610/3958224.html",
-      "date": "2026-10-29T06:43:46.141Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《宝可梦传说 Z-A》原声上线Nintendo Music，收录114首曲目",
-      "link": "https://www.3dmgame.com/news/202610/3958234.html",
-      "date": "2026-10-29T06:43:46.140Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《鬼灭之刃 火之神血风谭2 NS2版+ 角色通行证》今日发售",
-      "link": "https://www.gcores.com/articles/221631",
-      "date": "2026-10-29T06:23:30.000Z",
-      "summary": "世嘉宣布，由Aniplex制作的主机游戏《鬼灭之刃 火之神血风谭2 Nintendo Switch™ 2 Edition + 角色通行证》已于今日（10月29日）正式发售。 《鬼灭之刃 火之神血风谭2 Nintendo Switch™ 2 Edition + 角色通行证》，是全世界累计销量超过600万份的杀鬼对战动作游戏《鬼灭之刃 火之神血风谭》系列最新作——《鬼灭之刃 火之神血风谭2》的Nint",
-      "source": "机核",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -1209,16 +1346,6 @@
       "summaryZh": "索尼互动娱乐日本亚洲将于 12 月举办 PlayStation 合作伙伴奖 2026 日本亚洲..."
     },
     {
-      "title": "骑上小轮车去送信！《狸狸：胖哒的夏日》定档11月10日",
-      "link": "https://www.gcores.com/articles/221630",
-      "date": "2026-10-29T06:05:47.000Z",
-      "summary": "由京都团队Denkiworks开发、CRITICAL REFLEX发行的开放世界小轮车送信冒险游戏《狸狸：胖哒的夏日》正式定档11月10日。这款骑着小轮车送包裹的游戏将登陆Steam、Nintendo Switch、XBOX Series X|S、XBOX Game Pass与XBOX on PC，并首次公开Nintendo Switch 2、PlayStation 5与PlayStation 4",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《影之刃零》Steam在线榜第二！强势逼近《CS2》",
       "link": "https://www.gamersky.com/news/202610/2237001.shtml",
       "date": "2026-10-29T04:25:00.000Z",
@@ -1229,38 +1356,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说》NS2限定套装发售！新手柄颜值惊艳",
-      "link": "https://www.gamersky.com/news/202610/2236919.shtml",
-      "date": "2026-10-29T03:55:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Palworld Dev Open To Switch 2 Release, If There's Ever An \"Opportunity\"",
-      "link": "https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
-      "date": "2026-10-29T03:30:00.000Z",
-      "summary": "The Pocketpair team thinks it's a \"really amazing platform\". Despite Pocketpair's ongoing legal battle with Nintendo, the developer is apparently open to bringing its monster-taming survival game Palw",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Palworld Dev 开放 Switch 2 发布，如果有“机会”",
-      "summaryZh": "Pocketpair 团队认为这是一个“真正令人惊叹的平台”。尽管 Pocketpair 与任天堂正在进行法律斗争，但开发商显然愿意将其驯服怪物的生存游戏 Palw"
-    },
-    {
-      "title": "像素风巫师生活模拟新游《巫奇魔法学院》发售日官宣定档2027年1月28日",
-      "link": "https://www.gcores.com/articles/221622",
-      "date": "2026-10-29T03:23:22.000Z",
-      "summary": "由 Chucklefish 携手 Robotality 联合打造的，全球备受期待的魔法校园生活模拟题材游戏《巫奇魔法学院》（Witchbrook）正式官宣将于2027年1月28日登陆 PC、Nintendo Switch、Nintendo Switch 2 、PlayStation 5以及Xbox各大主机平台，首发将支持简体中文与繁体中文。与此同时，官方还同步公开了最新的任天堂商店页面。 Stea",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "挥刃破局！国产3A武侠动作游戏《影之刃零》正式发售！",
       "link": "https://www.gcores.com/articles/221610",
       "date": "2026-10-29T02:46:45.000Z",
@@ -1268,16 +1363,6 @@
       "source": "机核",
       "companies": [
         "tencent"
-      ]
-    },
-    {
-      "title": "NS2新破解方案无限期推迟！黑客疑被任天堂重拳出击",
-      "link": "https://www.gamersky.com/news/202610/2238101.shtml",
-      "date": "2026-10-29T02:33:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -3053,16 +3138,6 @@
       ]
     },
     {
-      "title": "多名记者曝《战争机器》成本5亿美元！上PS也难回本",
-      "link": "https://www.gamersky.com/news/202610/2233615.shtml",
-      "date": "2026-10-23T02:18:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "xbox"
-      ]
-    },
-    {
       "title": "《CS2》名将涉嫌严重税务欺诈或被判刑！贴纸害人",
       "link": "https://www.gamersky.com/news/202610/2232145.shtml",
       "date": "2026-10-23T01:58:00.000Z",
@@ -3167,18 +3242,6 @@
       "summaryZh": "在一名开发者提到一个名为“HLX”的项目后，网上人们疯狂地认为 Valve 可能无意中透露了一款新的《半条命》游戏的存在。在S赛上发言"
     },
     {
-      "title": "How More Than 40 New Traits Change Your Strategy in Becastled",
-      "link": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy/",
-      "date": "2026-10-22T19:00:00.000Z",
-      "summary": "In Becastled, we noticed a problem that emerged as players became more familiar with the game. They would find a strategy that worked on almost any level, and once they did, there was much less reason",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Becastled 中的 40 多种新特征如何改变您的策略",
-      "summaryZh": "在《Becastled》中，我们注意到随着玩家对游戏更加熟悉而出现的一个问题。他们会找到一种几乎适用于任何级别的策略，一旦他们这样做了，就没有什么理由了"
-    },
-    {
       "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
       "link": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
       "date": "2026-10-22T18:46:00.000Z",
@@ -3189,30 +3252,6 @@
       ],
       "titleZh": "Valve 开发者错误地提及了传闻中的《半条命 3》代号",
       "summaryZh": "一位 Valve 开发者在最近的一次会议上错误地提及了传闻已久的《半条命 3》代号。"
-    },
-    {
-      "title": "Gears Of War: E-Day Cost Half A Billion To Make, Apparently",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/",
-      "date": "2026-10-22T18:14:08.000Z",
-      "summary": "Multiple new reports claim that the budget for Gears of War: E-Day was $500 million. Both Kotaku and Chris Dring of The Game Business reported today, with Kotaku's report saying the number does not in",
-      "source": "GameSpot",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "战争机器：E-Day 显然花费了 50 亿美元制作",
-      "summaryZh": "多份新报告称《战争机器：E-Day》的预算为 5 亿美元。 Kotaku 和 The Game Business 的 Chris Dring 今天均进行了报道，Kotaku 的报道称该数字并未包含在内。"
-    },
-    {
-      "title": "The Power of PEAK Friendship, Coming to XBOX Today",
-      "link": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today/",
-      "date": "2026-10-22T17:00:00.000Z",
-      "summary": "Hey Scouts! The co-op climbing game PEAK, is officially out today on XBOX Series X|S. A game built on working together with your troop to traverse the various biomes on an island after a crash landing",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《PEAK 友谊的力量》今日登陆 XBOX",
-      "summaryZh": "嘿侦察兵！合作攀登游戏 PEAK 今日在 XBOX Series X|S 上正式发布。一款游戏，在迫降后与你的部队一起穿越岛屿上的各种生物群落"
     },
     {
       "title": "BioWare关停之后：包括重生在内，EA多家工作室同样受裁员波及",
@@ -3293,18 +3332,6 @@
       "summaryZh": "从蒸汽火车到蒸汽痛苦到蒸汽增益。"
     },
     {
-      "title": "Tomb Raider: Legacy of Atlantis – the evolution of Lara Croft’s design",
-      "link": "https://blog.playstation.com/2026/10/22/tomb-raider-legacy-of-atlantis-the-evolution-of-lara-crofts-design/",
-      "date": "2026-10-22T11:59:38.000Z",
-      "summary": "When Lara Croft first leapt onto screens in 1996, she was a few hundred polygons and a fistful of pixels. Thirty years later, Tomb Raider: Legacy of Atlantis reimagines that same adventurer with techn",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《古墓丽影：亚特兰蒂斯的遗产》——劳拉·克劳馥设计的演变",
-      "summaryZh": "1996 年，当劳拉·克劳馥 (Lara Croft) 第一次出现在银幕上时，她只有几百个多边形和一把像素。三十年后，《古墓丽影：亚特兰蒂斯的遗产》用科技重新塑造了同一个冒险家"
-    },
-    {
       "title": "新月飨宴《第五人格》万圣节主题活动今日开启",
       "link": "https://news.17173.com/content/10222026/104525508.shtml",
       "date": "2026-10-22T10:45:25.000Z",
@@ -3334,16 +3361,6 @@
       "source": "3DM游戏网",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "索尼在台推出INZONE H9 II与E9两款全新配色！",
-      "link": "https://www.3dmgame.com/news/202610/3957445.html",
-      "date": "2026-10-22T09:50:36.527Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3614,16 +3631,6 @@
       "date": "2026-10-21T09:49:52.422Z",
       "summary": "",
       "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "腾讯AI游戏陪伴软件预告公开！美少女陪你玩游戏",
-      "link": "https://www.gamersky.com/news/202610/2232732.shtml",
-      "date": "2026-10-21T09:45:00.000Z",
-      "summary": "",
-      "source": "游民星空",
       "companies": [
         "tencent"
       ]
