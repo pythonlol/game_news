@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-02T07:10:51.005Z",
+  "updatedAt": "2026-11-02T13:07:11.394Z",
   "items": [
+    {
+      "title": "被取消的《传送门》前传F-Stop被社区复活 而且还能玩",
+      "link": "https://www.3dmgame.com/news/202611/3958661.html",
+      "date": "2026-11-02T13:07:07.483Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "《战争机器：事变日》开发烧了5亿美元?这里面还包括虚幻5引擎定制费用",
+      "link": "https://www.3dmgame.com/news/202611/3958660.html",
+      "date": "2026-11-02T13:07:07.483Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "没有DLSS！爆料称《塞尔达传说：时之笛》重制版改用FSR 1.0",
+      "link": "https://www.3dmgame.com/news/202611/3958651.html",
+      "date": "2026-11-02T13:07:07.483Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "玩家自制《魔兽世界》Dreamcast移植版！已实现多人运行",
+      "link": "https://www.3dmgame.com/news/202611/3958645.html",
+      "date": "2026-11-02T13:07:07.483Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
     {
       "title": "戴夫·巴蒂斯塔透露为在《战神：诸神黄昏》剧集中饰演奎托斯已增肌20磅",
       "link": "https://news.17173.com/content/11022026/130641932.shtml",
@@ -12,6 +52,42 @@
       ]
     },
     {
+      "title": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
+      "link": "https://www.nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old",
+      "date": "2026-11-02T12:30:00.000Z",
+      "summary": "Links to the past. We love it when Google pulls out a little gaming Easter Egg. We had the inkable search engine screen for Splatoon 3 , the various Pokémon collaborations, and even a Katamari crossov",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "谷歌时之笛复活节彩蛋将带你回到旧时的互联网",
+      "summaryZh": "链接到过去。当谷歌拿出一个小游戏复活节彩蛋时，我们很高兴。我们有 Splatoon 3 的可墨水搜索引擎屏幕、各种 Pokémon 合作，甚至还有 Katamari crossov"
+    },
+    {
+      "title": "The Pokémon Company Is Counting Down To A Mysterious Date On Social Media",
+      "link": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-counting-down-to-a-mysterious-date-on-social-media",
+      "date": "2026-11-02T11:45:00.000Z",
+      "summary": "But what's it for? The Pokémon Company is no stranger to a little over-hyping every now and then, but its latest bit of marketing has us seriously thinking that there is a big announcement in the pipe",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "神奇宝贝公司正在社交媒体上倒计时一个神秘的日期",
+      "summaryZh": "但它有什么用呢？神奇宝贝公司对时不时的过度炒作并不陌生，但其最新的营销让我们认真思考有一个重大公告即将发布"
+    },
+    {
+      "title": "Speedrunner Breaks Super Mario Bros. World Record While Dressed as the Italian Plumber, Now Just 2 Frames From Theoretical Perfect Run",
+      "link": "https://www.ign.com/articles/niftski-breaks-super-mario-bros-world-record",
+      "date": "2026-11-02T11:14:58.000Z",
+      "summary": "Niftski, the speedrunning world record holder for Super Mario Bros., beat his own record on a Halloween livestream while dressed as Mario. Speaking in character, he said: “Hopefully I don’t get this t",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "极速奔跑者装扮成意大利水管工打破《超级马里奥兄弟》世界纪录，距离理论上的完美奔跑仅差 2 帧",
+      "summaryZh": "超级马里奥兄弟的速通世界纪录保持者尼夫茨基在万圣节直播中打扮成马里奥，打破了自己的纪录。在谈到角色时，他说：“希望我不会明白这一点"
+    },
+    {
       "title": "第五人格IVL：GR_Jin高熟练度两局四抓，干脆利落拿下胜利！",
       "link": "https://news.17173.com/content/11022026/110412366.shtml",
       "date": "2026-11-02T11:04:12.000Z",
@@ -20,6 +96,18 @@
       "companies": [
         "netease"
       ]
+    },
+    {
+      "title": "20 years of PlayStation Store – devs share the great games that surprised them most",
+      "link": "https://blog.playstation.com/2026/11/02/20-years-of-playstation-store-devs-share-the-great-games-that-surprised-them-most/",
+      "date": "2026-11-02T11:01:50.000Z",
+      "summary": "For 20 years, PlayStation Store has connected players with games of all shapes and sizes, from blockbuster adventures to indie delights and everything in between. To mark the occasion, we asked develo",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "PlayStation Store 20 周年 - 开发者分享最令他们惊讶的精彩游戏",
+      "summaryZh": "20 年来，PlayStation Store 为玩家提供了各种形式和规模的游戏，从热门冒险游戏到独立游戏以及介于两者之间的一切游戏。为了纪念这一时刻，我们采访了开发者"
     },
     {
       "title": "第五人格IVL：北京WBG双阵营稳健配合，精准博弈锁定胜局！",
@@ -112,6 +200,16 @@
       ]
     },
     {
+      "title": "微软撤资后项目重启：《毁灭战士》之父新作签下全新发行商",
+      "link": "https://www.gcores.com/articles/221815",
+      "date": "2026-11-02T08:46:21.000Z",
+      "summary": "《毁灭战士》与《雷神之锤》创作者、游戏制作人约翰·罗梅罗确认，旗下位于爱尔兰的工作室 Romero Games 已为开发中的第一人称射击游戏寻得新的发行商。该项目在2025年因微软终止发行合同而陷入资金困境，目前已由小型团队恢复开发。据悉，新发行商给予了团队充分的创作自由，并未对游戏内容提出干涉。 2022年，工作室宣布使用虚幻引擎5开发这款全新IP作品。在微软于2025年取消资助后，原先110人",
+      "source": "机核",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
       "title": "热点预告:《三角洲行动》联动《影之刃零》全新刀皮上线！《上古世纪编年史》开启抢先体验 上古世纪编年史 - 三角洲行动 - 影之刃零",
       "link": "https://news.17173.com/content/11022026/084527071.shtml",
       "date": "2026-11-02T08:45:27.000Z",
@@ -129,6 +227,26 @@
       "source": "17173",
       "companies": [
         "mihoyo"
+      ]
+    },
+    {
+      "title": "微软大裁员后 印度裔员工松弛上班视频引争议 网友：如此摸鱼难怪被裁",
+      "link": "https://www.gamersky.com/news/202611/2239297.shtml",
+      "date": "2026-11-02T07:59:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "xbox"
+      ]
+    },
+    {
+      "title": "名越稔洋工作室现已正式解散",
+      "link": "https://www.gcores.com/articles/221810",
+      "date": "2026-11-02T07:37:29.000Z",
+      "summary": "日本政府官报《官报》的公告显示，名越稔洋工作室已于10月31日通过股东会决议正式解散。此前，已资助名越工作室5年的网易在 得知还需要70亿日元（约合3亿人民币）才能完成游戏后 ，决定停止对游戏的投资。 2025年12月，名越工作室公布了以歌舞伎町为背景的动作冒险游戏《龙帮》，由由亚洲动作巨星马东锡饰演的 Shin Ji-seong 担任主角，他是以歌舞伎町为据点的韩国黑帮干部。随着他不断探索新宿街",
+      "source": "机核",
+      "companies": [
+        "netease"
       ]
     },
     {
@@ -1324,50 +1442,6 @@
       ],
       "titleZh": "Woot 的 Nintendo Switch 2“选择你的游戏”捆绑包降至 479 美元，送完即止",
       "summaryZh": "不要等到黑色星期五才购买 Switch 2 主机，立即享受此优惠。"
-    },
-    {
-      "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $55.99 Ahead of Black Friday",
-      "link": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026-updated",
-      "date": "2026-10-30T07:15:00.000Z",
-      "summary": "Switch 2 compatible.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "塞尔达传说版 Nintendo Switch Pro 控制器在黑色星期五之前降至 55.99 美元",
-      "summaryZh": "兼容开关 2。"
-    },
-    {
-      "title": "《缄默祸运》现已登陆主机平台，官宣好莱坞电影改编",
-      "link": "https://www.gcores.com/articles/221699",
-      "date": "2026-10-30T07:11:00.000Z",
-      "summary": "《缄默祸运》现已登陆PlayStation 5、PlayStation 4、Nintendo Switch、XBOX Series X|S、XBOX One及XBOX PC平台，并同步加入XBOX Game Pass（Ultimate、Premium及PC档），订阅用户可免费下载；Steam版限时6折，折后31.2元。这部由Wrong Organ打造、CRITICAL REFLEX发行的第一人称恐",
-      "source": "机核",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "The Official Nintendo Switch 2 Pro Controller Drops to $67.59 at Woot Ahead of Black Friday",
-      "link": "https://www.ign.com/articles/nintendo-switch-2-pro-controller-deal-october-2026",
-      "date": "2026-10-30T06:50:00.000Z",
-      "summary": "I don't think we'll see a better deal during Black Friday.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "黑色星期五前夕，Woot 官方 Nintendo Switch 2 Pro 控制器降至 67.59 美元",
-      "summaryZh": "我认为黑色星期五期间我们不会看到更好的优惠。"
-    },
-    {
-      "title": "《任天堂明星大乱斗》非官方对战网站据称停服，玩家呼吁改善排位",
-      "link": "https://www.3dmgame.com/news/202610/3958398.html",
-      "date": "2026-10-30T06:45:36.662Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
     },
     {
       "title": "暴雪发布《守望先锋》动画短片《狼口夺食》 末日铁拳与斩仇争夺黑爪",
@@ -3001,16 +3075,6 @@
       ]
     },
     {
-      "title": "PS5实体游戏插盘竟要联网更新 玩家怒斥索尼恶心",
-      "link": "https://www.gamersky.com/news/202610/2234453.shtml",
-      "date": "2026-10-25T02:10:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
       "link": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
       "date": "2026-10-24T21:52:00.000Z",
@@ -3203,30 +3267,6 @@
       "summaryZh": "在 EA 突然关闭开发商 BioWare 后，即将推出的以质量效应为主题的联动项目似乎已从《战地 6》中删除。阅读更多"
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 is Live Worldwide — Play Now!",
-      "link": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-is-live-worldwide-play-now/",
-      "date": "2026-10-23T17:01:00.000Z",
-      "summary": "The post Call of Duty: Modern Warfare 4 is Live Worldwide — Play Now! appeared first on XBOX Wire .",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《使命召唤：现代战争 4》已在全球上线 — 立即畅玩！",
-      "summaryZh": "《使命召唤：现代战争 4》现已在全球上线 - 立即畅玩！首先出现在 XBOX Wire 上。"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 – Kill Block is Must-Play Multiplayer at Launch",
-      "link": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
-      "date": "2026-10-23T17:00:00.000Z",
-      "summary": "Hidden inside the West Bridge Advanced Military Training Facility is a complex combat environment where shifting, modular battlegrounds challenge even the most elite Operators, with hundreds of unique",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "《使命召唤：现代战争 4》——Kill Block 是发售时必玩的多人游戏",
-      "summaryZh": "隐藏在西桥高级军事训练设施内的是一个复杂的战斗环境，在这个环境中，不断变化的模块化战场即使是最精锐的干员也会面临挑战，数百个独特的"
-    },
-    {
       "title": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
       "link": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
       "date": "2026-10-23T16:29:06.000Z",
@@ -3257,18 +3297,6 @@
       "companies": [
         "tencent"
       ]
-    },
-    {
-      "title": "Next Week on XBOX: New Games for October 26 to 30",
-      "link": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
-      "date": "2026-10-23T14:00:00.000Z",
-      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and clic",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "下周 XBOX：10 月 26 日至 30 日推出新游戏",
-      "summaryZh": "欢迎来到 XBOX 下周！在本周的专题中，我们将介绍即将在 XBOX 系列 X|S、XBOX One、PC 上的 XBOX 和 Game Pass 上推出的所有游戏！在下面获取有关这些即将推出的游戏的更多详细信息并点击"
     },
     {
       "title": "Genshin Impact Version version 7.2 update ‘Hour of Ruin’ launches November 4",
@@ -4574,16 +4602,6 @@
       ]
     },
     {
-      "title": "《魔兽世界：无限》19号压力测试！所有人无需订阅免费玩",
-      "link": "https://www.gamersky.com/news/202610/2228903.shtml",
-      "date": "2026-10-16T03:08:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
       "link": "https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided",
       "date": "2026-10-15T21:57:59.000Z",
@@ -4684,18 +4702,6 @@
       ],
       "titleZh": "Epic 正在彻底改革其反作弊机制，以便《堡垒之夜》最终能够登陆新平台",
       "summaryZh": "由于 Steam Deck 和 Steam Machine 等设备以及 Windows 持续存在的问题，Linux 上的游戏在过去几年中看起来更具吸引力。其最大的障碍仍然是"
-    },
-    {
-      "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
-      "link": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
-      "date": "2026-10-14T19:17:36.000Z",
-      "summary": "The Steam Frame came out a month ago, and while it is one of the best PCVR headsets, its lenses weren't quite as high-quality as some of its competitors. However, it seems like Valve might be working ",
-      "source": "IGN",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "根据 Datamined 源代码，Valve 可能正在开发 OLED Steam 框架",
-      "summaryZh": "Steam Frame 于一个月前推出，虽然它是最好的 PCVR 耳机之一，但其镜头的质量不如一些竞争对手。然而，Valve 似乎正在工作"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
@@ -4934,16 +4940,6 @@
       "companies": [
         "netease",
         "xbox"
-      ]
-    },
-    {
-      "title": "外媒为《漫威争锋》式DC英雄射击游戏设想七人阵容与战斗定位",
-      "link": "https://www.3dmgame.com/news/202610/3955952.html",
-      "date": "2026-10-10T06:39:46.693Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "netease"
       ]
     },
     {
