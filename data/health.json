@@ -1,18 +1,8 @@
 {
-  "updatedAt": "2026-11-01T11:41:31.484Z",
+  "updatedAt": "2026-11-02T07:10:51.005Z",
   "sources": [
     {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
-    {
       "name": "必应资讯·腾讯",
-      "status": "ok",
-      "count": 9
-    },
-    {
-      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -27,7 +17,17 @@
       "count": 10
     },
     {
+      "name": "必应资讯·王者荣耀",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
       "status": "ok",
       "count": 10
     },
@@ -37,24 +37,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
-      "status": "ok",
-      "count": 11
-    },
-    {
       "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "IGN",
+      "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "name": "GameSpot",
@@ -72,14 +62,19 @@
       "count": 50
     },
     {
+      "name": "Rock Paper Shotgun",
+      "status": "ok",
+      "count": 100
+    },
+    {
       "name": "Gematsu",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "Rock Paper Shotgun",
+      "name": "IGN",
       "status": "ok",
-      "count": 100
+      "count": 20
     },
     {
       "name": "Nintendo Life",
@@ -92,24 +87,29 @@
       "count": 20
     },
     {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "游研社",
       "status": "ok",
       "count": 12
     },
     {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 93
+    },
+    {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 35
+      "count": 36
     },
     {
       "name": "17173",
       "status": "ok",
       "count": 25
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 105
     }
   ]
 }
