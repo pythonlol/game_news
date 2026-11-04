@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-11-04T07:13:27.021Z",
+  "updatedAt": "2026-11-04T12:46:53.266Z",
   "sources": [
-    {
-      "name": "Steam 官方新闻",
-      "status": "ok",
-      "count": 20
-    },
     {
       "name": "Xbox Wire",
       "status": "ok",
@@ -17,14 +12,9 @@
       "count": 10
     },
     {
-      "name": "PlayStation Blog",
+      "name": "Steam 官方新闻",
       "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·网易",
-      "status": "ok",
-      "count": 10
+      "count": 20
     },
     {
       "name": "必应资讯·腾讯",
@@ -32,14 +22,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "PlayStation Blog",
       "status": "ok",
-      "count": 7
+      "count": 10
     },
     {
       "name": "必应资讯·原神",
       "status": "ok",
-      "count": 10
+      "count": 0
     },
     {
       "name": "必应资讯·米哈游",
@@ -50,6 +40,21 @@
       "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 0
+    },
+    {
+      "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "GameSpot",
+      "status": "ok",
+      "count": 15
+    },
+    {
+      "name": "必应资讯·网易",
+      "status": "ok",
+      "count": 10
     },
     {
       "name": "IGN",
@@ -67,11 +72,6 @@
       "count": 50
     },
     {
-      "name": "GameSpot",
-      "status": "ok",
-      "count": 15
-    },
-    {
       "name": "Gematsu",
       "status": "ok",
       "count": 20
@@ -87,14 +87,14 @@
       "count": 20
     },
     {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 100
-    },
-    {
       "name": "机核",
       "status": "ok",
       "count": 20
+    },
+    {
+      "name": "3DM游戏网",
+      "status": "ok",
+      "count": 36
     },
     {
       "name": "游研社",
@@ -102,9 +102,9 @@
       "count": 12
     },
     {
-      "name": "3DM游戏网",
+      "name": "游民星空",
       "status": "ok",
-      "count": 36
+      "count": 102
     },
     {
       "name": "17173",
