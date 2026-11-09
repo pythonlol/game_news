@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:42:28.131Z",
+  "updatedAt": "2026-11-09T07:36:49.485Z",
   "sources": [
     {
       "name": "Steam 官方新闻",
@@ -8,6 +8,11 @@
     },
     {
       "name": "Xbox Wire",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "PlayStation Blog",
       "status": "ok",
       "count": 10
     },
@@ -22,14 +27,19 @@
       "count": 10
     },
     {
-      "name": "必应资讯·米哈游",
-      "status": "ok",
-      "count": 0
-    },
-    {
       "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
+    },
+    {
+      "name": "必应资讯·米哈游",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·暴雪",
+      "status": "ok",
+      "count": 0
     },
     {
       "name": "必应资讯·原神",
@@ -39,22 +49,7 @@
     {
       "name": "必应资讯·Xbox",
       "status": "ok",
-      "count": 7
-    },
-    {
-      "name": "必应资讯·暴雪",
-      "status": "ok",
       "count": 10
-    },
-    {
-      "name": "IGN",
-      "status": "ok",
-      "count": 20
-    },
-    {
-      "name": "Eurogamer",
-      "status": "ok",
-      "count": 100
     },
     {
       "name": "GameSpot",
@@ -62,19 +57,24 @@
       "count": 15
     },
     {
-      "name": "PC Gamer",
-      "status": "ok",
-      "count": 50
-    },
-    {
       "name": "Gematsu",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "PlayStation Blog",
+      "name": "PC Gamer",
       "status": "ok",
-      "count": 10
+      "count": 50
+    },
+    {
+      "name": "Eurogamer",
+      "status": "ok",
+      "count": 100
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
     },
     {
       "name": "Rock Paper Shotgun",
@@ -89,12 +89,7 @@
     {
       "name": "游民星空",
       "status": "ok",
-      "count": 101
-    },
-    {
-      "name": "游研社",
-      "status": "ok",
-      "count": 12
+      "count": 96
     },
     {
       "name": "机核",
@@ -109,7 +104,12 @@
     {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 34
+      "count": 32
+    },
+    {
+      "name": "游研社",
+      "status": "ok",
+      "count": 12
     }
   ]
 }
