@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-09T07:36:49.485Z",
+  "updatedAt": "2026-11-09T13:37:56.172Z",
   "items": [
+    {
+      "title": "知名任天堂博主 Supper Mario Broth 称其生命可能仅剩一年",
+      "link": "https://news.17173.com/content/11092026/201242308.shtml",
+      "date": "2026-11-09T20:12:42.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
     {
       "title": "一名父亲因将6岁熟睡的女儿留在排队购买 宝可梦传说：阿尔宙斯 卡牌的队伍中而被捕。",
       "link": "https://news.17173.com/content/11092026/140731258.shtml",
@@ -10,6 +20,119 @@
       "companies": [
         "nintendo"
       ]
+    },
+    {
+      "title": "《塞尔达：时之笛》重制版或追加“大师任务”付费DLC",
+      "link": "https://www.3dmgame.com/news/202611/3959409.html",
+      "date": "2026-11-09T13:37:47.099Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "索尼日本限定新版PlayStation Portal Player增加内置存储！",
+      "link": "https://www.3dmgame.com/news/202611/3959401.html",
+      "date": "2026-11-09T13:37:47.099Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony",
+        "valve"
+      ]
+    },
+    {
+      "title": "《战神：斯巴达之子》出现PS4版线索！索尼尚未正式确认",
+      "link": "https://www.3dmgame.com/news/202611/3959400.html",
+      "date": "2026-11-09T13:37:47.099Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "小岛秀夫不忘索尼恩情！展示索尼给的引擎源码",
+      "link": "https://www.gamersky.com/news/202611/2243478.shtml",
+      "date": "2026-11-09T13:26:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
+      "link": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
+      "date": "2026-11-09T12:41:00.000Z",
+      "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "前技术总监表示，Rockstar“绝对”考虑将《GTA》的钥匙交给一家日本工作室——“我有名字，但我不会说出来”",
+      "summaryZh": "自古以来，北美和欧洲的发行商就绞尽脑汁想办法让他们的游戏在日本销售，日本是马里奥、索尼克和宝丽莱等神话生物的古老中心地带。"
+    },
+    {
+      "title": "World of Warcraft: Forever bumps dungeon XP from monsters by 50% after some community feedback I will diplomatically call passionate",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate/",
+      "date": "2026-11-09T12:00:26.000Z",
+      "summary": "Back on that grindset.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "在一些社区反馈之后，《魔兽世界：永远》将怪物的地下城 XP 提高了 50%，我会外交地称之为热情的",
+      "summaryZh": "回到那个研磨装置。"
+    },
+    {
+      "title": "Dungeons in World of Warcraft: Forever get a huge XP buff, but power-levellers shouldn't celebrate just yet",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-dungeon-mob-xp-rate-buff",
+      "date": "2026-11-09T11:41:20.000Z",
+      "summary": "World of Warcraft: Forever has received a massive buff to the XP drop-rates of dungeon mobs (enemies), which should make running these instances multiple times feel more rewarding - and may revive an ",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界》中的地下城：永远获得巨大的经验值增益，但力量平衡者还不应该庆祝",
+      "summaryZh": "《魔兽世界：永远》对地下城怪物（敌人）的 XP 掉落率进行了大幅提升，这应该会让多次运行这些实例感觉更有意义 - 并且可能会复活"
+    },
+    {
+      "title": "Father Arrested For Leaving 6-Year-Old Daughter Sleeping In Line For Pokémon Cards",
+      "link": "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards",
+      "date": "2026-11-09T11:00:00.000Z",
+      "summary": "NL used Rage. A 35-year-old South Carolina man has been arrested and accused of leaving his 6-year-old daughter asleep while waiting in line for Pokémon cards. As reported by The Washington Post (than",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "父亲因留下 6 岁女儿在排队领取神奇宝贝卡而被捕",
+      "summaryZh": "NL用的是怒气。一名 35 岁的南卡罗来纳州男子被捕，他被指控在排队领取神奇宝贝卡时让他 6 岁的女儿睡着。据《华盛顿邮报》报道（"
+    },
+    {
+      "title": "Popular Nintendo Blogger Supper Mario Broth Says He May Only Have a Year to Live",
+      "link": "https://www.ign.com/articles/supper-mario-broth-health-condition",
+      "date": "2026-11-09T10:55:22.000Z",
+      "summary": "A popular Nintendo blogger who tells his viewers obscure facts about Super Mario has been hit with serious health conditions, including heart failure. The online personality has vowed to continue runn",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂人气博主 Supper Mario Broth 表示他可能只能活一年",
+      "summaryZh": "一位受欢迎的任天堂博主向观众讲述有关超级马里奥的晦涩事实，他患有严重的健康问题，包括心力衰竭。这位网络名人发誓要继续竞选"
+    },
+    {
+      "title": "Mario's Next 'Adults Welcome' LEGO Set Is \"Hatching Soon\"",
+      "link": "https://www.nintendolife.com/news/2026/11/marios-next-adults-welcome-lego-set-is-hatching-soon",
+      "date": "2026-11-09T10:15:00.000Z",
+      "summary": "It's dino time. Nintendo and LEGO have teased the next entry in their 'Adults Welcome' Mario range, which will see Yoshi step into the limelight. While we haven't seen the full set just yet, a new pos",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "马里奥的下一个“欢迎成人”乐高套装“即将孵化”",
+      "summaryZh": "现在是恐龙时间。任天堂和乐高已经预告了他们的“成人欢迎”马里奥系列的下一款产品，这将使耀西成为众人瞩目的焦点。虽然我们还没有看到全套，但新的 pos"
     },
     {
       "title": "《Petit Planet》：米哈游版的 集合啦！动物森友会，充满魅力且细节考究 | IGN 前瞻",
@@ -29,6 +152,28 @@
       "source": "17173",
       "companies": [
         "tencent"
+      ]
+    },
+    {
+      "title": "UK Charts: Zelda: Ocarina Of Time Is The Second Biggest UK Launch In Franchise History",
+      "link": "https://www.nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history",
+      "date": "2026-11-09T09:30:00.000Z",
+      "summary": "In terms of physical sales, at least. The latest charts data from the UK is in, and as expected, The Legend of Zelda: Ocarina of Time has debuted at the top spot, beating out the likes of Modern Warfa",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "英国排行榜：《塞尔达传说：时之笛》是系列历史上第二大英国发行游戏",
+      "summaryZh": "至少在实体销售方面是这样。来自英国的最新排行榜数据出炉，正如预期的那样，《塞尔达传说：时之笛》首次登上榜首，击败了《现代战争》等游戏"
+    },
+    {
+      "title": "《时之笛重制》不止任天堂打造！背后还有一知名大厂",
+      "link": "https://www.gamersky.com/news/202611/2243334.shtml",
+      "date": "2026-11-09T08:15:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
       ]
     },
     {
@@ -801,26 +946,6 @@
       ]
     },
     {
-      "title": "Pokémon TCG：新扩展包《Delta Reign》中价值最高的10张卡牌",
-      "link": "https://news.17173.com/content/11072026/081005932.shtml",
-      "date": "2026-11-07T08:10:05.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "“Poké Kid” Avery 的父亲恳请 宝可梦传说：阿尔宙斯 公司制作一张集换式卡牌，以纪念他已故的儿子。",
-      "link": "https://news.17173.com/content/11072026/080917585.shtml",
-      "date": "2026-11-07T08:09:17.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "曝《刺客信条：英灵殿》免费大更新提升巨大 画质体验升级",
       "link": "https://www.gamersky.com/news/202611/2242453.shtml",
       "date": "2026-11-07T08:06:00.000Z",
@@ -841,16 +966,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛 重制版》原生PC民间移植！RTX 5090跑51帧",
-      "link": "https://www.gamersky.com/news/202611/2242430.shtml",
-      "date": "2026-11-07T06:57:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "《原神》公布丹妮卡立绘与设定，宫廷女仆长暗中协调各方",
       "link": "https://www.3dmgame.com/news/202611/3959246.html",
       "date": "2026-11-07T06:48:13.580Z",
@@ -858,36 +973,6 @@
       "source": "3DM游戏网",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "玩家从《塞尔达传说：时之笛》重制版改动推测续作或将重制",
-      "link": "https://www.3dmgame.com/news/202611/3959243.html",
-      "date": "2026-11-07T06:48:13.580Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "青沼英二谈《塞尔达传说》团队传承：长期保留核心成员",
-      "link": "https://www.3dmgame.com/news/202611/3959239.html",
-      "date": "2026-11-07T06:48:13.580Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "宝可梦卡牌一卡难求 玩家花三百美元雇人排队抢购",
-      "link": "https://www.3dmgame.com/news/202611/3959235.html",
-      "date": "2026-11-07T06:48:13.580Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -911,16 +996,6 @@
       ]
     },
     {
-      "title": "《时之笛RE》彩蛋或暗示下一部《塞尔达》重制版",
-      "link": "https://www.gamersky.com/news/202611/2242398.shtml",
-      "date": "2026-11-07T06:06:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "外媒：网易这款新作是《GTA6》最大的对手！",
       "link": "https://www.gamersky.com/news/202611/2242392.shtml",
       "date": "2026-11-07T05:13:00.000Z",
@@ -939,18 +1014,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
-      "link": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
-      "date": "2026-11-07T05:00:00.000Z",
-      "summary": "He'll be back at it very soon. Nintendo legend and creative mastermind Shigeru Miyamoto is almost 74, and while he has taken a step back in recent years, he's still quite active within the Japanese vi",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "突发疾病导致宫本错过任天堂的财务简报，但预计他会很快康复",
-      "summaryZh": "他很快就会回来。任天堂传奇人物兼创意大师宫本茂已经快 74 岁了，虽然近年来他有所退步，但他在日本娱乐界仍然相当活跃。"
     },
     {
       "title": "玩家抵制了个寂寞：索尼月活销量双涨 毫无影响",
@@ -2393,26 +2456,6 @@
       ]
     },
     {
-      "title": "“中国之星计划”第四期新增多家战略合作伙伴，单项目将获价值百万美元投资",
-      "link": "https://www.gcores.com/articles/221889",
-      "date": "2026-11-03T11:49:02.000Z",
-      "summary": "2026年11月3日，索尼互动娱乐（上海）有限公司（以下简称“索尼互动娱乐”）今日在上海举办“中国之星计划”发布会，正式宣布该计划第四期项目支持力度再次升级：对每个入选项目进行价值100万美元的项目投资；同时，引入更多战略合作伙伴拓展全球网络，包括DENMU電夢及Solutions 2 GO（以下简称“S2G”），为开发者提供更具针对性的专业服务。 “中国之星计划”第三期重点游戏《绝晓》将获得价值",
-      "source": "机核",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
-      "title": "索尼PS黑五大促重磅官宣！超值优惠好价来袭",
-      "link": "https://www.gamersky.com/news/202611/2240110.shtml",
-      "date": "2026-11-03T11:41:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
-      ]
-    },
-    {
       "title": "《魔兽无限》实体典藏版开箱：矮人与熊经典不灭",
       "link": "https://www.gamersky.com/news/202611/2240106.shtml",
       "date": "2026-11-03T11:26:00.000Z",
@@ -2431,18 +2474,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "PlayStation Store’s Black Friday Deals 2026",
-      "link": "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/",
-      "date": "2026-11-03T11:00:10.000Z",
-      "summary": "This year, PlayStation’s Black Friday Deals kick off early on PlayStation Store! Starting tomorrow, Wednesday November 4, you’ll find deep discounts up to 75% off*, across thousands of PS5, PS4 and PS",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "PlayStation Store 2026 年黑色星期五特惠",
-      "summaryZh": "今年，PlayStation 的黑色星期五特惠活动提前在 PlayStation Store 上拉开帷幕！从明天（11 月 4 日星期三）开始，数千台 PS5、PS4 和 PS 均可享受高达 75% 的大幅折扣*"
     },
     {
       "title": "10月Steam新作近半数披露使用AI",
@@ -3720,16 +3751,6 @@
       ]
     },
     {
-      "title": "Warframe的故事值得体验，以及聊魔兽，录音笔VOL.813",
-      "link": "https://www.gcores.com/radios/221498",
-      "date": "2026-10-28T09:00:00.000Z",
-      "summary": "【录音笔】是GPASS推出的一档会员专享节目，内容来自机核办公室日程生活和工作中的一些短小记录，每期时长十几分钟左右（大概吧）。内容也许是一些不成体统的碎碎念，也许是一些突然发疯的暴言，还有可能是哪个缺德的把办公室里真实的日常对话（dui ma）偷偷录了下来，总之就连我们自己现在也不知道每期会有哪些人参与，会录些什么。",
-      "source": "机核",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "凯恩·帕森斯称正致力于三个“梦想项目”，引发与 Valve 合作的猜测。",
       "link": "https://news.17173.com/content/10282026/080713105.shtml",
       "date": "2026-10-28T08:07:13.000Z",
@@ -3747,16 +3768,6 @@
       "source": "游民星空",
       "companies": [
         "mihoyo"
-      ]
-    },
-    {
-      "title": "《魔兽世界：无限》开放角色创建 符合条件可预留3个名字",
-      "link": "https://www.3dmgame.com/news/202610/3958072.html",
-      "date": "2026-10-28T06:35:52.263Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "blizzard"
       ]
     },
     {
