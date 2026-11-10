@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:51:56.346Z",
+  "updatedAt": "2026-11-10T07:58:50.319Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -848,6 +848,30 @@
     "https://www.gamersky.com/news/202609/2214011.shtml": {
       "reason": "non-game",
       "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11102026/140802771.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.gamersky.com/news/202611/2243867.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.gamersky.com/news/202611/2243827.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.gamersky.com/news/202611/2243819.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.gamersky.com/news/202611/2243756.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit": {
+      "reason": "low-value",
+      "at": "2026-11-10T07:58:50.319Z"
     }
   }
 }

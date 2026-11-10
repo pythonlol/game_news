@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:51:56.346Z",
+  "updatedAt": "2026-11-10T07:58:50.319Z",
   "items": [
     {
       "title": "《塞尔达传说：时之笛 3D》取消了自动跳跃，可怜的林克正为此付出代价。",
@@ -3757,6 +3757,76 @@
       "titleZh": "HoYoverse的《Nodusfall》看起来或许像《艾尔登法环》，但这里有一款充满潜力的黑暗奇幻动作游戏，着实让我大吃一惊。",
       "summaryZh": "至少从美学角度来看，《Nodusfall》与典型的HoYoverse游戏可谓南辕北辙。明亮的色彩、可爱的生物和众多动漫风格的女性角色统统不见了，取而代之的是……",
       "qualityScore": 4
+    },
+    {
+      "title": "Nintendo Switch 2底座与Pro手柄获23.5.0版固件更新",
+      "link": "https://www.3dmgame.com/news/202611/3959525.html",
+      "date": "2026-11-10T07:58:40.185Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "青沼英二称Switch 2版《塞尔达传说：时之笛》水之神殿最佳！",
+      "link": "https://www.3dmgame.com/news/202611/3959518.html",
+      "date": "2026-11-10T07:58:40.185Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "Steam新增Steam Deck实测平均帧率与分布图！首批覆盖数千款游戏",
+      "link": "https://www.3dmgame.com/news/202611/3959517.html",
+      "date": "2026-11-10T07:58:40.185Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "索尼全新配色手柄开启预购！三色透明太惊艳",
+      "link": "https://www.gamersky.com/news/202611/2243842.shtml",
+      "date": "2026-11-10T06:38:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "Rayman Legends Retold Reveals Rabbids Outfit Exclusive To Switch 2",
+      "link": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-rabbids-outfit-exclusive-to-switch-2",
+      "date": "2026-11-10T04:45:00.000Z",
+      "summary": "Grab it from the costume shop. Rayman Legends Retold arrives this December and you'll be able to dress him up in all sorts of costumes. We've already got a look at the Assassin's Creed one and some ot",
+      "source": "Nintendo Life",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "《雷曼传奇重制版》揭晓 Switch 2 专属疯兔服装",
+      "summaryZh": "从服装店买它。 《雷曼传奇重述》将于今年 12 月上市，您将能够为他穿上各种服装。我们已经了解了《刺客信条》和其他一些内容",
+      "qualityScore": 4
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
+      "date": "2026-11-10T03:19:27.000Z",
+      "summary": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说：时之笛》的高品质视觉效果让玩家重新审视数十年的记忆",
+      "summaryZh": "《塞尔达传说：时之笛》重制版为林克的首部 3D 冒险游戏披上了新的面纱，但其中的一些细节却让玩家对他们以为自己曾经了解的现实进行了事后反思。",
+      "qualityScore": 3
     }
   ]
 }
