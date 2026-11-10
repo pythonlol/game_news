@@ -1,4 +1,853 @@
 {
-  "updatedAt": "2026-11-10T03:46:19.508Z",
-  "links": {}
+  "updatedAt": "2026-11-10T03:51:56.346Z",
+  "links": {
+    "https://www.3dmgame.com/news/202611/3959481.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959480.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959083.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2243606.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2243605.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2243560.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/the-legend-of-zelda-chess-set-is-buy-1-get-1-50-off-before-black-friday-2026": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/epic-games-claims-ownership-over-jazz-jackrabbit-in-fortnite-legal-tussle-with-gears-of-war-creator": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11092026/201242308.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/videos/marvel-rivals-hero-wish-list/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/zelda-and-tim-robinson-almost-work-too-well-together/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/features/poll-which-zelda-ocarina-of-time-hud-option-is-your-favourite": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/lego-is-teasing-a-yoshi-set-but-youll-have-to-wait-until-2027/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242797.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/mario-is-my-life-beloved-blogger-supper-mario-broth-reveals-health-issues": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11092026/140731258.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959409.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959400.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/father-arrested-for-leaving-6-year-old-daughter-sleeping-in-line-for-pokemon-cards": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/supper-mario-broth-health-condition": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/marios-next-adults-welcome-lego-set-is-hatching-soon": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959378.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959373.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242882.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242861.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242841.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242840.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/articles/222074": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.tencent.com/en-us/about.html.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/radios/222090": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242812.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242615.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242621.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959295.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242753.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242714.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959279.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242634.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/best-deals-for-november-7-2026": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242441.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959234.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242392.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242390.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242373.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://2.pvp.qq.com/web201605/introduce.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://blog.playstation.com/2026/11/06/share-of-the-week-shadows-2/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/06/next-week-on-xbox-new-games-for-november-9-to-13/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242233.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2242156.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241951.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241705.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-metro-2039/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/after-all-the-queuing-drama-in-beta-wow-forevers-launch-was-buttery-smooth/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11052026/101903409.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241579.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241498.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241402.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/radios/221964": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241321.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gematsu.com/2026/11/honkai-nexus-anima-launches-in-spring-2027-final-closed-beta-test-begins-november-25": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241038.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2241001.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/wow-forevers-launch-is-going-surprisingly-smooth/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/november-games-2026/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/04/indie-selects-november/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11042026/175340409.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/god-of-war-laufey-delayed/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/04/escape-academy-2-tips/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://blog.playstation.com/2026/11/04/playstation-store-october-2026s-top-downloads/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-review": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3958870.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11042026/070705381.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/bride-goes-viral-after-challenging-groom-to-beat-her-at-valorant-before-marrying-her": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-d-and-d-crossover-is-neat-but-inconsistent-novel-on-one-page-then-shrugging-and-pointing-to-the-phb-you-already-own-on-the-next/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/03/celebrating-40-years-of-bethesda-game-studios/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/03/the-elder-scrolls-vi-official-name-reveal/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/radios/221702": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/03/age-of-wonders-4-the-silver-seas/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2240106.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2239977.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3958747.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2239709.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://yingdi.qq.com/cp/a20231208wzznq/indexkt.html?cardId=2&isNavigationBarHidden=1": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/wow-forever-excavation-site-wetlands-dungeon-guide-quests-bosses-and-loot/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/best-wow-forever-addons-to-download-in-2026/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/agon-x-counter-strike-2-limited-edition-monitor-giveaway": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/a-buggy-world-of-warcraft-mount-has-renewed-player-frustrations-at-the-state-of-retail": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://blog.playstation.com/2026/11/02/players-choice-vote-for-octobers-best-new-game-4/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3958660.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/110412366.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/095413321.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/095400653.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/095343806.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/095329769.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/095321603.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/11022026/084527071.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2239297.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2239168.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2238723.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/best-deals-for-november-1-2026": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/petit-planet-switch-2-release-date": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2238741.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2238635.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202611/3958529.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202611/2238557.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.yystv.cn/p/14578": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2238404.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2238316.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10302026/172614852.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2238229.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202610/3958440.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/radios/221500": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.yystv.cn/p/14559": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-shiny-lighting-and-water-changes-will-be-coming-to-retail-i-dont-know-when-but-i-know-theyre-talking-about-doing-it/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10292026/101514250.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2237117.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2237001.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2236814.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.zhihu.com/question/271019607": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://pvp.qq.com/cp/a20170829bbgxsm/index.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/movies-tv/backrooms-director-kane-parsons-is-currently-working-on-3-dream-projects-while-wearing-a-valve-hoodie-suspicious/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2236567.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10282026/080713105.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2236491.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/kane-parsons-says-he-is-working-on-three-dream-projects-leading-to-speculation-over-valve-collaboration": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/roblox-counter-strike-playstation-homepage-super-hot-simpsons-hit-and-run": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2236026.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2235971.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2235956.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202610/3957925.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/hardware/vr-hardware/valve-adds-cd-rom-support-to-steam-frame-kernel-less-than-ten-minutes-after-saying-it-would-look-into-it/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103538661.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103521080.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103326301.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103208025.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103134548.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103125990.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10262026/103111442.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gcores.com/radios/221016": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2234313.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.eurogamer.net/half-life-3-developer-references-codename-public": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2232145.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2233561.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/hardware/handheld-gaming-pcs/redditors-mother-in-law-finds-missing-steam-deck-on-train-returns-it-to-its-rightful-owner-in-a-soap-box-nine-months-later/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2232899.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10212026/111619014.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2232199.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/hardware/handheld-gaming-pcs/intel-bringing-faster-upscaler-to-valves-proton-xmx-accelerated-xess-could-come-to-steamos-in-boost-to-future-intel-powered-handheld-gaming-pcs/": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10202026/094810186.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10202026/093602912.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10192026/095703055.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10192026/095653408.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2230680.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2230317.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2230312.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10182026/060643592.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2230300.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202610/3956856.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2230024.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2229521.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2228635.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202610/2227439.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamespot.com/articles/battlefield-6-now-lets-you-instantly-unlock-all-guns-at-100-mastery-for-30/": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.nintendolife.com/news/2026/10/uk-charts-kingdom-hearts-collection-performs-well-but-its-missing-the-keys-to-the-podium": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.3dmgame.com/news/202610/3955674.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://news.17173.com/content/10052026/083106002.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202609/2219830.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202609/2218854.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    },
+    "https://www.gamersky.com/news/202609/2214011.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T03:51:56.346Z"
+    }
+  }
 }
