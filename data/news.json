@@ -1,6 +1,203 @@
 {
-  "updatedAt": "2026-11-09T13:37:56.172Z",
+  "updatedAt": "2026-11-10T03:41:41.892Z",
   "items": [
+    {
+      "title": "《塞尔达传说：时之笛 3D》取消了自动跳跃，可怜的林克正为此付出代价。",
+      "link": "https://news.17173.com/content/11102026/090823572.shtml",
+      "date": "2026-11-10T09:08:23.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《超级马里奥派对 空前盛会》更新支持GameChat邀请好友",
+      "link": "https://www.3dmgame.com/news/202611/3959489.html",
+      "date": "2026-11-10T03:41:04.221Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛》玩家用陶笛翻奏多首现实音乐！",
+      "link": "https://www.3dmgame.com/news/202611/3959481.html",
+      "date": "2026-11-10T03:41:04.221Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "分析称《守望先锋》女性玩家数量或占比接近其他射击游戏两倍",
+      "link": "https://www.3dmgame.com/news/202611/3959480.html",
+      "date": "2026-11-10T03:41:04.221Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "blizzard"
+      ]
+    },
+    {
+      "title": "NS2模拟器Lichii已可启动运行《塞尔达：时之笛 重制版》",
+      "link": "https://www.3dmgame.com/news/202611/3959083.html",
+      "date": "2026-11-10T03:41:04.221Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "任天堂果断出手！Switch 2破解漏洞修复",
+      "link": "https://www.gamersky.com/news/202611/2243647.shtml",
+      "date": "2026-11-10T02:42:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》诡异Bug 少年林克被",
+      "link": "https://www.gamersky.com/news/202611/2243606.shtml",
+      "date": "2026-11-10T02:21:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "V社又出事！传《半条命2：第三章》泄露",
+      "link": "https://www.gamersky.com/news/202611/2243605.shtml",
+      "date": "2026-11-10T02:20:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "valve"
+      ]
+    },
+    {
+      "title": "《GTA6》被曝支持新版PSSR？太感谢索尼了！",
+      "link": "https://www.gamersky.com/news/202611/2243560.shtml",
+      "date": "2026-11-10T02:06:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ]
+    },
+    {
+      "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+      "link": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+      "date": "2026-11-10T02:05:00.000Z",
+      "summary": "Download it today. Nintendo has released a new update for Super Mario Party Jamboree today and GameShare using GameChat is now available in the Switch 2 version. There's also some updates for the orig",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《超级马里奥派对盛会》针对 Switch 2 和 Switch 进行了更新（版本 2.4.0）",
+      "summaryZh": "今天就下载吧。任天堂今天发布了 Super Mario Party Jamboree 的新更新，使用 GameChat 的 GameShare 现已在 Switch 2 版本中提供。原版也有一些更新"
+    },
+    {
+      "title": "Super Mario Party Jamboree version 2.4.0 update now available, adds GameShare using GameChat on Switch 2",
+      "link": "https://www.gematsu.com/2026/11/super-mario-party-jamboree-version-2-4-0-update-now-available-adds-gameshare-using-gamechat-on-switch-2",
+      "date": "2026-11-10T02:00:16.000Z",
+      "summary": "Nintendo has released the version 2.4.0 update for Super Mario Party Jamboree, which adds GameShare &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《超级马里奥派对盛宴》2.4.0 版更新现已推出，在 Switch 2 上添加了使用 GameChat 的 GameShare",
+      "summaryZh": "任天堂发布了 Super Mario Party Jamboree 的 2.4.0 版本更新，其中添加了 GameShare ..."
+    },
+    {
+      "title": "Switch 2 and Switch system updates version 23.5.0 now available",
+      "link": "https://www.gematsu.com/2026/11/switch-2-and-switch-system-updates-version-23-5-0-now-available",
+      "date": "2026-11-10T01:37:42.000Z",
+      "summary": "Nintendo has released Switch 2 and Switch system updates version 23.5.0. The updates add support &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Switch 2 和 Switch 系统更新版本 23.5.0 现已推出",
+      "summaryZh": "任天堂发布了 Switch 2 和 Switch 系统更新版本 23.5.0。更新添加了支持..."
+    },
+    {
+      "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
+      "date": "2026-11-10T01:36:00.000Z",
+      "summary": "Adds gifting feature support and more. Nintendo has today released a new firmware update for the Switch 2 and this one comes with multiple features. It's added support for gifting to a Nintendo Accoun",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Nintendo Switch 2 系统更新 23.5.0 现已上线，以下是完整补丁说明",
+      "summaryZh": "添加礼物功能支持等。任天堂今天发布了 Switch 2 的新固件更新，该固件更新具有多种功能。增加了对向任天堂帐户赠送礼物的支持"
+    },
+    {
+      "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale",
+      "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
+      "date": "2026-11-10T00:40:00.000Z",
+      "summary": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "AliExpress 黑色星期五特卖期间，以低至 418 美元的价格购买 Nintendo Switch 2 游戏机",
+      "summaryZh": "正好赶上最近发布的《塞尔达传说：时之笛》。"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+      "date": "2026-11-09T23:46:42.000Z",
+      "summary": "For all of the changes in Nintendo's The Legend of Zelda: Ocarina of Time remake, there's one that's tripping players up more than any of the others: a jump button.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说：时之笛》取消了自动跳跃功能，糟糕的链接正在付出代价",
+      "summaryZh": "对于任天堂重制版《塞尔达传说：时之笛》的所有变化来说，有一个变化比其他变化更让玩家绊倒：跳跃按钮。"
+    },
+    {
+      "title": "The Legend of Zelda Chess Set Is Buy 1, Get 1 50% Off Before Black Friday",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-chess-set-is-buy-1-get-1-50-off-before-black-friday-2026",
+      "date": "2026-11-09T23:18:55.000Z",
+      "summary": "",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说》国际象棋套装黑色星期五前买 1 送 1 50% 折扣"
+    },
+    {
+      "title": "Switch 2 Just Had Its Best Sales Week Of 2026, And It’s All Because Of Zelda",
+      "link": "https://www.gamespot.com/articles/switch-2-just-had-its-best-sales-week-of-2026-and-its-all-because-of-zelda/",
+      "date": "2026-11-09T21:47:49.000Z",
+      "summary": "Nintendo just released The Legend of Zelda: Ocarina of Time's remake for Switch 2, and the themed console that Nintendo debuted with the game has, perhaps unsurprisingly, sold incredibly well. Circana",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Switch 2 刚刚迎来了 2026 年销量最高的一周，这一切都归功于《塞尔达传说》",
+      "summaryZh": "任天堂刚刚发布了《塞尔达传说：时之笛》的 Switch 2 重制版，任天堂随游戏一起推出的主题游戏机销量非常好，这或许并不令人意外。切尔卡纳"
+    },
+    {
+      "title": "Epic Games Claims Ownership Over Jazz Jackrabbit in Fortnite Legal Tussle With Gears of War Creator",
+      "link": "https://www.ign.com/articles/epic-games-claims-ownership-over-jazz-jackrabbit-in-fortnite-legal-tussle-with-gears-of-war-creator",
+      "date": "2026-11-09T20:55:15.000Z",
+      "summary": "Cliff Bleszinski, longtime Epic Games developer and the renowned designer of Gears of War and Unreal Tournament, hit a legal wall when trying to secure the rights to one of his very first game charact",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Epic Games 在《堡垒之夜》与《战争机器》创作者的法律纠纷中声称拥有 Jazz Jackrabbit 的所有权",
+      "summaryZh": "Cliff Bleszinski 是 Epic Games 的长期开发者，也是《战争机器》和《虚幻竞技场》的著名设计师，在试图确保他的第一个游戏角色的版权时遇到了法律障碍。"
+    },
     {
       "title": "知名任天堂博主 Supper Mario Broth 称其生命可能仅剩一年",
       "link": "https://news.17173.com/content/11092026/201242308.shtml",
@@ -10,6 +207,172 @@
       "companies": [
         "nintendo"
       ]
+    },
+    {
+      "title": "God of War: Ragnarok is reportedly the highest-earning PlayStation Studios game this generation, but Marvel's Spider-Man 2 isn't far behind",
+      "link": "https://www.eurogamer.net/god-of-war-ragnarok-highest-earning-playstation-game",
+      "date": "2026-11-09T19:02:00.000Z",
+      "summary": "God of War: Ragnarok is the generation's best-selling and highest-earning PlayStation Studios game, according to a new report, but the full top 10 list has a few nice surprises. Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "据报道，《战神：诸神黄昏》是本世代 PlayStation Studios 收入最高的游戏，但漫威的《蜘蛛侠 2》也紧随其后。",
+      "summaryZh": "根据一份新报告，《战神：诸神黄昏》是 PlayStation Studios 一代最畅销、收入最高的游戏，但完整的前 10 名榜单中也有一些令人惊喜的内容。阅读更多"
+    },
+    {
+      "title": "Marvel Rivals: Hero Wish List",
+      "link": "https://www.gamespot.com/videos/marvel-rivals-hero-wish-list/",
+      "date": "2026-11-09T19:00:00.000Z",
+      "summary": "Raise your hand if you want to see Green Goblin soar into the Marvel Rivals roster. Who's your top pick for the next addition?",
+      "source": "GameSpot",
+      "companies": [
+        "netease"
+      ],
+      "titleZh": "Marvel Rivals：英雄愿望清单",
+      "summaryZh": "如果您想看到绿魔跻身漫威对手名单，请举手。您下一期的首选是谁？"
+    },
+    {
+      "title": "Zelda And Tim Robinson Almost Work Too Well Together",
+      "link": "https://www.gamespot.com/articles/zelda-and-tim-robinson-almost-work-too-well-together/",
+      "date": "2026-11-09T18:42:40.000Z",
+      "summary": "The Legend of Zelda: Ocarina of Time just released last week for Switch 2, and as with most major game releases, it's inspired its fair share of memes. There have been plenty that have made us laugh ,",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "塞尔达和蒂姆·罗宾逊几乎合作得很好",
+      "summaryZh": "《塞尔达传说：时之笛》上周刚刚在 Switch 2 上发布，与大多数主要游戏版本一样，它也激发了相当多的迷因。曾经有很多让我们开怀大笑的事情"
+    },
+    {
+      "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
+      "link": "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/",
+      "date": "2026-11-09T18:00:46.000Z",
+      "summary": "For fantasy nerds, it's hard to top The Legend of Zelda video game series and Lord of the Rings film trilogy. If that's you, like it is me, then X user Seven will probably give you goosebumps with his",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《塞尔达传说：时之笛》玩家在游戏中创作令人难以置信的翻唱歌曲",
+      "summaryZh": "对于奇幻迷来说，《塞尔达传说》视频游戏系列和《指环王》电影三部曲是很难超越的。如果那是你，就像我一样，那么 X 用户七可能会让你起鸡皮疙瘩"
+    },
+    {
+      "title": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite?",
+      "link": "https://www.nintendolife.com/features/poll-which-zelda-ocarina-of-time-hud-option-is-your-favourite",
+      "date": "2026-11-09T18:00:00.000Z",
+      "summary": "Navi negation. Just like the open-world entries that precede it, The Legend of Zelda: Ocarina of Time on Switch 2 comes with a handful of HUD options, so you can play with as much or as little on-scre",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "民意调查：您最喜欢哪个《塞尔达传说：时之笛》HUD 选项？",
+      "summaryZh": "纳维否定。就像之前的开放世界作品一样，Switch 2 上的《塞尔达传说：时之笛》配备了一些 HUD 选项，因此您可以在屏幕上玩或多或少的游戏"
+    },
+    {
+      "title": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
+      "link": "https://www.nintendolife.com/news/2026/11/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
+      "date": "2026-11-09T16:45:00.000Z",
+      "summary": "Update: Digital Foundry weighs in on the rumour. Samsung reportedly has a new chip in the works that could help make dreams of a 'Switch 2 Lite' a reality (thanks for the heads up, Notebook Check ). A",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "传言：三星新芯片工艺引发“Nintendo Switch 2 Lite”猜测",
+      "summaryZh": "更新：Digital Foundry 对谣言进行了回应。据报道，三星正在开发一款新芯片，可以帮助实现“Switch 2 Lite”的梦想（感谢 Notebook Check 的提醒）。一个"
+    },
+    {
+      "title": "Lego Is Teasing A Yoshi Set, But You’ll Have To Wait Until 2027",
+      "link": "https://www.gamespot.com/articles/lego-is-teasing-a-yoshi-set-but-youll-have-to-wait-until-2027/",
+      "date": "2026-11-09T16:44:21.000Z",
+      "summary": "We've seen Mario, karts, Mario on a kart, and lots more since Lego first teamed up with Nintendo, and at long last, everyone's favorite talking green dinosaur is getting his chance in the spotlight--n",
+      "source": "GameSpot",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "乐高正在预告耀西套装，但你必须等到 2027 年",
+      "summaryZh": "自从乐高首次与任天堂合作以来，我们已经看到了马里奥、卡丁车、卡丁车上的马里奥等等，终于，每个人最喜欢的会说话的绿色恐龙有了成为聚光灯下的机会——n"
+    },
+    {
+      "title": "FragPunk Reveals Farlands: New Delivery PvPvE Adventure Now Available in Early Access",
+      "link": "https://news.xbox.com/en-us/2026/11/09/fragpunk-farlands-early-access/",
+      "date": "2026-11-09T16:00:00.000Z",
+      "summary": "FragPunk has launched its biggest new chapter yet with Farlands, a permanent, multiplayer delivery-driven PvPvE adventure where dozens of players share a persistent world, now available in Global Earl",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "FragPunk 揭晓 Farlands：全新交付 PvPvE 冒险现已开放抢先体验",
+      "summaryZh": "FragPunk 推出了迄今为止最大的新篇章《Farlands》，这是一款永久的、多人交付驱动的 PvPvE 冒险游戏，数十名玩家共享一个持久的世界，现已在 Global Earl 中推出"
+    },
+    {
+      "title": "Bandai Namco Reveals Its Involvement On Zelda: Ocarina Of Time",
+      "link": "https://www.nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time",
+      "date": "2026-11-09T16:00:00.000Z",
+      "summary": "Dev worked on various visual elements. Just recently, Xenoblade Chronicles developer Monolith Soft revealed its involvement on Zelda: Ocarina of Time for Switch 2, confirming that it contributed to va",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "万代南梦宫透露其参与《塞尔达传说：时之笛》",
+      "summaryZh": "开发人员致力于各种视觉元素。就在最近，《异度神剑》开发商 Monolith Soft 透露其参与了 Switch 2 版《塞尔达传说：时之笛》的制作，并确认其为《塞尔达传说：时之笛》做出了贡献。"
+    },
+    {
+      "title": "老父亲独留6岁女儿通宵排队买宝可梦卡牌:结局舒服了",
+      "link": "https://www.gamersky.com/news/202611/2242797.shtml",
+      "date": "2026-11-09T15:18:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
+      "link": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
+      "date": "2026-11-09T14:35:20.000Z",
+      "summary": "Masahiro Sakurai, the designer behind many iconic Nintendo franchises such as Super Smash Bros. and several Kirby titles, has weighed in on the ongoing discussion of generative-AI use in game developm",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂传奇卡比设计师樱井正宏对 gen-AI 发表了看法，称“它尚未获得我的信任”，但并未完全拒绝它",
+      "summaryZh": "Masahiro Sakurai 是许多任天堂标志性系列游戏（例如《任天堂明星大乱斗》和几款《星之卡比》）的设计师，他参与了关于生成式人工智能在游戏开发中的应用的持续讨论。"
+    },
+    {
+      "title": "Sea of Remnants ‘Dawnbreaker’ closed beta test begins December 3",
+      "link": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
+      "date": "2026-11-09T14:30:41.000Z",
+      "summary": "Publisher NetEase Games and developer Joker Studio will host the “Dawnbreaker” closed beta test for &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "netease"
+      ],
+      "titleZh": "《遗迹之海》《破晓者》内测将于 12 月 3 日开始",
+      "summaryZh": "发行商网易游戏和开发商 Joker Studio 将举办《黎明破晓》内测……"
+    },
+    {
+      "title": "\"Mario Is My Life\" - Beloved Blogger 'Supper Mario Broth' Reveals Health Issues",
+      "link": "https://www.nintendolife.com/news/2026/11/mario-is-my-life-beloved-blogger-supper-mario-broth-reveals-health-issues",
+      "date": "2026-11-09T14:15:00.000Z",
+      "summary": "\"Only blindness or death will result in me no longer posting Mario facts\". The author of the beloved Mario-related blog Supper Mario Broth has posted a health update revealing he has heart failure. Th",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "“马里奥是我的生命”——深受喜爱的博主“超级马里奥肉汤”透露健康问题",
+      "summaryZh": "“只有失明或死亡才会导致我不再发布马里奥事实”。深受喜爱的马里奥相关博客 Supper Mario Broth 的作者发布了健康更新，显示他患有心力衰竭。钍"
+    },
+    {
+      "title": "Grand Theft Auto VI: The Festival live event set for November 21",
+      "link": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-the-festival-live-event-set-for-november-21",
+      "date": "2026-11-09T14:10:13.000Z",
+      "summary": "Rockstar Games and Sony Interactive Entertainment will host “Grand Theft Auto VI: The Festival,” a &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "Grand Theft Auto VI：音乐节现场活动定于 11 月 21 日举行",
+      "summaryZh": "Rockstar Games 和索尼互动娱乐公司将举办“侠盗猎车手 VI：节日”……"
     },
     {
       "title": "一名父亲因将6岁熟睡的女儿留在排队购买 宝可梦传说：阿尔宙斯 卡牌的队伍中而被捕。",
@@ -384,6 +747,17 @@
       ]
     },
     {
+      "title": "Tencent - Tencent 腾讯",
+      "link": "https://www.tencent.com/en-us/about.html.html",
+      "date": "2026-11-08T19:04:00.000Z",
+      "summary": "Tencent is a world-leading internet and technology company that develops innovative products and services to improve the quality of life of people around the world. Founded in 1998 with its headquarte",
+      "source": "必应资讯·腾讯",
+      "companies": [
+        "tencent"
+      ],
+      "summaryZh": "腾讯是一家世界领先的互联网和科技公司，致力于开发创新产品和服务，以改善世界各地人们的生活质量。成立于1998年，总部"
+    },
+    {
       "title": "This Week’s Japanese Game Releases: Prinny Party: Going Overboard!, Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy, more",
       "link": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-prinny-party-going-overboard-pikmin-4-nintendo-switch-2-edition-dandori-academy-more",
       "date": "2026-11-08T17:48:55.000Z",
@@ -546,58 +920,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛 重制版》发售仅三天就惨遭移植 PS5和iPhone都能跑",
-      "link": "https://www.gamersky.com/news/202611/2242716.shtml",
-      "date": "2026-11-08T09:01:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "塞尔达制作人：任天堂成功的关键是",
-      "link": "https://www.gamersky.com/news/202611/2242714.shtml",
-      "date": "2026-11-08T09:00:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
-      "link": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
-      "date": "2026-11-08T08:00:00.000Z",
-      "summary": "\"Better than expected\". Stellar Blade also arrived on the Switch 2 this week, and it's been positively received so far. Here on Nintendo Life, we gave it a score of seven out of ten, and although ther",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Digital Foundry 发布了 Stellar Blade Switch 2 端口的技术结论",
-      "summaryZh": "“比预期好”。 《星辰之刃》也于本周登陆 Switch 2，目前反响良好。在 Nintendo Life 上，我们给它打了 7 分（满分 10 分），尽管"
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》林克颜值巅峰！从未如此帅气 系列最佳",
-      "link": "https://www.gamersky.com/news/202611/2242678.shtml",
-      "date": "2026-11-08T07:57:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《塞尔达时之笛》三个世代对比！画面简直脱胎换骨",
-      "link": "https://www.gamersky.com/news/202611/2242673.shtml",
-      "date": "2026-11-08T07:37:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
       "title": "曝《战神》三部曲重制不止画质升级 玩法系统迎来大改",
       "link": "https://www.gamersky.com/news/202611/2242656.shtml",
       "date": "2026-11-08T07:05:00.000Z",
@@ -628,28 +950,6 @@
       ]
     },
     {
-      "title": "《塞尔达传说：时之笛》重制版对比N64原版，画面全面升级",
-      "link": "https://www.3dmgame.com/news/202611/3959271.html",
-      "date": "2026-11-08T06:54:11.243Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
-      "link": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
-      "date": "2026-11-08T06:00:00.000Z",
-      "summary": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 ",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "视频：《塞尔达传说：时之笛》并排图形比较（Switch 2、3DS、N64）",
-      "summaryZh": "看看吧。 《塞尔达传说：时之笛》本周在 Switch 2 上回归，看起来比以往任何时候都更好。如果您想知道自 2011 年推出以来它进行了多大的改款，以及最初的 N64"
-    },
-    {
       "title": "《魔兽世界：无限》创造历史!老玩家大回归 大量新人入坑",
       "link": "https://www.gamersky.com/news/202611/2242634.shtml",
       "date": "2026-11-08T04:35:00.000Z",
@@ -677,36 +977,6 @@
       "source": "17173",
       "companies": [
         "sony"
-      ]
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》获赞",
-      "link": "https://www.gamersky.com/news/202611/2242627.shtml",
-      "date": "2026-11-08T03:36:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《塞尔达时之笛RE》杀疯了！M站玩家评分历史第一",
-      "link": "https://www.gamersky.com/news/202611/2242621.shtml",
-      "date": "2026-11-08T03:12:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "谷歌高管炫耀在iPhone Duo玩塞尔达 被骂到删视频",
-      "link": "https://www.gamersky.com/news/202611/2242615.shtml",
-      "date": "2026-11-08T03:00:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -755,18 +1025,6 @@
       "summaryZh": "据报道，育碧正在开发两款新的《刺客信条》游戏，其中一款以古罗马为背景。阅读更多"
     },
     {
-      "title": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
-      "link": "https://www.nintendolife.com/news/2026/11/rumour-data-found-in-zelda-ocarina-of-time-may-hint-at-master-quest-dlc",
-      "date": "2026-11-07T19:15:00.000Z",
-      "summary": "Make it so. One of our main bugbears with Zelda: Ocarina of Time on Switch 2 – as incredible as it is – is that it's overall quite a breezy experience for those already familiar with the original or 3",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "传闻：《塞尔达传说：时之笛》中发现的数据可能暗示 Master Quest DLC",
-      "summaryZh": "就这样吧。 Switch 2 上的《塞尔达传说：时之笛》的主要问题之一——尽管它令人难以置信——是，对于那些已经熟悉原版或 3 的人来说，总体来说这是一种相当轻松的体验"
-    },
-    {
       "title": "canezerra 获得 Sentinels 的 无畏契约 参赛机会",
       "link": "https://news.17173.com/content/11072026/154041216.shtml",
       "date": "2026-11-07T15:40:41.000Z",
@@ -777,18 +1035,6 @@
       ]
     },
     {
-      "title": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2",
-      "link": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
-      "date": "2026-11-07T15:25:00.000Z",
-      "summary": "Download it for free from the eShop. Much of the focus has been on Zelda: Ocarina of Time this week, but in case you missed it, Call of Duty: Warzone is now available to download for the Switch 2. Thi",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "ICYMI：《使命召唤：战区》现已推出 Switch 2",
-      "summaryZh": "从 eShop 免费下载。本周大部分焦点都集中在《塞尔达传说：时之笛》上，但如果你错过了，《使命召唤：战区》现已可以在 Switch 2 上下载。"
-    },
-    {
       "title": "十年，核周报 11.7",
       "link": "https://www.gcores.com/radios/221705",
       "date": "2026-11-07T15:00:00.000Z",
@@ -797,16 +1043,6 @@
       "companies": [
         "xbox",
         "valve"
-      ]
-    },
-    {
-      "title": "抢宝可梦卡牌魔怔了：男子让6岁女儿通宵排队后被捕",
-      "link": "https://www.gamersky.com/news/202611/2242577.shtml",
-      "date": "2026-11-07T14:20:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -822,18 +1058,6 @@
       "summaryZh": "备受争议的 RPG 工作室 BioWare 被艺电 (Electronic Arts) 收购近二十年后，它已不复存在。尽管这一消息对老粉丝造成了沉重打击，但所有人都对 BioWare 标志性的叙事风格抱有希望"
     },
     {
-      "title": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
-      "link": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-      "date": "2026-11-07T14:00:00.000Z",
-      "summary": "Hero of all-Time? It's here. It's finally here, and we'd wager you've spent a good chunk of the past 48+ hours playing it. Or perhaps you're savouring the moment, waiting for the perfect time to settl",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "投票：您会给《塞尔达传说：时之笛重制版》打多少分？",
-      "summaryZh": "有史以来的英雄？就在这里。它终于来了，我们打赌您在过去 48 多个小时里已经花了很大一部分时间来玩它。或者也许你正在享受这一刻，等待安顿下来的最佳时机"
-    },
-    {
       "title": "《World of Warcraft Forever》开服仅三天，全球首个60级角色达成满级",
       "link": "https://news.17173.com/content/11072026/130657802.shtml",
       "date": "2026-11-07T13:06:57.000Z",
@@ -841,98 +1065,6 @@
       "source": "17173",
       "companies": [
         "blizzard"
-      ]
-    },
-    {
-      "title": "《塞尔达时之笛RE》FSR对比DLSS!画面太强 发丝清晰",
-      "link": "https://www.gamersky.com/news/202611/2241473.shtml",
-      "date": "2026-11-07T13:00:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《塞尔达传说》40周年Switch 2 Pro手柄拆解展示可更换电池",
-      "link": "https://www.3dmgame.com/news/202611/3959265.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Doug Bowser回顾Switch首发并谈任天堂独占策略",
-      "link": "https://www.3dmgame.com/news/202611/3959261.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "时之笛重制开发者被告知无需纠结塞尔达复杂时间线",
-      "link": "https://www.3dmgame.com/news/202611/3959259.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "任天堂将推更多重制作品 粉丝盼姆吉拉假面与马64",
-      "link": "https://www.3dmgame.com/news/202611/3959255.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "宫本茂因病缺席任天堂财报说明会，情况稳定并将于一周内复工",
-      "link": "https://www.3dmgame.com/news/202611/3959252.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "《影之刃零》借鉴塞尔达？总监澄清：纯中国武侠文化",
-      "link": "https://www.3dmgame.com/news/202611/3958689.html",
-      "date": "2026-11-07T11:30:55.055Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ]
-    },
-    {
-      "title": "Talking Point: What Are You Playing This Weekend? (7th November)",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
-      "date": "2026-11-07T10:00:00.000Z",
-      "summary": "Epona friend. HYAAH, HUHH, HUP, HYAAH * coughing and splutting * Sorry about that, everyone. Welcome to another edition of What Are You Playing! Just in case you somehow missed it, it was Zelda week t",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "谈话要点：这个周末你玩什么？ （11 月 7 日）",
-      "summaryZh": "艾波娜朋友。 HYAAH，HUHH，HUP，HYAAH *咳嗽和吐痰*抱歉，大家。欢迎来到另一版《你在玩什么》！以防万一你错过了，今天是《塞尔达传说》周"
-    },
-    {
-      "title": "《塞尔达传说：时之笛 重制版》口碑封神！媒体玩家超高分都认可",
-      "link": "https://www.gamersky.com/news/202611/2242489.shtml",
-      "date": "2026-11-07T09:30:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "nintendo"
       ]
     },
     {
@@ -2378,18 +2510,6 @@
       ]
     },
     {
-      "title": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
-      "link": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
-      "date": "2026-11-03T14:00:04.000Z",
-      "summary": "Sonic Racing: CrossWorlds Year Two is officially launching later today, with more racers, more vehicles, and more courses joining the ever-growing universe of Sonic Racing: CrossWorlds. In addition, Y",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《索尼克赛车：交叉世界》第二年今天开始，提供决斗模式、新角色、小工具等",
-      "summaryZh": "《索尼克赛车：交叉世界》第二年将于今天晚些时候正式推出，更多赛车手、更多车辆和更多赛道将加入不断发展的《索尼克赛车：交叉世界》宇宙。此外，Y"
-    },
-    {
       "title": "The Silver Seas and How We “Ship” New Features for Age of Wonders 4",
       "link": "https://news.xbox.com/en-us/2026/11/03/age-of-wonders-4-the-silver-seas/",
       "date": "2026-11-03T14:00:00.000Z",
@@ -2424,18 +2544,6 @@
       ]
     },
     {
-      "title": "Helldivers 2: new poisonous Terminid types, more bug caves spawn across the galaxy today",
-      "link": "https://blog.playstation.com/2026/11/03/helldivers-2-new-poisonous-terminid-types-more-bug-caves-spawn-across-the-galaxy-today/",
-      "date": "2026-11-03T13:02:22.000Z",
-      "summary": "Attention, Helldivers. The Ministry of Truth confirms that a new Terminid strain is skittering across the front lines. Designated the Noxious strain, these menaces are fast, venomous, and fundamentall",
-      "source": "PlayStation Blog",
-      "companies": [
-        "sony"
-      ],
-      "titleZh": "《Helldivers 2》：新的有毒终端类型，今天在银河系中出现更多虫洞",
-      "summaryZh": "注意，地狱潜水员。真理部证实，一种新的特米尼德病毒正在前线蔓延。这些威胁被称为“有毒菌株”，速度快、有毒且具有根本性。"
-    },
-    {
       "title": "《全境封锁2》部署Y8S3.3更新 跨平台联机11月17日开放",
       "link": "https://www.3dmgame.com/news/202611/3958769.html",
       "date": "2026-11-03T12:37:48.118Z",
@@ -2443,16 +2551,6 @@
       "source": "3DM游戏网",
       "companies": [
         "ubisoft"
-      ]
-    },
-    {
-      "title": "外媒：PS6会有更多独占游戏！PS5破解倒逼索尼发力",
-      "link": "https://www.gamersky.com/news/202611/2240113.shtml",
-      "date": "2026-11-03T11:58:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "sony"
       ]
     },
     {
@@ -3236,18 +3334,6 @@
       "summaryZh": "当五名芬兰开发商将他们在结冰的池塘上打的曲棍球变成一个关于有史以来最伟大的地下曲棍球运动员的故事时，会发生什么？当我想到"
     },
     {
-      "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
-      "link": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
-      "date": "2026-10-30T18:00:00.000Z",
-      "summary": "The Avatar State Patch is available today for Avatar Legends: The Fighting Game on XBOX Series X|S, and it’s the biggest update the game has seen. It brings a fresh new look for the game’s menus and i",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "阿凡达传奇：格斗游戏进入阿凡达状态",
-      "summaryZh": "XBOX Series X|S 上的《阿凡达传奇：格斗游戏》的阿凡达状态补丁现已推出，这是该游戏迄今为止最大的更新。它为游戏菜单带来了全新的外观，我"
-    },
-    {
       "title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
       "link": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
       "date": "2026-10-30T17:45:52.000Z",
@@ -3268,18 +3354,6 @@
       "companies": [
         "netease"
       ]
-    },
-    {
-      "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
-      "link": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox/",
-      "date": "2026-10-30T17:00:00.000Z",
-      "summary": "Hi there! I’m Scott Christian, the studio director of Hilltop Studios here in Toronto, and the game director of Curse of Resthaven. We make games with a particular emphasis on strong characters, intri",
-      "source": "Xbox Wire",
-      "companies": [
-        "xbox"
-      ],
-      "titleZh": "Resthaven 的诅咒：解开岛屿秘密的提示和技巧",
-      "summaryZh": "你好呀！我是 Scott Christian，多伦多 Hilltop Studios 的工作室总监，也是《Curse of Resthaven》的游戏总监。我们制作的游戏特别强调强大的角色、内在的"
     },
     {
       "title": "多地登顶，直冲日本畅销榜第2，怪猎手游又给了老外一点“腾讯震撼”",
@@ -3731,16 +3805,6 @@
       ]
     },
     {
-      "title": "史低开启！1人肝1000天“魔兽”塔防RTS 超爽清屏|大促星空",
-      "link": "https://www.gamersky.com/news/202610/2236585.shtml",
-      "date": "2026-10-28T09:28:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "blizzard"
-      ]
-    },
-    {
       "title": "沙特肝帝发现影之刃零激活码是WeGame的 直接甩卖了",
       "link": "https://www.gamersky.com/news/202610/2236567.shtml",
       "date": "2026-10-28T09:14:00.000Z",
@@ -3952,16 +4016,6 @@
     {
       "title": "Team Vitality允许《英雄联盟》辅助Fleshy接洽新队伍！",
       "link": "https://www.3dmgame.com/news/202610/3957925.html",
-      "date": "2026-10-27T05:57:23.995Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ]
-    },
-    {
-      "title": "BLG击败KCorp拿下《英雄联盟》全球赛第二胜！对手落入1胜2负组",
-      "link": "https://www.3dmgame.com/news/202610/3957921.html",
       "date": "2026-10-27T05:57:23.995Z",
       "summary": "",
       "source": "3DM游戏网",
@@ -4807,26 +4861,6 @@
       ]
     },
     {
-      "title": "第五人格IVL：齐力翻盘！北京WBG_ppz稳健牵制力争三跑！",
-      "link": "https://news.17173.com/content/10192026/095616233.shtml",
-      "date": "2026-10-19T09:56:16.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
-      "title": "第五人格IVL：完美节奏！ACT_zz9强势四抓终结比赛！",
-      "link": "https://news.17173.com/content/10192026/095603388.shtml",
-      "date": "2026-10-19T09:56:03.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ]
-    },
-    {
       "title": "库克又去了米哈游：一部折叠屏 iPhone，还有一些值得琢磨的见闻",
       "link": "https://www.gcores.com/articles/221096",
       "date": "2026-10-19T07:31:54.000Z",
@@ -4973,16 +5007,6 @@
       ],
       "titleZh": "据报道被取消的《刺客信条》游戏《命运》的游戏片段出现",
       "summaryZh": "据报道，一款以古代中国为背景的《刺客信条》游戏的视频在网上出现，其中包括潜行杀戮、该系列的信仰之跃以及旋转的伞形武器。阅读更多"
-    },
-    {
-      "title": "Epic新启动器宣称由AI打造 前Valve编剧指蒂姆·斯威尼暗讽G胖 玩家展开讨论",
-      "link": "https://www.gamersky.com/news/202610/2230140.shtml",
-      "date": "2026-10-17T08:07:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "valve"
-      ]
     },
     {
       "title": "《战地6》第5赛季或加入《质量效应》《死亡空间》饰品",
