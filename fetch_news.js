@@ -528,13 +528,17 @@ async function filterByQuality(items) {
     if (!v) { kept.push(it); return; } // 没拿到判定的保留，不冒险
     const offTopic = v.is_game_related === false;
     const lowValue = v.is_low_value === true;
-    if (offTopic || lowValue) {
+    const score = typeof v.score === "number" ? v.score : 3;
+    // 与游戏无关的一律丢（购物促销、周边商品、玩家八卦）；
+    // 低价值但仍有信息量的保留（实测 20 条样本里，"模拟器已能启动""新作泄露"被判
+    // low_value 但 score=3，直接丢会误杀，所以要求同时 score<=2 才丢）
+    if (offTopic || (lowValue && score <= 2)) {
       it._dropReason = offTopic ? "non-game" : "low-value";
       dropped.push(it);
       return;
     }
     // 一定写成数字: 用 null 的话下轮会被判成「没判定过」再次送 LLM
-    it.qualityScore = typeof v.score === "number" ? v.score : 3;
+    it.qualityScore = score;
     kept.push(it);
   });
 
