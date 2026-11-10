@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:58:50.319Z",
+  "updatedAt": "2026-11-10T13:15:59.177Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -872,6 +872,46 @@
     "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit": {
       "reason": "low-value",
       "at": "2026-11-10T07:58:50.319Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959558.html": {
+      "reason": "low-value",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959543.html": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.gamersky.com/news/202611/2244132.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/im-so-glad-im-not-using-a-questing-addon-in-world-of-warcraft-forever/": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.gamersky.com/news/202611/2244098.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.eurogamer.net/world-of-warcraft-forever-ipad-handheld": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/why-is-it-not-fun-doug-bowser-gives-a-peek-into-nintendos-strategy-sessions": {
+      "reason": "non-game",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.gamersky.com/news/202611/2242627.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.gamersky.com/news/202611/2243996.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T13:15:59.177Z"
+    },
+    "https://www.gamersky.com/news/202611/2243926.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-10T13:15:59.177Z"
     }
   }
 }
