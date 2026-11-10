@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:41:41.892Z",
+  "updatedAt": "2026-11-10T03:46:19.508Z",
   "items": [
     {
       "title": "《塞尔达传说：时之笛 3D》取消了自动跳跃，可怜的林克正为此付出代价。",
@@ -7,6 +7,16 @@
       "date": "2026-11-10T09:08:23.000Z",
       "summary": "",
       "source": "17173",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》首周登顶英国销量榜！",
+      "link": "https://www.3dmgame.com/news/202611/3959498.html",
+      "date": "2026-11-10T03:45:52.634Z",
+      "summary": "",
+      "source": "3DM游戏网",
       "companies": [
         "nintendo"
       ]
@@ -822,6 +832,16 @@
       ]
     },
     {
+      "title": "谷歌高管炫耀在iPhone Duo玩塞尔达 被骂到删视频",
+      "link": "https://www.gamersky.com/news/202611/2242615.shtml",
+      "date": "2026-11-08T13:16:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
+    },
+    {
       "title": "WoW: Forever is the biggest launch in World of Warcraft history, says Blizzard",
       "link": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players",
       "date": "2026-11-08T13:09:10.000Z",
@@ -832,6 +852,16 @@
       ],
       "titleZh": "暴雪表示，《魔兽世界：永远》是《魔兽世界》历史上规模最大的发布",
       "summaryZh": "《魔兽世界：永远》是 MMO 历史上最大规模的发布，比之前任何一款《魔兽世界》发布的游戏都吸引了更多的同时在线玩家。阅读更多"
+    },
+    {
+      "title": "《塞尔达时之笛RE》杀疯了！M站玩家评分历史第一",
+      "link": "https://www.gamersky.com/news/202611/2242621.shtml",
+      "date": "2026-11-08T13:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ]
     },
     {
       "title": "父亲留六岁女儿排队抢宝可梦卡 自己离场超一小时",
@@ -872,42 +902,6 @@
       "companies": [
         "sony"
       ]
-    },
-    {
-      "title": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
-      "link": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
-      "date": "2026-11-08T10:00:00.000Z",
-      "summary": "Battle for the ages. Welcome all, to a very special edition of Box Art Brawl ! Looking back at last week , we checked out Revenge of the 'Gator to celebrate its addition to Nintendo Switch Online. Bot",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "特色：盒子艺术乱斗：塞尔达传说：时之笛终极对决",
-      "summaryZh": "为千古之战。欢迎大家来到非常特别的 Box Art Brawl 版本！回顾上周，我们查看了《鳄鱼的复仇》，以庆祝其加入 Nintendo Switch Online。机器人"
-    },
-    {
-      "title": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
-      "date": "2026-11-08T09:45:00.000Z",
-      "summary": "Gather round, Kokiri. If you're in a position where you've never actually played a Zelda game before, Nintendo's Bill Trinen just wants to let you know Ocarina of Time is the \"perfect place\" to start.",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂的 Bill Trinen 解释为什么时之笛是进入塞尔达宇宙的完美切入点",
-      "summaryZh": "聚集起来，科奇里。如果您之前从未真正玩过《塞尔达》游戏，任天堂的 Bill Trinen 只是想让您知道《时之笛》是一个“完美的起点”。"
-    },
-    {
-      "title": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Place To Start In The Zelda Universe",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-place-to-start-in-the-zelda-universe",
-      "date": "2026-11-08T09:45:00.000Z",
-      "summary": "Gather round, Kokiri. If you're in a position where you've never actually played a Zelda game before, Nintendo's Bill Trinen just wants to let you know Ocarina of Time is the \"perfect place\" to start.",
-      "source": "Nintendo Life",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "任天堂的 Bill Trinen 解释为什么时之笛是塞尔达宇宙的完美起点",
-      "summaryZh": "聚集起来，科奇里。如果您之前从未真正玩过《塞尔达》游戏，任天堂的 Bill Trinen 只是想让您知道《时之笛》是一个“完美的起点”。"
     },
     {
       "title": "曝《刺客信条女巫》内部延期！推迟至2028年发售",
