@@ -1,8 +1,10 @@
 // 游戏资讯每日抓取脚本
 // 用法: node fetch_news.js
 // 功能: 从官网 RSS 和游戏媒体 RSS 抓取 10 家主流游戏厂商的最新资讯,
-//       合并进 data/news.json(去重、保留 60 天),非中文条目自动翻译为中文,
-//       并生成 index.html 静态网页。
+//       合并进 data/news.json(按 link 去重、保留 60 天),非中文条目自动翻译为中文,
+//       再经 LLM 质量精筛(剔除与游戏无关的猎奇社会新闻、纯周边带货、无信源转述),
+//       最后生成 index.html 静态网页。
+//       页面渲染时还会把报道同一事件的多家媒体合并成一条, 其余来源折叠为「另外 N 家也报道了」。
 
 const fs = require("fs");
 const path = require("path");
@@ -11,6 +13,8 @@ const ROOT = __dirname;
 const DATA_DIR = path.join(ROOT, "data");
 const DATA_FILE = path.join(DATA_DIR, "news.json");
 const HEALTH_FILE = path.join(DATA_DIR, "health.json"); // 各来源抓取健康状态
+// 质量精筛判为低质的链接存这里: 被丢的条目下次还会被抓到, 不记住就会每天重复送 LLM
+const REJECTED_FILE = path.join(DATA_DIR, "rejected.json");
 const HTML_FILE = path.join(ROOT, "index.html");
 const TEMPLATE_FILE = path.join(ROOT, "template.html");
 const FEED_FILE = path.join(ROOT, "feed.xml");
@@ -410,6 +414,139 @@ async function translateItems(items) {
   console.log(`翻译完成 ${ok}/${tasks.length} 段文本(百炼 ${translateStats.bailian}, 谷歌 ${translateStats.google}, 谷歌词典 ${translateStats.googleDict}; 失败条目保留原文)`);
 }
 
+// ---------- LLM 信息质量精筛 ----------
+// 抓取阶段只能按关键词判断「有没有提到厂商」，判不出「这条值不值得看」：
+// 猎奇社会新闻（玩家把女儿留在排队队伍被捕）、纯周边带货（乐高套装）、无信源传闻
+// 都能通过关键词关卡混进来。这里让模型逐条判断相关性、低价值与信息增量，过滤后再入库。
+const QUALITY_MODEL = "qwen-plus";
+const QUALITY_BATCH = 10;
+const QUALITY_CONCURRENCY = 3;
+
+const QUALITY_PROMPT = `你是游戏资讯编辑。输入是带编号（1 到 N）的游戏新闻列表，请逐条判断并输出 JSON 数组，每个元素为：
+{"index": number, "is_game_related": boolean, "is_low_value": boolean, "score": number}
+
+- index: 该条资讯在输入中的编号（从 1 开始），必须原样回填
+- is_game_related: 是否与电子游戏本身直接相关（游戏作品、厂商、主机硬件、行业并购、电竞赛事）。纯玩家社会新闻、周边商品带货、与游戏无关的明星八卦、泛科技新闻都算 false
+- is_low_value: 是否为低价值内容：猎奇社会新闻、标题党、无信源传闻、玩家纠纷、纯玩梗、二手转述且无新增信息
+- score: 1-5 信息增量评分（5=官方重大发布/独占消息/权威确认，4=有实质新内容，3=常规资讯，2=边角料，1=基本没有信息量）
+
+硬性要求：
+1. 输出条数必须与输入条数完全一致，不得合并、省略任何一条
+2. index 必须唯一，且与输入编号一一对应
+3. 只输出 JSON 数组，不要任何解释文字`;
+
+function extractJsonArray(text) {
+  const cleaned = String(text || "").replace(/```json\s*/gi, "").replace(/```\s*/g, "").trim();
+  try {
+    const p = JSON.parse(cleaned);
+    if (Array.isArray(p)) return p;
+  } catch {}
+  const m = cleaned.match(/\[[\s\S]*\]/);
+  if (m) { try { return JSON.parse(m[0]); } catch {} }
+  return null;
+}
+
+async function classifyQualityBatch(batch, key) {
+  const list = batch.map((it, i) => {
+    const zh = it.titleZh || it.title;
+    const sum = (it.summaryZh || it.summary || "").slice(0, 160);
+    return `${i + 1}. [${it.source}] ${zh}${sum ? "\n摘要：" + sum : ""}`;
+  }).join("\n\n");
+
+  const res = await fetch("https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: "Bearer " + key },
+    body: JSON.stringify({
+      model: QUALITY_MODEL,
+      messages: [
+        { role: "system", content: QUALITY_PROMPT },
+        { role: "user", content: `游戏资讯列表（共 ${batch.length} 条，编号 1-${batch.length}）：\n\n${list}` },
+      ],
+      temperature: 0.1,
+    }),
+    signal: AbortSignal.timeout(90000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  const content = (data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content) || "";
+  const parsed = extractJsonArray(content);
+  if (!parsed) throw new Error("返回非 JSON 数组");
+  return parsed;
+}
+
+/**
+ * 按 LLM 判定过滤条目。接口不可用或整批失败时原样保留，
+ * 绝不因为筛选把站点搞空（这类站点宁可多几条也不要白屏）。
+ * @returns {{kept: Array, dropped: Array}}
+ */
+async function filterByQuality(items) {
+  const key = process.env.DASHSCOPE_API_KEY;
+
+  // 只有「还没被判定过」的条目才送 LLM：qualityScore 是数字说明上一轮已经判过并保留。
+  // 不这样做的话每天都要对 60 天窗口内的全量条目重复请求，成本随数据量线性增长。
+  const pending = items.filter((it) => typeof it.qualityScore !== "number");
+  const decided = items.filter((it) => typeof it.qualityScore === "number");
+  if (!key || !pending.length) {
+    console.log(`质量精筛跳过（${key ? "无待判定条目" : "无 DASHSCOPE_API_KEY"}），保留 ${items.length} 条`);
+    return { kept: items, dropped: [] };
+  }
+
+  const verdicts = new Array(pending.length).fill(null);
+  const tasks = [];
+  for (let i = 0; i < pending.length; i += QUALITY_BATCH) {
+    tasks.push({ offset: i, batch: pending.slice(i, i + QUALITY_BATCH), no: tasks.length + 1 });
+  }
+
+  const runTask = async ({ offset, batch, no }) => {
+    try {
+      const parsed = await classifyQualityBatch(batch, key);
+      const used = new Set();
+      for (const e of parsed) {
+        const n = Number(e && e.index);
+        if (!Number.isInteger(n) || n < 1 || n > batch.length) continue;
+        const pos = n - 1;
+        if (used.has(pos)) continue;
+        used.add(pos);
+        verdicts[offset + pos] = e;
+      }
+      const miss = batch.length - used.size;
+      if (miss > 0) console.log(`[质量] 批次 ${no} 有 ${miss} 条未返回判定，按保留处理`);
+    } catch (e) {
+      console.log(`[质量] 批次 ${no} 失败，该批全部保留: ${e.message}`);
+    }
+  };
+
+  // 串行太慢(qwen-plus 单批约 40-50s)，跑批并发但要控制，避免触发限流
+  for (let i = 0; i < tasks.length; i += QUALITY_CONCURRENCY) {
+    await Promise.all(tasks.slice(i, i + QUALITY_CONCURRENCY).map(runTask));
+  }
+
+  const kept = [...decided]; // 上轮已判定为合格的直接保留
+  const dropped = [];
+  pending.forEach((it, i) => {
+    const v = verdicts[i];
+    if (!v) { kept.push(it); return; } // 没拿到判定的保留，不冒险
+    const offTopic = v.is_game_related === false;
+    const lowValue = v.is_low_value === true;
+    if (offTopic || lowValue) {
+      it._dropReason = offTopic ? "non-game" : "low-value";
+      dropped.push(it);
+      return;
+    }
+    // 一定写成数字: 用 null 的话下轮会被判成「没判定过」再次送 LLM
+    it.qualityScore = typeof v.score === "number" ? v.score : 3;
+    kept.push(it);
+  });
+
+  const byReason = {};
+  for (const d of dropped) byReason[d._dropReason] = (byReason[d._dropReason] || 0) + 1;
+  console.log(`质量精筛：待判定 ${pending.length} 条（另有 ${decided.length} 条上轮已判定）→ 保留 ${kept.length}，丢弃 ${dropped.length} ${JSON.stringify(byReason)}`);
+  for (const d of dropped.slice(0, 6)) {
+    console.log(`  丢弃[${d._dropReason}] ${(d.titleZh || d.title).slice(0, 52)}`);
+  }
+  return { kept, dropped };
+}
+
 function matchCompanies(text) {
   const hits = [];
   for (const c of COMPANY_REGEX) {
@@ -468,8 +605,16 @@ function isSameStory(a, b) {
   if (A.size < 5 || B.size < 5) return false;
   let inter = 0;
   for (const t of A) if (B.has(t)) inter++;
+  const ratio = inter / Math.min(A.size, B.size);
+
   // 占比与绝对数量同时达标: 短标题剥离模板词后剩不了几个 token, 防止个别巧合命中
-  return inter >= 3 && inter / Math.min(A.size, B.size) >= 0.45;
+  //
+  // 2026-11-10 试过用「书名号里的游戏名」放宽到 inter>=4 && ratio>=0.3:
+  // 449 条里新增 7 组合并, 其中 3 组是误合并(同游戏的不同事件——
+  // 无限大 PC 配置 vs 定档、守望先锋新赛季 vs 通行证改版、1666 vs 刺客信条)。
+  // 收紧到 inter>=7 && ratio>=0.4 仍误合并 2 组, 说明「游戏名 + 字符重叠」
+  // 区分不了同游戏的不同事件, 故保持原阈值: 宁可漏合并, 不要把不同事件揉成一条。
+  return inter >= 3 && ratio >= 0.45;
 }
 
 // 输入需按时间降序; 代表条目优先选原文为中文的(可读性好于机翻)
@@ -555,7 +700,7 @@ function renderHtml(data, health) {
           <a href="${esc(it.link)}" target="_blank" rel="noopener"${it.titleZh ? ` title="${esc(it.title)}"` : ""}>${esc(it.titleZh || it.title)}</a>${isNew(it) ? `<span class="new-badge">NEW</span>` : ""}
           <div class="meta">${it.date ? `<span class="time" title="${esc(fmtFull(it.date))}">${relTime(it.date)}</span>` : ""}<span class="source">${esc(it.source)}</span>${
             showTime ? it.companies.map((cid) => `<span class="tag">${esc(companyName[cid] || cid)}</span>`).join("") : ""
-          }${altLinks.length ? `<span class="alt">其他来源: ${altLinks.join(" · ")}</span>` : ""}</div>
+          }${altLinks.length ? `<span class="alt">另外 ${altLinks.length} 家也报道了：${altLinks.join(" · ")}</span>` : ""}</div>
           ${it.summary || it.summaryZh ? `<p class="summary">${esc(it.summaryZh || it.summary)}</p>` : ""}
         </li>`;
   };
@@ -664,6 +809,9 @@ ${items}
 // ---------- 主流程 ----------
 async function main() {
   const data = loadData();
+  // 已被质量精筛判为低质的链接，不再重复收录（否则每天都要重新抓、重新判定）
+  let rejected = {};
+  try { rejected = JSON.parse(fs.readFileSync(REJECTED_FILE, "utf8")).links || {}; } catch {}
   // 清理历史数据里的噪音(与新增条目同一套过滤规则)
   const searchNames = new Set(SOURCES.filter((s) => s.type === "search").map((s) => s.name));
   searchNames.add("必应资讯"); // 兼容来源改名前的历史数据
@@ -709,6 +857,7 @@ async function main() {
   for (const { src, items } of fetched) {
     for (const it of items) {
       if (!isSafeLink(it.link)) continue;
+      if (rejected[it.link]) continue; // 已判定为低质，跳过
       if (isGlobalJunk(it)) continue;
       if (src.type === "search" && isJunkSearchResult(it)) continue;
       const text = it.title + " " + it.summary;
@@ -729,10 +878,20 @@ async function main() {
     }
   }
 
-  // 清理过期 + 每厂商限量
+  // 清理过期
   const cutoff = Date.now() - KEEP_DAYS * 86400e3;
   let all = [...existing.values()].filter((it) => !it.date || new Date(it.date).getTime() >= cutoff);
   all.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+
+  // 翻译非中文条目(结果写入条目字段, 随数据文件持久缓存)
+  await translateItems(all);
+
+  // 质量精筛: 过滤与游戏无关的猎奇内容、纯周边带货、无信源的低价值转述
+  // 放在翻译之后(用中文标题判断更准), 限量之前(被筛掉的条目不占厂商名额)
+  const quality = await filterByQuality(all);
+  all = quality.kept;
+
+  // 每厂商限量
   const count = {};
   all = all.filter((it) => {
     // 按"条目主厂商"(第一个)计数限量
@@ -741,13 +900,20 @@ async function main() {
     return count[main] <= MAX_PER_COMPANY;
   });
 
-  // 翻译非中文条目(结果写入条目字段, 随数据文件持久缓存)
-  await translateItems(all);
-
   data.items = all;
   data.updatedAt = new Date().toISOString();
   saveData(data);
   saveJson(HEALTH_FILE, { updatedAt: data.updatedAt, sources: health });
+
+  // 记下本轮判为低质的链接（30 天后清理，避免文件无限增长），下轮抓取直接跳过
+  const nowMs = Date.now();
+  for (const d of quality.dropped) {
+    rejected[d.link] = { reason: d._dropReason, at: data.updatedAt };
+  }
+  for (const [link, v] of Object.entries(rejected)) {
+    if (!v || !v.at || nowMs - new Date(v.at).getTime() > 30 * 86400e3) delete rejected[link];
+  }
+  saveJson(REJECTED_FILE, { updatedAt: data.updatedAt, links: rejected });
   fs.writeFileSync(HTML_FILE, renderHtml(data, health), "utf8");
   fs.writeFileSync(FEED_FILE, renderRss(data), "utf8");
 
