@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-11-10T13:15:59.177Z",
+  "updatedAt": "2026-11-11T07:29:27.914Z",
   "items": [
+    {
+      "title": "Nintendo Switch 与 Switch 2 更新支持 eShop 游戏赠送功能，正值圣诞前夕——但有个前提",
+      "link": "https://news.17173.com/content/11102026/180648372.shtml",
+      "date": "2026-11-10T18:06:48.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "《逆水寒》3.1.1二周年版本11月27日上线，新增沧澜与航海玩法",
+      "link": "https://www.3dmgame.com/news/202611/3959555.html",
+      "date": "2026-11-10T13:15:41.109Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "任天堂账号2027年1月26日起停用Google与Apple快捷登录！",
+      "link": "https://www.3dmgame.com/news/202611/3959541.html",
+      "date": "2026-11-10T13:15:41.109Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+      "link": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+      "date": "2026-11-10T12:26:20.000Z",
+      "summary": "Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those \"Framerate Estimator\" text strings : a framerate estimator for the Steam Deck . Or, rathe",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Steam 的新 Steam Deck 帧率图表对于手持玩家来说是个好消息，尽管我还不能完全相信这些数字",
+      "summaryZh": "Valve 终于明确了他们对所有这些性能数据和所有“帧率估计器”文本字符串所做的事情：Steam Deck 的帧率估计器。或者说，更确切地说",
+      "qualityScore": 4
+    },
+    {
+      "title": "【会员抽奖】《战锤幸存者》今日正式发售",
+      "link": "https://www.gcores.com/articles/222172",
+      "date": "2026-11-10T12:23:56.000Z",
+      "summary": "Auroch Digital 欣然宣布，备受期待的官方《战锤》弹幕幸存者游戏《战锤幸存者》（ Warhammer Survivors ）现已正式发售，登陆 PC（Steam 与 GOG）、Nintendo Switch 1 和 2、PlayStation 5、Xbox Series X|S，以及 iOS 和 Android 移动平台。 发售首周内购买游戏的玩家可享受 九折优惠 ，原价33元人民币，",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "Nintendo's Analysis Indicates You Might Want To Watch The Zelda Movie With Others",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendos-analysis-indicates-you-might-want-to-watch-the-zelda-movie-with-others",
+      "date": "2026-11-10T11:30:00.000Z",
+      "summary": "More is more? The Legend of Zelda movie is fast approaching, scheduled to release on 30th April 2027 (we could really do with a trailer soon, Nintendo). A such, we felt it only right to relay a new qu",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂的分析表明您可能想与其他人一起观看塞尔达电影",
+      "summaryZh": "更多就是更多吗？ 《塞尔达传说》电影即将上映，计划于 2027 年 4 月 30 日上映（任天堂，我们真的可以很快发布预告片）。因此，我们认为转达新的问题是正确的",
+      "qualityScore": 3
+    },
+    {
+      "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
+      "date": "2026-11-10T10:45:00.000Z",
+      "summary": "No specific numbers yet, though. Nintendo has released the Q&A translation from its latest financial briefing, with president Shuntaro Furukawa stating that Zelda: Ocarina of Time is \"off to a great s",
+      "source": "Nintendo Life",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "任天堂称《塞尔达传说：时之笛》“有了一个良好的开端”",
+      "summaryZh": "不过，目前还没有具体数字。任天堂发布了最新财务简报的问答翻译，总裁古川俊太郎表示《塞尔达传说：时之笛》“取得了巨大成功”",
+      "qualityScore": 4
+    },
+    {
+      "title": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
+      "link": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
+      "date": "2026-11-10T10:00:00.000Z",
+      "summary": "Big news – Warhammer Survivors is out now!  If this is your first time hearing about Warhammer Survivors, buckle in for addictive bullet-heaven survivor gameplay set across the battlefields of the 41s",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《战锤幸存者》现已推出 XBOX Game Pass！用这些技巧打败忧郁的吉茨",
+      "summaryZh": "重大消息——《战锤幸存者》现已推出！  如果这是您第一次听说《战锤幸存者》，请认真体验以 41 年代战场为背景的令人上瘾的子弹天堂幸存者游戏",
+      "qualityScore": 4
+    },
+    {
+      "title": "【会员抽奖】骑上小轮车去送信！《狸狸：胖哒的夏日》今日正式发售",
+      "link": "https://www.gcores.com/articles/222154",
+      "date": "2026-11-10T10:00:00.000Z",
+      "summary": "《狸狸：胖哒的夏日》今日正式发售！这款由京都工作室Denkiworks开发、CRITICAL REFLEX发行的开放世界小轮车送信冒险游戏，现已登陆Steam、Nintendo Switch、Nintendo Switch 2、PlayStation 5、PlayStation 4、XBOX Series X|S、XBOX One及XBOX on PC，Steam国区售价55元，XBOX Game",
+      "source": "机核",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far",
+      "link": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
+      "date": "2026-11-10T09:25:20.000Z",
+      "summary": "Could a remade Legend of Zelda: Ocarina of Time be exciting enough to revitalise Switch 2 hardware sales? That was the big question. And early sales figures suggest the answer is yes, it can. Read mor",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "得益于《塞尔达传说》效应，Switch 2 美国销量再次飙升，创下今年迄今为止最好的一周",
+      "summaryZh": "重制版《塞尔达传说：时之笛》是否足以刺激 Switch 2 硬件销售？这是一个大问题。早期的销售数据表明答案是肯定的，可以。阅读更多",
+      "qualityScore": 3
+    },
+    {
+      "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
+      "link": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+      "date": "2026-11-10T09:22:50.000Z",
+      "summary": "Nintendo has just pushed out a new update to all Switch and Switch 2 consoles, bringing the firmware on both up to version 23.5.0. The headline change with the new update is support and compatibility ",
+      "source": "Eurogamer",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Switch 2 和 Switch 主机更新至版本 23.5.0，任天堂悄然重新推出 eShop 礼物",
+      "summaryZh": "任天堂刚刚向所有 Switch 和 Switch 2 游戏机推出了新的更新，将两者的固件更新至 23.5.0 版本。新更新的主要变化是支持和兼容性",
+      "qualityScore": 4
+    },
+    {
+      "title": "Ravenswatch – Nintendo Switch 2 Edition launches December 10 worldwide, December 18 in North America",
+      "link": "https://www.gematsu.com/2026/11/ravenswatch-nintendo-switch-2-edition-launches-december-10-worldwide-december-18-in-north-america",
+      "date": "2026-11-10T09:15:30.000Z",
+      "summary": "Cooperative roguelike action game Ravenswatch – Nintendo Switch 2 Edition will launch on December 18 &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "《Ravenswatch》——Nintendo Switch 2 版将于 12 月 10 日在全球发售，12 月 18 日在北美发售",
+      "summaryZh": "合作类 rogue 动作游戏 Ravenswatch – Nintendo Switch 2 版将于 12 月 18 日推出……",
+      "qualityScore": 5
+    },
     {
       "title": "《塞尔达传说：时之笛 3D》取消了自动跳跃，可怜的林克正为此付出代价。",
       "link": "https://news.17173.com/content/11102026/090823572.shtml",
@@ -11,6 +157,19 @@
         "nintendo"
       ],
       "qualityScore": 3
+    },
+    {
+      "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
+      "link": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
+      "date": "2026-11-10T08:47:41.000Z",
+      "summary": "Nintendo has released an update for the Switch and Switch 2 to support gifting eShop products, but there’s a catch.",
+      "source": "IGN",
+      "companies": [
+        "nintendo"
+      ],
+      "titleZh": "Nintendo Switch 和 Switch 2 更新增加了对 eShop 游戏礼物的支持，正好赶上圣诞节 - 但有一个问题",
+      "summaryZh": "任天堂已经发布了 Switch 和 Switch 2 的更新，以支持赠送 eShop 产品，但有一个问题。",
+      "qualityScore": 4
     },
     {
       "title": "Nintendo Switch 2底座与Pro手柄获23.5.0版固件更新",
@@ -220,6 +379,28 @@
       "qualityScore": 4
     },
     {
+      "title": "动作游戏难度不够直观？这游戏做出了个好点子",
+      "link": "https://www.yystv.cn/p/14609",
+      "date": "2026-11-09T16:00:00.000Z",
+      "summary": "索尼今年4月发售的独占射击大作《沙罗周期》，在不久前的10月19日推出了大型免费更新“天顶”（Zenith）。 我们在之前也介绍和讨论过这款游戏， 芬兰开发商Housemarque用接近3A的成本和规格，挑战制作了一款在当下相当小众的“街机型”动作射击游戏。我个人是挺喜欢这款游戏的，通关了也一直留在PS5上，时不时会搓上一把。 这次的更新主要聚焦在玩法层面，包含全新的Boss Rush模式“霸主模",
+      "source": "游研社",
+      "companies": [
+        "sony"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "办了十年“中国之星”，索尼互娱终于拿真金白银“加注”了",
+      "link": "https://www.yystv.cn/p/14608",
+      "date": "2026-11-09T16:00:00.000Z",
+      "summary": "尽管比往年晚了一些，今年索尼“中国之星计划”的发布会还是在11月3日如期举办。 这是索尼“中国之星计划”展开以来的第十年。 在这样一个关键节点，要说项目迎来了什么样的重大变化，无疑要数索尼用前所未有的力度，用真金白银给这个项目加了注——首先是向入选“中国之星计划”第三期的游戏《绝晓》追加了价值100万美元的项目投资； 《绝晓》 之后更宣布，将对入选第四期 “中国之星”的每一个项目，都进行价值100",
+      "source": "游研社",
+      "companies": [
+        "sony"
+      ],
+      "qualityScore": 5
+    },
+    {
       "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
       "link": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
       "date": "2026-11-09T14:35:20.000Z",
@@ -306,6 +487,17 @@
       "titleZh": "《魔兽世界》中的地下城：永远获得巨大的经验值增益，但力量平衡者还不应该庆祝",
       "summaryZh": "《魔兽世界：永远》对地下城怪物（敌人）的 XP 掉落率进行了大幅提升，这应该会让多次运行这些实例感觉更有意义 - 并且可能会复活",
       "qualityScore": 4
+    },
+    {
+      "title": "BLG3:1击败T1、终结LPL十三年梦魇，S赛终于要迎来新时代？",
+      "link": "https://www.yystv.cn/p/14610",
+      "date": "2026-11-09T11:35:00.000Z",
+      "summary": "《英雄联盟》S16全球总决赛第二场半决赛，在北京时间今天上午决出赛果。LPL二号种子BLG以3:1战胜世界赛卫冕冠军T1，拿到决赛门票。 BLG 3:1战胜T1晋级S16总决赛 对于BLG乃至整个LPL赛区来说，这场胜利有着相当特殊的历史意义。 在此之前，T1（及前身 SKT）在全球总决赛的BO5对决中面对LPL战队，保持着13战全胜的不败纪录。具体到BLG自身，曾在S13和S14两个赛年的其它比",
+      "source": "游研社",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 5
     },
     {
       "title": "《Petit Planet》：米哈游版的 集合啦！动物森友会，充满魅力且细节考究 | IGN 前瞻",
@@ -3829,9 +4021,42 @@
       "qualityScore": 4
     },
     {
-      "title": "Nintendo Switch 与 Switch 2 更新支持 eShop 游戏赠送功能，正值圣诞前夕——但有个前提",
-      "link": "https://news.17173.com/content/11102026/180648372.shtml",
-      "date": "2026-11-10T18:06:48.000Z",
+      "title": "《EA Sports足球俱乐部27》1.2.0更新调整攻防AI！修复多模式问题",
+      "link": "https://www.3dmgame.com/news/202611/3959661.html",
+      "date": "2026-11-11T07:28:27.708Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "《塞尔达传说：时之笛 重制版》主线通关仅需17小时 比原版少了10h",
+      "link": "https://www.gamersky.com/news/202611/2244660.shtml",
+      "date": "2026-11-11T07:13:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "任天堂设立新职位，旨在保存和整理其老游戏",
+      "link": "https://news.17173.com/content/11112026/070742927.shtml",
+      "date": "2026-11-11T07:07:42.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "nintendo"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "我们采访了任天堂美国的 Nate Bihldorff，聊了聊 塞尔达传说：时之笛 3D 中那些最鲜为人知的秘密是如何进行…",
+      "link": "https://news.17173.com/content/11112026/070715095.shtml",
+      "date": "2026-11-11T07:07:15.000Z",
       "summary": "",
       "source": "17173",
       "companies": [
@@ -3840,185 +4065,256 @@
       "qualityScore": 4
     },
     {
-      "title": "《逆水寒》3.1.1二周年版本11月27日上线，新增沧澜与航海玩法",
-      "link": "https://www.3dmgame.com/news/202611/3959555.html",
-      "date": "2026-11-10T13:15:41.109Z",
+      "title": "《塞尔达传说：时之笛 重制版》4天销量破520万！NS2时代最强",
+      "link": "https://www.gamersky.com/news/202611/2244608.shtml",
+      "date": "2026-11-11T06:45:00.000Z",
       "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "netease"
-      ],
-      "qualityScore": 5
-    },
-    {
-      "title": "任天堂账号2027年1月26日起停用Google与Apple快捷登录！",
-      "link": "https://www.3dmgame.com/news/202611/3959541.html",
-      "date": "2026-11-10T13:15:41.109Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "nintendo"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
-      "link": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
-      "date": "2026-11-10T12:26:20.000Z",
-      "summary": "Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those \"Framerate Estimator\" text strings : a framerate estimator for the Steam Deck . Or, rathe",
-      "source": "Rock Paper Shotgun",
-      "companies": [
-        "valve"
-      ],
-      "titleZh": "Steam 的新 Steam Deck 帧率图表对于手持玩家来说是个好消息，尽管我还不能完全相信这些数字",
-      "summaryZh": "Valve 终于明确了他们对所有这些性能数据和所有“帧率估计器”文本字符串所做的事情：Steam Deck 的帧率估计器。或者说，更确切地说",
-      "qualityScore": 4
-    },
-    {
-      "title": "【会员抽奖】《战锤幸存者》今日正式发售",
-      "link": "https://www.gcores.com/articles/222172",
-      "date": "2026-11-10T12:23:56.000Z",
-      "summary": "Auroch Digital 欣然宣布，备受期待的官方《战锤》弹幕幸存者游戏《战锤幸存者》（ Warhammer Survivors ）现已正式发售，登陆 PC（Steam 与 GOG）、Nintendo Switch 1 和 2、PlayStation 5、Xbox Series X|S，以及 iOS 和 Android 移动平台。 发售首周内购买游戏的玩家可享受 九折优惠 ，原价33元人民币，",
-      "source": "机核",
+      "source": "游民星空",
       "companies": [
         "nintendo"
       ],
       "qualityScore": 5
     },
     {
-      "title": "Nintendo's Analysis Indicates You Might Want To Watch The Zelda Movie With Others",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendos-analysis-indicates-you-might-want-to-watch-the-zelda-movie-with-others",
-      "date": "2026-11-10T11:30:00.000Z",
-      "summary": "More is more? The Legend of Zelda movie is fast approaching, scheduled to release on 30th April 2027 (we could really do with a trailer soon, Nintendo). A such, we felt it only right to relay a new qu",
-      "source": "Nintendo Life",
+      "title": "任天堂第一方NS2版M站开分！好评率高达91%",
+      "link": "https://www.gamersky.com/news/202611/2244603.shtml",
+      "date": "2026-11-11T06:44:00.000Z",
+      "summary": "",
+      "source": "游民星空",
       "companies": [
         "nintendo"
       ],
-      "titleZh": "任天堂的分析表明您可能想与其他人一起观看塞尔达电影",
-      "summaryZh": "更多就是更多吗？ 《塞尔达传说》电影即将上映，计划于 2027 年 4 月 30 日上映（任天堂，我们真的可以很快发布预告片）。因此，我们认为转达新的问题是正确的",
       "qualityScore": 3
     },
     {
-      "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo",
-      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
-      "date": "2026-11-10T10:45:00.000Z",
-      "summary": "No specific numbers yet, though. Nintendo has released the Q&A translation from its latest financial briefing, with president Shuntaro Furukawa stating that Zelda: Ocarina of Time is \"off to a great s",
-      "source": "Nintendo Life",
+      "title": "《Microsoft Flight Simulator 2024》推出 Halo Pelican，庆祝《Halo》25 周年",
+      "link": "https://news.17173.com/content/11112026/064110271.shtml",
+      "date": "2026-11-11T06:41:10.000Z",
+      "summary": "",
+      "source": "17173",
       "companies": [
-        "nintendo"
+        "xbox"
       ],
-      "titleZh": "任天堂称《塞尔达传说：时之笛》“有了一个良好的开端”",
-      "summaryZh": "不过，目前还没有具体数字。任天堂发布了最新财务简报的问答翻译，总裁古川俊太郎表示《塞尔达传说：时之笛》“取得了巨大成功”",
       "qualityScore": 4
     },
     {
-      "title": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
-      "link": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
-      "date": "2026-11-10T10:00:00.000Z",
-      "summary": "Big news – Warhammer Survivors is out now!  If this is your first time hearing about Warhammer Survivors, buckle in for addictive bullet-heaven survivor gameplay set across the battlefields of the 41s",
+      "title": "索尼中止“搜打撤”游戏《Fairgame$》开发",
+      "link": "https://www.gcores.com/articles/222196",
+      "date": "2026-11-11T04:39:25.000Z",
+      "summary": "索尼互动娱乐于今日宣布，蒙特利尔 Haven 工作室研发的在线服务型射击游戏《Fairgame$ 》正式取消。展望未来，工作室将把重心转向协助 PlayStation 工作室的其他团队，同时探索新的创作机会。 据悉，本次游戏取消不会引发工作室裁员。高管 Sean Decker 与 John Doyle 表示，近期一场数千名玩家参与的测试未达到预期。虽然测试展现了出色的运营准备与社区参与度，但玩家反",
+      "source": "机核",
+      "companies": [
+        "sony"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "Microsoft Flight Simulator 2024 Celebrates Halo’s 25th Anniversary with the Release of the Halo Pelican",
+      "link": "https://news.xbox.com/en-us/2026/11/10/microsoft-flight-simulator-2024-celebrates-halos-25th-anniversary-with-the-release-of-the-halo-pelican/",
+      "date": "2026-11-10T22:00:00.000Z",
+      "summary": "The post Microsoft Flight Simulator 2024 Celebrates Halo’s 25th Anniversary with the Release of the Halo Pelican appeared first on XBOX Wire .",
       "source": "Xbox Wire",
       "companies": [
         "xbox"
       ],
-      "titleZh": "《战锤幸存者》现已推出 XBOX Game Pass！用这些技巧打败忧郁的吉茨",
-      "summaryZh": "重大消息——《战锤幸存者》现已推出！  如果这是您第一次听说《战锤幸存者》，请认真体验以 41 年代战场为背景的令人上瘾的子弹天堂幸存者游戏",
+      "titleZh": "Microsoft Flight Simulator 2024 发布 Halo Pelican 庆祝 Halo 25 周年",
+      "summaryZh": "《Microsoft Flight Simulator 2024》发布 Halo Pelican 庆祝 Halo 25 周年，该帖子首先出现在 XBOX Wire 上。",
       "qualityScore": 4
     },
     {
-      "title": "【会员抽奖】骑上小轮车去送信！《狸狸：胖哒的夏日》今日正式发售",
-      "link": "https://www.gcores.com/articles/222154",
-      "date": "2026-11-10T10:00:00.000Z",
-      "summary": "《狸狸：胖哒的夏日》今日正式发售！这款由京都工作室Denkiworks开发、CRITICAL REFLEX发行的开放世界小轮车送信冒险游戏，现已登陆Steam、Nintendo Switch、Nintendo Switch 2、PlayStation 5、PlayStation 4、XBOX Series X|S、XBOX One及XBOX on PC，Steam国区售价55元，XBOX Game",
-      "source": "机核",
+      "title": "World of Warcraft Forever Hotfix Will Thin Out Overcrowded Zones and Help Faction Balance",
+      "link": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
+      "date": "2026-11-10T21:08:36.000Z",
+      "summary": "World of Warcraft Forever has been incredibly popular, and has gone down as the biggest WoW launch in history. It's little wonder then, that some zones are absolutely packed with players. And, Blizzar",
+      "source": "IGN",
       "companies": [
-        "nintendo"
+        "blizzard"
       ],
+      "titleZh": "《魔兽世界》永久修补程序将减少过度拥挤的区域并有助于派系平衡",
+      "summaryZh": "《魔兽世界：永恒》非常受欢迎，并成为《魔兽世界》历史上规模最大的游戏。那么，有些区域绝对挤满了玩家也就不足为奇了。还有，暴雪",
+      "qualityScore": 4
+    },
+    {
+      "title": "Fairgame$ canceled",
+      "link": "https://www.gematsu.com/2026/11/fairgame-canceled",
+      "date": "2026-11-10T20:58:47.000Z",
+      "summary": "Sony Interactive Entertainment has canceled development subsidiary Haven Interactive Studios’ May 2023-announced multiplayer shooter Fairgame$, &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "Fairgame$ 取消",
+      "summaryZh": "索尼互动娱乐公司取消了子公司 Haven Interactive Studios 于 2023 年 5 月发布的多人射击游戏 Fairgame$ 的开发，……",
       "qualityScore": 5
     },
     {
-      "title": "Switch 2 US sales soar again thanks to The Legend of Zelda effect, as it enjoys its best week of the year so far",
-      "link": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-switch-2-best-week-sales",
-      "date": "2026-11-10T09:25:20.000Z",
-      "summary": "Could a remade Legend of Zelda: Ocarina of Time be exciting enough to revitalise Switch 2 hardware sales? That was the big question. And early sales figures suggest the answer is yes, it can. Read mor",
-      "source": "Eurogamer",
+      "title": "Football Manager 27 Out Now with Game Pass: Discover 5 Unmissable Additions",
+      "link": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/",
+      "date": "2026-11-10T20:00:00.000Z",
+      "summary": "It’s time for you to start making this season’s big calls, with FM27 and FM27 Console out now, including with Game Pass. FM27 delivers greater control over your tactical vision and a deeper football w",
+      "source": "Xbox Wire",
       "companies": [
-        "nintendo"
+        "xbox"
       ],
-      "titleZh": "得益于《塞尔达传说》效应，Switch 2 美国销量再次飙升，创下今年迄今为止最好的一周",
-      "summaryZh": "重制版《塞尔达传说：时之笛》是否足以刺激 Switch 2 硬件销售？这是一个大问题。早期的销售数据表明答案是肯定的，可以。阅读更多",
+      "titleZh": "《足球经理 27》现已推出游戏通行证：发现 5 个不容错过的新增内容",
+      "summaryZh": "现在是您开始做出本赛季重大决定的时候了，FM27 和 FM27 控制台现已推出，包括 Game Pass。 FM27 可以更好地控制您的战术视野和更深层次的足球世界",
+      "qualityScore": 4
+    },
+    {
+      "title": "Someone Got Halo 1 Running on a Sega Dreamcast",
+      "link": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
+      "date": "2026-11-10T19:47:58.000Z",
+      "summary": "A developer has successfully gotten the original Halo: Combat Evolved, a day-one launch title for the original Xbox in 2001, ported and running on the Sega Dreamcast – in both campaign and multiplayer",
+      "source": "IGN",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "有人在 Sega Dreamcast 上运行 Halo 1",
+      "summaryZh": "一位开发者成功获得了原版《光环：战斗进化》，这是 2001 年原版 Xbox 的第一天发布游戏，移植并在 Sega Dreamcast 上运行 - 包括战役和多人游戏",
+      "qualityScore": 5
+    },
+    {
+      "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
+      "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
+      "date": "2026-11-10T19:07:47.000Z",
+      "summary": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determining if a game is a good fit for the company's handheld PC. But while many games might be granted a \"Ve",
+      "source": "GameSpot",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Valve 为您提供更多方法来了解游戏在 Steam Deck 上是否运行良好",
+      "summaryZh": "Valve 的 Steam Deck 验证程序是一种有用的方法，尽管有些缺陷，可以确定游戏是否适合该公司的掌上电脑。但是，尽管许多游戏可能会被授予“Ve",
+      "qualityScore": 4
+    },
+    {
+      "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
+      "link": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/",
+      "date": "2026-11-10T19:03:44.000Z",
+      "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks. On November 8, deve",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界》：《永远》刚刚迎来了发布后的第一个重大变化",
+      "summaryZh": "《魔兽世界：永远》在周末收到了首次发布后的更新，这给了玩家一个充分的理由在即将到来的职业调整的同时多次运行每个地下城。 11月8日，开发",
+      "qualityScore": 4
+    },
+    {
+      "title": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more",
+      "link": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
+      "date": "2026-11-10T18:30:00.000Z",
+      "summary": "Marathon is getting a lot bigger next month. In September, Bungie outlined their plans for the shooter making some big promises, namely the arrival of a PvE mode, and now they've shown off what you ca",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "下个月，《马拉松》将成为一款全新游戏，其中包括 Roguelite PvE 模式、非常光环风格的团队死亡竞赛模式的测试版、充满活力的社交空间等等",
+      "summaryZh": "下个月的马拉松比赛规模将变得更大。 9 月份，Bungie 概述了他们对这款射击游戏的计划，做出了一些重大承诺，即 PvE 模式的到来，现在他们已经展示了你可以做的事情",
+      "qualityScore": 4
+    },
+    {
+      "title": "The Outer Worlds 2 DLC ‘Side Effects Guaranteed’ launches December 2",
+      "link": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2",
+      "date": "2026-11-10T18:17:44.000Z",
+      "summary": "Publisher Xbox Game Studios and developer Obsidian Entertainment will release The Outer Worlds 2 downloadable &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "《天外世界 2》DLC“保证有副作用”将于 12 月 2 日推出",
+      "summaryZh": "发行商 Xbox 游戏工作室和开发商 Obsidian Entertainment 将发布《天外世界 2》下载版……",
+      "qualityScore": 5
+    },
+    {
+      "title": "The Outer Worlds 2’s first DLC arrives December 2",
+      "link": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/",
+      "date": "2026-11-10T18:00:31.000Z",
+      "summary": "The time has come to expand on the experience for The Outer Worlds 2 with the first of a two-part story expansion, Side Effects Guaranteed, arriving on December 2. After a distress signal from a derel",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "《Outer Worlds 2》首个 DLC 将于 12 月 2 日发布",
+      "summaryZh": "是时候扩展《天外世界 2》的体验了，由两部分组成的故事扩展包的第一部分《副作用保证》将于 12 月 2 日推出。",
+      "qualityScore": 5
+    },
+    {
+      "title": "PlayStation Plus Game Catalog and Classics Catalog lineup for November 2026 announced",
+      "link": "https://www.gematsu.com/2026/11/playstation-plus-game-catalog-and-classics-catalog-lineup-for-november-2026-announced",
+      "date": "2026-11-10T16:40:46.000Z",
+      "summary": "Sony Interactive Entertainment has announced the November 2026 Game Catalog lineup for PlayStation Plus Extra &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "2026 年 11 月 PlayStation Plus 游戏目录和经典目录阵容公布",
+      "summaryZh": "索尼互动娱乐公司宣布了 PlayStation Plus Extra 2026 年 11 月游戏目录阵容……",
       "qualityScore": 3
     },
     {
-      "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
-      "link": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
-      "date": "2026-11-10T09:22:50.000Z",
-      "summary": "Nintendo has just pushed out a new update to all Switch and Switch 2 consoles, bringing the firmware on both up to version 23.5.0. The headline change with the new update is support and compatibility ",
+      "title": "PlayStation Plus Game Catalog for November: Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall, Dragon Quest III HD-2D Remake and more",
+      "link": "https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/",
+      "date": "2026-11-10T16:30:03.000Z",
+      "summary": "This month, embark on an inspiring mission of human connection in Death Stranding 2: On the Beach, assemble a one-of-a-kind crew as you explore the open sea in Like a Dragon: Pirate Yakuza in Hawaii, ",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "11 月 PlayStation Plus 游戏目录：《死亡搁浅 2：在海滩上，如龙：夏威夷的海盗如龙》、《原子坠落》、《勇者斗恶龙 III HD-2D 重制版》等",
+      "summaryZh": "本月，在《死亡搁浅 2：海滩》中开始一项鼓舞人心的人际关系任务，在夏威夷的《如龙：海盗如龙》中组建一支独一无二的船员，探索公海，",
+      "qualityScore": 4
+    },
+    {
+      "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "link": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+      "date": "2026-11-10T15:45:00.000Z",
+      "summary": "Grand Theft Auto VI, the most pre-ordered title of all time on the Microsoft Store, launches November 19. Considering the unprecedented demand, we encourage everyone to begin pre-loading as soon as po",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Grand Theft Auto VI 将于 11 月 19 日通过 XBOX Cloud Gaming 登陆 XBOX One 和 XBOX Series X|S",
+      "summaryZh": "Grand Theft Auto VI 是 Microsoft Store 上有史以来预购最多的游戏，将于 11 月 19 日推出。考虑到空前的需求，我们鼓励大家在发布后立即开始预加载。",
+      "qualityScore": 5
+    },
+    {
+      "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+      "link": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+      "date": "2026-11-10T15:41:17.000Z",
+      "summary": "Grand Theft Auto VI is now the most pre-ordered game in the history of PlayStation Store. Given this unprecedented demand, we’ve joined with Rockstar Games to allow players to start pre-loading the ga",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "即日起在 PS5 上预载 Grand Theft Auto VI",
+      "summaryZh": "Grand Theft Auto VI 现在是 PlayStation Store 历史上预订最多的游戏。鉴于这种前所未有的需求，我们与 Rockstar Games 合作，允许玩家开始预加载游戏",
+      "qualityScore": 5
+    },
+    {
+      "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
+      "link": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+      "date": "2026-11-10T14:00:13.000Z",
+      "summary": "Marathon‘s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we’ve got first details on the updated Peri",
+      "source": "PlayStation Blog",
+      "companies": [
+        "sony"
+      ],
+      "titleZh": "马拉松共生更新将于 12 月 8 日推出，添加新的 PvE 和 PvP 模式、武器等",
+      "summaryZh": "Marathon 的 Symbiosis 更新将于 12 月 8 日发布，带来新的 PvE 和 PvP 模式、武器、跑者外壳以及 Tau Ceti IV 上可供探索的扩展区域。今天我们获得了有关更新后的 Peri 的第一个详细信息",
+      "qualityScore": 4
+    },
+    {
+      "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+      "link": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "date": "2026-11-10T13:53:30.000Z",
+      "summary": "Valve has released a new Steam update that adds Steam Deck framerate data to a game's store page, giving potential buyers an indication of how well a game runs on the handheld. Read more",
       "source": "Eurogamer",
       "companies": [
-        "nintendo"
+        "valve"
       ],
-      "titleZh": "Switch 2 和 Switch 主机更新至版本 23.5.0，任天堂悄然重新推出 eShop 礼物",
-      "summaryZh": "任天堂刚刚向所有 Switch 和 Switch 2 游戏机推出了新的更新，将两者的固件更新至 23.5.0 版本。新更新的主要变化是支持和兼容性",
-      "qualityScore": 4
-    },
-    {
-      "title": "Ravenswatch – Nintendo Switch 2 Edition launches December 10 worldwide, December 18 in North America",
-      "link": "https://www.gematsu.com/2026/11/ravenswatch-nintendo-switch-2-edition-launches-december-10-worldwide-december-18-in-north-america",
-      "date": "2026-11-10T09:15:30.000Z",
-      "summary": "Cooperative roguelike action game Ravenswatch – Nintendo Switch 2 Edition will launch on December 18 &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "《Ravenswatch》——Nintendo Switch 2 版将于 12 月 10 日在全球发售，12 月 18 日在北美发售",
-      "summaryZh": "合作类 rogue 动作游戏 Ravenswatch – Nintendo Switch 2 版将于 12 月 18 日推出……",
-      "qualityScore": 5
-    },
-    {
-      "title": "Nintendo Switch and Switch 2 Update Adds Support for eShop Game Gifting, Just in Time for Christmas — but There's a Catch",
-      "link": "https://www.ign.com/articles/nintendo-switch-and-switch-2-update-adds-support-for-eshop-game-gifting-just-in-time-for-christmas-but-theres-a-catch",
-      "date": "2026-11-10T08:47:41.000Z",
-      "summary": "Nintendo has released an update for the Switch and Switch 2 to support gifting eShop products, but there’s a catch.",
-      "source": "IGN",
-      "companies": [
-        "nintendo"
-      ],
-      "titleZh": "Nintendo Switch 和 Switch 2 更新增加了对 eShop 游戏礼物的支持，正好赶上圣诞节 - 但有一个问题",
-      "summaryZh": "任天堂已经发布了 Switch 和 Switch 2 的更新，以支持赠送 eShop 产品，但有一个问题。",
-      "qualityScore": 4
-    },
-    {
-      "title": "动作游戏难度不够直观？这游戏做出了个好点子",
-      "link": "https://www.yystv.cn/p/14609",
-      "date": "2026-11-09T16:00:00.000Z",
-      "summary": "索尼今年4月发售的独占射击大作《沙罗周期》，在不久前的10月19日推出了大型免费更新“天顶”（Zenith）。 我们在之前也介绍和讨论过这款游戏， 芬兰开发商Housemarque用接近3A的成本和规格，挑战制作了一款在当下相当小众的“街机型”动作射击游戏。我个人是挺喜欢这款游戏的，通关了也一直留在PS5上，时不时会搓上一把。 这次的更新主要聚焦在玩法层面，包含全新的Boss Rush模式“霸主模",
-      "source": "游研社",
-      "companies": [
-        "sony"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "办了十年“中国之星”，索尼互娱终于拿真金白银“加注”了",
-      "link": "https://www.yystv.cn/p/14608",
-      "date": "2026-11-09T16:00:00.000Z",
-      "summary": "尽管比往年晚了一些，今年索尼“中国之星计划”的发布会还是在11月3日如期举办。 这是索尼“中国之星计划”展开以来的第十年。 在这样一个关键节点，要说项目迎来了什么样的重大变化，无疑要数索尼用前所未有的力度，用真金白银给这个项目加了注——首先是向入选“中国之星计划”第三期的游戏《绝晓》追加了价值100万美元的项目投资； 《绝晓》 之后更宣布，将对入选第四期 “中国之星”的每一个项目，都进行价值100",
-      "source": "游研社",
-      "companies": [
-        "sony"
-      ],
-      "qualityScore": 5
-    },
-    {
-      "title": "BLG3:1击败T1、终结LPL十三年梦魇，S赛终于要迎来新时代？",
-      "link": "https://www.yystv.cn/p/14610",
-      "date": "2026-11-09T11:35:00.000Z",
-      "summary": "《英雄联盟》S16全球总决赛第二场半决赛，在北京时间今天上午决出赛果。LPL二号种子BLG以3:1战胜世界赛卫冕冠军T1，拿到决赛门票。 BLG 3:1战胜T1晋级S16总决赛 对于BLG乃至整个LPL赛区来说，这场胜利有着相当特殊的历史意义。 在此之前，T1（及前身 SKT）在全球总决赛的BO5对决中面对LPL战队，保持着13战全胜的不败纪录。具体到BLG自身，曾在S13和S14两个赛年的其它比",
-      "source": "游研社",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 5
+      "titleZh": "Steam 现在在浏览游戏时显示平均 Steam Deck 帧速率，但 Valve 表示正在考虑将该功能扩展到其他硬件",
+      "summaryZh": "Valve 发布了新的 Steam 更新，将 Steam Deck 帧速率数据添加到游戏的商店页面，让潜在买家了解游戏在掌上电脑上的运行情况。阅读更多",
+      "qualityScore": 3
     }
   ]
 }
