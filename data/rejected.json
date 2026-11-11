@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:29:27.914Z",
+  "updatedAt": "2026-11-11T12:27:11.494Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -968,6 +968,50 @@
     "https://www.gamersky.com/news/202611/2244134.shtml": {
       "reason": "low-value",
       "at": "2026-11-11T07:29:27.914Z"
+    },
+    "https://news.17173.com/content/11112026/201119031.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://news.17173.com/content/11112026/190959528.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.3dmgame.com/news/202611/3959711.html": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.eurogamer.net/world-of-warcraft-forever-now-playing": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.gamersky.com/news/202611/2244881.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.ign.com/articles/nintendo-switch-2-drops-to-all-time-low-price-of-309-in-early-black-friday-deal": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.gamersky.com/news/202611/2244842.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.gamersky.com/news/202611/2244838.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.ign.com/articles/we-asked-nintendo-of-americas-nate-bihldorff-about-localizing-ocarina-of-times-most-obscure-secrets": {
+      "reason": "low-value",
+      "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://www.tencent.com/index.php/zh-cn/business.html": {
+      "reason": "non-game",
+      "at": "2026-11-11T12:27:11.494Z"
     }
   }
 }
