@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-11T12:27:11.494Z",
+  "updatedAt": "2026-11-12T07:56:39.097Z",
   "items": [
+    {
+      "title": "《疯狂列车》免费更新加入Linux、macOS原生支持及Steam Deck触控！",
+      "link": "https://www.3dmgame.com/news/202611/3959699.html",
+      "date": "2026-11-11T12:26:48.333Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
+      "date": "2026-11-11T12:15:50.000Z",
+      "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain fo",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "魔兽世界：永远的秘密猎人发现了 MMO 中的第一个隐藏宝藏",
+      "summaryZh": "魔兽世界的秘密猎人是一个高贵的群体，他们以多年来在 MMO 中寻找隐藏的小饰品和宝藏而闻名。随着《魔兽世界：永远》的推出，他们发现了一个任务链",
+      "qualityScore": 3
+    },
+    {
+      "title": "PS+二三档阵容官宣！玩家很惊喜：质量太强 索尼良心",
+      "link": "https://www.gamersky.com/news/202611/2244824.shtml",
+      "date": "2026-11-11T09:25:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "sony"
+      ],
+      "qualityScore": 3
+    },
     {
       "title": "《EA Sports足球俱乐部27》1.2.0更新调整攻防AI！修复多模式问题",
       "link": "https://www.3dmgame.com/news/202611/3959661.html",
@@ -4317,39 +4352,91 @@
       "qualityScore": 4
     },
     {
-      "title": "《疯狂列车》免费更新加入Linux、macOS原生支持及Steam Deck触控！",
-      "link": "https://www.3dmgame.com/news/202611/3959699.html",
-      "date": "2026-11-11T12:26:48.333Z",
+      "title": "以爱为炬《第五人格》游戏内公益活动今日开启",
+      "link": "https://news.17173.com/content/11122026/100412889.shtml",
+      "date": "2026-11-12T10:04:12.000Z",
       "summary": "",
-      "source": "3DM游戏网",
+      "source": "17173",
       "companies": [
-        "valve"
+        "netease"
       ],
-      "qualityScore": 4
-    },
-    {
-      "title": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
-      "link": "https://www.eurogamer.net/world-of-warcraft-forever-secret-dawn-walker-sword",
-      "date": "2026-11-11T12:15:50.000Z",
-      "summary": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain fo",
-      "source": "Eurogamer",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "魔兽世界：永远的秘密猎人发现了 MMO 中的第一个隐藏宝藏",
-      "summaryZh": "魔兽世界的秘密猎人是一个高贵的群体，他们以多年来在 MMO 中寻找隐藏的小饰品和宝藏而闻名。随着《魔兽世界：永远》的推出，他们发现了一个任务链",
       "qualityScore": 3
     },
     {
-      "title": "PS+二三档阵容官宣！玩家很惊喜：质量太强 索尼良心",
-      "link": "https://www.gamersky.com/news/202611/2244824.shtml",
-      "date": "2026-11-11T09:25:00.000Z",
+      "title": "《恶魔之魂：重制版》上线索尼官方PC页面！又不独占了？",
+      "link": "https://www.gamersky.com/news/202611/2245421.shtml",
+      "date": "2026-11-12T07:34:00.000Z",
       "summary": "",
       "source": "游民星空",
       "companies": [
         "sony"
       ],
+      "qualityScore": 4
+    },
+    {
+      "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
+      "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures/",
+      "date": "2026-11-11T17:34:01.000Z",
+      "summary": "A September incident that saw hate speech removed from the game's reporting system \"sparked massive controversy in the community.\"",
+      "source": "PC Gamer",
+      "companies": [
+        "netease"
+      ],
+      "titleZh": "漫威对手的创意总监解决了仇恨言论争议，并承诺“我们已经加强了纪律措施”",
+      "summaryZh": "9 月份发生的一起仇恨言论从游戏报告系统中删除的事件“引发了社区的巨大争议”。",
       "qualityScore": 3
+    },
+    {
+      "title": "Honkai Star Rail’s First Playable Aeon Isn’t A Damage God, And That’s A Good Thing",
+      "link": "https://www.gamespot.com/articles/honkai-star-rails-first-playable-aeon-isnt-a-damage-god-and-thats-a-good-thing/",
+      "date": "2026-11-11T16:21:20.000Z",
+      "summary": "The Aeons of Honkai Star Rail have always been far beyond ordinary mortals. They are conceptual deities whose actions have the potential to reshape entire galaxies--so putting one into a player's four",
+      "source": "GameSpot",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "崩坏星轨的第一款可玩的 Aeon 不是伤害之神，这是一件好事",
+      "summaryZh": "崩坏星轨的万古，一直都远远超乎凡人。他们是概念性的神灵，其行为有可能重塑整个星系——因此，将其中一个放入玩家的四个星系中",
+      "qualityScore": 4
+    },
+    {
+      "title": "How Honkai Star Rail Took Inspiration From Sports Cars For Something Unexpected",
+      "link": "https://www.gamespot.com/articles/how-honkai-star-rail-took-inspiration-from-sports-cars-for-something-unexpected/",
+      "date": "2026-11-11T16:10:35.000Z",
+      "summary": "Turn-based RPGs can face difficulties during the design process when figuring out how to convey physical momentum. In an environment where actions are decided by button taps and menus rather than real",
+      "source": "GameSpot",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "崩坏星轨如何从跑车中汲取灵感，创造出意想不到的东西",
+      "summaryZh": "回合制角色扮演游戏在设计过程中可能会面临如何传达物理动量的困难。在操作由按钮点击和菜单而不是实际操作决定的环境中",
+      "qualityScore": 4
+    },
+    {
+      "title": "How Luma Island Was Built For Everyone on XBOX Series X|S",
+      "link": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
+      "date": "2026-11-11T16:00:00.000Z",
+      "summary": "Hello, XBOX community! We’re Feel Free Games, an independent videogame development team based in the Netherlands. We’d like to introduce you to Luma Island, our debut title, launched on PC in 2024. Re",
+      "source": "Xbox Wire",
+      "companies": [
+        "xbox"
+      ],
+      "titleZh": "Luma Island 是如何为 XBOX Series X|S 上的每个人打造的",
+      "summaryZh": "你好，XBOX 社区！我们是 Feel Free Games，是一家位于荷兰的独立视频游戏开发团队。我们想向您介绍 Luma Island，这是我们的首个游戏，于 2024 年在 PC 上推出。",
+      "qualityScore": 3
+    },
+    {
+      "title": "Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6'",
+      "link": "https://www.pcgamer.com/games/fps/overwatch-is-adding-6v6-role-queue-to-its-competitive-play-weve-realised-that-there-doesnt-have-to-be-a-winner-between-5v5-and-6v6/",
+      "date": "2026-11-11T15:31:58.000Z",
+      "summary": "This town is big enough for the both of us.",
+      "source": "PC Gamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《守望先锋》正在将 6v6 角色队列添加到其竞技游戏中：“我们意识到 5v5 和 6v6 之间不一定有赢家”",
+      "summaryZh": "这个小镇对于我们两个人来说足够大了。",
+      "qualityScore": 5
     }
   ]
 }

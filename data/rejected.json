@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:27:11.494Z",
+  "updatedAt": "2026-11-12T07:56:39.097Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1012,6 +1012,42 @@
     "https://www.tencent.com/index.php/zh-cn/business.html": {
       "reason": "non-game",
       "at": "2026-11-11T12:27:11.494Z"
+    },
+    "https://news.17173.com/content/11122026/080744231.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.gamersky.com/news/202611/2245032.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck": {
+      "reason": "non-game",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/11/answer-the-call-this-veterans-day/": {
+      "reason": "non-game",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.gamespot.com/videos/this-game-is-stealing-all-my-free-time/": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.nintendolife.com/features/opinion-a-pokemon-rave-just-might-have-been-the-strangest-night-of-my-life": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
+    },
+    "https://www.gamersky.com/news/202611/2244594.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-12T07:56:39.097Z"
     }
   }
 }
