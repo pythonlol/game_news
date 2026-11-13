@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:35:17.528Z",
+  "updatedAt": "2026-11-13T12:52:43.754Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1204,6 +1204,54 @@
     "https://www.gamersky.com/news/202611/2244955.shtml": {
       "reason": "low-value",
       "at": "2026-11-13T07:35:17.528Z"
+    },
+    "https://news.17173.com/content/11132026/191231238.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960045.html": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.gamersky.com/news/202611/2246321.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.gamersky.com/news/202611/2246251.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.gamersky.com/news/202611/2246209.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.gamespot.com/articles/this-happy-ending-for-two-games-with-identical-names-was-a-headache-for-nintendo/": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-giving-away-free-in-game-pokopia-furniture-and-its-adorable": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
+    },
+    "https://www.honorofkings.com/zh-CN/index.html": {
+      "reason": "low-value",
+      "at": "2026-11-13T12:52:43.754Z"
     }
   }
 }
