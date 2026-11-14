@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-11-14T07:19:34.704Z",
+  "updatedAt": "2026-11-14T11:57:03.574Z",
   "items": [
+    {
+      "title": "Riot研究调整2027年《英雄联盟》全球总决赛入围赛",
+      "link": "https://www.3dmgame.com/news/202611/3960093.html",
+      "date": "2026-11-14T07:18:58.740Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "《英雄联盟》2027年First Stand移师中国，参赛规模将创纪录",
+      "link": "https://www.3dmgame.com/news/202611/3960084.html",
+      "date": "2026-11-14T07:18:58.740Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "《英雄联盟》要迎来新时代？曝S16决赛将有重磅官宣",
+      "link": "https://www.gamersky.com/news/202611/2246435.shtml",
+      "date": "2026-11-14T06:23:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "《全境封锁：中心区域》评测",
+      "link": "https://news.17173.com/content/11142026/060956999.shtml",
+      "date": "2026-11-14T06:09:56.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "ubisoft"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
+      "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
+      "date": "2026-11-13T21:02:34.000Z",
+      "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big co",
+      "source": "GameSpot",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "EA 以 550 亿美元私有化后，GTA 6 所有者 Take-Two 无意出售自己",
+      "summaryZh": "最近，游戏巨头艺电 (Electronic Arts) 以 550 亿美元的价格出售给沙特阿拉伯公共投资基金牵头的投资者财团，实现私有化。 GTA 6 所有者 Take-Two 会成为下一个大公司吗",
+      "qualityScore": 5
+    },
     {
       "title": "Gen.G签下Ray，完成无畏契约阵容组建",
       "link": "https://news.17173.com/content/11132026/194643176.shtml",
@@ -11,6 +68,32 @@
         "tencent"
       ],
       "qualityScore": 4
+    },
+    {
+      "title": "You Can Probably Guess WoW: Forever’s Most Popular Race, Class, And Faction",
+      "link": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
+      "date": "2026-11-13T19:15:27.000Z",
+      "summary": "World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest ver",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "你可能会猜到《魔兽世界》：永远最受欢迎的种族、阶级和派系",
+      "summaryZh": "《魔兽世界：永远》已经上线一周了，现在我们有各种统计数据可供深入研究，因为它们与最新版本中最受欢迎的种族、职业和派系有关",
+      "qualityScore": 3
+    },
+    {
+      "title": "After A Week With WoW: Forever, Classic WoW Feels New Again",
+      "link": "https://www.gamespot.com/articles/after-a-week-with-wow-forever-classic-wow-feels-new-again/",
+      "date": "2026-11-13T17:50:04.000Z",
+      "summary": "It's been just over a week since the record-breaking launch of World of Warcraft: Forever . In that time a handful of players have raced to level 60, but the overwhelming majority are still weeks away",
+      "source": "GameSpot",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界：永远》一周后，经典魔兽世界再次焕然一新",
+      "summaryZh": "距离《魔兽世界：永远》破纪录的发布已经过去一周多了。在那段时间里，少数玩家已经达到了 60 级，但绝大多数玩家还需要几周的时间",
+      "qualityScore": 3
     },
     {
       "title": "凝固的雾《第五人格》“灵光”系列全新时装已上线",
@@ -4733,86 +4816,25 @@
       "qualityScore": 4
     },
     {
-      "title": "Riot研究调整2027年《英雄联盟》全球总决赛入围赛",
-      "link": "https://www.3dmgame.com/news/202611/3960093.html",
-      "date": "2026-11-14T07:18:58.740Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "《英雄联盟》2027年First Stand移师中国，参赛规模将创纪录",
-      "link": "https://www.3dmgame.com/news/202611/3960084.html",
-      "date": "2026-11-14T07:18:58.740Z",
-      "summary": "",
-      "source": "3DM游戏网",
+      "title": "拳头游戏公布《英雄联盟》赛事未来展望",
+      "link": "https://www.gcores.com/articles/222361",
+      "date": "2026-11-14T09:23:19.000Z",
+      "summary": "在2026全球总决赛期间的英雄联盟前瞻发布会上，拳头游戏首次分享了英雄联盟赛事未来发展的最新计划，包括国际赛事规划的更新、全新的赛事举办城市，以及将为2027赛季拉开序幕的特别版全球先锋赛。 从季中冠军赛首次落地西班牙，到全球总决赛横跨日本和韩国两地举办，拳头游戏始终在探索更多可能，把最高水平的英雄联盟竞技盛宴带给世界各地的粉丝。2027年，拳头游戏还将更进一步，带来迄今规模最大的赛事——Firs",
+      "source": "机核",
       "companies": [
         "tencent"
       ],
       "qualityScore": 5
     },
     {
-      "title": "《英雄联盟》要迎来新时代？曝S16决赛将有重磅官宣",
-      "link": "https://www.gamersky.com/news/202611/2246435.shtml",
-      "date": "2026-11-14T06:23:00.000Z",
+      "title": "《英雄联盟》S16决赛BLG赛前Vlog发布！周末大战GEN",
+      "link": "https://www.gamersky.com/news/202611/2246496.shtml",
+      "date": "2026-11-14T08:40:00.000Z",
       "summary": "",
       "source": "游民星空",
       "companies": [
         "tencent"
       ],
-      "qualityScore": 3
-    },
-    {
-      "title": "《全境封锁：中心区域》评测",
-      "link": "https://news.17173.com/content/11142026/060956999.shtml",
-      "date": "2026-11-14T06:09:56.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "ubisoft"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
-      "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
-      "date": "2026-11-13T21:02:34.000Z",
-      "summary": "Recently, the gaming giant Electronic Arts was taken private in a $55 billion sale to an investor consortium led by Saudi Arabia's Public Investment Fund. Could GTA 6 owner Take-Two be the next big co",
-      "source": "GameSpot",
-      "companies": [
-        "ea"
-      ],
-      "titleZh": "EA 以 550 亿美元私有化后，GTA 6 所有者 Take-Two 无意出售自己",
-      "summaryZh": "最近，游戏巨头艺电 (Electronic Arts) 以 550 亿美元的价格出售给沙特阿拉伯公共投资基金牵头的投资者财团，实现私有化。 GTA 6 所有者 Take-Two 会成为下一个大公司吗",
-      "qualityScore": 5
-    },
-    {
-      "title": "You Can Probably Guess WoW: Forever’s Most Popular Race, Class, And Faction",
-      "link": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
-      "date": "2026-11-13T19:15:27.000Z",
-      "summary": "World of Warcraft: Forever has been in the wild for one week, and now we have all kinds of stats to sink our teeth into as they relate to the most popular races, classes, and faction in the latest ver",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "你可能会猜到《魔兽世界》：永远最受欢迎的种族、阶级和派系",
-      "summaryZh": "《魔兽世界：永远》已经上线一周了，现在我们有各种统计数据可供深入研究，因为它们与最新版本中最受欢迎的种族、职业和派系有关",
-      "qualityScore": 3
-    },
-    {
-      "title": "After A Week With WoW: Forever, Classic WoW Feels New Again",
-      "link": "https://www.gamespot.com/articles/after-a-week-with-wow-forever-classic-wow-feels-new-again/",
-      "date": "2026-11-13T17:50:04.000Z",
-      "summary": "It's been just over a week since the record-breaking launch of World of Warcraft: Forever . In that time a handful of players have raced to level 60, but the overwhelming majority are still weeks away",
-      "source": "GameSpot",
-      "companies": [
-        "blizzard"
-      ],
-      "titleZh": "《魔兽世界：永远》一周后，经典魔兽世界再次焕然一新",
-      "summaryZh": "距离《魔兽世界：永远》破纪录的发布已经过去一周多了。在那段时间里，少数玩家已经达到了 60 级，但绝大多数玩家还需要几周的时间",
       "qualityScore": 3
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:19:34.704Z",
+  "updatedAt": "2026-11-14T11:57:03.574Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1324,6 +1324,42 @@
     "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/": {
       "reason": "low-value",
       "at": "2026-11-14T07:19:34.704Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960108.html": {
+      "reason": "non-game",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960100.html": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960099.html": {
+      "reason": "non-game",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.gamersky.com/news/202611/2246461.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.gamersky.com/news/202611/2246443.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.gamersky.com/news/202611/2246419.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.gamersky.com/news/202611/2246401.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/the-series-was-in-dire-straits-kit-and-krysta-recall-zeldas-pre-botw-dark-times": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.yystv.cn/p/14619": {
+      "reason": "low-value",
+      "at": "2026-11-14T11:57:03.574Z"
     }
   }
 }
