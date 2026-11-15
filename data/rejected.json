@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:57:03.574Z",
+  "updatedAt": "2026-11-15T07:30:50.418Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1360,6 +1360,46 @@
     "https://www.yystv.cn/p/14619": {
       "reason": "low-value",
       "at": "2026-11-14T11:57:03.574Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960123.html": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960118.html": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gamersky.com/news/202611/2246678.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gamersky.com/news/202611/2246624.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gcores.com/articles/222316": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gamersky.com/news/202611/2246618.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gamersky.com/news/202611/2246615.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.gamespot.com/articles/super-mario-3d-land-dared-to-embrace-2d-mario-in-a-3d-world/": {
+      "reason": "low-value",
+      "at": "2026-11-15T07:30:50.418Z"
     }
   }
 }
