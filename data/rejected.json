@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:30:50.418Z",
+  "updatedAt": "2026-11-15T12:31:36.707Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1400,6 +1400,38 @@
     "https://www.gamespot.com/articles/super-mario-3d-land-dared-to-embrace-2d-mario-in-a-3d-world/": {
       "reason": "low-value",
       "at": "2026-11-15T07:30:50.418Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960122.html": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.gamersky.com/news/202611/2246751.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.nintendolife.com/features/poll-which-dr-mario-and-puzzle-league-box-art-is-the-best": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.gamersky.com/news/202611/2246666.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/zelda-a-link-between-worlds-listed-as-playable-with-nso-but-lets-not-jump-to-conclusions": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/": {
+      "reason": "low-value",
+      "at": "2026-11-15T12:31:36.707Z"
     }
   }
 }
