@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:37:06.989Z",
+  "updatedAt": "2026-11-16T13:22:39.101Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1448,6 +1448,58 @@
     "https://www.yystv.cn/p/14626": {
       "reason": "low-value",
       "at": "2026-11-16T07:37:06.989Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960251.html": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247523.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247499.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247481.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247440.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247372.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247359.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamersky.com/news/202611/2247357.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.gamespot.com/articles/all-hail-blood-gulch-halos-greatest-multiplayer-map/": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/nintendos-on-the-hunt-for-a-digital-archivist-to-preserve-its-rich-history": {
+      "reason": "low-value",
+      "at": "2026-11-16T13:22:39.101Z"
     }
   }
 }
