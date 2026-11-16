@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T12:31:36.707Z",
+  "updatedAt": "2026-11-16T07:37:06.989Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1432,6 +1432,22 @@
     "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/": {
       "reason": "low-value",
       "at": "2026-11-15T12:31:36.707Z"
+    },
+    "https://news.17173.com/content/11162026/080141975.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T07:37:06.989Z"
+    },
+    "https://news.17173.com/content/11162026/075412075.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-16T07:37:06.989Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/": {
+      "reason": "low-value",
+      "at": "2026-11-16T07:37:06.989Z"
+    },
+    "https://www.yystv.cn/p/14626": {
+      "reason": "low-value",
+      "at": "2026-11-16T07:37:06.989Z"
     }
   }
 }
