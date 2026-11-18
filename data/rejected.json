@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:11:16.889Z",
+  "updatedAt": "2026-11-18T13:40:36.555Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1688,6 +1688,54 @@
     "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild": {
       "reason": "low-value",
       "at": "2026-11-18T08:11:16.889Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960546.html": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960543.html": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960535.html": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.gamersky.com/news/202611/2248946.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.gamersky.com/news/202611/2248725.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/pokemon-champions-is-getting-a-balance-patch-next-month": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/17/carenado-releases-a-microsoft-flight-simulator-marketplace-exclusive-the-do228-200/": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/17/world-of-fallout-expansion/": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.gamersky.com/news/202611/2248808.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/": {
+      "reason": "low-value",
+      "at": "2026-11-18T13:40:36.555Z"
     }
   }
 }
