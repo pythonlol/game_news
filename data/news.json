@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:08:03.248Z",
+  "updatedAt": "2026-11-18T08:11:16.889Z",
   "items": [
     {
       "title": "第五人格IVL：DOU5_Qiu歌剧演员强势三抓，帮助队伍获得胜利！",
@@ -88,6 +88,91 @@
         "netease"
       ],
       "qualityScore": 3
+    },
+    {
+      "title": "《EA SPORTS FC 27》1.2.1热修复上线，仅处理稳定性问题",
+      "link": "https://www.3dmgame.com/news/202611/3960395.html",
+      "date": "2026-11-17T14:07:24.426Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "前《使命召唤》即时服务主管加盟EA 担任《战地》系列总经理",
+      "link": "https://www.3dmgame.com/news/202611/3960397.html",
+      "date": "2026-11-17T14:07:24.425Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "ea"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
+      "date": "2026-11-17T11:30:45.000Z",
+      "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Modder 击败了 Valve，为 Steam 框架添加了 Steam 控制器跟踪",
+      "summaryZh": "“至少在 Valve 发布对 Steam 控制器的官方跟踪支持之前，我会尽力维持这一状态。”",
+      "qualityScore": 4
+    },
+    {
+      "title": "How HoYoverse Is Keeping Petit Planet’s AI NPCs From Harassing Players",
+      "link": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
+      "date": "2026-11-17T10:36:49.000Z",
+      "summary": "As generative AI enters live-service games, conversational NPCs present exciting creative possibilities for those who choose to use them. However, it also presents a serious moderation challenge. In H",
+      "source": "GameSpot",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "HoYoverse 如何防止 Petit Planet 的 AI NPC 骚扰玩家",
+      "summaryZh": "随着生成式 AI 进入实时服务游戏，对话 NPC 为那些选择使用它们的人提供了令人兴奋的创意可能性。然而，它也带来了严峻的节制挑战。在H",
+      "qualityScore": 5
+    },
+    {
+      "title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+      "link": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
+      "date": "2026-11-17T09:57:28.000Z",
+      "summary": "This has ignited some fears within the community of the COD-ification of Battlefield.",
+      "source": "PC Gamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "前《使命召唤》实时服务经理加入 EA，担任《战地》新任总经理",
+      "summaryZh": "这引发了社区内对《战地》COD 化的一些担忧。",
+      "qualityScore": 4
+    },
+    {
+      "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
+      "link": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
+      "date": "2026-11-17T09:51:30.000Z",
+      "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely",
+      "source": "Eurogamer",
+      "companies": [
+        "blizzard"
+      ],
+      "titleZh": "《魔兽世界：永远》的游戏内经济因允许玩家种植数千金币的漏洞而遭到破坏",
+      "summaryZh": "《魔兽世界：永远》遭遇了第一个经济噩梦，地下城农场的漏洞让一些玩家的包里有数千金币，而绝大多数玩家几乎没有钱。",
+      "qualityScore": 4
+    },
+    {
+      "title": "《燕云十六声》官方DLSS 5定制驱动现已发布",
+      "link": "https://www.gamersky.com/news/202611/2248157.shtml",
+      "date": "2026-11-17T09:29:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 4
     },
     {
       "title": "停服约8小时完成最后迁移 《全境封锁2》将打通PC与主机",
@@ -5162,88 +5247,64 @@
       "qualityScore": 4
     },
     {
-      "title": "《EA SPORTS FC 27》1.2.1热修复上线，仅处理稳定性问题",
-      "link": "https://www.3dmgame.com/news/202611/3960395.html",
-      "date": "2026-11-17T14:07:24.426Z",
+      "title": "稳中求胜！ACT战队不畏强敌连战连捷——《第五人格》2026IVL秋季赛第七周赛报发布",
+      "link": "https://news.17173.com/content/11182026/095115838.shtml",
+      "date": "2026-11-18T09:51:15.000Z",
       "summary": "",
-      "source": "3DM游戏网",
+      "source": "17173",
       "companies": [
-        "ea"
+        "netease"
       ],
       "qualityScore": 3
     },
     {
-      "title": "前《使命召唤》即时服务主管加盟EA 担任《战地》系列总经理",
-      "link": "https://www.3dmgame.com/news/202611/3960397.html",
-      "date": "2026-11-17T14:07:24.425Z",
+      "title": "刺客与圣殿骑士双线交织 育碧被曝取消刺客信条《Project Stella》",
+      "link": "https://www.3dmgame.com/news/202611/3960506.html",
+      "date": "2026-11-18T08:10:35.180Z",
       "summary": "",
       "source": "3DM游戏网",
       "companies": [
-        "ea"
+        "ubisoft"
       ],
       "qualityScore": 5
     },
     {
-      "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
-      "date": "2026-11-17T11:30:45.000Z",
-      "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
+      "title": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls",
+      "link": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
+      "date": "2026-11-18T03:53:54.000Z",
+      "summary": "Half-Life 2 Resistance Crossbow, that you?",
       "source": "PC Gamer",
       "companies": [
         "valve"
       ],
-      "titleZh": "Modder 击败了 Valve，为 Steam 框架添加了 Steam 控制器跟踪",
-      "summaryZh": "“至少在 Valve 发布对 Steam 控制器的官方跟踪支持之前，我会尽力维持这一状态。”",
+      "titleZh": "暗潮的新修女新手职业获得了一枚神圣的手榴弹和一把可以将敌人钉在墙上的十字弓",
+      "summaryZh": "《半条命 2》抵抗十字弓，是你吗？",
       "qualityScore": 4
     },
     {
-      "title": "How HoYoverse Is Keeping Petit Planet’s AI NPCs From Harassing Players",
-      "link": "https://www.gamespot.com/articles/how-hoyoverse-is-keeping-petit-planets-ai-npcs-from-harassing-players/",
-      "date": "2026-11-17T10:36:49.000Z",
-      "summary": "As generative AI enters live-service games, conversational NPCs present exciting creative possibilities for those who choose to use them. However, it also presents a serious moderation challenge. In H",
-      "source": "GameSpot",
-      "companies": [
-        "mihoyo"
-      ],
-      "titleZh": "HoYoverse 如何防止 Petit Planet 的 AI NPC 骚扰玩家",
-      "summaryZh": "随着生成式 AI 进入实时服务游戏，对话 NPC 为那些选择使用它们的人提供了令人兴奋的创意可能性。然而，它也带来了严峻的节制挑战。在H",
-      "qualityScore": 5
-    },
-    {
-      "title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
-      "link": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield/",
-      "date": "2026-11-17T09:57:28.000Z",
-      "summary": "This has ignited some fears within the community of the COD-ification of Battlefield.",
+      "title": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge",
+      "link": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
+      "date": "2026-11-17T17:46:25.000Z",
+      "summary": "And cubemaps. Which, thank god.",
       "source": "PC Gamer",
       "companies": [
-        "ea"
+        "valve"
       ],
-      "titleZh": "前《使命召唤》实时服务经理加入 EA，担任《战地》新任总经理",
-      "summaryZh": "这引发了社区内对《战地》COD 化的一些担忧。",
+      "titleZh": "Valve 批准的《半条命》重制版《黑山》获得 mondo 更新和 Steam Deck 验证徽章",
+      "summaryZh": "和立方体贴图。哪个，感谢上帝。",
       "qualityScore": 4
     },
     {
-      "title": "World of Warcraft: Forever's in-game economy has been ravaged by an exploit that allowed players to farm thousands of gold",
-      "link": "https://www.eurogamer.net/world-of-warcraft-forever-gold-farm-exploit",
-      "date": "2026-11-17T09:51:30.000Z",
-      "summary": "World of Warcraft: Forever has suffered its first economic nightmare, as a dungeon farm exploit has left some players with thousands of gold in their bags while the vast majority of players are barely",
-      "source": "Eurogamer",
+      "title": "Blizzard drops the hammer on WoW: Forever players who exploited a now-hotfixed grind to rake in thousands of gold",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/",
+      "date": "2026-11-17T11:56:46.000Z",
+      "summary": "Blizzard says \"significant abusers\" of the bug will lose their ill-gotten gains and possibly have their accounts suspended.",
+      "source": "PC Gamer",
       "companies": [
         "blizzard"
       ],
-      "titleZh": "《魔兽世界：永远》的游戏内经济因允许玩家种植数千金币的漏洞而遭到破坏",
-      "summaryZh": "《魔兽世界：永远》遭遇了第一个经济噩梦，地下城农场的漏洞让一些玩家的包里有数千金币，而绝大多数玩家几乎没有钱。",
-      "qualityScore": 4
-    },
-    {
-      "title": "《燕云十六声》官方DLSS 5定制驱动现已发布",
-      "link": "https://www.gamersky.com/news/202611/2248157.shtml",
-      "date": "2026-11-17T09:29:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "netease"
-      ],
+      "titleZh": "暴雪对《魔兽世界》下了锤子：永远的玩家利用现已修复的刷怪方式赚取了数千金币",
+      "summaryZh": "暴雪表示，该漏洞的“严重滥用者”将失去其不义之财，并可能会被暂停其帐户。",
       "qualityScore": 4
     }
   ]
