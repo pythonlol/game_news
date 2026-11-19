@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:40:36.555Z",
+  "updatedAt": "2026-11-19T08:22:26.929Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1736,6 +1736,42 @@
     "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/": {
       "reason": "low-value",
       "at": "2026-11-18T13:40:36.555Z"
+    },
+    "https://www.gamersky.com/news/202611/2249614.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda": {
+      "reason": "non-game",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.ign.com/articles/best-deals-for-november-18-2026": {
+      "reason": "non-game",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated-2": {
+      "reason": "non-game",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/video-need-a-break-between-gta-reviews-watch-us-rave-about-zeldas-switch-2-changes": {
+      "reason": "non-game",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/": {
+      "reason": "low-value",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/act-quick-nintendos-discounted-its-retro-nso-controllers-for-black-friday-europe": {
+      "reason": "low-value",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.gcores.com/articles/222495": {
+      "reason": "low-value",
+      "at": "2026-11-19T08:22:26.929Z"
+    },
+    "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million": {
+      "reason": "low-value",
+      "at": "2026-11-19T08:22:26.929Z"
     }
   }
 }
