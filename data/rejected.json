@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:08:22.426Z",
+  "updatedAt": "2026-11-20T08:02:20.660Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1796,6 +1796,66 @@
     "https://www.gamersky.com/news/202611/2249697.shtml": {
       "reason": "low-value",
       "at": "2026-11-19T14:08:22.426Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960837.html": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960834.html": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.gamersky.com/news/202611/2250275.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.gamersky.com/news/202611/2250087.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.gamersky.com/news/202611/2249969.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.ign.com/articles/best-deals-for-november-19-2026": {
+      "reason": "non-game",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://pc.qq.com/category/c99-1.html": {
+      "reason": "non-game",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help/": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.eurogamer.net/wow-forever-weekly-players-15-years": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
+    },
+    "https://www.gamersky.com/news/202611/2250182.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-20T08:02:20.660Z"
     }
   }
 }

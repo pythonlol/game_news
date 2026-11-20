@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-19T14:08:22.426Z",
+  "updatedAt": "2026-11-20T08:02:20.660Z",
   "items": [
+    {
+      "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
+      "link": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
+      "date": "2026-11-19T13:43:10.000Z",
+      "summary": "The internet of today is a far cry from the days when Grand Theft Auto 5 was released, which is partly why Rockstar didn't bring back its own satirical version of the web in GTA 6 . Read more",
+      "source": "Eurogamer",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "GTA 6 用社交媒体和手机应用程序取代了网站，因为“感觉没有必要”",
+      "summaryZh": "如今的互联网与《侠盗猎车手 5》发布时的时代已经大不相同，这也是 Rockstar 没有在《侠盗猎车手 6》中带回自己的讽刺版网络的部分原因。阅读更多",
+      "qualityScore": 4
+    },
+    {
+      "title": "《砍与售》确认参展WePlay上海！波兰展区C04展位现场可试玩完整版本",
+      "link": "https://www.gcores.com/articles/222547",
+      "date": "2026-11-19T09:18:59.000Z",
+      "summary": "波兰独立游戏开发商 Art Games Studio S.A. 宣布，旗下第一人称动作RPG x 砍杀类Roguelike与商店经营模拟游戏 《砍与售》（Fell & Sell） 将参展于11月21日至22日举行的 WePlay 2026。 <内嵌内容，请前往机核查看> 玩家可前往波兰展区C04展位 体验《砍与售》完整版本，现场将同时提供 PC 与 Steam Deck 试玩。 目前《砍与售》已正",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ],
+      "qualityScore": 4
+    },
     {
       "title": "WoW: Forever is huge: Players have created over 15 million characters so far",
       "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/",
@@ -5344,40 +5368,116 @@
       "qualityScore": 5
     },
     {
-      "title": "Honkai: Star Rail version 4.6 update ‘Dance With the Beast Before Moonrise’ launches September 28",
-      "link": "https://www.gematsu.com/2026/09/honkai-star-rail-version-4-6-update-dance-with-the-beast-before-moonrise-launches-september-28",
-      "date": "2026-09-20T14:15:20.000Z",
-      "summary": "The version 4.6 update for Honkai: Star Rail, dubbed “Dance With the Beast Before Moonrise,” &hellip;",
-      "source": "Gematsu",
+      "title": "《战地6》Steam限时降价67%创发售以来新低",
+      "link": "https://www.3dmgame.com/news/202611/3960824.html",
+      "date": "2026-11-20T08:01:38.492Z",
+      "summary": "",
+      "source": "3DM游戏网",
       "companies": [
-        "mihoyo"
+        "ea"
       ],
-      "titleZh": "《崩坏：星穹铁道》4.6版本更新“月升前与兽共舞”将于9月28日上线。",
-      "summaryZh": "《崩坏：星穹铁道》4.6版本更新，名为“月升前与兽共舞”，……",
+      "qualityScore": 3
+    },
+    {
+      "title": "育碧成立名为 Motherbrain 的生成式 AI 游戏工作室",
+      "link": "https://news.17173.com/content/11202026/070740007.shtml",
+      "date": "2026-11-20T07:07:40.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "ubisoft"
+      ],
       "qualityScore": 5
     },
     {
-      "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
-      "link": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
-      "date": "2026-11-19T13:43:10.000Z",
-      "summary": "The internet of today is a far cry from the days when Grand Theft Auto 5 was released, which is partly why Rockstar didn't bring back its own satirical version of the web in GTA 6 . Read more",
+      "title": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
+      "link": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
+      "date": "2026-11-19T22:34:28.000Z",
+      "summary": "Back when the Steam Machine first came out in June, it was in short supply, due to the limited amount of hardware Valve was able to get its hands on (thanks, RAM crisis). But now, about 5 months after",
+      "source": "IGN",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "您现在无需预订即可购买蒸汽机 - 但供应有限",
+      "summaryZh": "早在 6 月份 Steam Machine 首次推出时，由于 Valve 能够使用的硬件数量有限（感谢 RAM 危机），它的供应量非常有限。但现在，大约5个月后",
+      "qualityScore": 4
+    },
+    {
+      "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+      "link": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+      "date": "2026-11-19T21:34:57.000Z",
+      "summary": "Assassin’s Creed developer Ubisoft has created a new subsidiary called Motherbrain, a studio dedicated specifically to the implementation of generative AI in its games.",
+      "source": "IGN",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "育碧创建名为 Motherbrain 的生成式 AI 游戏工作室",
+      "summaryZh": "《刺客信条》开发商育碧创建了一家名为 Motherbrain 的新子公司，该工作室专门致力于在其游戏中实施生成式人工智能。",
+      "qualityScore": 5
+    },
+    {
+      "title": "Valve may raise Steam Machine prices yet again: 'Memory and storage costs continue to increase at unprecedented levels'",
+      "link": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/",
+      "date": "2026-11-19T21:10:22.000Z",
+      "summary": "The 2TB model will be \"especially constrained\": Valve has closed the waitlist and says it doesn't know how many it will be able to make, or at what price they'll be sold.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "Valve 或将再次提高 Steam 机价格：“内存和存储成本继续以前所未有的水平增长”",
+      "summaryZh": "2TB 型号将“特别受到限制”：Valve 已经关闭了等待名单，并表示不知道能够生产多少，也不知道将以什么价格出售。",
+      "qualityScore": 4
+    },
+    {
+      "title": "Ubisoft says Assassin's Creed Jade is still alive as it merges two of its Creative Houses",
+      "link": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge",
+      "date": "2026-11-19T21:09:40.000Z",
+      "summary": "Ubisoft has confirmed that while Assassin's Creed Jade - its mobile entry in the series - is still in development, its focus remains with console and PC. Read more",
       "source": "Eurogamer",
       "companies": [
         "ubisoft"
       ],
-      "titleZh": "GTA 6 用社交媒体和手机应用程序取代了网站，因为“感觉没有必要”",
-      "summaryZh": "如今的互联网与《侠盗猎车手 5》发布时的时代已经大不相同，这也是 Rockstar 没有在《侠盗猎车手 6》中带回自己的讽刺版网络的部分原因。阅读更多",
+      "titleZh": "育碧表示《刺客信条：翡翠》仍然存在，因为它合并了两个创意公司",
+      "summaryZh": "育碧已确认，虽然《刺客信条：翡翠》（该系列的移动游戏）仍在开发中，但其重点仍然是游戏机和 PC。阅读更多",
       "qualityScore": 4
     },
     {
-      "title": "《砍与售》确认参展WePlay上海！波兰展区C04展位现场可试玩完整版本",
-      "link": "https://www.gcores.com/articles/222547",
-      "date": "2026-11-19T09:18:59.000Z",
-      "summary": "波兰独立游戏开发商 Art Games Studio S.A. 宣布，旗下第一人称动作RPG x 砍杀类Roguelike与商店经营模拟游戏 《砍与售》（Fell & Sell） 将参展于11月21日至22日举行的 WePlay 2026。 <内嵌内容，请前往机核查看> 玩家可前往波兰展区C04展位 体验《砍与售》完整版本，现场将同时提供 PC 与 Steam Deck 试玩。 目前《砍与售》已正",
-      "source": "机核",
+      "title": "More Mass Layoffs At Ubisoft Underway, Affecting Two Of Its Biggest Studios",
+      "link": "https://www.gamespot.com/articles/more-mass-layoffs-at-ubisoft-underway-affecting-two-of-its-biggest-studios/",
+      "date": "2026-11-19T20:15:37.000Z",
+      "summary": "Ubisoft has enacted another round of mass layoffs, affecting 166 additional jobs as the French gaming giant continues its cost-cutting program. The job cuts are happening at two of Ubisoft's biggest d",
+      "source": "GameSpot",
       "companies": [
-        "valve"
+        "ubisoft"
       ],
+      "titleZh": "育碧正在进行更多大规模裁员，影响其最大的两个工作室",
+      "summaryZh": "随着法国游戏巨头育碧继续实施成本削减计划，育碧实施了另一轮大规模裁员，影响了 166 个新增工作岗位。此次裁员发生在育碧最大的两个部门",
+      "qualityScore": 4
+    },
+    {
+      "title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
+      "link": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+      "date": "2026-11-19T18:00:00.000Z",
+      "summary": "GuilleMORE?! Ubisoft has confirmed that it is laying off a total of 166 members of staff from its Canadian offices. The teams affected, Ubisoft Montréal and Ubisoft Québec, are arguably two of the mos",
+      "source": "Nintendo Life",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "育碧正在解雇其最大的两个工作室的员工",
+      "summaryZh": "吉耶更多？！育碧确认将裁减其加拿大办事处的 166 名员工。受影响的团队是 Ubisoft Montréal 和 Ubisoft Québec，可以说是最受关注的两个团队。",
+      "qualityScore": 4
+    },
+    {
+      "title": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
+      "link": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
+      "date": "2026-11-19T17:43:50.000Z",
+      "summary": "Ubisoft has confirmed more layoffs as part of its previously announced operational \"reset\", this time affecting 166 employees at its major Montr&eacute;al and Qu&eacute;bec City studios - the teams re",
+      "source": "Eurogamer",
+      "companies": [
+        "ubisoft"
+      ],
+      "titleZh": "育碧在《刺客信条》和《孤岛惊魂》主要工作室裁员，裁员年仍在继续",
+      "summaryZh": "育碧确认将进行更多裁员，作为其之前宣布的运营“重置”的一部分，这一次影响了其蒙特利尔和魁北克市主要工作室的 166 名员工 - 团队重新调整",
       "qualityScore": 4
     }
   ]
