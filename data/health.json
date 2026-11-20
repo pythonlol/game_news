@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-11-20T08:02:20.660Z",
+  "updatedAt": "2026-11-20T13:50:21.981Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "PlayStation Blog",
       "status": "ok",
@@ -17,12 +12,17 @@
       "count": 20
     },
     {
+      "name": "必应资讯·腾讯",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
     {
-      "name": "必应资讯·网易",
+      "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
@@ -32,7 +32,12 @@
       "count": 10
     },
     {
-      "name": "必应资讯·腾讯",
+      "name": "必应资讯·Xbox",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·网易",
       "status": "ok",
       "count": 10
     },
@@ -42,19 +47,14 @@
       "count": 10
     },
     {
-      "name": "必应资讯·Xbox",
+      "name": "GameSpot",
       "status": "ok",
-      "count": 7
+      "count": 15
     },
     {
       "name": "必应资讯·暴雪",
       "status": "ok",
       "count": 10
-    },
-    {
-      "name": "GameSpot",
-      "status": "ok",
-      "count": 15
     },
     {
       "name": "IGN",
@@ -87,14 +87,14 @@
       "count": 20
     },
     {
+      "name": "游民星空",
+      "status": "ok",
+      "count": 100
+    },
+    {
       "name": "机核",
       "status": "ok",
       "count": 20
-    },
-    {
-      "name": "3DM游戏网",
-      "status": "ok",
-      "count": 36
     },
     {
       "name": "游研社",
@@ -107,9 +107,9 @@
       "count": 25
     },
     {
-      "name": "游民星空",
+      "name": "3DM游戏网",
       "status": "ok",
-      "count": 103
+      "count": 36
     }
   ]
 }
