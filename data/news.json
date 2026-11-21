@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:57:19.149Z",
+  "updatedAt": "2026-11-21T13:14:57.787Z",
   "items": [
     {
       "title": "精怪专线《第五人格》第四十六赛季·精华1今日上线！",
@@ -11,6 +11,19 @@
         "netease"
       ],
       "qualityScore": 3
+    },
+    {
+      "title": "Zenless Zone Zero version 3.4 update ‘The Finality of the Day’ launches December 2",
+      "link": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2",
+      "date": "2026-11-20T13:05:15.000Z",
+      "summary": "The version 3.4 update for Zenless Zone Zero, dubbed “The Finality of the Day,” will &hellip;",
+      "source": "Gematsu",
+      "companies": [
+        "mihoyo"
+      ],
+      "titleZh": "Zenless Zone Zero 版本 3.4 更新“The Finality of the Day”将于 12 月 2 日发布",
+      "summaryZh": "Zenless Zone Zero 的 3.4 版更新被称为“最终结局”，将……",
+      "qualityScore": 5
     },
     {
       "title": "WeGame要有《怪物猎人》了！《怪猎旅人》PC预告公开",
@@ -5478,19 +5491,6 @@
       "companies": [
         "mihoyo"
       ],
-      "qualityScore": 5
-    },
-    {
-      "title": "Zenless Zone Zero version 3.4 update ‘The Finality of the Day’ launches December 2",
-      "link": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2",
-      "date": "2026-11-20T13:05:15.000Z",
-      "summary": "The version 3.4 update for Zenless Zone Zero, dubbed “The Finality of the Day,” will &hellip;",
-      "source": "Gematsu",
-      "companies": [
-        "mihoyo"
-      ],
-      "titleZh": "Zenless Zone Zero 版本 3.4 更新“The Finality of the Day”将于 12 月 2 日发布",
-      "summaryZh": "Zenless Zone Zero 的 3.4 版更新被称为“最终结局”，将……",
       "qualityScore": 5
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:57:19.149Z",
+  "updatedAt": "2026-11-21T13:14:57.787Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1936,6 +1936,30 @@
     "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/": {
       "reason": "low-value",
       "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.gamersky.com/news/202611/2250709.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-21T13:14:57.787Z"
+    },
+    "https://www.gamersky.com/news/202611/2250708.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-21T13:14:57.787Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/zelda-playable-and-electric-ocarinas-will-initially-be-sold-on-an-invite-only-basis-europe": {
+      "reason": "low-value",
+      "at": "2026-11-21T13:14:57.787Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/20/next-week-on-xbox-new-games-for-november-23-to-27/": {
+      "reason": "low-value",
+      "at": "2026-11-21T13:14:57.787Z"
+    },
+    "https://www.yystv.cn/p/14657": {
+      "reason": "low-value",
+      "at": "2026-11-21T13:14:57.787Z"
+    },
+    "https://www.gamersky.com/news/202611/2249737.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-21T13:14:57.787Z"
     }
   }
 }
