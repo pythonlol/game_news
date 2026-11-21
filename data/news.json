@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-20T13:50:21.981Z",
+  "updatedAt": "2026-11-21T07:57:19.149Z",
   "items": [
+    {
+      "title": "精怪专线《第五人格》第四十六赛季·精华1今日上线！",
+      "link": "https://news.17173.com/content/11202026/210326161.shtml",
+      "date": "2026-11-20T21:03:26.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "WeGame要有《怪物猎人》了！《怪猎旅人》PC预告公开",
+      "link": "https://www.gamersky.com/news/202611/2250399.shtml",
+      "date": "2026-11-20T12:01:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 4
+    },
     {
       "title": "《战地6》Steam限时降价67%创发售以来新低",
       "link": "https://www.3dmgame.com/news/202611/3960824.html",
@@ -5459,37 +5481,17 @@
       "qualityScore": 5
     },
     {
-      "title": "回望中国游戏走过的十年：TapTap出品行业纪录片《理想的存档》",
-      "link": "https://www.gcores.com/articles/220040",
-      "date": "2026-09-22T02:51:12.000Z",
-      "summary": "由新华网特别支持、TapTap 出品、 GSENSE 即视打造的行业纪录片《理想的存档》正式上线。过去十年，中国游戏行业经历了移动互联网浪潮，也走过了精品化、工业化与全球化的发展阶段。 越来越多中国游戏走向世界，游戏也成为中国数字文化中不可忽视的一部分。 <内嵌内容，请前往机核查看> 但这十年里，行业如何变化、游戏人如何选择与坚持，仍然缺少一份系统的记录。 大型游戏纪录片《理想的存档》邀请《原神》",
-      "source": "机核",
+      "title": "Zenless Zone Zero version 3.4 update ‘The Finality of the Day’ launches December 2",
+      "link": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2",
+      "date": "2026-11-20T13:05:15.000Z",
+      "summary": "The version 3.4 update for Zenless Zone Zero, dubbed “The Finality of the Day,” will &hellip;",
+      "source": "Gematsu",
       "companies": [
         "mihoyo"
       ],
-      "qualityScore": 4
-    },
-    {
-      "title": "精怪专线《第五人格》第四十六赛季·精华1今日上线！",
-      "link": "https://news.17173.com/content/11202026/210326161.shtml",
-      "date": "2026-11-20T21:03:26.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "netease"
-      ],
-      "qualityScore": 3
-    },
-    {
-      "title": "WeGame要有《怪物猎人》了！《怪猎旅人》PC预告公开",
-      "link": "https://www.gamersky.com/news/202611/2250399.shtml",
-      "date": "2026-11-20T12:01:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 4
+      "titleZh": "Zenless Zone Zero 版本 3.4 更新“The Finality of the Day”将于 12 月 2 日发布",
+      "summaryZh": "Zenless Zone Zero 的 3.4 版更新被称为“最终结局”，将……",
+      "qualityScore": 5
     }
   ]
 }

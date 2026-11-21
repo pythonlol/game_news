@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:50:21.981Z",
+  "updatedAt": "2026-11-21T07:57:19.149Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1892,6 +1892,50 @@
     "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios": {
       "reason": "low-value",
       "at": "2026-11-20T13:50:21.981Z"
+    },
+    "https://www.3dmgame.com/news/202611/3960904.html": {
+      "reason": "low-value",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.gamersky.com/news/202611/2250534.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores": {
+      "reason": "low-value",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.gamersky.com/news/202611/2250464.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://blog.playstation.com/2026/11/20/official-playstation-podcast-episode-553-peak-gaming/": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://blog.playstation.com/2026/11/20/share-of-the-week-texture/": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/pokemon-like-temtems-bullet-heaven-spin-off-arrives-on-switch-next-year": {
+      "reason": "non-game",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027/": {
+      "reason": "low-value",
+      "at": "2026-11-21T07:57:19.149Z"
+    },
+    "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/": {
+      "reason": "low-value",
+      "at": "2026-11-21T07:57:19.149Z"
     }
   }
 }
