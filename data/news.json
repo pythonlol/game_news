@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-22T07:44:30.467Z",
+  "updatedAt": "2026-11-22T13:05:27.080Z",
   "items": [
+    {
+      "title": "《GTA6》PC版移植已悄然推进：40款显卡参与测试，连Steam Deck都能跑?",
+      "link": "https://www.3dmgame.com/news/202611/3960914.html",
+      "date": "2026-11-22T07:44:03.490Z",
+      "summary": "",
+      "source": "3DM游戏网",
+      "companies": [
+        "valve"
+      ],
+      "qualityScore": 5
+    },
+    {
+      "title": "腾讯《怪物猎人：旅人》PC版首次亮相！国内玩家还得等",
+      "link": "https://www.gamersky.com/news/202611/2250819.shtml",
+      "date": "2026-11-22T01:45:00.000Z",
+      "summary": "",
+      "source": "游民星空",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "重返赛场：FULL SENSE签下Crws担任《无畏契约》主教练",
+      "link": "https://news.17173.com/content/11212026/235651377.shtml",
+      "date": "2026-11-21T23:56:51.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "Fluxo与W7M签下qck，完成无畏契约阵容组建",
+      "link": "https://news.17173.com/content/11212026/235641303.shtml",
+      "date": "2026-11-21T23:56:41.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "tencent"
+      ],
+      "qualityScore": 4
+    },
     {
       "title": "精怪专线《第五人格》第四十六赛季·精华1今日上线！",
       "link": "https://news.17173.com/content/11202026/210326161.shtml",
@@ -5481,61 +5525,6 @@
         "mihoyo"
       ],
       "qualityScore": 5
-    },
-    {
-      "title": "米哈游《源初之结》官宣大量情报！不抽卡、首发PC",
-      "link": "https://www.gamersky.com/news/202609/2215922.shtml",
-      "date": "2026-09-23T08:24:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "mihoyo"
-      ],
-      "qualityScore": 5
-    },
-    {
-      "title": "《GTA6》PC版移植已悄然推进：40款显卡参与测试，连Steam Deck都能跑?",
-      "link": "https://www.3dmgame.com/news/202611/3960914.html",
-      "date": "2026-11-22T07:44:03.490Z",
-      "summary": "",
-      "source": "3DM游戏网",
-      "companies": [
-        "valve"
-      ],
-      "qualityScore": 5
-    },
-    {
-      "title": "腾讯《怪物猎人：旅人》PC版首次亮相！国内玩家还得等",
-      "link": "https://www.gamersky.com/news/202611/2250819.shtml",
-      "date": "2026-11-22T01:45:00.000Z",
-      "summary": "",
-      "source": "游民星空",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "重返赛场：FULL SENSE签下Crws担任《无畏契约》主教练",
-      "link": "https://news.17173.com/content/11212026/235651377.shtml",
-      "date": "2026-11-21T23:56:51.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 4
-    },
-    {
-      "title": "Fluxo与W7M签下qck，完成无畏契约阵容组建",
-      "link": "https://news.17173.com/content/11212026/235641303.shtml",
-      "date": "2026-11-21T23:56:41.000Z",
-      "summary": "",
-      "source": "17173",
-      "companies": [
-        "tencent"
-      ],
-      "qualityScore": 4
     }
   ]
 }

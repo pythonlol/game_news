@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:44:30.467Z",
+  "updatedAt": "2026-11-22T13:05:27.080Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -1984,6 +1984,22 @@
     "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-has-turned-me-into-a-big-friendly-golden-retriever-that-says-hello-to-everybody/": {
       "reason": "non-game",
       "at": "2026-11-22T07:44:30.467Z"
+    },
+    "https://www.nintendolife.com/features/poll-which-mario-and-luigi-superstar-saga-box-art-is-the-best": {
+      "reason": "low-value",
+      "at": "2026-11-22T13:05:27.080Z"
+    },
+    "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal": {
+      "reason": "low-value",
+      "at": "2026-11-22T13:05:27.080Z"
+    },
+    "https://www.ign.com/articles/digital-nintendo-switch-and-switch-2-games-are-on-sale-for-black-friday": {
+      "reason": "low-value",
+      "at": "2026-11-22T13:05:27.080Z"
+    },
+    "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs": {
+      "reason": "low-value",
+      "at": "2026-11-22T13:05:27.080Z"
     }
   }
 }
