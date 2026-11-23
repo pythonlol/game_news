@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:05:27.080Z",
+  "updatedAt": "2026-11-23T08:33:10.426Z",
   "items": [
     {
       "title": "《GTA6》PC版移植已悄然推进：40款显卡参与测试，连Steam Deck都能跑?",
@@ -5525,6 +5525,30 @@
         "mihoyo"
       ],
       "qualityScore": 5
+    },
+    {
+      "title": "热点预告：DNF手游85级版本上线！米哈游《崩坏：因缘精灵》开启幸福测试 崩坏：因缘精灵",
+      "link": "https://news.17173.com/content/11232026/083025771.shtml",
+      "date": "2026-11-23T08:30:25.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "mihoyo"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "New Dota 2 patch tries to help games end faster, adds an item that summons super creeps in every lane at once",
+      "link": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/",
+      "date": "2026-11-22T20:09:13.000Z",
+      "summary": "It's awfully reminiscent of ideas you can find in other, more fast-paced MOBAs.",
+      "source": "PC Gamer",
+      "companies": [
+        "valve"
+      ],
+      "titleZh": "新的 Dota 2 补丁试图帮助游戏更快结束，添加了一个可以在每条车道上同时召唤超级小兵的物品",
+      "summaryZh": "这非常让人想起其他快节奏 MOBA 游戏中的想法。",
+      "qualityScore": 4
     }
   ]
 }

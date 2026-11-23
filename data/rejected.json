@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:05:27.080Z",
+  "updatedAt": "2026-11-23T08:33:10.426Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2000,6 +2000,42 @@
     "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs": {
       "reason": "low-value",
       "at": "2026-11-22T13:05:27.080Z"
+    },
+    "https://www.3dmgame.com/news/202611/3961028.html": {
+      "reason": "low-value",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://news.17173.com/content/11232026/083127047.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.gamersky.com/news/202611/2251299.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.gamersky.com/news/202611/2251254.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.gamersky.com/news/202611/2251162.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-cards-are-on-sale-for-black-friday": {
+      "reason": "non-game",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.nintendolife.com/features/a-lost-box-restored-my-faith-in-zeldas-staying-power": {
+      "reason": "non-game",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/mailbox-ocarina-intruders-pikmin-day-too-many-humans-nintendo-life-letters": {
+      "reason": "non-game",
+      "at": "2026-11-23T08:33:10.426Z"
+    },
+    "https://www.gamersky.com/news/202611/2251424.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-23T08:33:10.426Z"
     }
   }
 }
