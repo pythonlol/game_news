@@ -1,11 +1,6 @@
 {
-  "updatedAt": "2026-11-23T15:41:34.327Z",
+  "updatedAt": "2026-11-24T10:40:08.872Z",
   "sources": [
-    {
-      "name": "Xbox Wire",
-      "status": "ok",
-      "count": 10
-    },
     {
       "name": "Steam 官方新闻",
       "status": "ok",
@@ -14,25 +9,20 @@
     {
       "name": "必应资讯·腾讯",
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     {
-      "name": "PlayStation Blog",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·王者荣耀",
-      "status": "ok",
-      "count": 10
-    },
-    {
-      "name": "必应资讯·米哈游",
+      "name": "Xbox Wire",
       "status": "ok",
       "count": 10
     },
     {
       "name": "必应资讯·原神",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "name": "必应资讯·王者荣耀",
       "status": "ok",
       "count": 10
     },
@@ -52,9 +42,9 @@
       "count": 10
     },
     {
-      "name": "IGN",
+      "name": "必应资讯·米哈游",
       "status": "ok",
-      "count": 20
+      "count": 10
     },
     {
       "name": "Eurogamer",
@@ -67,6 +57,11 @@
       "count": 15
     },
     {
+      "name": "PlayStation Blog",
+      "status": "ok",
+      "count": 10
+    },
+    {
       "name": "PC Gamer",
       "status": "ok",
       "count": 50
@@ -77,14 +72,29 @@
       "count": 100
     },
     {
+      "name": "Gematsu",
+      "status": "ok",
+      "count": 20
+    },
+    {
+      "name": "IGN",
+      "status": "ok",
+      "count": 20
+    },
+    {
       "name": "Nintendo Life",
       "status": "ok",
       "count": 20
     },
     {
-      "name": "Gematsu",
+      "name": "游民星空",
       "status": "ok",
-      "count": 20
+      "count": 105
+    },
+    {
+      "name": "17173",
+      "status": "ok",
+      "count": 25
     },
     {
       "name": "机核",
@@ -97,19 +107,9 @@
       "count": 12
     },
     {
-      "name": "17173",
-      "status": "ok",
-      "count": 25
-    },
-    {
-      "name": "游民星空",
-      "status": "ok",
-      "count": 106
-    },
-    {
       "name": "3DM游戏网",
       "status": "ok",
-      "count": 36
+      "count": 35
     }
   ]
 }

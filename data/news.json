@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:41:34.327Z",
+  "updatedAt": "2026-11-24T10:40:08.872Z",
   "items": [
     {
       "title": "热点预告：DNF手游85级版本上线！米哈游《崩坏：因缘精灵》开启幸福测试 崩坏：因缘精灵",
@@ -5538,6 +5538,72 @@
         "mihoyo"
       ],
       "qualityScore": 4
+    },
+    {
+      "title": "热血配合！GR求生者精彩OB，四跑制胜——《第五人格》2026IVL秋季赛第八周赛报发布",
+      "link": "https://news.17173.com/content/11242026/115931359.shtml",
+      "date": "2026-11-24T11:59:31.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 4
+    },
+    {
+      "title": "第五人格IVL：ASC双阵营各下一城，快速终结拿下胜果！",
+      "link": "https://news.17173.com/content/11242026/100539761.shtml",
+      "date": "2026-11-24T10:05:39.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "第五人格IVL：无限牵制！成都Wolves_lemon多局首追拿下最佳演绎！",
+      "link": "https://news.17173.com/content/11242026/095210916.shtml",
+      "date": "2026-11-24T09:52:10.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "第五人格IVL： TE_ppei“台球手”精彩拉扯，运营四抓定胜局！ 2026年11月21日，第五",
+      "link": "https://news.17173.com/content/11242026/095153514.shtml",
+      "date": "2026-11-24T09:51:53.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "第五人格IVL： 强势追击！MRC_BaiLu“女王蜂”亮眼操作丝滑四抓！",
+      "link": "https://news.17173.com/content/11242026/095143793.shtml",
+      "date": "2026-11-24T09:51:43.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "第五人格IVL：双向奔赴！北京WBG战队共同发力取得胜利！",
+      "link": "https://news.17173.com/content/11242026/094804257.shtml",
+      "date": "2026-11-24T09:48:04.000Z",
+      "summary": "",
+      "source": "17173",
+      "companies": [
+        "netease"
+      ],
+      "qualityScore": 2
     }
   ]
 }
