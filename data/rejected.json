@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:32:55.920Z",
+  "updatedAt": "2026-11-25T09:30:26.113Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2140,6 +2140,54 @@
     "https://www.gcores.com/radios/222714": {
       "reason": "non-game",
       "at": "2026-11-24T15:32:55.920Z"
+    },
+    "https://www.gamersky.com/news/202611/2253459.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.gamersky.com/news/202611/2253058.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/mario-kart-world-has-been-updated-to-version-1-9-0-here-are-the-full-patch-notes": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.gamespot.com/articles/just-like-gta-6-the-witcher-4-has-a-playstation-deal/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.rockpapershotgun.com/valve-push-on-with-their-steam-improvements-by-revamping-the-community-market-home-page-and-adding-a-watchlist-to-it-so-youre-bookmarks-will-be-a-lot-lighter": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-been-chasing-bugs-and-gold-exploits-over-the-weekend-and-now-it-turns-out-sunder-armor-might-just-not-be-working/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.gamersky.com/news/202611/2252047.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-review/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/19/free-play-days-11-19-2026/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/17/millions-of-butt-slaps-last-pirates/": {
+      "reason": "low-value",
+      "at": "2026-11-25T09:30:26.113Z"
     }
   }
 }
