@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:30:26.113Z",
+  "updatedAt": "2026-11-25T15:18:54.109Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2188,6 +2188,34 @@
     "https://news.xbox.com/en-us/2026/11/17/millions-of-butt-slaps-last-pirates/": {
       "reason": "low-value",
       "at": "2026-11-25T09:30:26.113Z"
+    },
+    "https://www.3dmgame.com/news/202611/3961251.html": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/25/achievements-10-million-gamerscore-interview/": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/maybe-they-hate-me-but-i-love-nintendo-kamiya-shares-his-collaboration-bucket-list": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://www.gamersky.com/news/202611/2253653.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/ho-ho-holy-moly-nintendos-winter-range-is-awesome": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://www.gamersky.com/news/202611/2253540.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-25T15:18:54.109Z"
+    },
+    "https://www.eurogamer.net/blizzard-world-of-warcraft-forever-gold-exploits": {
+      "reason": "low-value",
+      "at": "2026-11-25T15:18:54.109Z"
     }
   }
 }

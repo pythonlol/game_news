@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-25T09:30:26.113Z",
+  "updatedAt": "2026-11-25T15:18:54.109Z",
   "items": [
+    {
+      "title": "Steam大奖现已开放提名，十款名作角逐“名作堂”大奖",
+      "link": "https://www.gcores.com/articles/222739",
+      "date": "2026-11-25T00:45:00.000Z",
+      "summary": "Valve 于今日宣布，2026年 Steam 大奖提名及黑五特卖现已开启。玩家可通过 Steam 主页访问 Steam 大奖提名页面，也可以访问喜爱作品的开发者发布的活动页面，为每个奖项提名一款游戏。 本次不仅有 借鉴自昔日门类的怀旧奖项 ，更有全新的“名作堂”奖，让玩家在 Steam 历届“年度游戏”获奖作品中选出最棒的名作。详情如下： 名作堂奖 历届年度最佳游戏奖获奖作品齐聚一堂，角逐过去 ",
+      "source": "机核",
+      "companies": [
+        "valve"
+      ],
+      "qualityScore": 3
+    },
+    {
+      "title": "Studio founded by former Apex Legends leaders is closing without releasing a game",
+      "link": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/",
+      "date": "2026-11-24T18:46:25.000Z",
+      "summary": "Gravity Well, founded in 2020 as an \"anti-crunch\" game studio, lost its funding earlier this year and wasn't able to find a new backer.",
+      "source": "PC Gamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "由《Apex Legends》前领导人创立的工作室将在未发布游戏的情况下关闭",
+      "summaryZh": "Gravity Well 成立于 2020 年，是一家“反紧缩”游戏工作室，今年早些时候失去了资金，并且无法找到新的支持者。",
+      "qualityScore": 4
+    },
     {
       "title": "热血配合！GR求生者精彩OB，四跑制胜——《第五人格》2026IVL秋季赛第八周赛报发布",
       "link": "https://news.17173.com/content/11242026/115931359.shtml",
@@ -5606,27 +5630,16 @@
       "qualityScore": 4
     },
     {
-      "title": "Steam大奖现已开放提名，十款名作角逐“名作堂”大奖",
-      "link": "https://www.gcores.com/articles/222739",
-      "date": "2026-11-25T00:45:00.000Z",
-      "summary": "Valve 于今日宣布，2026年 Steam 大奖提名及黑五特卖现已开启。玩家可通过 Steam 主页访问 Steam 大奖提名页面，也可以访问喜爱作品的开发者发布的活动页面，为每个奖项提名一款游戏。 本次不仅有 借鉴自昔日门类的怀旧奖项 ，更有全新的“名作堂”奖，让玩家在 Steam 历届“年度游戏”获奖作品中选出最棒的名作。详情如下： 名作堂奖 历届年度最佳游戏奖获奖作品齐聚一堂，角逐过去 ",
-      "source": "机核",
-      "companies": [
-        "valve"
-      ],
-      "qualityScore": 3
-    },
-    {
-      "title": "Studio founded by former Apex Legends leaders is closing without releasing a game",
-      "link": "https://www.pcgamer.com/gaming-industry/studio-founded-by-former-apex-legends-leaders-is-closing-without-releasing-a-game/",
-      "date": "2026-11-24T18:46:25.000Z",
-      "summary": "Gravity Well, founded in 2020 as an \"anti-crunch\" game studio, lost its funding earlier this year and wasn't able to find a new backer.",
-      "source": "PC Gamer",
+      "title": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
+      "link": "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave",
+      "date": "2026-11-25T15:12:40.000Z",
+      "summary": "In today's instance of a sentence I never thought I'd write, English football commentator John Motson has followed in the footsteps of Darth Vader . In the latest instance of a game featuring a dead c",
+      "source": "Rock Paper Shotgun",
       "companies": [
         "ea"
       ],
-      "titleZh": "由《Apex Legends》前领导人创立的工作室将在未发布游戏的情况下关闭",
-      "summaryZh": "Gravity Well 成立于 2020 年，是一家“反紧缩”游戏工作室，今年早些时候失去了资金，并且无法找到新的支持者。",
+      "titleZh": "EA Sports FC 27 将在生成式 AI 的帮助下复活约翰·莫特森 (John Motson)，因为显然足球比赛需要有人在坟墓外大喊进球",
+      "summaryZh": "在今天我从未想过要写的句子中，英国足球评论员约翰·莫特森追随了达斯·维德的脚步。在最新的游戏实例中，有一个死c",
       "qualityScore": 4
     }
   ]
