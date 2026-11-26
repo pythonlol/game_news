@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-25T15:18:54.109Z",
+  "updatedAt": "2026-11-26T09:08:29.079Z",
   "items": [
+    {
+      "title": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
+      "link": "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave",
+      "date": "2026-11-25T15:12:40.000Z",
+      "summary": "In today's instance of a sentence I never thought I'd write, English football commentator John Motson has followed in the footsteps of Darth Vader . In the latest instance of a game featuring a dead c",
+      "source": "Rock Paper Shotgun",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "EA Sports FC 27 将在生成式 AI 的帮助下复活约翰·莫特森 (John Motson)，因为显然足球比赛需要有人在坟墓外大喊进球",
+      "summaryZh": "在今天我从未想过要写的句子中，英国足球评论员约翰·莫特森追随了达斯·维德的脚步。在最新的游戏实例中，有一个死c",
+      "qualityScore": 4
+    },
     {
       "title": "Steam大奖现已开放提名，十款名作角逐“名作堂”大奖",
       "link": "https://www.gcores.com/articles/222739",
@@ -5630,16 +5643,40 @@
       "qualityScore": 4
     },
     {
-      "title": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
-      "link": "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave",
-      "date": "2026-11-25T15:12:40.000Z",
-      "summary": "In today's instance of a sentence I never thought I'd write, English football commentator John Motson has followed in the footsteps of Darth Vader . In the latest instance of a game featuring a dead c",
-      "source": "Rock Paper Shotgun",
+      "title": "Steam周销量排行榜:《EA SPORTS FC 27》登顶|2026年11月第3周",
+      "link": "https://www.gcores.com/articles/222747",
+      "date": "2026-11-26T00:50:00.000Z",
+      "summary": "V 社于今日公布了2026年11月最新一期的 Steam 全球销量排行榜。一如既往，榜单排除免费游戏常青树，从而带来更好的游戏及硬件选购参考。本周的排行榜中，《EA SPORTS FC 27》强势登顶，《使命召唤：现代战争 4》紧随其后。详情如下： 1.《EA SPORTS FC 27》 <内嵌内容，请前往机核查看> 2.《使命召唤：现代战争 4》 <内嵌内容，请前往机核查看> 3.《Bodyca",
+      "source": "机核",
       "companies": [
         "ea"
       ],
-      "titleZh": "EA Sports FC 27 将在生成式 AI 的帮助下复活约翰·莫特森 (John Motson)，因为显然足球比赛需要有人在坟墓外大喊进球",
-      "summaryZh": "在今天我从未想过要写的句子中，英国足球评论员约翰·莫特森追随了达斯·维德的脚步。在最新的游戏实例中，有一个死c",
+      "qualityScore": 3
+    },
+    {
+      "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'",
+      "link": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "date": "2026-11-25T20:23:51.000Z",
+      "summary": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update.",
+      "source": "PC Gamer",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "已故 BBC 足球解说员用 AI 为 EA Sports FC 复活：家人称这是“感人的致敬”，但一些球迷称其“恶心”和“惨淡”",
+      "summaryZh": "传奇足球专家约翰·莫特森 (John Motson) 将以 AI 形式在今天的 EA FC 27 游戏更新中回归该系列。",
+      "qualityScore": 4
+    },
+    {
+      "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
+      "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
+      "date": "2026-11-25T18:59:56.000Z",
+      "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title. Motson,",
+      "source": "GameSpot",
+      "companies": [
+        "ea"
+      ],
+      "titleZh": "在他去世三年后，EA 正在利用人工智能在 FC 27 中带回一位著名评论员",
+      "summaryZh": "EA Sports FC 27 在该系列历史上首次添加人工智能生成的评论员，英国著名评论员约翰·莫特森 (John Motson) 为足球冠军合成了自己的声音。莫特森,",
       "qualityScore": 4
     }
   ]
