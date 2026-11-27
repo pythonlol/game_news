@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:44:04.977Z",
+  "updatedAt": "2026-11-27T09:25:04.077Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2312,6 +2312,62 @@
     "https://www.yystv.cn/p/14672": {
       "reason": "low-value",
       "at": "2026-11-26T14:44:04.977Z"
+    },
+    "https://www.ign.com/articles/pokemon-tcg-black-friday-deals-2026": {
+      "reason": "non-game",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.ign.com/articles/refurb-nintendo-switch-2-console-deal-black-friday-sale-2026": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.gamersky.com/news/202611/2254678.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.gamersky.com/news/202611/2254539.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.gamersky.com/news/202611/2254450.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.gamespot.com/articles/nearly-three-decades-and-four-consoles-later-i-finally-beat-ocarina-of-time/": {
+      "reason": "non-game",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/": {
+      "reason": "non-game",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week": {
+      "reason": "non-game",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.rockpapershotgun.com/ubisoft-now-require-their-devs-to-explain-why-they-arent-using-genai-in-game-pitches-claims-report-though-the-assassins-creed-publishers-deny-theyre-mandating-it": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/": {
+      "reason": "low-value",
+      "at": "2026-11-27T09:25:04.077Z"
     }
   }
 }
