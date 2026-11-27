@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:25:04.077Z",
+  "updatedAt": "2026-11-27T14:43:24.265Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2368,6 +2368,46 @@
     "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/": {
       "reason": "low-value",
       "at": "2026-11-27T09:25:04.077Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-release-date-speculation-rises-from-gap-in-anime-scheduling": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.eurogamer.net/world-of-warcraft-forever-summon-kicking-warlock-addon": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/doug-bowser-apologises-to-the-haters-of-his-icky-ai-generated-thanksgiving-post": {
+      "reason": "non-game",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.gamersky.com/news/202611/2255135.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.ign.com/articles/nintendo-switch-2-uk-black-friday-deal-aliexpress-update-2026": {
+      "reason": "non-game",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.ign.com/articles/nintendo-switch-2-black-friday-deals-2026": {
+      "reason": "non-game",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
+    },
+    "https://www.gematsu.com/2026/11/rayman-legends-retold-story-trailer": {
+      "reason": "low-value",
+      "at": "2026-11-27T14:43:24.265Z"
     }
   }
 }
