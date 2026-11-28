@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:40:06.845Z",
+  "updatedAt": "2026-11-28T13:54:58.790Z",
   "links": {
     "https://www.3dmgame.com/news/202611/3959481.html": {
       "reason": "non-game",
@@ -2456,6 +2456,46 @@
     "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results": {
       "reason": "non-game",
       "at": "2026-11-28T08:40:06.845Z"
+    },
+    "https://www.3dmgame.com/news/202611/3961538.html": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.3dmgame.com/news/202611/3961535.html": {
+      "reason": "non-game",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.gamersky.com/news/202611/2255484.shtml": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals": {
+      "reason": "non-game",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.ign.com/articles/pokemon-tcg-delta-reign-booster-display-box-black-friday-deal": {
+      "reason": "non-game",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.gamersky.com/news/202611/2255317.shtml": {
+      "reason": "non-game",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.honorofkings.com/zh-Hant/index.html": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
+    },
+    "https://news.xbox.com/en-us/2026/11/24/microsoft-flight-simulator-announces-a-marketplace-exclusive-the-inibuilds-global-jet/": {
+      "reason": "low-value",
+      "at": "2026-11-28T13:54:58.790Z"
     }
   }
 }
